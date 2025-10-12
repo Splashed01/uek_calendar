@@ -2,18 +2,54 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
+DTEND:20251024T183000Z
+LOCATION:link do zajęć
+DTSTART:20251024T144500Z
+SUMMARY:Podstawy ekonomii (Studia podyplomowe)
+UID:8b0ebc4a-69e3-4c96-8341-2721db53a725@8b0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Kędzior
+DTEND:20251206T134500Z
+DTSTART:20251206T074500Z
+SUMMARY:Rachunkowość finansowa (Studia podyplomowe)
+UID:7567e967-48f6-42f2-be39-46456791f9f3@7567.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Konrad Grabiński
+DTEND:20251107T193000Z
+DTSTART:20251107T154500Z
+SUMMARY:Podstawy rachunkowości (Studia podyplomowe)
+UID:5f16e6ca-e8a8-4ee6-966f-dfb303a94eb7@5f16.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Wojciech Prawdzic-Lewandowski
 DTEND:20251220T130000Z
 DTSTART:20251220T074500Z
 SUMMARY:Ordynacja podatkowa (Studia podyplomowe)
-UID:afd01627-4bc2-4c68-b412-830e86dbafaf@afd0.org
+UID:70dd8f5b-fd82-4246-9fa5-4dc9eaeda417@70dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Kędzior
+DTEND:20251122T134500Z
+DTSTART:20251122T074500Z
+SUMMARY:Rachunkowość finansowa (Studia podyplomowe)
+UID:e93990aa-e3c2-43fc-a1e3-bcbb9dfa550c@e939.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Gnela
+DTEND:20260110T113000Z
+DTSTART:20260110T074500Z
+SUMMARY:Elementy prawa cywilnego (Studia podyplomowe)
+UID:8fc9ea87-8358-4053-91ba-186e99de72fc@8fc9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Konrad Grabiński
-DTEND:20251205T193000Z
-DTSTART:20251205T154500Z
+DTEND:20251121T193000Z
+DTSTART:20251121T154500Z
 SUMMARY:Podstawy rachunkowości (Studia podyplomowe)
-UID:3ea12b7e-193c-44d9-a6e4-2b06c1277393@3ea1.org
+UID:c75a889e-6f49-42ed-afdf-6a1f4383a405@c75a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Wojciech Prawdzic-Lewandowski
@@ -21,63 +57,27 @@ DTEND:20251219T193000Z
 LOCATION:link do zajęć
 DTSTART:20251219T154500Z
 SUMMARY:Kontrola podatkowa i celno-skarbowa (Studia podyplomowe)
-UID:e07392e4-11ce-4ba9-aeaa-8cb20902a156@e073.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Konrad Grabiński
-DTEND:20251121T193000Z
-DTSTART:20251121T154500Z
-SUMMARY:Podstawy rachunkowości (Studia podyplomowe)
-UID:abea6347-2497-4a91-8cda-423b81528e10@abea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Barbara Grabińska
-DTEND:20251017T161500Z
-DTSTART:20251017T144500Z
-SUMMARY: (Studia podyplomowe)
-UID:1c15da24-e23a-491f-9d6a-107545be4918@1c15.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Kędzior
-DTEND:20251206T134500Z
-DTSTART:20251206T074500Z
-SUMMARY:Rachunkowość finansowa (Studia podyplomowe)
-UID:1e2793ff-c01a-4858-a2cc-3709182b6823@1e27.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
-DTEND:20251024T183000Z
-LOCATION:link do zajęć
-DTSTART:20251024T144500Z
-SUMMARY:Podstawy ekonomii (Studia podyplomowe)
-UID:bf3a9ff3-7bcb-41f0-95b3-c14e8d482e62@bf3a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Kędzior
-DTEND:20251122T134500Z
-DTSTART:20251122T074500Z
-SUMMARY:Rachunkowość finansowa (Studia podyplomowe)
-UID:b3e88809-ed35-4563-b5bf-9f2e049ff4e3@b3e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Konrad Grabiński
-DTEND:20251107T193000Z
-DTSTART:20251107T154500Z
-SUMMARY:Podstawy rachunkowości (Studia podyplomowe)
-UID:684f6104-fc1a-4720-9bb1-9acbe2a9ec5e@684f.org
+UID:2724a1b7-c41a-4f9e-a7e8-82d542abcf09@2724.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Kędzior
 DTEND:20251108T134500Z
 DTSTART:20251108T074500Z
 SUMMARY:Rachunkowość finansowa (Studia podyplomowe)
-UID:b6e0fb81-aba5-417d-aa7e-8e4cc4039253@b6e0.org
+UID:e08a3d2f-af2d-436d-96a9-3dde9369eef7@e08a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Gnela
-DTEND:20260110T113000Z
-DTSTART:20260110T074500Z
-SUMMARY:Elementy prawa cywilnego (Studia podyplomowe)
-UID:f6fddde4-b39e-443a-be19-8843f3ccb158@f6fd.org
+DESCRIPTION:Instructor: dr Barbara Grabińska
+DTEND:20251017T161500Z
+DTSTART:20251017T144500Z
+SUMMARY: (Studia podyplomowe)
+UID:6cf7d68d-e38f-497b-a6b2-acf97ce310a7@6cf7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Konrad Grabiński
+DTEND:20251205T193000Z
+DTSTART:20251205T154500Z
+SUMMARY:Podstawy rachunkowości (Studia podyplomowe)
+UID:292db82c-f384-4216-b529-03d4512be9b8@292d.org
 END:VEVENT
 END:VCALENDAR
