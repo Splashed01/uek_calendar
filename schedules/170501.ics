@@ -2,92 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
-DTEND:20251114T111500Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251114T103000Z
-SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
-UID:b9f7e16d-46d2-485b-b03a-bca0cb48365a@b9f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dominika Hołuj
-DTEND:20251208T171500Z
-LOCATION:Paw.F 515
-DTSTART:20251208T154500Z
-SUMMARY:Samorząd terytorialny (konwersatorium)
-UID:cc991055-52b4-442c-9d92-9d6e0b67882e@cc99.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Artur Hołuj
-DTEND:20251029T083000Z
-LOCATION:Paw.F 109
-DTSTART:20251029T070000Z
-SUMMARY:Planowanie przestrzenne I (wykład)
-UID:a6ac4ad2-6652-4c84-8d3b-11a31ebf1cc5@a6ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Lipieta
-DTEND:20251008T143000Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20251008T130000Z
-SUMMARY:Statystyka (ćwiczenia)
-UID:96cfaa98-0acf-49f1-a17d-057cd9733f84@96cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dominika Hołuj
-DTEND:20251117T171500Z
-LOCATION:Paw.F 515
-DTSTART:20251117T154500Z
-SUMMARY:Samorząd terytorialny (konwersatorium)
-UID:23627276-d56b-46fd-b878-95a1ef97a015@2362.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
-DTEND:20251121T083000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251121T070000Z
-SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
-UID:310dc36f-8c61-4f7a-b563-eec44388f777@310d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karol Majewski
-DTEND:20260123T153000Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260123T140000Z
-SUMMARY:Fizjografia urbanistyczna (Projekt)
-UID:9efdf452-5197-4775-9965-72882ed942ae@9efd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Lipieta
-DTEND:20260121T134500Z
-LOCATION:Paw.S sala 6
-DTSTART:20260121T130000Z
-SUMMARY:Statystyka (wykład)
-UID:71f67c56-80ce-45ae-be44-7fe8ed33cb41@71f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
-DTEND:20251120T141500Z
-LOCATION:.
-DTSTART:20251120T103000Z
-SUMMARY:Planowanie przestrzenne I (Zajęcia terenowe)
-UID:3b1cf3dd-2f3c-4893-b37a-143045951614@3b1c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
-DTEND:20251212T134500Z
-LOCATION:Paw.F 415
-DTSTART:20251212T121500Z
-SUMMARY:Transport miejski i regionalny (Projekt)
-UID:ded6fce5-6c65-4f66-8c9b-3098761c39c1@ded6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karol Majewski
-DTEND:20251010T143000Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20251010T130000Z
-SUMMARY:Fizjografia urbanistyczna (Projekt)
-UID:4a21f702-8be3-4bcd-9d7f-25bd32080ccf@4a21.org
+DTEND:20251015T073000Z
+DTSTART:20251015T060000Z
+SUMMARY:Planowanie przestrzenne I (Przeniesienie zajęć)
+UID:2fa8a12f-b518-4af8-9f84-81e11c9c6332@2fa8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
@@ -95,747 +14,7 @@ DTEND:20251031T083000Z
 LOCATION:Paw.U sala L(prac.rys. tech.)
 DTSTART:20251031T070000Z
 SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
-UID:af2ad486-ffbc-4cd7-8fae-8a5020557d02@af2a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Hołuj
-DTEND:20260107T083000Z
-LOCATION:Paw.F 109
-DTSTART:20260107T070000Z
-SUMMARY:Planowanie przestrzenne I (wykład)
-UID:5521ec6f-5b77-41b5-9ff9-ce3acadce213@5521.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karol Majewski
-DTEND:20260122T134500Z
-LOCATION:Paw.C sala D
-DTSTART:20260122T130000Z
-SUMMARY:Fizjografia urbanistyczna (wykład do wyboru)
-UID:190eb7c6-73bc-40aa-a2fe-c155c61c1763@190e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
-DTEND:20251219T134500Z
-LOCATION:Paw.F 415
-DTSTART:20251219T121500Z
-SUMMARY:Transport miejski i regionalny (Projekt)
-UID:a16be38b-8b72-4a52-b2d0-c8a8f64dc706@a16b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
-DTEND:20251211T120000Z
-LOCATION:Paw.F 109
-DTSTART:20251211T103000Z
-SUMMARY:Transport miejski i regionalny (wykład do wyboru)
-UID:c2a08532-4870-403b-9f91-1b28188fb69b@c2a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
-DTEND:20251107T111500Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251107T103000Z
-SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
-UID:00a3f54b-6b85-4846-b80f-cedfc52bfeb9@00a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karol Majewski
-DTEND:20260108T134500Z
-LOCATION:Paw.C sala D
-DTSTART:20260108T121500Z
-SUMMARY:Fizjografia urbanistyczna (wykład do wyboru)
-UID:1ac21725-e88d-4e4b-9a9e-9387c381f277@1ac2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dominika Hołuj
-DTEND:20251027T171500Z
-LOCATION:Paw.F 515
-DTSTART:20251027T154500Z
-SUMMARY:Samorząd terytorialny (konwersatorium)
-UID:953847ad-2146-482c-b534-a490a4bf43e4@9538.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karol Majewski
-DTEND:20251212T153000Z
-LOCATION:Paw.B 055 (KSB)
-DTSTART:20251212T140000Z
-SUMMARY:Fizjografia urbanistyczna (Projekt)
-UID:58893820-5457-4b2c-b22a-754c9a7b8985@5889.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
-DTEND:20251219T083000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251219T070000Z
-SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
-UID:ddbf7145-d56e-4ef9-938f-0b88f88db4f7@ddbf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
-DTEND:20251016T073000Z
-LOCATION:Paw.E sala J
-DTSTART:20251016T060000Z
-SUMMARY:Transport miejski i regionalny (wykład do wyboru)
-UID:81318b32-2f8b-46b1-9d98-f23f8fa9c5c1@8131.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
-DTEND:20251205T111500Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251205T103000Z
-SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
-UID:d79febd3-7eda-42cc-a7f7-2fd20609d5ec@d79f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
-DTEND:20251124T153000Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20251124T140000Z
-SUMMARY:Planowanie przestrzenne I (Projekt)
-UID:cc3fd344-3aed-4d50-8461-98e03bd645b7@cc3f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
-DTEND:20251128T134500Z
-LOCATION:Paw.F 415
-DTSTART:20251128T121500Z
-SUMMARY:Transport miejski i regionalny (Projekt)
-UID:028f1502-cfd1-4cf3-afda-1b6f0b2f64fd@028f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
-DTEND:20251212T083000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251212T070000Z
-SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
-UID:80c0dd69-73f9-4953-b425-7f09d841abc4@80c0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Hołuj
-DTEND:20251105T083000Z
-LOCATION:Paw.F 109
-DTSTART:20251105T070000Z
-SUMMARY:Planowanie przestrzenne I (wykład)
-UID:04c57605-fd6b-4ddd-a6ad-004e6cc81821@04c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
-DTEND:20251017T101500Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251017T093000Z
-SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
-UID:ab575426-fed9-4c31-a997-962f8557b326@ab57.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Lipieta
-DTEND:20251001T143000Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20251001T130000Z
-SUMMARY:Statystyka (ćwiczenia)
-UID:37dcc27d-fbae-4560-ab97-4c539594d9f0@37dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
-DTEND:20260116T134500Z
-LOCATION:Paw.F 415
-DTSTART:20260116T121500Z
-SUMMARY:Transport miejski i regionalny (Projekt)
-UID:ad965d80-18a1-48cb-9ea0-4a1e3eec80b6@ad96.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
-DTEND:20251107T083000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251107T070000Z
-SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
-UID:6442d66a-e933-405a-a8e5-e24f4266dece@6442.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Lipieta
-DTEND:20251126T153000Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20251126T140000Z
-SUMMARY:Statystyka (ćwiczenia)
-UID:066a8b43-3056-4305-b36c-f7fa089d6849@066a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dominika Hołuj
-DTEND:20251124T171500Z
-LOCATION:Paw.F 515
-DTSTART:20251124T154500Z
-SUMMARY:Samorząd terytorialny (konwersatorium)
-UID:90036cda-272f-4f99-b717-4517db2b5671@9003.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Lipieta
-DTEND:20251210T134500Z
-LOCATION:Paw.S sala 6
-DTSTART:20251210T121500Z
-SUMMARY:Statystyka (wykład)
-UID:35d90221-25b4-4a85-a1b7-434ffcbef0e1@35d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
-DTEND:20251020T143000Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20251020T130000Z
-SUMMARY:Planowanie przestrzenne I (Projekt)
-UID:4a1eee82-72d5-4bfb-8ba0-9411c8b38e51@4a1e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Hołuj
-DTEND:20251015T073000Z
-LOCATION:Paw.F 109
-DTSTART:20251015T060000Z
-SUMMARY:Planowanie przestrzenne I (wykład)
-UID:4b71d855-753a-452c-bf69-2ec8e863deb4@4b71.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karol Majewski
-DTEND:20251003T143000Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20251003T130000Z
-SUMMARY:Fizjografia urbanistyczna (Projekt)
-UID:7fac2181-6ffd-403b-93ff-25db66b01f07@7fac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
-DTEND:20251205T134500Z
-LOCATION:Paw.F 415
-DTSTART:20251205T121500Z
-SUMMARY:Transport miejski i regionalny (Projekt)
-UID:2679475a-5f6e-4212-9df7-f44bea8245e3@2679.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Hołuj
-DTEND:20251001T073000Z
-LOCATION:Paw.F 109
-DTSTART:20251001T060000Z
-SUMMARY:Planowanie przestrzenne I (wykład)
-UID:baa9b0d5-e3f4-4c24-806a-51ed12ecafc5@baa9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karol Majewski
-DTEND:20251114T153000Z
-LOCATION:Paw.B 055 (KSB)
-DTSTART:20251114T140000Z
-SUMMARY:Fizjografia urbanistyczna (Projekt)
-UID:726ed4f2-2037-4275-9ef1-e4362f208482@726e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Hołuj
-DTEND:20251210T083000Z
-LOCATION:Paw.F 109
-DTSTART:20251210T070000Z
-SUMMARY:Planowanie przestrzenne I (wykład)
-UID:f46b1953-4f54-4805-9086-b6f9affc5600@f46b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Lipieta
-DTEND:20251119T153000Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20251119T140000Z
-SUMMARY:Statystyka (ćwiczenia)
-UID:1620e8fb-26dc-43f4-9378-b7b3daae8e6d@1620.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
-DTEND:20251029T171500Z
-LOCATION:Paw.A 07 lab. Win7\, Office21
-DTSTART:20251029T154500Z
-SUMMARY:Planowanie przestrzenne I (Projekt)
-UID:37ed7cc3-bf9c-43a5-b8e8-17ddaecfbcbc@37ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
-DTEND:20260109T111500Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20260109T103000Z
-SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
-UID:c03d3a45-b81f-45ea-bfc8-05bcb9fc1169@c03d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
-DTEND:20251002T110000Z
-LOCATION:Paw.F 109
-DTSTART:20251002T093000Z
-SUMMARY:Transport miejski i regionalny (wykład do wyboru)
-UID:3ed019e2-5e70-4924-9263-96ce0cb82118@3ed0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
-DTEND:20251127T120000Z
-LOCATION:Paw.F 109
-DTSTART:20251127T103000Z
-SUMMARY:Transport miejski i regionalny (wykład do wyboru)
-UID:8dc7f3f2-ad4c-49e6-b606-ccb492512dcb@8dc7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karol Majewski
-DTEND:20251113T134500Z
-LOCATION:Paw.C sala D
-DTSTART:20251113T121500Z
-SUMMARY:Fizjografia urbanistyczna (wykład do wyboru)
-UID:bdea4f8b-b518-4beb-ab3f-f5c3035e844e@bdea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Lipieta
-DTEND:20251217T153000Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20251217T140000Z
-SUMMARY:Statystyka (ćwiczenia)
-UID:a7ede4f4-07af-44a2-8e76-73a5a718797d@a7ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
-DTEND:20251027T153000Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20251027T140000Z
-SUMMARY:Planowanie przestrzenne I (Projekt)
-UID:72a43f14-6c36-4560-8054-967840350b05@72a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Lipieta
-DTEND:20251015T124500Z
-LOCATION:Paw.S sala 6
-DTSTART:20251015T111500Z
-SUMMARY:Statystyka (wykład)
-UID:da713b25-550f-4393-83fe-e8d47cc16ef6@da71.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dominika Hołuj
-DTEND:20251222T171500Z
-LOCATION:Paw.F 515
-DTSTART:20251222T154500Z
-SUMMARY:Samorząd terytorialny (konwersatorium)
-UID:09883641-3735-45a8-bb91-151fcea06a69@0988.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karol Majewski
-DTEND:20260116T153000Z
-LOCATION:Paw.B 055 (KSB)
-DTSTART:20260116T140000Z
-SUMMARY:Fizjografia urbanistyczna (Projekt)
-UID:b7325260-5336-4022-9bbf-2c0ae7326203@b732.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
-DTEND:20251024T124500Z
-LOCATION:Paw.F 415
-DTSTART:20251024T111500Z
-SUMMARY:Transport miejski i regionalny (Projekt)
-UID:d4f0e5fd-d442-4218-8bae-4b8e8dfba355@d4f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Hołuj
-DTEND:20251203T083000Z
-LOCATION:Paw.F 109
-DTSTART:20251203T070000Z
-SUMMARY:Planowanie przestrzenne I (wykład)
-UID:16c51c85-de53-49fd-ab23-a5f83002a862@16c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
-DTEND:20260123T083000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20260123T070000Z
-SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
-UID:9600410a-7c39-45ee-868b-eddcf1c11e95@9600.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karol Majewski
-DTEND:20260109T153000Z
-LOCATION:Paw.B 055 (KSB)
-DTSTART:20260109T140000Z
-SUMMARY:Fizjografia urbanistyczna (Projekt)
-UID:039ff91d-e55d-4659-92a8-70c7a535d241@039f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Lipieta
-DTEND:20251022T143000Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20251022T130000Z
-SUMMARY:Statystyka (ćwiczenia)
-UID:b59c5737-dd75-4616-b41a-fa25bfd2cc9b@b59c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dominika Hołuj
-DTEND:20251028T083000Z
-LOCATION:Paw.F 415
-DTSTART:20251028T070000Z
-SUMMARY:Samorząd terytorialny (konwersatorium)
-UID:1111f063-187f-4ce8-adfb-7a800a8a08a5@1111.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
-DTEND:20251013T143000Z
-DTSTART:20251013T130000Z
-SUMMARY:Planowanie przestrzenne I (Przeniesienie zajęć)
-UID:39f7b3a1-87ea-457d-8962-617593a0a962@39f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Lipieta
-DTEND:20260114T153000Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20260114T140000Z
-SUMMARY:Statystyka (ćwiczenia)
-UID:41018371-ae3d-4f49-b13d-829af0a9785b@4101.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karol Majewski
-DTEND:20251205T153000Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20251205T140000Z
-SUMMARY:Fizjografia urbanistyczna (Projekt)
-UID:6e342226-e112-467a-8320-8381f877f64a@6e34.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
-DTEND:20251030T120000Z
-LOCATION:Paw.F 109
-DTSTART:20251030T103000Z
-SUMMARY:Transport miejski i regionalny (wykład do wyboru)
-UID:c4af4ba0-8e70-41b0-9c2f-3301fc1ece42@c4af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
-DTEND:20251010T124500Z
-LOCATION:Paw.F 415
-DTSTART:20251010T111500Z
-SUMMARY:Transport miejski i regionalny (Projekt)
-UID:e32bfec6-5bbf-4a06-8394-374abda8c341@e32b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Hołuj
-DTEND:20260121T083000Z
-LOCATION:Paw.F 109
-DTSTART:20260121T070000Z
-SUMMARY:Planowanie przestrzenne I (wykład)
-UID:236904ff-182e-49e7-994b-bcff87caee81@2369.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
-DTEND:20251212T111500Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251212T103000Z
-SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
-UID:b2a711e6-df87-446e-a14c-59ef6056ba0d@b2a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
-DTEND:20251208T153000Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20251208T140000Z
-SUMMARY:Planowanie przestrzenne I (Projekt)
-UID:b2a4c46f-e486-4d31-bcaf-d844552a8078@b2a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Hołuj
-DTEND:20251217T083000Z
-LOCATION:Paw.F 109
-DTSTART:20251217T070000Z
-SUMMARY:Planowanie przestrzenne I (wykład)
-UID:fe49ad3e-a6a4-4300-8405-3282f7501c22@fe49.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
-DTEND:20251003T073000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251003T060000Z
-SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
-UID:d7da1f7d-9208-4912-a1b0-4412ca0782ef@d7da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
-DTEND:20251128T083000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251128T070000Z
-SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
-UID:db8dd261-8665-4f74-88e5-0b3919091a5b@db8d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251217T134500Z
-DTSTART:20251217T121500Z
-SUMMARY: (rezerwacja)
-UID:45162111-9924-434e-9a12-10c04d4505cf@4516.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
-DTEND:20260116T083000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20260116T070000Z
-SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
-UID:71a66bd1-28bf-4ec3-a63b-f6ed04a4be02@71a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
-DTEND:20251121T111500Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251121T103000Z
-SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
-UID:7a27f7df-ab44-465e-aeb2-ba68b27e4d95@7a27.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dominika Hołuj
-DTEND:20260119T171500Z
-LOCATION:Paw.F 515
-DTSTART:20260119T154500Z
-SUMMARY:Samorząd terytorialny (konwersatorium)
-UID:c3686057-e82d-404f-aaa1-df9ac53c8068@c368.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
-DTEND:20251003T101500Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251003T093000Z
-SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
-UID:150445c9-71bf-4514-b351-0ce860020819@1504.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
-DTEND:20251117T153000Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20251117T140000Z
-SUMMARY:Planowanie przestrzenne I (Projekt)
-UID:9e61cba4-7581-4af7-96e2-ea69ef4bbbde@9e61.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
-DTEND:20251001T101500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251001T093000Z
-SUMMARY:Planowanie przestrzenne I (Projekt)
-UID:64e82fd9-fcdc-45d5-9ca9-ebb80a8eca20@64e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251016T123000Z
-DTSTART:20251016T093000Z
-SUMMARY: (rezerwacja)
-UID:e3b5a04e-c648-4a62-b257-0d235884421f@e3b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Hołuj
-DTEND:20251112T083000Z
-LOCATION:Paw.F 109
-DTSTART:20251112T070000Z
-SUMMARY:Planowanie przestrzenne I (wykład)
-UID:ccab24ba-b05e-4266-93dd-7523b61b2602@ccab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
-DTEND:20260108T120000Z
-LOCATION:Paw.F 109
-DTSTART:20260108T103000Z
-SUMMARY:Transport miejski i regionalny (wykład do wyboru)
-UID:bb4f8e76-0e24-4173-bf16-eb124829d4d1@bb4f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
-DTEND:20251219T111500Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251219T103000Z
-SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
-UID:06678a62-a88c-4ef5-ad6d-907c8c5476dc@0667.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dominika Hołuj
-DTEND:20251103T171500Z
-LOCATION:Paw.F 515
-DTSTART:20251103T154500Z
-SUMMARY:Samorząd terytorialny (konwersatorium)
-UID:8ac36600-2c52-4e51-8314-9838884fa44e@8ac3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Lipieta
-DTEND:20251210T153000Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20251210T140000Z
-SUMMARY:Statystyka (ćwiczenia)
-UID:a45ca2bb-543e-4c4c-aa11-5fb29d78c0ec@a45c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karol Majewski
-DTEND:20251219T153000Z
-LOCATION:Paw.A 013 lab. Win10\, Office21
-DTSTART:20251219T140000Z
-SUMMARY:Fizjografia urbanistyczna (Projekt)
-UID:f3da578f-c9be-4794-9bba-fe5f9c598804@f3da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
-DTEND:20251003T124500Z
-LOCATION:Paw.F 415
-DTSTART:20251003T111500Z
-SUMMARY:Transport miejski i regionalny (Projekt)
-UID:d9f439df-60ba-472f-aa34-2fd900893928@d9f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
-DTEND:20260119T153000Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20260119T140000Z
-SUMMARY:Planowanie przestrzenne I (Projekt)
-UID:903f7d30-bdb4-433c-aeee-29621f376f55@903f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Lipieta
-DTEND:20251001T124500Z
-LOCATION:Paw.S sala 6
-DTSTART:20251001T111500Z
-SUMMARY:Statystyka (wykład)
-UID:a4542d3d-9321-480a-982d-7f8f56106b6f@a454.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
-DTEND:20251031T111500Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251031T103000Z
-SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
-UID:401521a0-5453-44f5-8d88-78db6ddeea84@4015.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karol Majewski
-DTEND:20251031T153000Z
-LOCATION:Paw.A 122 lab. Win10\, Office21
-DTSTART:20251031T140000Z
-SUMMARY:Fizjografia urbanistyczna (Projekt)
-UID:345b761f-fd6d-45bf-8e27-7c8f9f4d6663@345b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Hołuj
-DTEND:20251022T073000Z
-LOCATION:Paw.F 109
-DTSTART:20251022T060000Z
-SUMMARY:Planowanie przestrzenne I (wykład)
-UID:922f663c-e21b-4f90-a6a7-178e9004304c@922f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
-DTEND:20260122T120000Z
-LOCATION:Paw.F 109
-DTSTART:20260122T111500Z
-SUMMARY:Transport miejski i regionalny (wykład do wyboru)
-UID:7835b54a-3d31-4833-ba05-40030a79f6db@7835.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Hołuj
-DTEND:20251008T073000Z
-LOCATION:Paw.F 109
-DTSTART:20251008T060000Z
-SUMMARY:Planowanie przestrzenne I (wykład)
-UID:5e5facd7-a8d6-4384-903e-e8e74ceadf5c@5e5f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Lipieta
-DTEND:20260107T153000Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20260107T140000Z
-SUMMARY:Statystyka (ćwiczenia)
-UID:121a1481-826c-4673-993e-c7a0136837ba@121a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karol Majewski
-DTEND:20251211T134500Z
-LOCATION:Paw.C sala D
-DTSTART:20251211T121500Z
-SUMMARY:Fizjografia urbanistyczna (wykład do wyboru)
-UID:e2ac5f32-2c10-4bcc-b433-00e758517ae4@e2ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
-DTEND:20260123T134500Z
-LOCATION:Paw.F 415
-DTSTART:20260123T121500Z
-SUMMARY:Transport miejski i regionalny (Projekt)
-UID:cfe8cfee-afeb-439f-ab1e-9a3d7d0de853@cfe8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dominika Hołuj
-DTEND:20251020T161500Z
-DTSTART:20251020T144500Z
-SUMMARY:Samorząd terytorialny (Przeniesienie zajęć)
-UID:d1444271-e93e-4470-a534-14d9c0589d98@d144.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
-DTEND:20260123T111500Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20260123T103000Z
-SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
-UID:19e91013-678a-4996-ad53-7354606028c3@19e9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Lipieta
-DTEND:20251015T143000Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20251015T130000Z
-SUMMARY:Statystyka (ćwiczenia)
-UID:f3303cbd-8d0c-4f84-ac0f-cb0258a9bc98@f330.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karol Majewski
-DTEND:20251127T134500Z
-LOCATION:Paw.C sala D
-DTSTART:20251127T121500Z
-SUMMARY:Fizjografia urbanistyczna (wykład do wyboru)
-UID:d5ab714b-3911-4fa0-a8de-066955a8ce17@d5ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
-DTEND:20251024T073000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251024T060000Z
-SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
-UID:e801a033-cf71-49eb-aa83-590c9262a81c@e801.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
-DTEND:20251010T073000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251010T060000Z
-SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
-UID:168e41c6-b5e5-439f-9f37-dbacce667139@168e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dominika Hołuj
-DTEND:20251201T171500Z
-LOCATION:Paw.F 515
-DTSTART:20251201T154500Z
-SUMMARY:Samorząd terytorialny (konwersatorium)
-UID:e434d1a5-8cba-4708-b0f0-1cc6af20be5a@e434.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Lipieta
-DTEND:20251112T134500Z
-LOCATION:Paw.S sala 6
-DTSTART:20251112T121500Z
-SUMMARY:Statystyka (wykład)
-UID:0c02e0fc-35a4-4c52-a624-0a8cffdc5968@0c02.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Lipieta
-DTEND:20251029T134500Z
-LOCATION:Paw.S sala 6
-DTSTART:20251029T121500Z
-SUMMARY:Statystyka (wykład)
-UID:b2b65107-263d-445f-bca7-5fa03e85e146@b2b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
-DTEND:20260109T083000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20260109T070000Z
-SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
-UID:4da16c23-53a0-4ba0-8624-96ed75eabf52@4da1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
-DTEND:20251222T153000Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20251222T140000Z
-SUMMARY:Planowanie przestrzenne I (Projekt)
-UID:bd775490-db98-462e-91a4-15f866b023ef@bd77.org
+UID:4c34138c-b81d-4235-87e6-2cb965a3fcbd@4c34.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
@@ -843,279 +22,7 @@ DTEND:20251010T101500Z
 LOCATION:Paw.U sala L(prac.rys. tech.)
 DTSTART:20251010T093000Z
 SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
-UID:0a42d8e7-534f-44ef-acc8-552edbf06c60@0a42.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
-DTEND:20251024T101500Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251024T093000Z
-SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
-UID:ddf493cc-7fea-496e-8fae-4bbd9c915ece@ddf4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
-DTEND:20251107T134500Z
-LOCATION:Paw.F 415
-DTSTART:20251107T121500Z
-SUMMARY:Transport miejski i regionalny (Projekt)
-UID:6135b09b-194d-4469-96db-358bec7deeb1@6135.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karol Majewski
-DTEND:20251024T143000Z
-LOCATION:Paw.A 122 lab. Win10\, Office21
-DTSTART:20251024T130000Z
-SUMMARY:Fizjografia urbanistyczna (Projekt)
-UID:8fe14e0b-0a9e-4313-bd78-9061b9b7a82a@8fe1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Lipieta
-DTEND:20251105T153000Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20251105T140000Z
-SUMMARY:Statystyka (ćwiczenia)
-UID:3051f2a3-894f-4995-882f-cb3fed1dcb53@3051.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Lipieta
-DTEND:20251126T134500Z
-LOCATION:Paw.S sala 6
-DTSTART:20251126T121500Z
-SUMMARY:Statystyka (wykład)
-UID:11d2fb60-dc59-43e6-96bb-e46762429a1a@11d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karol Majewski
-DTEND:20251128T153000Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20251128T140000Z
-SUMMARY:Fizjografia urbanistyczna (Projekt)
-UID:b4a99f58-fae4-4ace-999c-cd7bddbce612@b4a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
-DTEND:20251114T134500Z
-LOCATION:Paw.F 415
-DTSTART:20251114T121500Z
-SUMMARY:Transport miejski i regionalny (Projekt)
-UID:e80f4192-7f86-4f45-b828-84b5dc6d63e6@e80f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
-DTEND:20260116T111500Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20260116T103000Z
-SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
-UID:0a09d11f-4084-41a2-b5b9-08b88968462e@0a09.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Lipieta
-DTEND:20251203T153000Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20251203T140000Z
-SUMMARY:Statystyka (ćwiczenia)
-UID:800630de-07c5-48c1-a8c0-19a7c9d1435f@8006.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karol Majewski
-DTEND:20251030T134500Z
-LOCATION:Paw.C sala D
-DTSTART:20251030T121500Z
-SUMMARY:Fizjografia urbanistyczna (wykład do wyboru)
-UID:1728a2e6-5f63-4255-812f-66671c801f32@1728.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Lipieta
-DTEND:20260121T153000Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20260121T140000Z
-SUMMARY:Statystyka (ćwiczenia)
-UID:54eb54ea-f0d5-4c70-8e97-9b9d169262e5@54eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
-DTEND:20251128T111500Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251128T103000Z
-SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
-UID:e1f82aea-a0f6-4cb5-80bc-5869717b5101@e1f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Lipieta
-DTEND:20251112T153000Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20251112T140000Z
-SUMMARY:Statystyka (ćwiczenia)
-UID:83e5be07-2562-4643-84f0-21aedd8687b3@83e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
-DTEND:20260109T134500Z
-LOCATION:Paw.F 415
-DTSTART:20260109T121500Z
-SUMMARY:Transport miejski i regionalny (Projekt)
-UID:5cc1e8fa-1777-4fa9-b165-8ff953c692f0@5cc1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Lipieta
-DTEND:20260107T134500Z
-LOCATION:Paw.S sala 6
-DTSTART:20260107T121500Z
-SUMMARY:Statystyka (wykład)
-UID:7222c974-b878-49bd-be17-8ec2d14d89ae@7222.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
-DTEND:20251205T083000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251205T070000Z
-SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
-UID:bda534c6-bad6-4df0-9c33-69fd7dd04bb4@bda5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Hołuj
-DTEND:20260114T083000Z
-LOCATION:Paw.F 109
-DTSTART:20260114T070000Z
-SUMMARY:Planowanie przestrzenne I (wykład)
-UID:887d9815-738f-4713-abb8-befd2abcb1b6@887d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karol Majewski
-DTEND:20251107T153000Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20251107T140000Z
-SUMMARY:Fizjografia urbanistyczna (Projekt)
-UID:d5a2db54-8308-43c3-b879-127982b56c57@d5a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karol Majewski
-DTEND:20251002T124500Z
-LOCATION:Paw.C sala D
-DTSTART:20251002T111500Z
-SUMMARY:Fizjografia urbanistyczna (wykład do wyboru)
-UID:4e8386bd-91aa-4345-b457-b7f36893ba71@4e83.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
-DTEND:20251017T073000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251017T060000Z
-SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
-UID:a20d6870-cc21-42c4-b874-aa87a7dea57b@a20d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
-DTEND:20251103T153000Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20251103T140000Z
-SUMMARY:Planowanie przestrzenne I (Projekt)
-UID:481e4211-bc72-4a74-a47d-a5e37082518e@481e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
-DTEND:20251017T124500Z
-LOCATION:Paw.F 415
-DTSTART:20251017T111500Z
-SUMMARY:Transport miejski i regionalny (Projekt)
-UID:dd54a03d-a5f8-4888-b5aa-ae676bf2c6a0@dd54.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
-DTEND:20251031T134500Z
-LOCATION:Paw.F 415
-DTSTART:20251031T121500Z
-SUMMARY:Transport miejski i regionalny (Projekt)
-UID:8184075f-0cea-44a6-b953-14699a2d72f4@8184.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dominika Hołuj
-DTEND:20251013T161500Z
-LOCATION:Paw.F 515
-DTSTART:20251013T144500Z
-SUMMARY:Samorząd terytorialny (konwersatorium)
-UID:9dc0c86a-2db9-4df7-bd27-aec9a76a8a5c@9dc0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Lipieta
-DTEND:20251029T153000Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20251029T140000Z
-SUMMARY:Statystyka (ćwiczenia)
-UID:449ceabd-7e02-462c-b022-6bf47cfa8b3a@449c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dominika Hołuj
-DTEND:20251007T101500Z
-LOCATION:Paw.F 616
-DTSTART:20251007T093000Z
-SUMMARY:Samorząd terytorialny (konwersatorium)
-UID:62e71345-207a-4c66-8cc9-4ddd45341c54@62e7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Hołuj
-DTEND:20251126T083000Z
-LOCATION:Paw.F 109
-DTSTART:20251126T070000Z
-SUMMARY:Planowanie przestrzenne I (wykład)
-UID:c2339b3b-d6e4-4066-b503-81b13055437a@c233.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karol Majewski
-DTEND:20251015T161500Z
-LOCATION:Paw.C sala A
-DTSTART:20251015T144500Z
-SUMMARY:Fizjografia urbanistyczna (wykład do wyboru)
-UID:c800ae45-fa22-4d7a-82f7-ae75f347aed5@c800.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
-DTEND:20251215T153000Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20251215T140000Z
-SUMMARY:Planowanie przestrzenne I (Projekt)
-UID:d54cafd3-3528-45c2-9479-68dc496467ba@d54c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dominika Hołuj
-DTEND:20260112T171500Z
-LOCATION:Paw.F 515
-DTSTART:20260112T154500Z
-SUMMARY:Samorząd terytorialny (konwersatorium)
-UID:d6c639f3-941a-4696-bd64-2c71198ce75f@d6c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
-DTEND:20251201T153000Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20251201T140000Z
-SUMMARY:Planowanie przestrzenne I (Projekt)
-UID:8aaac28b-c1ba-46c3-89c9-9479739ec8e4@8aaa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
-DTEND:20251113T120000Z
-LOCATION:Paw.F 109
-DTSTART:20251113T103000Z
-SUMMARY:Transport miejski i regionalny (wykład do wyboru)
-UID:546915d5-9339-48da-938c-54d8dca93f43@5469.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dominika Hołuj
-DTEND:20251215T171500Z
-LOCATION:Paw.F 515
-DTSTART:20251215T154500Z
-SUMMARY:Samorząd terytorialny (konwersatorium)
-UID:255e9bb2-c6ec-484f-bdb5-dc072eb1e000@255e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karol Majewski
-DTEND:20251017T143000Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20251017T130000Z
-SUMMARY:Fizjografia urbanistyczna (Projekt)
-UID:28dcc84b-9835-4ea3-b8e2-e703019d826b@28dc.org
+UID:6b9105a9-a720-4d21-8c64-b961d09f01d1@6b91.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
@@ -1123,31 +30,279 @@ DTEND:20251114T083000Z
 LOCATION:Paw.U sala L(prac.rys. tech.)
 DTSTART:20251114T070000Z
 SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
-UID:91e2f092-8912-4f17-9d8e-e970d073948a@91e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karol Majewski
-DTEND:20251121T153000Z
-LOCATION:Paw.A 122 lab. Win10\, Office21
-DTSTART:20251121T140000Z
-SUMMARY:Fizjografia urbanistyczna (Projekt)
-UID:9440f24a-3da2-42d4-a677-4ea32453929a@9440.org
+UID:127a63df-bc3a-42f6-93ee-e4c77c2319b4@127a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Artur Hołuj
-DTEND:20251119T083000Z
+DTEND:20260121T083000Z
 LOCATION:Paw.F 109
-DTSTART:20251119T070000Z
+DTSTART:20260121T070000Z
 SUMMARY:Planowanie przestrzenne I (wykład)
-UID:0158a1d3-852e-4fa7-9042-1a7a4ea10e1c@0158.org
+UID:6483f840-ddb4-4073-9eb0-a8be949d56f2@6483.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
-DTEND:20251121T134500Z
+DTEND:20251030T120000Z
+LOCATION:Paw.F 109
+DTSTART:20251030T103000Z
+SUMMARY:Transport miejski i regionalny (wykład do wyboru)
+UID:296b683c-b6a7-433b-828e-58dd74f7cca7@296b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
+DTEND:20251211T120000Z
+LOCATION:Paw.F 109
+DTSTART:20251211T103000Z
+SUMMARY:Transport miejski i regionalny (wykład do wyboru)
+UID:ee5c7201-4cc5-42e2-a934-a7f877cd3ef5@ee5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20251219T111500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20251219T103000Z
+SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
+UID:9fcae2ff-f2d7-4305-9f49-06d4c291c8b2@9fca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20251103T153000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20251103T140000Z
+SUMMARY:Planowanie przestrzenne I (Projekt)
+UID:0017f3f4-06e1-41ac-8adf-f2d9ad64fec0@0017.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20251208T153000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20251208T140000Z
+SUMMARY:Planowanie przestrzenne I (Projekt)
+UID:1483b54a-9f5a-41ea-80fd-2078ab0b22ee@1483.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Lipieta
+DTEND:20251217T153000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20251217T140000Z
+SUMMARY:Statystyka (ćwiczenia)
+UID:482d2775-abd4-4e0e-8c57-2d00d2638cc6@482d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20251017T073000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20251017T060000Z
+SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
+UID:b9b811fb-51a9-4a04-b5a8-f5c86c8a026c@b9b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20251029T083000Z
+LOCATION:Paw.F 109
+DTSTART:20251029T070000Z
+SUMMARY:Planowanie przestrzenne I (wykład)
+UID:c9dea3ca-9863-4bb9-b711-d7add8332ad3@c9de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karol Majewski
+DTEND:20260122T134500Z
+LOCATION:Paw.C sala D
+DTSTART:20260122T130000Z
+SUMMARY:Fizjografia urbanistyczna (wykład do wyboru)
+UID:e8ce4c3f-9c52-4f37-bc0d-c7eb621125c7@e8ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
+DTEND:20251114T134500Z
 LOCATION:Paw.F 415
-DTSTART:20251121T121500Z
+DTSTART:20251114T121500Z
 SUMMARY:Transport miejski i regionalny (Projekt)
-UID:de49310d-2811-4bb1-8dc7-ade1de0258e4@de49.org
+UID:7ec1705e-759a-4033-a4b5-e070fe87985b@7ec1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20251217T083000Z
+LOCATION:Paw.F 109
+DTSTART:20251217T070000Z
+SUMMARY:Planowanie przestrzenne I (wykład)
+UID:a61bc4f0-2856-4fca-b21c-73b8679ff7df@a61b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20251020T143000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20251020T130000Z
+SUMMARY:Planowanie przestrzenne I (Projekt)
+UID:e5d3b65a-30c3-4445-b7ac-0afa36919aba@e5d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20251007T101500Z
+LOCATION:Paw.F 616
+DTSTART:20251007T093000Z
+SUMMARY:Samorząd terytorialny (konwersatorium)
+UID:cd6c989d-7971-441b-8db6-f2bf27dd08d2@cd6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
+DTEND:20251219T134500Z
+LOCATION:Paw.F 415
+DTSTART:20251219T121500Z
+SUMMARY:Transport miejski i regionalny (Projekt)
+UID:2b4eead7-a843-4cb8-91cc-7e9ea1b40129@2b4e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Lipieta
+DTEND:20251029T134500Z
+LOCATION:Paw.S sala 6
+DTSTART:20251029T121500Z
+SUMMARY:Statystyka (wykład)
+UID:696bc32f-36bd-4c56-8107-c61062b73031@696b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karol Majewski
+DTEND:20251107T153000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20251107T140000Z
+SUMMARY:Fizjografia urbanistyczna (Projekt)
+UID:655f811d-3315-436b-9a80-2d732c440e26@655f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Lipieta
+DTEND:20251112T134500Z
+LOCATION:Paw.S sala 6
+DTSTART:20251112T121500Z
+SUMMARY:Statystyka (wykład)
+UID:09187319-9992-4e05-9d09-cfd868aebca5@0918.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
+DTEND:20251128T134500Z
+LOCATION:Paw.F 415
+DTSTART:20251128T121500Z
+SUMMARY:Transport miejski i regionalny (Projekt)
+UID:a65fd2f5-f03b-4271-820d-02317fe12222@a65f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20251124T171500Z
+LOCATION:Paw.F 515
+DTSTART:20251124T154500Z
+SUMMARY:Samorząd terytorialny (konwersatorium)
+UID:e3db7668-dd1c-4cec-b7ed-afa6ce58cb05@e3db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Lipieta
+DTEND:20251022T143000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20251022T130000Z
+SUMMARY:Statystyka (ćwiczenia)
+UID:1a4f1b81-f8b7-4e66-91b9-a7665820d188@1a4f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20251117T153000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20251117T140000Z
+SUMMARY:Planowanie przestrzenne I (Projekt)
+UID:e8a288ea-9df5-4a46-ab71-9269f13fe799@e8a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Lipieta
+DTEND:20251126T134500Z
+LOCATION:Paw.S sala 6
+DTSTART:20251126T121500Z
+SUMMARY:Statystyka (wykład)
+UID:3749a0df-5e50-47e0-bc59-baeaf14cb05a@3749.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20260119T171500Z
+LOCATION:Paw.F 515
+DTSTART:20260119T154500Z
+SUMMARY:Samorząd terytorialny (konwersatorium)
+UID:f021442c-fe12-4770-8f65-ffe48bbdf700@f021.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Lipieta
+DTEND:20251105T153000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20251105T140000Z
+SUMMARY:Statystyka (ćwiczenia)
+UID:4efb30ef-14b4-471e-8f4b-05a69433698b@4efb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20251103T171500Z
+LOCATION:Paw.F 515
+DTSTART:20251103T154500Z
+SUMMARY:Samorząd terytorialny (konwersatorium)
+UID:ca1614a3-c526-4c74-a3c0-737e231d7fc4@ca16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karol Majewski
+DTEND:20251003T143000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20251003T130000Z
+SUMMARY:Fizjografia urbanistyczna (Projekt)
+UID:1b86c016-b490-49c7-b336-ccfdc46a7d0c@1b86.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
+DTEND:20251002T110000Z
+LOCATION:Paw.F 109
+DTSTART:20251002T093000Z
+SUMMARY:Transport miejski i regionalny (wykład do wyboru)
+UID:40ffecab-2613-4670-8cf3-0a4074aa6687@40ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karol Majewski
+DTEND:20251002T124500Z
+LOCATION:Paw.C sala D
+DTSTART:20251002T111500Z
+SUMMARY:Fizjografia urbanistyczna (wykład do wyboru)
+UID:cffb502c-543a-47ef-9ff0-add5d7438131@cffb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20260112T171500Z
+LOCATION:Paw.F 515
+DTSTART:20260112T154500Z
+SUMMARY:Samorząd terytorialny (konwersatorium)
+UID:55ad85fa-cb83-4708-a51c-953076bbf328@55ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Lipieta
+DTEND:20251210T134500Z
+LOCATION:Paw.S sala 6
+DTSTART:20251210T121500Z
+SUMMARY:Statystyka (wykład)
+UID:ca197d5d-2981-4dca-bd04-c77c72f32369@ca19.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20260123T111500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20260123T103000Z
+SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
+UID:689abe44-c27b-4504-a92b-7c75b16ea436@689a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
+DTEND:20251016T073000Z
+LOCATION:Paw.E sala J
+DTSTART:20251016T060000Z
+SUMMARY:Transport miejski i regionalny (wykład do wyboru)
+UID:7a497b34-df83-40e5-8ef5-edc5450a7c50@7a49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Lipieta
+DTEND:20251001T143000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20251001T130000Z
+SUMMARY:Statystyka (ćwiczenia)
+UID:4567b14b-c2e1-4663-b0e0-2d39ec713542@4567.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
@@ -1155,6 +310,850 @@ DTEND:20260112T153000Z
 LOCATION:Paw.A 201 lab. Win10\, Office21
 DTSTART:20260112T140000Z
 SUMMARY:Planowanie przestrzenne I (Projekt)
-UID:16bc15c7-1f2c-4c9e-a501-7dacee31298a@16bc.org
+UID:e2fa34ab-4403-4d57-9e7f-04147fa5caf5@e2fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
+DTEND:20251017T124500Z
+LOCATION:Paw.F 415
+DTSTART:20251017T111500Z
+SUMMARY:Transport miejski i regionalny (Projekt)
+UID:fde39d6d-bf15-4457-abad-623d44e7f46d@fde3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karol Majewski
+DTEND:20260123T153000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260123T140000Z
+SUMMARY:Fizjografia urbanistyczna (Projekt)
+UID:30c67ae8-f9c4-4562-ac35-33ed64688779@30c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20260109T083000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20260109T070000Z
+SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
+UID:4ae8069e-60cf-4f70-b5bc-6726fd2e7740@4ae8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20260109T111500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20260109T103000Z
+SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
+UID:545a713e-a5fa-4562-9edd-f626b90f8245@545a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20251022T073000Z
+LOCATION:Paw.F 109
+DTSTART:20251022T060000Z
+SUMMARY:Planowanie przestrzenne I (wykład)
+UID:9f629ff4-f2a6-44bc-bac1-766d2c09195b@9f62.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20251124T153000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20251124T140000Z
+SUMMARY:Planowanie przestrzenne I (Projekt)
+UID:af6ffe57-2b88-4777-93db-015fb6a38e95@af6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Lipieta
+DTEND:20251008T143000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20251008T130000Z
+SUMMARY:Statystyka (ćwiczenia)
+UID:aaeb445a-bab7-43cd-80e0-524c236a2aa4@aaeb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20251114T111500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20251114T103000Z
+SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
+UID:bebcde3c-00ef-48ae-8c4e-9a7d7fd14bd9@bebc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20251027T153000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20251027T140000Z
+SUMMARY:Planowanie przestrzenne I (Projekt)
+UID:408c2250-a09d-4363-9107-56782cbaee0f@408c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Lipieta
+DTEND:20251015T124500Z
+LOCATION:Paw.S sala 6
+DTSTART:20251015T111500Z
+SUMMARY:Statystyka (wykład)
+UID:24a731cb-b7f4-47bd-95be-f1a9e10e2a76@24a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20260116T111500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20260116T103000Z
+SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
+UID:f5561887-7037-4082-90c4-82033b9ecd3c@f556.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20251203T083000Z
+LOCATION:Paw.F 109
+DTSTART:20251203T070000Z
+SUMMARY:Planowanie przestrzenne I (wykład)
+UID:7248cafe-e5ad-4068-8229-54dbf44152a6@7248.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20251020T161500Z
+DTSTART:20251020T144500Z
+SUMMARY:Samorząd terytorialny (Przeniesienie zajęć)
+UID:449922b7-9f46-494f-9c41-ba0c2266ec9f@4499.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karol Majewski
+DTEND:20251121T153000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20251121T140000Z
+SUMMARY:Fizjografia urbanistyczna (Projekt)
+UID:313410fc-bb3e-4408-9a60-302de4d0ad7b@3134.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
+DTEND:20260123T134500Z
+LOCATION:Paw.F 415
+DTSTART:20260123T121500Z
+SUMMARY:Transport miejski i regionalny (Projekt)
+UID:dc8b5c2e-9418-4d68-ae47-16e536edc7ce@dc8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karol Majewski
+DTEND:20251211T134500Z
+LOCATION:Paw.C sala D
+DTSTART:20251211T121500Z
+SUMMARY:Fizjografia urbanistyczna (wykład do wyboru)
+UID:2f24f5c8-acf0-4939-ac78-042078ad5ed5@2f24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20251128T083000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20251128T070000Z
+SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
+UID:80d24dec-6272-4a5e-b71b-8896286e3135@80d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Lipieta
+DTEND:20251203T153000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20251203T140000Z
+SUMMARY:Statystyka (ćwiczenia)
+UID:212091b3-d9ed-463d-a4db-0f46ef4495b2@2120.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
+DTEND:20251121T134500Z
+LOCATION:Paw.F 415
+DTSTART:20251121T121500Z
+SUMMARY:Transport miejski i regionalny (Projekt)
+UID:a9396e71-35ac-45aa-a087-a09f9972b871@a939.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20251219T083000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20251219T070000Z
+SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
+UID:c922b653-8438-4898-9a0b-f5237c0fc7f0@c922.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20251010T073000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20251010T060000Z
+SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
+UID:8e47a36a-9d8a-4462-8db4-47869359ff7c@8e47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20251003T073000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20251003T060000Z
+SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
+UID:21be6b52-bfa1-4ea1-889c-b8ea95f7d697@21be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
+DTEND:20251031T134500Z
+LOCATION:Paw.F 415
+DTSTART:20251031T121500Z
+SUMMARY:Transport miejski i regionalny (Projekt)
+UID:82cb77f4-3175-49f0-ad23-f8f32cf58207@82cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Lipieta
+DTEND:20251119T153000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20251119T140000Z
+SUMMARY:Statystyka (ćwiczenia)
+UID:60c6d744-c66b-4996-b9b0-15dc248aeadd@60c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20251119T083000Z
+LOCATION:Paw.F 109
+DTSTART:20251119T070000Z
+SUMMARY:Planowanie przestrzenne I (wykład)
+UID:17be5cb6-9924-4280-bbea-150196caa49d@17be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karol Majewski
+DTEND:20251015T161500Z
+LOCATION:Paw.C sala A
+DTSTART:20251015T144500Z
+SUMMARY:Fizjografia urbanistyczna (wykład do wyboru)
+UID:e600ba6d-717d-43e8-81a0-8287373387ce@e600.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karol Majewski
+DTEND:20251017T143000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20251017T130000Z
+SUMMARY:Fizjografia urbanistyczna (Projekt)
+UID:bc0d78f4-103d-4712-aab7-bd70eaa8bc36@bc0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20251029T171500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20251029T154500Z
+SUMMARY:Planowanie przestrzenne I (Projekt)
+UID:2a04ef06-a8ca-427d-96d8-8423f4e10a81@2a04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20251031T111500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20251031T103000Z
+SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
+UID:2c14165a-d404-44c3-9c72-21aa16cff288@2c14.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20251001T073000Z
+LOCATION:Paw.F 109
+DTSTART:20251001T060000Z
+SUMMARY:Planowanie przestrzenne I (wykład)
+UID:b8c65cb7-f0e1-465a-b2ea-ace9241cf6c9@b8c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
+DTEND:20260108T120000Z
+LOCATION:Paw.F 109
+DTSTART:20260108T103000Z
+SUMMARY:Transport miejski i regionalny (wykład do wyboru)
+UID:0d72aeac-0a2c-469b-8cc4-e5d6cb068feb@0d72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20251117T171500Z
+LOCATION:Paw.F 515
+DTSTART:20251117T154500Z
+SUMMARY:Samorząd terytorialny (konwersatorium)
+UID:a96e7399-b1ed-4318-85c4-95f30e8e192d@a96e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20260114T083000Z
+LOCATION:Paw.F 109
+DTSTART:20260114T070000Z
+SUMMARY:Planowanie przestrzenne I (wykład)
+UID:64142a97-fa3b-42af-b99d-9b228f0039ab@6414.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karol Majewski
+DTEND:20251128T153000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20251128T140000Z
+SUMMARY:Fizjografia urbanistyczna (Projekt)
+UID:7a406e46-e56a-48e2-a14c-a151a47f1301@7a40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20251201T171500Z
+LOCATION:Paw.F 515
+DTSTART:20251201T154500Z
+SUMMARY:Samorząd terytorialny (konwersatorium)
+UID:a445ea98-4643-4fd7-99ba-806137419f57@a445.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karol Majewski
+DTEND:20260109T153000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20260109T140000Z
+SUMMARY:Fizjografia urbanistyczna (Projekt)
+UID:45f38711-d4c6-4d4a-a774-d59a378d17f0@45f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20251212T083000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20251212T070000Z
+SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
+UID:410b75df-c4ab-45d6-97d1-237e2dc04c9e@410b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251016T123000Z
+DTSTART:20251016T093000Z
+SUMMARY: (rezerwacja)
+UID:b8f07d9a-5860-408e-9e3d-c957f7c42abb@b8f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20251105T083000Z
+LOCATION:Paw.F 109
+DTSTART:20251105T070000Z
+SUMMARY:Planowanie przestrzenne I (wykład)
+UID:edb37c91-b263-40c7-bbf4-afc4f363a740@edb3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20251205T083000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20251205T070000Z
+SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
+UID:5581ae68-7b60-42a3-9419-3767b939e397@5581.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20251028T083000Z
+LOCATION:Paw.F 415
+DTSTART:20251028T070000Z
+SUMMARY:Samorząd terytorialny (konwersatorium)
+UID:48801d3f-abf9-4c65-b531-cc656b811f0c@4880.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20260116T083000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20260116T070000Z
+SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
+UID:938d7edc-3f20-4fc9-baff-64a94378bd95@938d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Lipieta
+DTEND:20251112T153000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20251112T140000Z
+SUMMARY:Statystyka (ćwiczenia)
+UID:607b5241-f1ee-48e3-b043-c685822e2e51@607b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20251208T171500Z
+LOCATION:Paw.F 515
+DTSTART:20251208T154500Z
+SUMMARY:Samorząd terytorialny (konwersatorium)
+UID:a338f5c8-64fb-4d6f-a0c5-2db897a4c93e@a338.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
+DTEND:20251003T124500Z
+LOCATION:Paw.F 415
+DTSTART:20251003T111500Z
+SUMMARY:Transport miejski i regionalny (Projekt)
+UID:5406083b-06de-42c1-98dc-fca13c17b52d@5406.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20260123T083000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20260123T070000Z
+SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
+UID:e02faf39-affa-4b03-8135-6b46de4cb805@e02f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20251126T083000Z
+LOCATION:Paw.F 109
+DTSTART:20251126T070000Z
+SUMMARY:Planowanie przestrzenne I (wykład)
+UID:3ef31884-e1a7-41a8-8a99-111c57a77bd2@3ef3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karol Majewski
+DTEND:20251212T153000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20251212T140000Z
+SUMMARY:Fizjografia urbanistyczna (Projekt)
+UID:d24187c3-6650-466b-8970-e23fa7eb16f4@d241.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Lipieta
+DTEND:20260107T153000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20260107T140000Z
+SUMMARY:Statystyka (ćwiczenia)
+UID:39ae4c2e-affd-4fbc-92f2-b32476002fc8@39ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karol Majewski
+DTEND:20251024T143000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20251024T130000Z
+SUMMARY:Fizjografia urbanistyczna (Projekt)
+UID:2c619ebc-4485-4ad3-a4d2-5babad7b1412@2c61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20251215T153000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20251215T140000Z
+SUMMARY:Planowanie przestrzenne I (Projekt)
+UID:55fed579-a74b-4a48-b1cc-215a0407be5c@55fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20251121T083000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20251121T070000Z
+SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
+UID:ee668eb3-2449-4355-b7eb-c68157843616@ee66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20251215T171500Z
+LOCATION:Paw.F 515
+DTSTART:20251215T154500Z
+SUMMARY:Samorząd terytorialny (konwersatorium)
+UID:5354e0ef-3951-4965-b4b3-5d5242eb0837@5354.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20251008T073000Z
+LOCATION:Paw.F 109
+DTSTART:20251008T060000Z
+SUMMARY:Planowanie przestrzenne I (wykład)
+UID:2adbacc7-cba3-457b-9759-ff428da2dcdb@2adb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Lipieta
+DTEND:20251029T153000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20251029T140000Z
+SUMMARY:Statystyka (ćwiczenia)
+UID:e86de0c6-044f-4bff-8631-fbbc313c5f3e@e86d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20251017T101500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20251017T093000Z
+SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
+UID:6c46c582-ea3c-4b71-b6dc-e6cd71b5908a@6c46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
+DTEND:20260109T134500Z
+LOCATION:Paw.F 415
+DTSTART:20260109T121500Z
+SUMMARY:Transport miejski i regionalny (Projekt)
+UID:eb5a652e-41fa-4800-bb6e-cc955d92a6c1@eb5a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karol Majewski
+DTEND:20251219T153000Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20251219T140000Z
+SUMMARY:Fizjografia urbanistyczna (Projekt)
+UID:4bf14243-220d-4645-bc39-f52285cdbf6e@4bf1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20251205T111500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20251205T103000Z
+SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
+UID:304cb554-9508-4ca9-945c-d24936d26eee@304c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20251107T111500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20251107T103000Z
+SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
+UID:170f101e-7de3-47ef-9f61-79dce6253197@170f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20260119T153000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20260119T140000Z
+SUMMARY:Planowanie przestrzenne I (Projekt)
+UID:9f240ce9-fe4e-4c85-a276-2845f8444a3a@9f24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20251128T111500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20251128T103000Z
+SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
+UID:d6c1444c-a4e6-4551-91f3-b94d208079d3@d6c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karol Majewski
+DTEND:20251113T134500Z
+LOCATION:Paw.C sala D
+DTSTART:20251113T121500Z
+SUMMARY:Fizjografia urbanistyczna (wykład do wyboru)
+UID:cb41917c-4fd2-44ca-99f5-2f5b35b4face@cb41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
+DTEND:20260122T120000Z
+LOCATION:Paw.F 109
+DTSTART:20260122T111500Z
+SUMMARY:Transport miejski i regionalny (wykład do wyboru)
+UID:e9d8dfd0-9aed-4722-8aa4-d4f6bf152bb4@e9d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karol Majewski
+DTEND:20251010T143000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20251010T130000Z
+SUMMARY:Fizjografia urbanistyczna (Projekt)
+UID:477a684d-6493-4aa3-8025-fa1d84372b8d@477a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Lipieta
+DTEND:20251126T153000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20251126T140000Z
+SUMMARY:Statystyka (ćwiczenia)
+UID:490016d7-956f-45c2-a56f-3195aff3782f@4900.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20251222T171500Z
+LOCATION:Paw.F 515
+DTSTART:20251222T154500Z
+SUMMARY:Samorząd terytorialny (konwersatorium)
+UID:0fdc58f7-233a-4d3b-8b30-3631467739ef@0fdc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
+DTEND:20251205T134500Z
+LOCATION:Paw.F 415
+DTSTART:20251205T121500Z
+SUMMARY:Transport miejski i regionalny (Projekt)
+UID:59dd6495-7bb5-4403-8bdd-e4809e0a48a9@59dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karol Majewski
+DTEND:20251127T134500Z
+LOCATION:Paw.C sala D
+DTSTART:20251127T121500Z
+SUMMARY:Fizjografia urbanistyczna (wykład do wyboru)
+UID:ca8c414b-73bf-4fef-b2db-12238d8d0b92@ca8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karol Majewski
+DTEND:20251031T153000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20251031T140000Z
+SUMMARY:Fizjografia urbanistyczna (Projekt)
+UID:054ea116-d7b6-4336-be70-03c7f118f0a4@054e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
+DTEND:20251024T124500Z
+LOCATION:Paw.F 415
+DTSTART:20251024T111500Z
+SUMMARY:Transport miejski i regionalny (Projekt)
+UID:70849051-8419-42c7-93e5-892964b87856@7084.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karol Majewski
+DTEND:20251205T153000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20251205T140000Z
+SUMMARY:Fizjografia urbanistyczna (Projekt)
+UID:8ffe94f1-235a-4130-932c-5d43ae9e084d@8ffe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
+DTEND:20251107T134500Z
+LOCATION:Paw.F 415
+DTSTART:20251107T121500Z
+SUMMARY:Transport miejski i regionalny (Projekt)
+UID:334bdc21-20f6-4be5-98bb-2ebec4dbbc8a@334b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20251120T141500Z
+LOCATION:.
+DTSTART:20251120T103000Z
+SUMMARY:Planowanie przestrzenne I (Zajęcia terenowe)
+UID:fc94cacc-8360-4eb6-b66c-7cd91841b48e@fc94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20251212T111500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20251212T103000Z
+SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
+UID:c9e82bde-7e27-4121-96e3-9fb6c26c6758@c9e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
+DTEND:20251212T134500Z
+LOCATION:Paw.F 415
+DTSTART:20251212T121500Z
+SUMMARY:Transport miejski i regionalny (Projekt)
+UID:9334ea46-177a-4551-9892-6fd017288e92@9334.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20251013T143000Z
+DTSTART:20251013T130000Z
+SUMMARY:Planowanie przestrzenne I (Przeniesienie zajęć)
+UID:8755b6f7-5b2e-4e07-9ba4-7bbdca0ed41b@8755.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Lipieta
+DTEND:20260114T153000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20260114T140000Z
+SUMMARY:Statystyka (ćwiczenia)
+UID:b0c864a2-748b-4bee-ac0d-6c4796c8d0d8@b0c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20251112T083000Z
+LOCATION:Paw.F 109
+DTSTART:20251112T070000Z
+SUMMARY:Planowanie przestrzenne I (wykład)
+UID:4b3adb80-5ff8-4fa3-a696-2071b383c586@4b3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20251107T083000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20251107T070000Z
+SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
+UID:e3193f83-f03e-4377-8d3e-364a4762c982@e319.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
+DTEND:20251113T120000Z
+LOCATION:Paw.F 109
+DTSTART:20251113T103000Z
+SUMMARY:Transport miejski i regionalny (wykład do wyboru)
+UID:4a51a900-7635-4298-a96f-b9829ef553d2@4a51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Lipieta
+DTEND:20251001T124500Z
+LOCATION:Paw.S sala 6
+DTSTART:20251001T111500Z
+SUMMARY:Statystyka (wykład)
+UID:6fbb946a-4a44-4504-85df-b410fd70bea8@6fbb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
+DTEND:20251010T124500Z
+LOCATION:Paw.F 415
+DTSTART:20251010T111500Z
+SUMMARY:Transport miejski i regionalny (Projekt)
+UID:d098e8f0-cf06-43dd-b0ca-00ee3dc2ab09@d098.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20251201T153000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20251201T140000Z
+SUMMARY:Planowanie przestrzenne I (Projekt)
+UID:bb0995b8-6243-49f0-a30d-f9fd3aecc08b@bb09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20251024T101500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20251024T093000Z
+SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
+UID:d2d50ee3-e736-44d2-8ad5-70a887680f11@d2d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karol Majewski
+DTEND:20251030T134500Z
+LOCATION:Paw.C sala D
+DTSTART:20251030T121500Z
+SUMMARY:Fizjografia urbanistyczna (wykład do wyboru)
+UID:7d6ddb4d-4462-4c36-b33e-3f685482498f@7d6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20251210T083000Z
+LOCATION:Paw.F 109
+DTSTART:20251210T070000Z
+SUMMARY:Planowanie przestrzenne I (wykład)
+UID:bc2f6e61-6cb3-474b-8d00-29681ea59236@bc2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Lipieta
+DTEND:20260121T134500Z
+LOCATION:Paw.S sala 6
+DTSTART:20260121T130000Z
+SUMMARY:Statystyka (wykład)
+UID:f6c587aa-8358-48bc-b3fb-94a8999fadc0@f6c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20251013T161500Z
+LOCATION:Paw.F 515
+DTSTART:20251013T144500Z
+SUMMARY:Samorząd terytorialny (konwersatorium)
+UID:91312ef5-a655-4816-80c8-999fd1404db1@9131.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20251121T111500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20251121T103000Z
+SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
+UID:2a681727-2c3f-4a1e-96e4-809fcba98c51@2a68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Lipieta
+DTEND:20260107T134500Z
+LOCATION:Paw.S sala 6
+DTSTART:20260107T121500Z
+SUMMARY:Statystyka (wykład)
+UID:e8a17c43-26e4-4795-98c3-ff107806dbca@e8a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20251001T101500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251001T093000Z
+SUMMARY:Planowanie przestrzenne I (Projekt)
+UID:7d5e62ba-3d8a-4d07-8da5-06829664dee3@7d5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20251024T073000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20251024T060000Z
+SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
+UID:e0360a84-3958-4952-a244-ff4222853812@e036.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20260107T083000Z
+LOCATION:Paw.F 109
+DTSTART:20260107T070000Z
+SUMMARY:Planowanie przestrzenne I (wykład)
+UID:89ab2fc7-24ae-4944-b828-78a3ecec3d8d@89ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karol Majewski
+DTEND:20260108T134500Z
+LOCATION:Paw.C sala D
+DTSTART:20260108T121500Z
+SUMMARY:Fizjografia urbanistyczna (wykład do wyboru)
+UID:fa10e855-38f9-4643-862c-c8600c085bb9@fa10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Lipieta
+DTEND:20260121T153000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20260121T140000Z
+SUMMARY:Statystyka (ćwiczenia)
+UID:51e86c72-7eaf-460f-98f5-38faf4120ae1@51e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20251003T101500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20251003T093000Z
+SUMMARY:Grafika inżynierska i projektowanie geometryczne (Projekt)
+UID:9d849ea3-3e78-4f2d-8210-2025d80acaa1@9d84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20251222T153000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20251222T140000Z
+SUMMARY:Planowanie przestrzenne I (Projekt)
+UID:c16e9d21-502d-480a-8d7d-9dc13e9ce0f2@c16e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251217T134500Z
+DTSTART:20251217T121500Z
+SUMMARY: (rezerwacja)
+UID:5fb1f482-5e8b-443d-a8ce-fe497a895e73@5fb1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20251027T171500Z
+LOCATION:Paw.F 515
+DTSTART:20251027T154500Z
+SUMMARY:Samorząd terytorialny (konwersatorium)
+UID:72861d9b-ff7e-4c84-ac48-a7b1f65067d5@7286.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
+DTEND:20260116T134500Z
+LOCATION:Paw.F 415
+DTSTART:20260116T121500Z
+SUMMARY:Transport miejski i regionalny (Projekt)
+UID:4ec8db54-2624-4e66-82a3-9651ceb93a35@4ec8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Lipieta
+DTEND:20251210T153000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20251210T140000Z
+SUMMARY:Statystyka (ćwiczenia)
+UID:b7770f6d-70dc-4110-bf03-a4153c7d8e25@b777.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karol Majewski
+DTEND:20260116T153000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20260116T140000Z
+SUMMARY:Fizjografia urbanistyczna (Projekt)
+UID:ad2c99d7-0ead-4c2e-8002-77f7f394fd67@ad2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
+DTEND:20251127T120000Z
+LOCATION:Paw.F 109
+DTSTART:20251127T103000Z
+SUMMARY:Transport miejski i regionalny (wykład do wyboru)
+UID:88f978df-cb21-48c7-8c50-19a28cd53d7f@88f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karol Majewski
+DTEND:20251114T153000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20251114T140000Z
+SUMMARY:Fizjografia urbanistyczna (Projekt)
+UID:214b3e09-e9e1-466b-86aa-c01ff958e5c9@214b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Lipieta
+DTEND:20251015T143000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20251015T130000Z
+SUMMARY:Statystyka (ćwiczenia)
+UID:d2328072-bb6a-4f96-8927-921bdc2aa22b@d232.org
 END:VEVENT
 END:VCALENDAR
