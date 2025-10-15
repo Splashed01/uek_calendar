@@ -2,57 +2,34 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20251107T193000Z
+DTSTART:20251107T154500Z
+SUMMARY:Rachunkowość finansowa (Studia podyplomowe)
+UID:104ef3a0-fafc-4449-bd2e-25686763523c@104e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20251219T193000Z
+DTSTART:20251219T154500Z
+SUMMARY:Rachunkowość finansowa (Studia podyplomowe)
+UID:6a10255c-d9e4-45bc-a810-72d0287f4f78@6a10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Maja Chodacka
+DTEND:20260207T121500Z
+LOCATION:Zajęcia Online
+DTSTART:20260207T074500Z
+SUMMARY:Ordynacja podatkowa (Studia podyplomowe)
+UID:87726dfe-9e9b-4137-8934-2b8388d7669d@8772.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. dr hab. Krzysztof Surówka
-DTEND:20251121T193000Z
-DTSTART:20251121T154500Z
+DTEND:20251206T083000Z
+LOCATION:Zajęcia Online
+DTSTART:20251206T074500Z
 SUMMARY:Podatek dochodowy od osób fizycznych (Studia podyplomowe)
-UID:ae71f890-9419-4b0e-a070-d187c707fee2@ae71.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Konrad Grabiński
-DTEND:20260123T193000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260123T154500Z
-SUMMARY:Programy informatyczne w rachunkowości (Studia podyplomowe)
-UID:5053acfb-ea08-44a3-a7fb-bd0548df2a25@5053.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
-DTEND:20251122T121500Z
-DTSTART:20251122T074500Z
-SUMMARY:Polityka finansowa państwa (Studia podyplomowe)
-UID:b24855ea-2bda-4f23-932a-222f7dabe4e2@b248.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Surówka
-DTEND:20251004T064500Z
-LOCATION:Paw.G 10
-DTSTART:20251004T060000Z
-SUMMARY: (Studia podyplomowe)
-UID:3f45f086-750c-4cad-b366-ef1d8f29614c@3f45.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Gnela
-DTEND:20251205T193000Z
-DTSTART:20251205T154500Z
-SUMMARY:Elementy prawa cywilnego (Studia podyplomowe)
-UID:aa3254bb-9018-4c16-9fe3-52a2e9349c39@aa32.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Danuta Krzywda
-DTEND:20251017T183000Z
-LOCATION:Paw.G - 1
-DTSTART:20251017T144500Z
-SUMMARY:Podstawy Rachunkowości (Studia podyplomowe)
-UID:b2b211c4-9f0c-48d1-85c7-e864709f86c1@b2b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Danuta Krzywda
-DTEND:20251018T103000Z
-LOCATION:Paw.G - 1
-DTSTART:20251018T064500Z
-SUMMARY:Podstawy Rachunkowości (Studia podyplomowe)
-UID:622fda39-03c1-4ab8-aba7-26c572325318@622f.org
+UID:883f54b4-1d8d-4206-a06f-b85831be7e47@883f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Konrad Grabiński
@@ -60,14 +37,68 @@ DTEND:20260109T193000Z
 LOCATION:Paw.A 121 lab. Win10\, Office21
 DTSTART:20260109T154500Z
 SUMMARY:Programy informatyczne w rachunkowości (Studia podyplomowe)
-UID:4940fd8d-17a0-49d5-bc2a-a586b211efb2@4940.org
+UID:74e3d9d9-d4cd-421d-a0ca-82d6ebe9abb4@74e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Maślanka
+DTEND:20260124T134500Z
+DTSTART:20260124T074500Z
+SUMMARY:Analiza finansowa i zarządzanie kapitałem obrotowym (Studia podyplomowe)
+UID:b18e7be6-88a0-4599-a8a6-64f961ab3b6d@b18e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Tomasz Skrzyński
+DTEND:20251221T113000Z
+LOCATION:Zajęcia Online
+DTSTART:20251221T074500Z
+SUMMARY:Podstawy ekonomii (Studia podyplomowe)
+UID:e10b4576-f247-4a2d-a488-dee8241e934b@e10b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Krzysztof Surówka
+DTEND:20251121T193000Z
+LOCATION:Zajęcia Online
+DTSTART:20251121T154500Z
+SUMMARY:Podatek dochodowy od osób fizycznych (Studia podyplomowe)
+UID:2aad84b6-5666-40a1-90a8-9aeeb033c7d9@2aad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Konrad Grabiński
+DTEND:20260123T193000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260123T154500Z
+SUMMARY:Programy informatyczne w rachunkowości (Studia podyplomowe)
+UID:6f24a43d-652b-4a33-b708-ee2d6d26a6c3@6f24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Krzysztof Surówka
+DTEND:20251206T114500Z
+LOCATION:Zajęcia Online
+DTSTART:20251206T084500Z
+SUMMARY:Podatki lokalne i podatek od czynności cywilno-prawnych (Studia podyplomowe)
+UID:d673be00-04d0-4776-8f10-9e8e3f0d4480@d673.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
 DTEND:20251220T134500Z
 DTSTART:20251220T074500Z
 SUMMARY:Rachunkowość finansowa (Studia podyplomowe)
-UID:44c5cae1-8bb1-4b9a-abef-27c2bd9c9c02@44c5.org
+UID:3f6d53da-3bf2-494e-905c-f0b633e65ae5@3f6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartłomiej Wrona
+DTEND:20260221T134500Z
+DTSTART:20260221T074500Z
+SUMMARY:Rachunek kosztów (Studia podyplomowe)
+UID:0f6ca379-c195-4aca-bc63-278219577fd3@0f6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
+DTEND:20251122T121500Z
+LOCATION:Zajęcia Online
+DTSTART:20251122T074500Z
+SUMMARY:Polityka finansowa państwa (Studia podyplomowe)
+UID:5954c027-f690-49ff-86ac-9e1418fab87b@5954.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Krzysztof Jonas
@@ -75,49 +106,7 @@ DTEND:20251003T183000Z
 LOCATION:Paw.G 11
 DTSTART:20251003T144500Z
 SUMMARY:Formy ewidencji podatkowej (Studia podyplomowe)
-UID:d78a2526-13af-4079-a929-bc1f4cca46f1@d78a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Maślanka
-DTEND:20260124T134500Z
-DTSTART:20260124T074500Z
-SUMMARY:Analiza finansowa i zarządzanie kapitałem obrotowym (Studia podyplomowe)
-UID:ada4c006-035a-463a-9f30-1614f328424c@ada4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Krzysztof Surówka
-DTEND:20251206T083000Z
-DTSTART:20251206T074500Z
-SUMMARY:Podatek dochodowy od osób fizycznych (Studia podyplomowe)
-UID:8a46d274-354b-433b-92d1-c513792f001d@8a46.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20251219T193000Z
-DTSTART:20251219T154500Z
-SUMMARY:Rachunkowość finansowa (Studia podyplomowe)
-UID:165cd5ad-e33a-4042-a1c6-c1b51d95a23f@165c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Tomasz Skrzyński
-DTEND:20251221T113000Z
-DTSTART:20251221T074500Z
-SUMMARY:Podstawy ekonomii (Studia podyplomowe)
-UID:d85f93ff-3004-43e5-926a-75b2a30bac28@d85f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Maja Chodacka
-DTEND:20260207T121500Z
-DTSTART:20260207T074500Z
-SUMMARY:Ordynacja podatkowa (Studia podyplomowe)
-UID:d04bc125-cad5-4a65-b3af-2204b2284e1c@d04b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20251107T193000Z
-DTSTART:20251107T154500Z
-SUMMARY:Rachunkowość finansowa (Studia podyplomowe)
-UID:cddd82ca-3758-4681-bcb2-b15367b359e2@cddd.org
+UID:d43461dc-b9d0-4192-9483-32efa284e2d9@d434.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Danuta Krzywda
@@ -125,48 +114,68 @@ DTEND:20251004T103000Z
 LOCATION:Paw.G 10
 DTSTART:20251004T064500Z
 SUMMARY:Metodologia rachunkowości oraz międzynarodowa standaryzacja (Studia podyplomowe)
-UID:2fad3477-8fb8-48ff-b156-8e108d70bf08@2fad.org
+UID:3ec7cf51-905f-45e9-bfb5-b5f98b05ba36@3ec7.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
-DTEND:20260206T191500Z
-DTSTART:20260206T144500Z
-SUMMARY:Rachunek ekonomicznej efektywności inwestycji (Studia podyplomowe)
-UID:26f561fc-4264-468a-a0ef-9cebd37f7339@26f5.org
+DESCRIPTION:Instructor: dr Danuta Krzywda
+DTEND:20251018T103000Z
+LOCATION:Paw.G - 1
+DTSTART:20251018T064500Z
+SUMMARY:Podstawy Rachunkowości (Studia podyplomowe)
+UID:76d4e10a-eb8f-4dbf-ade7-428882664dec@76d4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
 DTEND:20260110T113000Z
 DTSTART:20260110T074500Z
 SUMMARY:Podatek dochodowy od osób prawnych (Studia podyplomowe)
-UID:dbe2a341-34bd-44c6-9f79-3b1b4a820701@dbe2.org
+UID:6c10ad2c-fa62-4c8d-b7fa-344acb265755@6c10.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Cycoń
-DTEND:20260220T193000Z
-DTSTART:20260220T154500Z
-SUMMARY:System ubezpieczeń społecznych (Studia podyplomowe)
-UID:50d7297a-dd1d-40d3-a962-5fce71a6c537@50d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bartłomiej Wrona
-DTEND:20260221T134500Z
-DTSTART:20260221T074500Z
-SUMMARY:Rachunek kosztów (Studia podyplomowe)
-UID:ea01f0ef-4022-405a-a024-905ae7aeb5ab@ea01.org
+DESCRIPTION:Instructor: dr Marcin Surówka
+DTEND:20251004T064500Z
+LOCATION:Paw.G 10
+DTSTART:20251004T060000Z
+SUMMARY: (Studia podyplomowe)
+UID:dd20c608-ec29-43e9-b869-6ddeb78486d6@dd20.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
 DTEND:20251108T130000Z
 DTSTART:20251108T074500Z
 SUMMARY:Rachunkowość finansowa (Studia podyplomowe)
-UID:f9f2d025-e725-422f-8b32-319a4ef9b40f@f9f2.org
+UID:07627de6-bbb0-4b81-b907-e4c1c3f3f729@0762.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Krzysztof Surówka
-DTEND:20251206T114500Z
-DTSTART:20251206T084500Z
-SUMMARY:Podatki lokalne i podatek od czynności cywilno-prawnych (Studia podyplomowe)
-UID:0c7d6b7e-25d5-4a82-b96d-92daca8844f4@0c7d.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20260206T191500Z
+LOCATION:Zajęcia Online
+DTSTART:20260206T144500Z
+SUMMARY:Rachunek ekonomicznej efektywności inwestycji (Studia podyplomowe)
+UID:fa84ef79-2234-4c2b-8eff-6fe2105b5565@fa84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Gnela
+DTEND:20251205T193000Z
+LOCATION:Zajęcia Online
+DTSTART:20251205T154500Z
+SUMMARY:Elementy prawa cywilnego (Studia podyplomowe)
+UID:eea65141-a841-4218-8d75-c384a7c8bec3@eea6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Danuta Krzywda
+DTEND:20251017T183000Z
+LOCATION:Paw.G - 1
+DTSTART:20251017T144500Z
+SUMMARY:Podstawy Rachunkowości (Studia podyplomowe)
+UID:df002279-116f-48b4-a1e6-2f6e4a7e265d@df00.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Cycoń
+DTEND:20260220T193000Z
+LOCATION:Zajęcia Online
+DTSTART:20260220T154500Z
+SUMMARY:System ubezpieczeń społecznych (Studia podyplomowe)
+UID:b76b70a0-6af5-49d5-bed6-f72fe5c08bcf@b76b.org
 END:VEVENT
 END:VCALENDAR

@@ -2,12 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Zieniuk
-DTEND:20251011T131500Z
-LOCATION:link do zajęć
-DTSTART:20251011T093000Z
-SUMMARY:Zaawansowana rachunkowość finansowa (wykład)
-UID:6f488f5f-bc31-4e3c-95ca-c2d0307e514a@6f48.org
+DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
+DTEND:20251213T143000Z
+LOCATION:Paw.F 613
+DTSTART:20251213T121500Z
+SUMMARY:Rachunkowość banków i instytucji finansowych (ćwiczenia)
+UID:3e75c4d0-f3e7-4fdb-a8cd-0383d436e1f6@3e75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251217T134500Z
+DTSTART:20251217T121500Z
+SUMMARY: (rezerwacja)
+UID:5c153e5c-2fef-4803-9a97-39b01f18d88c@5c15.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Krzysztof Jonas
@@ -15,7 +22,7 @@ DTEND:20251115T091500Z
 LOCATION:Paw.F 107
 DTSTART:20251115T070000Z
 SUMMARY:Rachunkowość zakładów ubezpieczeń i zakładów reasekuracji (ćwiczenia)
-UID:17604029-c05c-4201-902c-cb3d7cae5c54@1760.org
+UID:afbe56d1-3c29-4358-84ea-b064535429aa@afbe.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Piotr Schroeder
@@ -23,213 +30,7 @@ DTEND:20251122T091500Z
 LOCATION:Paw.F 715
 DTSTART:20251122T070000Z
 SUMMARY:Teoria i zasady rachunkowości (ćwiczenia)
-UID:09828395-e368-4ea5-b4dc-456c2dcf4742@0982.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Mazurczak-Mąka
-DTEND:20260110T143000Z
-LOCATION:Paw.F 107
-DTSTART:20260110T121500Z
-SUMMARY:Zaawansowana rachunkowość finansowa (ćwiczenia)
-UID:015283b8-4779-4ada-9bec-55d676bf5425@0152.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Chłapek
-DTEND:20251114T170000Z
-LOCATION:link do zajęć
-DTSTART:20251114T144500Z
-SUMMARY:Międzynarodowe standardy sprawozdawczości finansowej (wykład)
-UID:9c6627ee-c60b-459e-be79-c50489f97666@9c66.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
-DTEND:20251012T114500Z
-LOCATION:link do zajęć
-DTSTART:20251012T093000Z
-SUMMARY:Rachunkowość banków i instytucji finansowych (wykład)
-UID:65d47f5b-7e96-4a0e-97e2-2ee367ecbdce@65d4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Mazurczak-Mąka
-DTEND:20251115T114500Z
-LOCATION:Paw.F 107
-DTSTART:20251115T093000Z
-SUMMARY:Zaawansowana rachunkowość finansowa (ćwiczenia)
-UID:bfcaa8ad-f55a-442d-b3f8-51f8d348d724@bfca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Jonas
-DTEND:20251018T081500Z
-LOCATION:Paw.F 107
-DTSTART:20251018T060000Z
-SUMMARY:Rachunkowość zakładów ubezpieczeń i zakładów reasekuracji (ćwiczenia)
-UID:679a5771-c9bf-4868-a37d-8b7d7f66b0f1@679a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bartłomiej Wrona
-DTEND:20251011T160000Z
-LOCATION:link do zajęć
-DTSTART:20251011T134500Z
-SUMMARY:Rachunkowość jednostek sektora publicznego (wykład)
-UID:ce69e1b9-d367-47cb-b89d-0ac42b9100f9@ce69.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bartłomiej Wrona
-DTEND:20251116T161500Z
-LOCATION:link do zajęć
-DTSTART:20251116T140000Z
-SUMMARY:Rachunkowość jednostek sektora publicznego (wykład)
-UID:b9a98589-32fa-41c3-ab2a-856667c4853f@b9a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Patryk Dunal
-DTEND:20251213T194500Z
-LOCATION:Paw.F 614
-DTSTART:20251213T173000Z
-SUMMARY:Międzynarodowe standardy sprawozdawczości finansowej (ćwiczenia)
-UID:5c09db74-d5dc-4c25-8761-77bf5ab170a6@5c09.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Zieniuk
-DTEND:20251116T104500Z
-LOCATION:link do zajęć
-DTSTART:20251116T070000Z
-SUMMARY:Zaawansowana rachunkowość finansowa (wykład)
-UID:3dff7d4d-12c3-4702-b61f-78654d8d335f@3dff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Zieniuk
-DTEND:20260124T133000Z
-LOCATION:Paw.S sala 9
-DTSTART:20260124T111500Z
-SUMMARY: (egzamin)
-UID:7cf22bbd-b1ba-40e8-9144-bb68e63c14bf@7cf2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Jonas
-DTEND:20251025T133000Z
-LOCATION:Paw.F 106
-DTSTART:20251025T111500Z
-SUMMARY:Rachunkowość zakładów ubezpieczeń i zakładów reasekuracji (ćwiczenia)
-UID:b579d820-d91e-4444-b76e-91a8953c6e02@b579.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
-DTEND:20251024T184500Z
-LOCATION:link do zajęć
-DTSTART:20251024T163000Z
-SUMMARY:Rachunkowość banków i instytucji finansowych (wykład)
-UID:8c684076-0ced-4b4b-b839-5738d1bd8c4f@8c68.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Zieniuk
-DTEND:20251004T094500Z
-DTSTART:20251004T060000Z
-SUMMARY:Zaawansowana rachunkowość finansowa (Przeniesienie zajęć)
-UID:58ecd2c6-e80c-4f39-8435-190116045dd4@58ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
-DTEND:20251018T104500Z
-LOCATION:Paw.F 613
-DTSTART:20251018T083000Z
-SUMMARY:Rachunkowość banków i instytucji finansowych (ćwiczenia)
-UID:b427390f-e3fa-4b8e-9958-0b22f3a145ed@b427.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Mazurczak-Mąka
-DTEND:20251213T170000Z
-LOCATION:Paw.F 107
-DTSTART:20251213T144500Z
-SUMMARY:Zaawansowana rachunkowość finansowa (ćwiczenia)
-UID:6bcd4d65-9716-4e88-aa5d-845a23de32f3@6bcd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
-DTEND:20251026T100000Z
-LOCATION:link do zajęć
-DTSTART:20251026T074500Z
-SUMMARY:Rachunkowość banków i instytucji finansowych (wykład)
-UID:9d7ccaf8-2bf2-42f1-ab67-79bed5581227@9d7c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Zieniuk
-DTEND:20251019T094500Z
-LOCATION:link do zajęć
-DTSTART:20251019T060000Z
-SUMMARY:Zaawansowana rachunkowość finansowa (wykład)
-UID:72db551e-cb83-4a6f-a3aa-03cec21752dc@72db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
-DTEND:20251129T170000Z
-DTSTART:20251129T144500Z
-SUMMARY:Rachunkowość banków i instytucji finansowych (Przeniesienie zajęć)
-UID:bbb5863a-1841-497b-8485-04488c8d7031@bbb5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bartłomiej Wrona
-DTEND:20251017T160000Z
-LOCATION:link do zajęć
-DTSTART:20251017T134500Z
-SUMMARY:Rachunkowość jednostek sektora publicznego (wykład)
-UID:53e79afc-bd9e-49d9-9677-139e6a21abeb@53e7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Jonas
-DTEND:20251024T160000Z
-LOCATION:link do zajęć
-DTSTART:20251024T134500Z
-SUMMARY:Rachunkowość zakładów ubezpieczeń i zakładów reasekuracji (wykład)
-UID:78e3c0ca-e8c8-45f2-8e37-6bc62ef70258@78e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Patryk Dunal
-DTEND:20251213T100000Z
-LOCATION:Paw.S sala 7
-DTSTART:20251213T074500Z
-SUMMARY:Międzynarodowe standardy sprawozdawczości finansowej (ćwiczenia)
-UID:38c0d19f-94ac-451c-bd95-4258140f825a@38c0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Chłapek
-DTEND:20251003T184500Z
-LOCATION:link do zajęć
-DTSTART:20251003T163000Z
-SUMMARY:Międzynarodowe standardy sprawozdawczości finansowej (wykład)
-UID:24a2e6da-98a6-4197-bb1f-df69c274f7c3@24a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
-DTEND:20251213T143000Z
-LOCATION:Paw.F 613
-DTSTART:20251213T121500Z
-SUMMARY:Rachunkowość banków i instytucji finansowych (ćwiczenia)
-UID:ceedf391-1a38-427d-b756-12a17d3b5d7e@ceed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Jan Tatar
-DTEND:20251025T081500Z
-LOCATION:Paw.F 515
-DTSTART:20251025T060000Z
-SUMMARY:Zaawansowane zagadnienia matematyki finansowej (konwersatorium)
-UID:505c2433-a61d-4ec4-8923-8c6e41840ba2@505c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Jonas
-DTEND:20251005T123000Z
-LOCATION:link do zajęć
-DTSTART:20251005T101500Z
-SUMMARY:Rachunkowość zakładów ubezpieczeń i zakładów reasekuracji (wykład)
-UID:38f28546-8ee3-4509-875e-2a6bb35bb4e3@38f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Jonas
-DTEND:20251114T194500Z
-LOCATION:link do zajęć
-DTSTART:20251114T173000Z
-SUMMARY:Rachunkowość zakładów ubezpieczeń i zakładów reasekuracji (wykład)
-UID:000bb332-e30d-43ec-89d6-03a412bd9ae8@000b.org
+UID:2b1ef8f6-c621-48b3-ad34-4a7ff1a7dcda@2b1e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Patryk Dunal
@@ -237,141 +38,7 @@ DTEND:20260110T170000Z
 LOCATION:Paw.F 614
 DTSTART:20260110T144500Z
 SUMMARY:Międzynarodowe standardy sprawozdawczości finansowej (ćwiczenia)
-UID:87ea5737-5eb0-40eb-86a2-bb1ad2deec08@87ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251217T134500Z
-DTSTART:20251217T121500Z
-SUMMARY: (rezerwacja)
-UID:f07fe866-063c-4afe-9ed8-d3577dd3b6bc@f07f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Gracjana Noga
-DTEND:20251005T100000Z
-LOCATION:link do zajęć
-DTSTART:20251005T074500Z
-SUMMARY:Metody rozwiązywania problemów biznesowych (wykład do wyboru)
-UID:6bcd7723-567e-4a17-bcc7-1ded8f9e348a@6bcd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Gracjana Noga
-DTEND:20251130T124500Z
-LOCATION:link do zajęć
-DTSTART:20251130T103000Z
-SUMMARY:Metody rozwiązywania problemów biznesowych (wykład do wyboru)
-UID:e0d8612b-31d0-43ab-a1da-9857839f2bd8@e0d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Mazurczak-Mąka
-DTEND:20260117T194500Z
-LOCATION:Paw.F 107
-DTSTART:20260117T173000Z
-SUMMARY:Zaawansowana rachunkowość finansowa (ćwiczenia)
-UID:c5c25f46-7a78-47f2-84d5-81eaa2ba17fd@c5c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Piotr Schroeder
-DTEND:20251220T114500Z
-LOCATION:Paw.F 106
-DTSTART:20251220T093000Z
-SUMMARY:Teoria i zasady rachunkowości (ćwiczenia)
-UID:718ceef8-8c13-4ec3-8c8f-372fbdb7979a@718c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Mazurczak-Mąka
-DTEND:20251025T184500Z
-LOCATION:Paw.F 107
-DTSTART:20251025T163000Z
-SUMMARY:Zaawansowana rachunkowość finansowa (ćwiczenia)
-UID:0e4bb96e-6753-4fe0-aace-ce6441b9d0c9@0e4b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Patryk Dunal
-DTEND:20251025T160000Z
-LOCATION:Paw.F 614
-DTSTART:20251025T134500Z
-SUMMARY:Międzynarodowe standardy sprawozdawczości finansowej (ćwiczenia)
-UID:b3e8e826-f669-49a6-a635-50d67de388d1@b3e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Gracjana Noga
-DTEND:20251010T160000Z
-LOCATION:link do zajęć
-DTSTART:20251010T134500Z
-SUMMARY:Metody rozwiązywania problemów biznesowych (wykład do wyboru)
-UID:7e049465-c2f7-4b36-9bc4-9ecaa9c5fee7@7e04.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251016T123000Z
-DTSTART:20251016T093000Z
-SUMMARY: (rezerwacja)
-UID:69d7de26-aec9-4370-b6f8-ec68b420688e@69d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Jan Tatar
-DTEND:20251122T114500Z
-LOCATION:Paw.S sala 6
-DTSTART:20251122T093000Z
-SUMMARY:Zaawansowane zagadnienia matematyki finansowej (konwersatorium)
-UID:a7ba507e-6c7e-45b7-84c9-53e462a8c55d@a7ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Biśta
-DTEND:20251130T100000Z
-LOCATION:link do zajęć
-DTSTART:20251130T074500Z
-SUMMARY:Rachunkowość instrumentów finansowych (wykład)
-UID:bfbd3d6a-e9c5-42d9-aa5c-0751dadb0e04@bfbd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Piotr Schroeder
-DTEND:20260117T091500Z
-LOCATION:Paw.F 715
-DTSTART:20260117T070000Z
-SUMMARY:Teoria i zasady rachunkowości (ćwiczenia)
-UID:88d870a3-fcb0-47f1-afe1-30852097ab73@88d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Biśta
-DTEND:20251026T124500Z
-LOCATION:link do zajęć
-DTSTART:20251026T103000Z
-SUMMARY:Rachunkowość instrumentów finansowych (wykład)
-UID:71ce7cf1-518c-4736-baef-1d89a9aa2a29@71ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Patryk Dunal
-DTEND:20251018T133000Z
-LOCATION:Paw.F 614
-DTSTART:20251018T111500Z
-SUMMARY:Międzynarodowe standardy sprawozdawczości finansowej (ćwiczenia)
-UID:dd31fe43-9b71-4f21-96f2-11310ce380a5@dd31.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Patryk Dunal
-DTEND:20260117T170000Z
-LOCATION:Paw.F 614
-DTSTART:20260117T144500Z
-SUMMARY:Międzynarodowe standardy sprawozdawczości finansowej (ćwiczenia)
-UID:b59d2a5a-2c1f-488e-b120-d668766a069f@b59d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Biśta
-DTEND:20251003T160000Z
-LOCATION:link do zajęć
-DTSTART:20251003T134500Z
-SUMMARY:Rachunkowość instrumentów finansowych (wykład)
-UID:1fc75241-cb44-4cc4-8f78-c1d7b6848c8b@1fc7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Jan Tatar
-DTEND:20251220T143000Z
-LOCATION:Paw.F 717
-DTSTART:20251220T121500Z
-SUMMARY:Zaawansowane zagadnienia matematyki finansowej (konwersatorium)
-UID:ac8a31c9-4a62-454e-8463-76cc6b0bec78@ac8a.org
+UID:e3ed3377-8091-47c2-9d8b-115c5efe6547@e3ed.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
@@ -379,7 +46,355 @@ DTEND:20251115T170000Z
 LOCATION:Paw.F 613
 DTSTART:20251115T144500Z
 SUMMARY:Rachunkowość banków i instytucji finansowych (ćwiczenia)
-UID:9d689ba8-d03b-418b-9936-23a7ec869486@9d68.org
+UID:5b164327-4bbe-4229-9273-c64cd8b07671@5b16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Zieniuk
+DTEND:20251116T104500Z
+LOCATION:link do zajęć
+DTSTART:20251116T070000Z
+SUMMARY:Zaawansowana rachunkowość finansowa (wykład)
+UID:e4fa9401-0632-4b2e-bbc7-54575668fa88@e4fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Gracjana Noga
+DTEND:20251005T100000Z
+LOCATION:link do zajęć
+DTSTART:20251005T074500Z
+SUMMARY:Metody rozwiązywania problemów biznesowych (wykład do wyboru)
+UID:7ba7d49d-0428-46a2-8c74-627446e26665@7ba7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartłomiej Wrona
+DTEND:20251129T170000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20251129T144500Z
+SUMMARY:Rachunkowość jednostek sektora publicznego (egzamin)
+UID:d8d91090-7069-4755-af4a-54e5af83a024@d8d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Jan Tatar
+DTEND:20251025T081500Z
+LOCATION:Paw.F 515
+DTSTART:20251025T060000Z
+SUMMARY:Zaawansowane zagadnienia matematyki finansowej (konwersatorium)
+UID:81df25e0-d4b7-4a8c-b237-7c71c7c0c2f0@81df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Jonas
+DTEND:20251025T133000Z
+LOCATION:Paw.F 106
+DTSTART:20251025T111500Z
+SUMMARY:Rachunkowość zakładów ubezpieczeń i zakładów reasekuracji (ćwiczenia)
+UID:6b3de2c3-db1a-4c43-a5cc-95a0466d06b5@6b3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
+DTEND:20251018T104500Z
+LOCATION:Paw.F 613
+DTSTART:20251018T083000Z
+SUMMARY:Rachunkowość banków i instytucji finansowych (ćwiczenia)
+UID:240c4886-ac06-4134-b278-d64483a62eac@240c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Biśta
+DTEND:20251026T124500Z
+LOCATION:link do zajęć
+DTSTART:20251026T103000Z
+SUMMARY:Rachunkowość instrumentów finansowych (wykład)
+UID:9d06eada-0236-4df7-a473-a963a51a9d9b@9d06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Chłapek
+DTEND:20251114T170000Z
+LOCATION:link do zajęć
+DTSTART:20251114T144500Z
+SUMMARY:Międzynarodowe standardy sprawozdawczości finansowej (wykład)
+UID:d34dca21-32c1-4b0e-8b3e-fe9ed4f85ceb@d34d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Mazurczak-Mąka
+DTEND:20251213T170000Z
+LOCATION:Paw.F 107
+DTSTART:20251213T144500Z
+SUMMARY:Zaawansowana rachunkowość finansowa (ćwiczenia)
+UID:64ed59bd-1eff-43bf-94c8-9f55878a06e9@64ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Izabela Emerling
+DTEND:20251219T170000Z
+LOCATION:link do zajęć
+DTSTART:20251219T144500Z
+SUMMARY:Teoria i zasady rachunkowości (wykład)
+UID:adfec32a-ae87-4279-a076-55e32983986c@adfe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Mazurczak-Mąka
+DTEND:20260110T143000Z
+LOCATION:Paw.F 107
+DTSTART:20260110T121500Z
+SUMMARY:Zaawansowana rachunkowość finansowa (ćwiczenia)
+UID:2617d2a3-4dd4-45b3-bcba-45340fef9768@2617.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Piotr Schroeder
+DTEND:20260117T091500Z
+LOCATION:Paw.F 715
+DTSTART:20260117T070000Z
+SUMMARY:Teoria i zasady rachunkowości (ćwiczenia)
+UID:63827b56-f5dc-406d-b360-14d9d75bd89f@6382.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Piotr Schroeder
+DTEND:20251220T114500Z
+LOCATION:Paw.F 106
+DTSTART:20251220T093000Z
+SUMMARY:Teoria i zasady rachunkowości (ćwiczenia)
+UID:ff01f912-10c7-4c98-af3d-70664d77e099@ff01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Patryk Dunal
+DTEND:20260117T170000Z
+LOCATION:Paw.F 614
+DTSTART:20260117T144500Z
+SUMMARY:Międzynarodowe standardy sprawozdawczości finansowej (ćwiczenia)
+UID:c69694e1-017b-4308-9767-4d44e7422bc4@c696.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Jan Tatar
+DTEND:20251122T114500Z
+LOCATION:Paw.S sala 6
+DTSTART:20251122T093000Z
+SUMMARY:Zaawansowane zagadnienia matematyki finansowej (konwersatorium)
+UID:2b8536c5-30b3-40af-9b92-c1e37e5b1406@2b85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Patryk Dunal
+DTEND:20251025T160000Z
+LOCATION:Paw.F 614
+DTSTART:20251025T134500Z
+SUMMARY:Międzynarodowe standardy sprawozdawczości finansowej (ćwiczenia)
+UID:3797e040-40ce-4f7d-8fb0-d66a4f8ef1ea@3797.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Patryk Dunal
+DTEND:20251018T133000Z
+LOCATION:Paw.F 614
+DTSTART:20251018T111500Z
+SUMMARY:Międzynarodowe standardy sprawozdawczości finansowej (ćwiczenia)
+UID:4b4d5b37-9ca2-4d0f-8714-57263100b416@4b4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251016T123000Z
+DTSTART:20251016T093000Z
+SUMMARY: (rezerwacja)
+UID:608e63e5-c5e6-44f6-aec5-6d25bc15e217@608e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Jonas
+DTEND:20251018T081500Z
+LOCATION:Paw.F 107
+DTSTART:20251018T060000Z
+SUMMARY:Rachunkowość zakładów ubezpieczeń i zakładów reasekuracji (ćwiczenia)
+UID:fee52d09-7d7f-4bce-90ff-43df41243334@fee5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Jonas
+DTEND:20251114T194500Z
+LOCATION:link do zajęć
+DTSTART:20251114T173000Z
+SUMMARY:Rachunkowość zakładów ubezpieczeń i zakładów reasekuracji (wykład)
+UID:de3b6fb2-de41-472f-a18c-a37ee6a1c36c@de3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
+DTEND:20251012T114500Z
+LOCATION:link do zajęć
+DTSTART:20251012T093000Z
+SUMMARY:Rachunkowość banków i instytucji finansowych (wykład)
+UID:95cd5a31-1e1a-4063-b7eb-da27c49109dd@95cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Patryk Dunal
+DTEND:20251213T194500Z
+LOCATION:Paw.F 614
+DTSTART:20251213T173000Z
+SUMMARY:Międzynarodowe standardy sprawozdawczości finansowej (ćwiczenia)
+UID:f7b00762-6c8b-42b4-af19-e062192ccff8@f7b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Zieniuk
+DTEND:20251011T131500Z
+LOCATION:link do zajęć
+DTSTART:20251011T093000Z
+SUMMARY:Zaawansowana rachunkowość finansowa (wykład)
+UID:167f5fae-5f8f-4659-9337-d93e3c9b995a@167f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartłomiej Wrona
+DTEND:20251116T161500Z
+LOCATION:link do zajęć
+DTSTART:20251116T140000Z
+SUMMARY:Rachunkowość jednostek sektora publicznego (wykład)
+UID:ffda89aa-a5f0-4995-9308-ba47d9051304@ffda.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Gracjana Noga
+DTEND:20251010T160000Z
+LOCATION:link do zajęć
+DTSTART:20251010T134500Z
+SUMMARY:Metody rozwiązywania problemów biznesowych (wykład do wyboru)
+UID:32fc8fe9-2fc7-44c1-9a05-389ee0abfed4@32fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Mazurczak-Mąka
+DTEND:20251025T184500Z
+LOCATION:Paw.F 107
+DTSTART:20251025T163000Z
+SUMMARY:Zaawansowana rachunkowość finansowa (ćwiczenia)
+UID:5df8d21b-d85f-4a91-b020-d988a626e21c@5df8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
+DTEND:20251026T100000Z
+LOCATION:link do zajęć
+DTSTART:20251026T074500Z
+SUMMARY:Rachunkowość banków i instytucji finansowych (wykład)
+UID:120d66b1-426b-43b5-b4cd-779b8fe705f8@120d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
+DTEND:20251129T170000Z
+DTSTART:20251129T144500Z
+SUMMARY:Rachunkowość banków i instytucji finansowych (Przeniesienie zajęć)
+UID:e9b9224a-83c2-47cc-8b30-f08ce5aa5894@e9b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Izabela Emerling
+DTEND:20251121T170000Z
+LOCATION:link do zajęć
+DTSTART:20251121T144500Z
+SUMMARY:Teoria i zasady rachunkowości (wykład)
+UID:43efce95-9eb0-4431-8867-67a69335ca00@43ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Biśta
+DTEND:20251116T133000Z
+LOCATION:link do zajęć
+DTSTART:20251116T111500Z
+SUMMARY:Rachunkowość instrumentów finansowych (wykład)
+UID:7fd761ae-8acb-4dd6-aad8-3e143cd754f7@7fd7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Zieniuk
+DTEND:20260124T133000Z
+LOCATION:Paw.S sala 9
+DTSTART:20260124T111500Z
+SUMMARY: (egzamin)
+UID:d27b881b-cbdf-4703-83f3-7a4d566d5147@d27b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Biśta
+DTEND:20251003T160000Z
+LOCATION:link do zajęć
+DTSTART:20251003T134500Z
+SUMMARY:Rachunkowość instrumentów finansowych (wykład)
+UID:203c63f6-eaf1-421a-9af1-a362d99a624f@203c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
+DTEND:20251024T184500Z
+LOCATION:link do zajęć
+DTSTART:20251024T163000Z
+SUMMARY:Rachunkowość banków i instytucji finansowych (wykład)
+UID:a2e8d0df-a65c-413c-91d8-29aba4523c1b@a2e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Mazurczak-Mąka
+DTEND:20251115T114500Z
+LOCATION:Paw.F 107
+DTSTART:20251115T093000Z
+SUMMARY:Zaawansowana rachunkowość finansowa (ćwiczenia)
+UID:881d9f82-63f8-4fba-baf4-5f5a23251116@881d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Jonas
+DTEND:20251024T160000Z
+LOCATION:link do zajęć
+DTSTART:20251024T134500Z
+SUMMARY:Rachunkowość zakładów ubezpieczeń i zakładów reasekuracji (wykład)
+UID:d50550b9-a2e4-4974-9f6f-632e16e6d738@d505.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Biśta
+DTEND:20251130T100000Z
+DTSTART:20251130T074500Z
+SUMMARY:Rachunkowość instrumentów finansowych (Przeniesienie zajęć)
+UID:dba3c179-5b2b-4ab6-ae24-68993276aafb@dba3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Mazurczak-Mąka
+DTEND:20260117T194500Z
+LOCATION:Paw.F 107
+DTSTART:20260117T173000Z
+SUMMARY:Zaawansowana rachunkowość finansowa (ćwiczenia)
+UID:553224c5-a430-4929-a30e-996ddcb30fb9@5532.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Patryk Dunal
+DTEND:20251213T100000Z
+LOCATION:Paw.S sala 7
+DTSTART:20251213T074500Z
+SUMMARY:Międzynarodowe standardy sprawozdawczości finansowej (ćwiczenia)
+UID:b45e7e74-67b4-48c7-acfa-fb7e3de6242c@b45e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Izabela Emerling
+DTEND:20251206T170000Z
+LOCATION:link do zajęć
+DTSTART:20251206T144500Z
+SUMMARY:Teoria i zasady rachunkowości (wykład)
+UID:829f065b-6c7e-4fcd-8303-c639254ab568@829f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Chłapek
+DTEND:20251003T184500Z
+LOCATION:link do zajęć
+DTSTART:20251003T163000Z
+SUMMARY:Międzynarodowe standardy sprawozdawczości finansowej (wykład)
+UID:e391f7bb-f1ed-4f5c-a1be-d8cd5bf73752@e391.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Gracjana Noga
+DTEND:20251130T124500Z
+LOCATION:link do zajęć
+DTSTART:20251130T103000Z
+SUMMARY:Metody rozwiązywania problemów biznesowych (wykład do wyboru)
+UID:e0d53a73-62bc-41be-a314-df55650f7a73@e0d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Jonas
+DTEND:20251005T123000Z
+LOCATION:link do zajęć
+DTSTART:20251005T101500Z
+SUMMARY:Rachunkowość zakładów ubezpieczeń i zakładów reasekuracji (wykład)
+UID:081e0ec2-736b-4b3d-96be-a9802403f6d1@081e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Zieniuk
+DTEND:20251004T094500Z
+DTSTART:20251004T060000Z
+SUMMARY:Zaawansowana rachunkowość finansowa (Przeniesienie zajęć)
+UID:f2b6a42c-d9b2-4e54-ad9c-9560cab4f275@f2b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Zieniuk
+DTEND:20251019T094500Z
+LOCATION:link do zajęć
+DTSTART:20251019T060000Z
+SUMMARY:Zaawansowana rachunkowość finansowa (wykład)
+UID:72418688-37f5-486c-bdc7-0ffa30a7dda6@7241.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Katarzyna Chłapek
@@ -387,6 +402,30 @@ DTEND:20251128T170000Z
 LOCATION:link do zajęć
 DTSTART:20251128T144500Z
 SUMMARY:Międzynarodowe standardy sprawozdawczości finansowej (wykład)
-UID:6c613c92-073d-4f86-a0cf-993e770805c9@6c61.org
+UID:d191736a-c98d-4c2d-8542-9abf20d35875@d191.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartłomiej Wrona
+DTEND:20251017T160000Z
+LOCATION:link do zajęć
+DTSTART:20251017T134500Z
+SUMMARY:Rachunkowość jednostek sektora publicznego (wykład)
+UID:b0b7fe7e-db3e-49dc-ad49-509a322a6f7b@b0b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Jan Tatar
+DTEND:20251220T143000Z
+LOCATION:Paw.F 717
+DTSTART:20251220T121500Z
+SUMMARY:Zaawansowane zagadnienia matematyki finansowej (konwersatorium)
+UID:1feda71f-7246-47b8-abcf-ebdf0b93792b@1fed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartłomiej Wrona
+DTEND:20251011T160000Z
+LOCATION:link do zajęć
+DTSTART:20251011T134500Z
+SUMMARY:Rachunkowość jednostek sektora publicznego (wykład)
+UID:042fc778-167a-4136-b223-2e1f72eef328@042f.org
 END:VEVENT
 END:VCALENDAR
