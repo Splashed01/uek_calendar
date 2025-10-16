@@ -2,34 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Aneta Kaźmierczyk
-DTEND:20251004T073000Z
-LOCATION:Paw.G 12
-DTSTART:20251004T064500Z
-SUMMARY: (Studia podyplomowe)
-UID:08a0642b-ad18-4af4-a8de-7ed393b863f9@08a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Łuc
-DTEND:20251213T104500Z
-DTSTART:20251213T074500Z
-SUMMARY:Podatek od czynności cywilnoprawnych\, spadków i darowizn\, opłata skar. (Studia podyplomowe)
-UID:b02f9ed0-1298-4677-ad7c-dd1d4793aca1@b02f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Kukuryk
-DTEND:20251024T183000Z
-LOCATION:Paw.G  7
-DTSTART:20251024T144500Z
-SUMMARY:Podstawy prawa cywilnego i handlowego (Studia podyplomowe)
-UID:09d384c1-4533-4521-8f93-69ee3e2d13e2@09d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
-DTEND:20260123T184500Z
-DTSTART:20260123T154500Z
-SUMMARY:Podstawy międzynarodowego i europejskiego prawa podatkowego (Studia podyplomowe)
-UID:e720b118-7613-4f52-b4dd-0b3b9ead20b7@e720.org
+DESCRIPTION:Instructor: dr Wiktor Podsiadło
+DTEND:20251018T111500Z
+LOCATION:Paw.G 11
+DTSTART:20251018T064500Z
+SUMMARY:Procedura podatkowa (Studia podyplomowe)
+UID:80ebbdf4-680a-4828-8800-37aeda7f1330@80eb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Aneta Kaźmierczyk
@@ -37,22 +15,15 @@ DTEND:20251004T113000Z
 LOCATION:Paw.G 12
 DTSTART:20251004T074500Z
 SUMMARY:Ordynacja podatkowa - materialne prawo podatkowe (Studia podyplomowe)
-UID:82c28b30-6159-44ad-ad3b-2bf1527ba346@82c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Aneta Kaźmierczyk
-DTEND:20251025T111500Z
-LOCATION:Paw.G  9
-DTSTART:20251025T064500Z
-SUMMARY:Ordynacja - studium przypadku (Studia podyplomowe)
-UID:2abcfc22-65c2-490e-8172-8fd58921f3d0@2abc.org
+UID:3705d07d-5737-42f6-8c81-e213f0480539@3705.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Piotr Podsiadło
 DTEND:20251205T193000Z
+LOCATION:Paw.G  7
 DTSTART:20251205T154500Z
 SUMMARY:Podatek dochodowy od osób fizycznych (Studia podyplomowe)
-UID:229136a9-7ec9-4b17-9449-777e1fbf03ad@2291.org
+UID:25b9cbea-0a63-4380-b836-a82289aa0fbb@25b9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Aneta Kaźmierczyk
@@ -60,44 +31,54 @@ DTEND:20251108T121500Z
 LOCATION:Paw.G  7
 DTSTART:20251108T074500Z
 SUMMARY:Ordynacja - studium przypadku (Studia podyplomowe)
-UID:b9a77543-c5ab-4482-9137-e07b00abf7ad@b9a7.org
+UID:34d4d2e8-9d6f-4383-96c1-8bfbcd830be8@34d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Krzysztof Surówka
+DTEND:20251206T113000Z
+LOCATION:Paw.G  7
+DTSTART:20251206T074500Z
+SUMMARY:Podatki i opłaty lokalne. Podatek leśny i rolny. (Studia podyplomowe)
+UID:f262002b-e15d-497f-b4f6-27d9138ab1d7@f262.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jacek Duda
+DTEND:20260109T193000Z
+LOCATION:Paw.G - 2
+DTSTART:20260109T154500Z
+SUMMARY:Prawo karno-skarbowe (Studia podyplomowe)
+UID:a13d7041-4827-4ba9-ac43-c023b98cb7eb@a13d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr M. Jamrozik
+DTEND:20260110T104500Z
+LOCATION:Paw.G - 2
+DTSTART:20260110T074500Z
+SUMMARY:Postępowanie egzekucyjne w administracji (Studia podyplomowe)
+UID:223bae72-4414-4a45-b5f5-5e74c956a54f@223b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Łuc
+DTEND:20251213T104500Z
+DTSTART:20251213T074500Z
+SUMMARY:Podatek od czynności cywilnoprawnych\, spadków i darowizn\, opłata skar. (Studia podyplomowe)
+UID:b8d2169e-c34f-4109-bcf2-db8472726af6@b8d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aneta Kaźmierczyk
+DTEND:20251004T073000Z
+LOCATION:Paw.G 12
+DTSTART:20251004T064500Z
+SUMMARY: (Studia podyplomowe)
+UID:c43f11b1-634e-466b-94ee-92af95e392e0@c43f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Łukasz Koba
 DTEND:20260207T121500Z
+LOCATION:Paw.G - 2
 DTSTART:20260207T074500Z
 SUMMARY:Podatki bezpośrednie - studium przypadku (Studia podyplomowe)
-UID:e5f4d3ef-4af0-40ab-8d0c-f773468aad5b@e5f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Łuc
-DTEND:20251212T184500Z
-DTSTART:20251212T154500Z
-SUMMARY:Podatek od czynności cywilnoprawnych\, spadków i darowizn\, opłata skar. (Studia podyplomowe)
-UID:6a35cc00-1532-4d67-8140-934ddfbc0e29@6a35.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Wiktor Podsiadło
-DTEND:20251018T111500Z
-LOCATION:Paw.G 11
-DTSTART:20251018T064500Z
-SUMMARY:Procedura podatkowa (Studia podyplomowe)
-UID:22d5a8b9-6f8e-4a5e-a4ec-7a8f96a2df67@22d5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Kukuryk
-DTEND:20251018T141500Z
-LOCATION:Paw.G 11
-DTSTART:20251018T120000Z
-SUMMARY:Podstawy prawa cywilnego i handlowego (Studia podyplomowe)
-UID:bae0908a-5008-4a7c-88bd-f5787e0eb177@bae0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Bogusława Gnela
-DTEND:20251122T150000Z
-DTSTART:20251122T111500Z
-SUMMARY:Przepisy i etyka doradztwa podatkowego (Studia podyplomowe)
-UID:b2bbcd0c-fcc7-46d7-961d-afe27131c71e@b2bb.org
+UID:0d0f27d3-a210-476a-9347-0f6ccfca8ef0@0d0f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Aneta Kaźmierczyk
@@ -105,35 +86,47 @@ DTEND:20251017T183000Z
 LOCATION:Paw.G 11
 DTSTART:20251017T144500Z
 SUMMARY:Ordynacja podatkowa - materialne prawo podatkowe (Studia podyplomowe)
-UID:4a3d8ceb-c96e-4e2f-af1f-5e2f537707cf@4a3d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Krzysztof Surówka
-DTEND:20251206T113000Z
-DTSTART:20251206T074500Z
-SUMMARY:Podatki i opłaty lokalne. Podatek leśny i rolny. (Studia podyplomowe)
-UID:9f79b5bd-a824-453f-bb77-b4f6820a2a1f@9f79.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Łukasz Koba
-DTEND:20260206T191500Z
-DTSTART:20260206T144500Z
-SUMMARY:Podatki bezpośrednie - studium przypadku (Studia podyplomowe)
-UID:72d6184d-41a2-404f-8473-a72d3add582a@72d6.org
+UID:bc0c29df-2dc9-4832-808c-8579fbce777c@bc0c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Piotr Podsiadło
 DTEND:20251206T151500Z
+LOCATION:Paw.G  7
 DTSTART:20251206T121500Z
 SUMMARY:Podatek dochodowy od osób fizycznych (Studia podyplomowe)
-UID:4536cd8f-2682-4cb8-a5e2-6b671f82abcc@4536.org
+UID:1a84536b-116b-4c9b-9e2e-d984c3c086e5@1a84.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariusz Kotulski
-DTEND:20251121T191500Z
-DTSTART:20251121T144500Z
-SUMMARY:�ródła i wykładnia prawa podatkowego (Studia podyplomowe)
-UID:15be5d43-f946-4c54-ad92-3d9579ec60fa@15be.org
+DESCRIPTION:Instructor: mgr Łukasz Koba
+DTEND:20260206T191500Z
+LOCATION:Paw.G - 2
+DTSTART:20260206T144500Z
+SUMMARY:Podatki bezpośrednie - studium przypadku (Studia podyplomowe)
+UID:030b0570-1ce3-46ce-a5cb-c7f2e0bca4be@030b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kukuryk
+DTEND:20251018T141500Z
+LOCATION:Paw.G 11
+DTSTART:20251018T120000Z
+SUMMARY:Podstawy prawa cywilnego i handlowego (Studia podyplomowe)
+UID:993c7ed5-b51c-4f39-8664-6b0e3c316358@993c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kukuryk
+DTEND:20251024T183000Z
+LOCATION:Paw.G  7
+DTSTART:20251024T144500Z
+SUMMARY:Podstawy prawa cywilnego i handlowego (Studia podyplomowe)
+UID:6d775aff-6c77-4778-a762-911360e44415@6d77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr M. Kotulski
+DTEND:20260124T121500Z
+LOCATION:Paw.G  7
+DTSTART:20260124T074500Z
+SUMMARY:Postępowanie administracyjne i sądowoadministracyjne (Studia podyplomowe)
+UID:bb0e4fca-370d-4890-aa0f-c495d2ad23fc@bb0e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
@@ -141,34 +134,53 @@ DTEND:20251107T193000Z
 LOCATION:Paw.G  7
 DTSTART:20251107T154500Z
 SUMMARY:Podatek dochodowy od osób prawnych (Studia podyplomowe)
-UID:889ab08e-92fa-48cf-bea7-34a1aa4c7e4a@889a.org
+UID:0bf775ea-119e-42c8-8098-c0ffd784f334@0bf7.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jacek Duda
-DTEND:20260109T193000Z
-DTSTART:20260109T154500Z
-SUMMARY:Prawo karno-skarbowe (Studia podyplomowe)
-UID:fc50e403-c822-4cc7-8594-5b6a397f695a@fc50.org
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20260123T184500Z
+LOCATION:Paw.G  7
+DTSTART:20260123T154500Z
+SUMMARY:Podstawy międzynarodowego i europejskiego prawa podatkowego (Studia podyplomowe)
+UID:dcbadd81-6310-49c7-aa7a-4c9c398c9f8d@dcba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aneta Kaźmierczyk
+DTEND:20251025T111500Z
+LOCATION:Paw.G  9
+DTSTART:20251025T064500Z
+SUMMARY:Ordynacja - studium przypadku (Studia podyplomowe)
+UID:f4d2c67c-7b73-4f70-b00b-699da4a3564d@f4d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Bogusława Gnela
+DTEND:20251122T150000Z
+LOCATION:Paw.G - 2
+DTSTART:20251122T111500Z
+SUMMARY:Przepisy i etyka doradztwa podatkowego (Studia podyplomowe)
+UID:0bb13eee-27ed-4595-814f-f276d9d48a3a@0bb1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Kotulski
+DTEND:20251121T191500Z
+LOCATION:Paw.G - 2
+DTSTART:20251121T144500Z
+SUMMARY:�ródła i wykładnia prawa podatkowego (Studia podyplomowe)
+UID:b75de075-8098-499f-87d6-116166120760@b75d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Łuc
+DTEND:20251212T184500Z
+DTSTART:20251212T154500Z
+SUMMARY:Podatek od czynności cywilnoprawnych\, spadków i darowizn\, opłata skar. (Studia podyplomowe)
+UID:f21f5d4d-1a65-4862-8f0a-0f15151e5a4f@f21f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
 DTEND:20251122T104500Z
+LOCATION:Paw.G - 2
 DTSTART:20251122T074500Z
 SUMMARY:Podatek dochodowy od osób prawnych (Studia podyplomowe)
-UID:430229c7-0d70-4677-a6b3-8593fa0e5bd4@4302.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr M. Kotulski
-DTEND:20260124T121500Z
-DTSTART:20260124T074500Z
-SUMMARY:Postępowanie administracyjne i sądowoadministracyjne (Studia podyplomowe)
-UID:c366aa76-e064-46ef-a201-253d48110e00@c366.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr M. Jamrozik
-DTEND:20260110T104500Z
-DTSTART:20260110T074500Z
-SUMMARY:Postępowanie egzekucyjne w administracji (Studia podyplomowe)
-UID:6aeba296-f0c5-495b-be8d-850381f251da@6aeb.org
+UID:1c42ff3f-41bf-4ae9-858d-4fedc98667ed@1c42.org
 END:VEVENT
 END:VCALENDAR

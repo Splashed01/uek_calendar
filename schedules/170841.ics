@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Renata Salerno-Kochan
-DTEND:20251016T160000Z
-LOCATION:Sienk. 4 pr. przem. 3
-DTSTART:20251016T130000Z
-SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
-UID:176d4442-895b-49ec-8598-fe86b9f3e6e2@176d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
-DTEND:20251201T153000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20251201T140000Z
-SUMMARY:Technologie cyfrowe (ćwiczenia)
-UID:2f852b63-828b-4aa3-b139-6e32e89858fe@2f85.org
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20251112T083000Z
+LOCATION:Paw.F 104
+DTSTART:20251112T070000Z
+SUMMARY:Matematyka (ćwiczenia)
+UID:c183bf5c-24f8-4ba8-823f-558f70aeeac9@c183.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
@@ -23,230 +15,7 @@ DTEND:20251217T120000Z
 LOCATION:Paw.S sala 7
 DTSTART:20251217T103000Z
 SUMMARY:Matematyka (wykład)
-UID:99e4e374-433a-449d-963e-1cb3d85d8831@99e4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
-DTEND:20251127T120000Z
-LOCATION:Paw.F 104
-DTSTART:20251127T103000Z
-SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (wykład)
-UID:c2a801a8-ccc3-4f3d-9275-9f5d7e303e9d@c2a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Wacław Adamczyk
-DTEND:20251112T120000Z
-LOCATION:Paw.B 251
-DTSTART:20251112T103000Z
-SUMMARY:Procesy i techniki produkcyjne (wykład)
-UID:a3eec958-deeb-4b3a-abf0-a2a6214f9769@a3ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
-DTEND:20260119T134500Z
-LOCATION:Paw.G 10
-DTSTART:20260119T121500Z
-SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (ćwiczenia)
-UID:68011610-60dc-4b13-a465-a126c74527be@6801.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Wacław Adamczyk
-DTEND:20251008T124500Z
-LOCATION:Paw.C sala A
-DTSTART:20251008T111500Z
-SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
-UID:6a038201-d65f-4115-aec9-199c2b2f5880@6a03.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
-DTEND:20251114T101500Z
-LOCATION:Paw.F 614
-DTSTART:20251114T084500Z
-SUMMARY:Ergonomia i BHP (konwersatorium)
-UID:8195681e-c76c-4997-a977-88047cd7ad15@8195.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
-DTEND:20251013T124500Z
-LOCATION:Paw.G 10
-DTSTART:20251013T111500Z
-SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (ćwiczenia)
-UID:0c0a4d29-52cf-45a2-b54e-3f3b4a877d6f@0c0a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
-DTEND:20251017T091500Z
-LOCATION:Paw.F 614
-DTSTART:20251017T074500Z
-SUMMARY:Ergonomia i BHP (konwersatorium)
-UID:48c77c1c-cf4a-480d-9c8a-9d3b17dfeab5@48c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
-DTEND:20251103T153000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20251103T140000Z
-SUMMARY:Technologie cyfrowe (ćwiczenia)
-UID:ecb5fe33-2a23-4f24-a2dd-03f52d1eb21b@ecb5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
-DTEND:20251218T151500Z
-LOCATION:Sienk. 4 pr. przem. 4
-DTSTART:20251218T121500Z
-SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
-UID:3f1fbd1f-4163-4dab-a111-57daf80f887c@3f1f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20260107T083000Z
-LOCATION:Paw.F 104
-DTSTART:20260107T070000Z
-SUMMARY:Matematyka (ćwiczenia)
-UID:bbf8b4c3-188e-4a08-9f9f-3d8dbcb5ded3@bbf8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
-DTEND:20251215T134500Z
-LOCATION:Paw.G 10
-DTSTART:20251215T121500Z
-SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (ćwiczenia)
-UID:0efac35a-eb77-434f-9d04-dac92108ab0c@0efa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
-DTEND:20251117T134500Z
-LOCATION:Paw.G 10
-DTSTART:20251117T121500Z
-SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (ćwiczenia)
-UID:ccba41fe-e534-4f42-b758-1c68a02442f6@ccba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Wacław Adamczyk
-DTEND:20251015T110000Z
-LOCATION:Paw.B 251
-DTSTART:20251015T093000Z
-SUMMARY:Procesy i techniki produkcyjne (wykład)
-UID:3515740c-5c6a-4b55-bc71-a0226ab4a083@3515.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Wacław Adamczyk
-DTEND:20251022T124500Z
-LOCATION:Paw.C sala A
-DTSTART:20251022T111500Z
-SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
-UID:ea33855a-c624-4e93-9f54-cec769795994@ea33.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
-DTEND:20251211T120000Z
-LOCATION:Paw.F 104
-DTSTART:20251211T103000Z
-SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (wykład)
-UID:1ff5e6fa-d8b1-4d82-9594-3eed1b111099@1ff5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Wacław Adamczyk
-DTEND:20251210T120000Z
-LOCATION:Paw.B 251
-DTSTART:20251210T103000Z
-SUMMARY:Procesy i techniki produkcyjne (wykład)
-UID:e4e69e66-b0b2-4fee-8e3e-3ccab2e29d48@e4e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20251008T073000Z
-LOCATION:Paw.F 104
-DTSTART:20251008T060000Z
-SUMMARY:Matematyka (ćwiczenia)
-UID:a7d3034e-fde2-4008-acb8-29890ae38b96@a7d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20251105T120000Z
-LOCATION:Paw.S sala 7
-DTSTART:20251105T103000Z
-SUMMARY:Matematyka (wykład)
-UID:06c7b0ef-4e83-438c-b3a9-eb6f6f68186e@06c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
-DTEND:20251125T120000Z
-LOCATION:Paw.C sala A
-DTSTART:20251125T103000Z
-SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (wykład)
-UID:98b45885-2e9c-4176-9242-c927004765e4@98b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20251127T083000Z
-LOCATION:Paw.F 109
-DTSTART:20251127T070000Z
-SUMMARY:Matematyka (ćwiczenia)
-UID:6b97a790-5ec0-4354-b990-d6e494612aa0@6b97.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
-DTEND:20251211T190000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20251211T173000Z
-SUMMARY:Technologie cyfrowe (ćwiczenia)
-UID:36828cd2-e9bf-4cf1-a2fb-6e2d7c5bd04b@3682.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
-DTEND:20260122T151500Z
-LOCATION:Sienk. 4 pr. przem. 4
-DTSTART:20260122T121500Z
-SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
-UID:0f23c35c-afeb-45f5-8b2d-a23772b22c8c@0f23.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Wacław Adamczyk
-DTEND:20260121T111500Z
-LOCATION:Paw.B 251
-DTSTART:20260121T103000Z
-SUMMARY:Procesy i techniki produkcyjne (wykład)
-UID:fa6969ae-535a-4d42-8bcc-b200243de545@fa69.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20251119T120000Z
-LOCATION:Paw.S sala 7
-DTSTART:20251119T103000Z
-SUMMARY:Matematyka (wykład)
-UID:8ae3eb68-0913-41cc-aae5-035219b8e798@8ae3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Wacław Adamczyk
-DTEND:20251105T134500Z
-LOCATION:Paw.C sala A
-DTSTART:20251105T121500Z
-SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
-UID:c411141e-9eaa-47da-889b-4424ec2a676d@c411.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
-DTEND:20251124T134500Z
-LOCATION:Bud.gł. 7
-DTSTART:20251124T121500Z
-SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (ćwiczenia)
-UID:f3902e12-f510-4554-a8d9-ab6f220013d0@f390.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20260114T111500Z
-LOCATION:Paw.S sala 7
-DTSTART:20260114T103000Z
-SUMMARY:Matematyka (wykład)
-UID:04990a46-38cf-4377-8a48-8ad681e75300@0499.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251016T123000Z
-DTSTART:20251016T093000Z
-SUMMARY: (rezerwacja)
-UID:3f8cc39b-cb24-4a04-8189-4ba2b7adcb65@3f8c.org
+UID:f40fa195-d1d9-45d0-a2ff-dfe34db72d1b@f40f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
@@ -254,23 +23,7 @@ DTEND:20251016T073000Z
 LOCATION:Paw.F 109
 DTSTART:20251016T060000Z
 SUMMARY:Matematyka (ćwiczenia)
-UID:b167d33c-ce54-417f-b2eb-40d713cd3924@b167.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20260122T083000Z
-LOCATION:Paw.F 109
-DTSTART:20260122T070000Z
-SUMMARY:Matematyka (ćwiczenia)
-UID:579cae2c-28aa-4da4-9835-65685b5b6dc4@579c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
-DTEND:20251117T101500Z
-LOCATION:Paw.G 10
-DTSTART:20251117T084500Z
-SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (ćwiczenia)
-UID:3008dcef-db78-4d3d-8fd8-aa204313444a@3008.org
+UID:578b2ec0-e816-4ccd-a293-0f3ba437cb3b@578b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. dr hab. Wacław Adamczyk
@@ -278,295 +31,7 @@ DTEND:20251126T120000Z
 LOCATION:Paw.B 251
 DTSTART:20251126T103000Z
 SUMMARY:Procesy i techniki produkcyjne (wykład)
-UID:30168f0a-aaeb-43f2-b48b-8de77b516d3f@3016.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
-DTEND:20251124T153000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20251124T140000Z
-SUMMARY:Technologie cyfrowe (ćwiczenia)
-UID:69c6ba07-6fd9-420e-908a-0a2e9585645f@69c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
-DTEND:20251204T151500Z
-LOCATION:Sienk. 4 pr. przem. 4
-DTSTART:20251204T121500Z
-SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
-UID:b6608d14-dc04-477f-abdc-261990cdb284@b660.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
-DTEND:20251118T120000Z
-LOCATION:Paw.C sala A
-DTSTART:20251118T103000Z
-SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (wykład)
-UID:a21eec7c-0fb8-4d92-814b-0457564bd6e4@a21e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
-DTEND:20251222T134500Z
-LOCATION:Paw.G 10
-DTSTART:20251222T121500Z
-SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (ćwiczenia)
-UID:b53d7cfa-d2a6-4185-a2f3-227436f7221d@b53d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
-DTEND:20260112T153000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20260112T140000Z
-SUMMARY:Technologie cyfrowe (ćwiczenia)
-UID:7c611f96-861c-41d4-98f2-d6c99bf58568@7c61.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
-DTEND:20251201T134500Z
-LOCATION:Paw.G 10
-DTSTART:20251201T121500Z
-SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (ćwiczenia)
-UID:59441be0-044a-4ee3-91c1-5ea23af44e9e@5944.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Wacław Adamczyk
-DTEND:20251112T134500Z
-LOCATION:Paw.C sala A
-DTSTART:20251112T121500Z
-SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
-UID:5c47c1cd-0289-4641-b049-c4f5af5cfded@5c47.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20251022T073000Z
-LOCATION:Paw.F 104
-DTSTART:20251022T060000Z
-SUMMARY:Matematyka (ćwiczenia)
-UID:c3a3cd22-047d-4c11-8a50-4cff8fef94a9@c3a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20260114T083000Z
-LOCATION:Paw.F 104
-DTSTART:20260114T070000Z
-SUMMARY:Matematyka (ćwiczenia)
-UID:a3ca731f-5896-4790-93a8-8226294f42a5@a3ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
-DTEND:20251127T151500Z
-LOCATION:Sienk. 4 pr. przem. 4
-DTSTART:20251127T121500Z
-SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
-UID:c9332f36-c8de-4801-8bbb-f7741ce33b6a@c933.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
-DTEND:20251222T153000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20251222T140000Z
-SUMMARY:Technologie cyfrowe (ćwiczenia)
-UID:f306fce5-9c85-4964-9c7d-ef199346458f@f306.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Wacław Adamczyk
-DTEND:20251216T134500Z
-LOCATION:Paw.S sala 11
-DTSTART:20251216T121500Z
-SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
-UID:148f870e-586b-4c31-beab-22d28890136a@148f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
-DTEND:20260122T120000Z
-LOCATION:Paw.F 104
-DTSTART:20260122T103000Z
-SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (wykład)
-UID:74c96b6c-4eda-4e1e-a221-e635e4a2042d@74c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Wacław Adamczyk
-DTEND:20251029T120000Z
-LOCATION:Paw.B 251
-DTSTART:20251029T103000Z
-SUMMARY:Procesy i techniki produkcyjne (wykład)
-UID:45227d1f-2754-44cf-9149-20fc44268b94@4522.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Wacław Adamczyk
-DTEND:20251001T110000Z
-LOCATION:Paw.B 251
-DTSTART:20251001T093000Z
-SUMMARY:Procesy i techniki produkcyjne (wykład)
-UID:619a5cd1-fdd5-4c51-9634-a352d3a821df@619a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20251112T083000Z
-LOCATION:Paw.F 104
-DTSTART:20251112T070000Z
-SUMMARY:Matematyka (ćwiczenia)
-UID:5fd31a7b-73b8-4198-a2c6-5f92d02974e8@5fd3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20260122T163000Z
-LOCATION:Paw.S sala 5
-DTSTART:20260122T154500Z
-SUMMARY:Matematyka (ćwiczenia)
-UID:0d82a6ef-0fd9-44e2-92f2-382434b78fca@0d82.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Renata Salerno-Kochan
-DTEND:20251007T110000Z
-LOCATION:Paw.C sala A
-DTSTART:20251007T093000Z
-SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (wykład)
-UID:70a2c174-cb0a-4bda-a5e4-40d59e0ae1bb@70a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
-DTEND:20251216T120000Z
-LOCATION:Paw.C sala A
-DTSTART:20251216T103000Z
-SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (wykład)
-UID:ebfc3b7d-5627-4262-83aa-06cb430e1e49@ebfc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
-DTEND:20251208T134500Z
-LOCATION:Paw.G 10
-DTSTART:20251208T121500Z
-SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (ćwiczenia)
-UID:740db9bb-7315-4f7e-bb76-6670db92ac5b@740d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Renata Salerno-Kochan
-DTEND:20251002T141500Z
-LOCATION:Sienk. 4 pr. przem. 3
-DTSTART:20251002T111500Z
-SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
-UID:89ac36e6-7143-4b50-8822-1bb6e2b3f231@89ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
-DTEND:20251003T091500Z
-LOCATION:Paw.F 614
-DTSTART:20251003T074500Z
-SUMMARY:Ergonomia i BHP (konwersatorium)
-UID:c2bfecf4-e76a-4d33-9d30-08a100a0226a@c2bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20251014T073000Z
-LOCATION:Paw.S sala 7
-DTSTART:20251014T060000Z
-SUMMARY:Matematyka (wykład)
-UID:64b2b997-eea0-4e72-8e6e-5cdd0836ee98@64b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
-DTEND:20251211T151500Z
-LOCATION:Sienk. 4 pr. przem. 4
-DTSTART:20251211T121500Z
-SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
-UID:6d4eb513-f66a-44fa-a0ae-09cfa8f7ccd3@6d4e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Wacław Adamczyk
-DTEND:20251203T134500Z
-LOCATION:Paw.C sala A
-DTSTART:20251203T121500Z
-SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
-UID:5db85adc-fb4d-42bb-bc58-dacc99f11a84@5db8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
-DTEND:20260112T171500Z
-LOCATION:Paw.G 10
-DTSTART:20260112T154500Z
-SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (ćwiczenia)
-UID:2022e473-0162-41f5-a796-968946d75384@2022.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
-DTEND:20251002T110000Z
-LOCATION:Paw.F 104
-DTSTART:20251002T093000Z
-SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (wykład)
-UID:9e9de6af-553b-49f6-a291-7dd390cf4afa@9e9d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
-DTEND:20251031T101500Z
-LOCATION:Paw.F 614
-DTSTART:20251031T084500Z
-SUMMARY:Ergonomia i BHP (konwersatorium)
-UID:44f533c2-a93d-4f0c-b977-2281141a5aff@44f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
-DTEND:20260108T120000Z
-LOCATION:Paw.F 104
-DTSTART:20260108T103000Z
-SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (wykład)
-UID:0bad2bfc-09f8-4eb5-a71e-423a99dc0f42@0bad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Renata Salerno-Kochan
-DTEND:20251023T141500Z
-LOCATION:Sienk. 4 pr. przem. 3
-DTSTART:20251023T111500Z
-SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
-UID:a4442336-1641-4be8-a922-3871d140b468@a444.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Renata Salerno-Kochan
-DTEND:20251028T120000Z
-LOCATION:Paw.C sala A
-DTSTART:20251028T103000Z
-SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (wykład)
-UID:b1d1a930-640b-439d-a5da-66eb76fd60cd@b1d1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Renata Salerno-Kochan
-DTEND:20251113T143000Z
-LOCATION:Sienk. 4 pr. przem. 3
-DTSTART:20251113T121500Z
-SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
-UID:eff68e47-bb09-4d0f-863c-3df62bc80d22@eff6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Renata Salerno-Kochan
-DTEND:20251021T110000Z
-LOCATION:Paw.C sala A
-DTSTART:20251021T093000Z
-SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (wykład)
-UID:ee761172-7981-42de-a360-d7e2d873d8ce@ee76.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Wacław Adamczyk
-DTEND:20260107T120000Z
-LOCATION:Paw.B 251
-DTSTART:20260107T103000Z
-SUMMARY:Procesy i techniki produkcyjne (wykład)
-UID:2e437163-1ac1-451f-9579-e97c5c396b55@2e43.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
-DTEND:20251103T134500Z
-LOCATION:Paw.G 10
-DTSTART:20251103T121500Z
-SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (ćwiczenia)
-UID:08da62ea-6e31-47c6-9b31-1cca622b1b0e@08da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
-DTEND:20260108T151500Z
-LOCATION:Sienk. 4 pr. przem. 4
-DTSTART:20260108T121500Z
-SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
-UID:6b529009-4e25-4868-93f4-312972f760f5@6b52.org
+UID:d6623c24-1d0f-4a18-87d4-08aae9cdb308@d662.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
@@ -574,222 +39,7 @@ DTEND:20251215T101500Z
 LOCATION:Paw.G 10
 DTSTART:20251215T084500Z
 SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (ćwiczenia)
-UID:6cb113bd-bb4d-4799-b604-c13e2bce921e@6cb1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Renata Salerno-Kochan
-DTEND:20251014T110000Z
-LOCATION:Paw.C sala A
-DTSTART:20251014T093000Z
-SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (wykład)
-UID:751c1666-f442-4b32-abd0-43b951ea3323@751c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
-DTEND:20260115T151500Z
-LOCATION:Sienk. 4 pr. przem. 4
-DTSTART:20260115T121500Z
-SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
-UID:875dcc5a-c7a8-4b84-8305-452f6ecad994@875d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
-DTEND:20251128T101500Z
-LOCATION:Paw.F 614
-DTSTART:20251128T084500Z
-SUMMARY:Ergonomia i BHP (konwersatorium)
-UID:f549cb06-5f3a-4499-812b-6fad3c42ca96@f549.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
-DTEND:20251027T153000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20251027T140000Z
-SUMMARY:Technologie cyfrowe (ćwiczenia)
-UID:c76688d8-176a-44ae-bb17-7c2e3f9ec65e@c766.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
-DTEND:20260112T134500Z
-LOCATION:Paw.G 10
-DTSTART:20260112T121500Z
-SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (ćwiczenia)
-UID:fda65d2b-7a6d-4eb5-979f-92a22b083daa@fda6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
-DTEND:20251209T120000Z
-LOCATION:Paw.C sala A
-DTSTART:20251209T103000Z
-SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (wykład)
-UID:c862c4d2-5a17-4f9d-9888-fa61b51db844@c862.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251217T134500Z
-DTSTART:20251217T121500Z
-SUMMARY: (rezerwacja)
-UID:32de22e8-6b0d-410f-a844-398425d6cdca@32de.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
-DTEND:20251202T120000Z
-LOCATION:Paw.C sala A
-DTSTART:20251202T103000Z
-SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (wykład)
-UID:9d02c1e1-1203-4d3a-9f18-410778ebab43@9d02.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20251211T083000Z
-LOCATION:Paw.F 109
-DTSTART:20251211T070000Z
-SUMMARY:Matematyka (ćwiczenia)
-UID:86eb67ea-5ae1-40ce-a39a-c9210183ac69@86eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Wacław Adamczyk
-DTEND:20251015T124500Z
-LOCATION:Paw.C sala A
-DTSTART:20251015T111500Z
-SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
-UID:ed062869-8a82-49c1-99fd-7cd3dbf27166@ed06.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
-DTEND:20251009T141500Z
-LOCATION:Sienk. 4 pr. przem. 3
-DTSTART:20251009T111500Z
-SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
-UID:87d0a8bf-f2ce-4445-9e64-7399065954a7@87d0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
-DTEND:20260109T101500Z
-LOCATION:Paw.F 614
-DTSTART:20260109T084500Z
-SUMMARY:Ergonomia i BHP (konwersatorium)
-UID:cde51672-54f5-4578-91d5-5ae8ed9d3fd7@cde5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20251001T073000Z
-LOCATION:Paw.F 104
-DTSTART:20251001T060000Z
-SUMMARY:Matematyka (ćwiczenia)
-UID:11536da9-5170-4695-80cd-80e7f770bb65@1153.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
-DTEND:20251208T153000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20251208T140000Z
-SUMMARY:Technologie cyfrowe (ćwiczenia)
-UID:f4f5c002-b986-4fb8-8682-44559b2a27ec@f4f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20251210T083000Z
-LOCATION:Paw.F 104
-DTSTART:20251210T070000Z
-SUMMARY:Matematyka (ćwiczenia)
-UID:e0e74fbc-5681-4d00-9aec-aa3b503f92e1@e0e7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20251126T083000Z
-LOCATION:Paw.F 104
-DTSTART:20251126T070000Z
-SUMMARY:Matematyka (ćwiczenia)
-UID:b85d270c-0be1-44d7-8742-fea3bbfae78e@b85d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20251105T083000Z
-LOCATION:Paw.F 104
-DTSTART:20251105T070000Z
-SUMMARY:Matematyka (ćwiczenia)
-UID:3391004c-c877-4150-b06d-c6ff9082695b@3391.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
-DTEND:20251212T101500Z
-LOCATION:Paw.F 614
-DTSTART:20251212T084500Z
-SUMMARY:Ergonomia i BHP (konwersatorium)
-UID:614f0345-8805-4d56-bb3e-084e15358251@614f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20251217T083000Z
-LOCATION:Paw.F 104
-DTSTART:20251217T070000Z
-SUMMARY:Matematyka (ćwiczenia)
-UID:2880c273-2ea5-4e16-bed1-22a4c37854f9@2880.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Wacław Adamczyk
-DTEND:20251029T134500Z
-LOCATION:Paw.C sala A
-DTSTART:20251029T121500Z
-SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
-UID:36c6c1e7-175a-4ad0-910c-3a87663bc74e@36c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
-DTEND:20251020T143000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20251020T130000Z
-SUMMARY:Technologie cyfrowe (ćwiczenia)
-UID:d951733c-c4ee-412a-8f9b-b3446f9c0638@d951.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Renata Salerno-Kochan
-DTEND:20251106T151500Z
-LOCATION:Sienk. 4 pr. przem. 3
-DTSTART:20251106T121500Z
-SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
-UID:8b669ff4-189d-4624-bb65-0719bb2c4408@8b66.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
-DTEND:20251030T120000Z
-LOCATION:Paw.F 104
-DTSTART:20251030T103000Z
-SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (wykład)
-UID:bf418fd2-f978-4f97-909c-3c9e10dd90d9@bf41.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Renata Salerno-Kochan
-DTEND:20251030T151500Z
-LOCATION:Sienk. 4 pr. przem. 3
-DTSTART:20251030T121500Z
-SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
-UID:8929bc27-27a4-4f5b-85e4-481b9ef683e9@8929.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20260108T083000Z
-LOCATION:Paw.F 109
-DTSTART:20260108T070000Z
-SUMMARY:Matematyka (ćwiczenia)
-UID:09446e92-4c70-4d50-9256-eab8574344e2@0944.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20251008T110000Z
-LOCATION:Paw.S sala 7
-DTSTART:20251008T093000Z
-SUMMARY:Matematyka (wykład)
-UID:7fe21f63-9d2e-4515-b17a-b98aa41b6014@7fe2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20251029T083000Z
-LOCATION:Paw.F 104
-DTSTART:20251029T070000Z
-SUMMARY:Matematyka (ćwiczenia)
-UID:1a09d860-a9e3-443c-84fc-92f23ade5c13@1a09.org
+UID:e9b75cf5-620b-4d36-b0c0-ad3edd100d25@e9b7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
@@ -797,207 +47,15 @@ DTEND:20260119T153000Z
 LOCATION:Paw.A 115 lab.Win8.1\, Office21
 DTSTART:20260119T140000Z
 SUMMARY:Technologie cyfrowe (ćwiczenia)
-UID:a6868e68-c756-443f-b499-c8a44261f649@a686.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Wacław Adamczyk
-DTEND:20251126T134500Z
-LOCATION:Paw.C sala A
-DTSTART:20251126T121500Z
-SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
-UID:b21f1b5e-ffe7-4be0-9303-f4e5c2603372@b21f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20251203T120000Z
-LOCATION:Paw.S sala 7
-DTSTART:20251203T103000Z
-SUMMARY:Matematyka (wykład)
-UID:efa3cd8e-1288-4144-ae18-8ae28af6fa43@efa3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
-DTEND:20260112T101500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20260112T084500Z
-SUMMARY:Technologie cyfrowe (ćwiczenia)
-UID:6da7e65f-c357-4700-b209-2e524267800e@6da7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Wacław Adamczyk
-DTEND:20260121T134500Z
-LOCATION:Paw.C sala A
-DTSTART:20260121T121500Z
-SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
-UID:dfd8165c-d999-480c-8465-97db31510529@dfd8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
-DTEND:20251027T134500Z
-LOCATION:Paw.G 10
-DTSTART:20251027T121500Z
-SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (ćwiczenia)
-UID:b8e29c67-2e6e-4c3a-baec-a9a932f2cc42@b8e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20260121T083000Z
-LOCATION:Paw.F 104
-DTSTART:20260121T070000Z
-SUMMARY:Matematyka (ćwiczenia)
-UID:e3b291e6-dcb4-4813-898d-7e4a91c85806@e3b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20251030T083000Z
-LOCATION:Paw.F 109
-DTSTART:20251030T070000Z
-SUMMARY:Matematyka (ćwiczenia)
-UID:cfca2216-0041-404c-8e18-31e9ad83c2d3@cfca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20251022T110000Z
-LOCATION:Paw.S sala 7
-DTSTART:20251022T093000Z
-SUMMARY:Matematyka (wykład)
-UID:17b6507a-9d0b-4db6-91f4-da448664c064@17b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20251015T073000Z
-LOCATION:Paw.F 104
-DTSTART:20251015T060000Z
-SUMMARY:Matematyka (ćwiczenia)
-UID:ed3ea9f8-bafc-4061-9044-b7195c86e29f@ed3e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
-DTEND:20251117T153000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20251117T140000Z
-SUMMARY:Technologie cyfrowe (ćwiczenia)
-UID:5d2b45c1-eb3c-40ce-91e8-be4797050b82@5d2b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
-DTEND:20251120T083000Z
-LOCATION:Paw.F 104
-DTSTART:20251120T074500Z
-SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (wykład)
-UID:f2b4e0de-f5d3-4ee4-ad76-3f0c5876efec@f2b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Renata Salerno-Kochan
-DTEND:20251104T120000Z
-LOCATION:Paw.C sala A
-DTSTART:20251104T103000Z
-SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (wykład)
-UID:c2590aff-253f-4cb5-9d31-44f781ab083e@c259.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20251203T083000Z
-LOCATION:Paw.F 104
-DTSTART:20251203T070000Z
-SUMMARY:Matematyka (ćwiczenia)
-UID:a4477f97-a40d-49b2-92c2-c9717da474b2@a447.org
+UID:407ecc4a-cd04-4e95-a63a-b1b6969f6b77@407e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
-DTEND:20260123T093000Z
+DTEND:20251128T101500Z
 LOCATION:Paw.F 614
-DTSTART:20260123T084500Z
+DTSTART:20251128T084500Z
 SUMMARY:Ergonomia i BHP (konwersatorium)
-UID:a430ab36-cb94-4abc-b66c-fa1c16af3799@a430.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Wacław Adamczyk
-DTEND:20251210T134500Z
-LOCATION:Paw.C sala A
-DTSTART:20251210T121500Z
-SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
-UID:d9d6ece4-b454-4b67-aa96-c12c6f9761d4@d9d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20251119T083000Z
-LOCATION:Paw.F 104
-DTSTART:20251119T070000Z
-SUMMARY:Matematyka (ćwiczenia)
-UID:be843180-5e23-416b-bfb0-434e21273542@be84.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Wacław Adamczyk
-DTEND:20260107T134500Z
-LOCATION:Paw.C sala A
-DTSTART:20260107T121500Z
-SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
-UID:493f7fa3-e0d8-4420-881b-082405166cb4@493f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
-DTEND:20251020T124500Z
-LOCATION:Paw.G 10
-DTSTART:20251020T111500Z
-SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (ćwiczenia)
-UID:e1d04b6d-8489-4428-a0eb-bf66249da247@e1d0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
-DTEND:20251215T153000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20251215T140000Z
-SUMMARY:Technologie cyfrowe (ćwiczenia)
-UID:88ba8e22-89dd-4276-a545-80a034c32365@88ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
-DTEND:20251013T143000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20251013T130000Z
-SUMMARY:Technologie cyfrowe (ćwiczenia)
-UID:942fc1e8-74b1-4230-acfd-54588025b257@942f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
-DTEND:20251218T190000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20251218T173000Z
-SUMMARY:Technologie cyfrowe (ćwiczenia)
-UID:3fd0d252-8f78-4e2c-bfd9-f9a0b192b854@3fd0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Wacław Adamczyk
-DTEND:20251001T124500Z
-LOCATION:Paw.C sala A
-DTSTART:20251001T111500Z
-SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
-UID:7ffa417e-fd5f-4db6-9c38-be0a57765d44@7ffa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Wacław Adamczyk
-DTEND:20260114T134500Z
-LOCATION:Paw.C sala A
-DTSTART:20260114T121500Z
-SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
-UID:1103fa2b-6ad4-4138-b1cc-d259a3efe397@1103.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Wacław Adamczyk
-DTEND:20251119T134500Z
-LOCATION:Paw.C sala A
-DTSTART:20251119T121500Z
-SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
-UID:3bd29c8c-0306-4c35-a165-6f5d91279df0@3bd2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20251113T083000Z
-LOCATION:Paw.F 109
-DTSTART:20251113T070000Z
-SUMMARY:Matematyka (ćwiczenia)
-UID:8b85cd1e-3ae9-45d3-a47f-259764e2d0a5@8b85.org
+UID:1bf04049-8fb3-4410-8c91-019ba4775d62@1bf0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
@@ -1005,6 +63,948 @@ DTEND:20251113T120000Z
 LOCATION:Paw.F 104
 DTSTART:20251113T103000Z
 SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (wykład)
-UID:c63ffd38-312c-440a-8a63-bfb029c8291d@c63f.org
+UID:fc4ba2ce-bfe1-48cf-bbe5-736881b4bf65@fc4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
+DTEND:20251201T134500Z
+LOCATION:Paw.G 10
+DTSTART:20251201T121500Z
+SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (ćwiczenia)
+UID:65ab1711-9d96-49b9-a3e0-039e97b6e746@65ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
+DTEND:20260119T134500Z
+LOCATION:Paw.G 10
+DTSTART:20260119T121500Z
+SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (ćwiczenia)
+UID:057f773d-0bdd-45a9-983d-c4b8c55fd7f8@057f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Wacław Adamczyk
+DTEND:20251216T134500Z
+LOCATION:Paw.S sala 11
+DTSTART:20251216T121500Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:8cb5e24e-f7e5-4424-ae10-e177d1f86bc7@8cb5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
+DTEND:20260108T151500Z
+LOCATION:Sienk. 4 pr. przem. 4
+DTSTART:20260108T121500Z
+SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
+UID:63a643d8-67a4-4531-b2e0-924c5a423be7@63a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20251201T153000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20251201T140000Z
+SUMMARY:Technologie cyfrowe (ćwiczenia)
+UID:cf79c784-b4f8-4f0f-bfa1-729abdd3d0a5@cf79.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20251215T153000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20251215T140000Z
+SUMMARY:Technologie cyfrowe (ćwiczenia)
+UID:60b104d4-f98f-4416-80f4-5716a62f7e64@60b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20260112T153000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20260112T140000Z
+SUMMARY:Technologie cyfrowe (ćwiczenia)
+UID:a91d9d23-0132-45a2-82b8-02b2f05f8847@a91d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
+DTEND:20251013T124500Z
+LOCATION:Paw.G 10
+DTSTART:20251013T111500Z
+SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (ćwiczenia)
+UID:a62b1e6f-358e-4f2f-b714-5ac5bbc08b56@a62b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20251003T091500Z
+LOCATION:Paw.F 614
+DTSTART:20251003T074500Z
+SUMMARY:Ergonomia i BHP (konwersatorium)
+UID:25d3d297-7ef3-4529-9392-92bac150adc7@25d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20251030T083000Z
+LOCATION:Paw.F 109
+DTSTART:20251030T070000Z
+SUMMARY:Matematyka (ćwiczenia)
+UID:59f82ca6-f51c-46d5-877e-b9ac113cba8e@59f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Salerno-Kochan
+DTEND:20251106T151500Z
+LOCATION:Sienk. 4 pr. przem. 3
+DTSTART:20251106T121500Z
+SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
+UID:2a08374a-fe49-4854-8045-a3f0b58b93c3@2a08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20251203T120000Z
+LOCATION:Paw.S sala 7
+DTSTART:20251203T103000Z
+SUMMARY:Matematyka (wykład)
+UID:05a68dee-2c37-4a46-a18e-82fa4c0aaba6@05a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20251210T083000Z
+LOCATION:Paw.F 104
+DTSTART:20251210T070000Z
+SUMMARY:Matematyka (ćwiczenia)
+UID:95dc07ba-eddb-4535-ae0b-e682541a9a60@95dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Salerno-Kochan
+DTEND:20251014T110000Z
+LOCATION:Paw.C sala A
+DTSTART:20251014T093000Z
+SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (wykład)
+UID:3fc4c48a-df0f-49d9-82ff-0739791c17fc@3fc4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Wacław Adamczyk
+DTEND:20251015T124500Z
+LOCATION:Paw.C sala A
+DTSTART:20251015T111500Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:416ea7eb-6b4b-456a-8428-725e43c5065c@416e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
+DTEND:20251215T134500Z
+LOCATION:Paw.G 10
+DTSTART:20251215T121500Z
+SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (ćwiczenia)
+UID:07acc139-a398-430f-b800-ad4340c3301f@07ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20260114T083000Z
+LOCATION:Paw.F 104
+DTSTART:20260114T070000Z
+SUMMARY:Matematyka (ćwiczenia)
+UID:40d100b9-ec22-4208-83f9-48482d1a114a@40d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
+DTEND:20251120T083000Z
+LOCATION:Paw.F 104
+DTSTART:20251120T074500Z
+SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (wykład)
+UID:399b1bc2-ddd0-4778-a5c2-b0bc0e78834f@399b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Salerno-Kochan
+DTEND:20251016T160000Z
+LOCATION:Sienk. 4 pr. przem. 3
+DTSTART:20251016T130000Z
+SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
+UID:b0c502ab-742d-4721-9ff3-180ba9724811@b0c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20260114T111500Z
+LOCATION:Paw.S sala 7
+DTSTART:20260114T103000Z
+SUMMARY:Matematyka (wykład)
+UID:235b2dc1-56e8-4521-a8a6-bf66da8be8fb@235b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20251203T083000Z
+LOCATION:Paw.F 104
+DTSTART:20251203T070000Z
+SUMMARY:Matematyka (ćwiczenia)
+UID:0cad3f65-013a-4706-bcd0-dd12ef353d10@0cad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20251211T190000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20251211T173000Z
+SUMMARY:Technologie cyfrowe (ćwiczenia)
+UID:955647de-2f32-4b10-a971-4e20f75625be@9556.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20260109T101500Z
+LOCATION:Paw.F 614
+DTSTART:20260109T084500Z
+SUMMARY:Ergonomia i BHP (konwersatorium)
+UID:5c42f102-eb5a-4c72-b831-01094df072a1@5c42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
+DTEND:20251209T120000Z
+LOCATION:Paw.C sala A
+DTSTART:20251209T103000Z
+SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (wykład)
+UID:b664d784-902b-4d4e-8a65-cd900616d59b@b664.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
+DTEND:20260112T134500Z
+LOCATION:Paw.G 10
+DTSTART:20260112T121500Z
+SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (ćwiczenia)
+UID:e41340b3-6c00-4566-89ad-8346b56ff108@e413.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Wacław Adamczyk
+DTEND:20251210T134500Z
+LOCATION:Paw.C sala A
+DTSTART:20251210T121500Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:df2b30bd-1f55-4d56-aaf8-800b139d8cff@df2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
+DTEND:20260122T120000Z
+LOCATION:Paw.F 104
+DTSTART:20260122T103000Z
+SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (wykład)
+UID:5499c3de-474e-4f34-b483-79ca6490752c@5499.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Wacław Adamczyk
+DTEND:20251029T134500Z
+LOCATION:Paw.C sala A
+DTSTART:20251029T121500Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:963ad1c0-7914-49fe-892e-d42bf2f9321c@963a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Wacław Adamczyk
+DTEND:20260107T134500Z
+LOCATION:Paw.C sala A
+DTSTART:20260107T121500Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:28a872b8-09eb-4c95-a94c-523760fc9595@28a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20251014T073000Z
+LOCATION:Paw.S sala 7
+DTSTART:20251014T060000Z
+SUMMARY:Matematyka (wykład)
+UID:e897dd93-ccea-4c2d-bb6c-864f4c6b21b8@e897.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20251022T073000Z
+LOCATION:Paw.F 104
+DTSTART:20251022T060000Z
+SUMMARY:Matematyka (ćwiczenia)
+UID:64e4a5cd-422e-444e-87e9-bef5bc07ffa9@64e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20251031T101500Z
+LOCATION:Paw.F 614
+DTSTART:20251031T084500Z
+SUMMARY:Ergonomia i BHP (konwersatorium)
+UID:52dbefec-9620-4cf2-885e-8d2368e2d6e4@52db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
+DTEND:20251103T134500Z
+LOCATION:Paw.G 10
+DTSTART:20251103T121500Z
+SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (ćwiczenia)
+UID:3d84993d-948f-4529-9752-ee0774cb98fd@3d84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Wacław Adamczyk
+DTEND:20251112T120000Z
+LOCATION:Paw.B 251
+DTSTART:20251112T103000Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:c6871e80-ca7b-47ee-9caf-47cd90667b94@c687.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Salerno-Kochan
+DTEND:20251113T143000Z
+LOCATION:Sienk. 4 pr. przem. 3
+DTSTART:20251113T121500Z
+SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
+UID:b5886c9e-2fbe-4778-937c-1ba4273f1a83@b588.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20251113T083000Z
+LOCATION:Paw.F 109
+DTSTART:20251113T070000Z
+SUMMARY:Matematyka (ćwiczenia)
+UID:6e289c45-cade-4753-a75a-fe1a8967a8e7@6e28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
+DTEND:20260122T151500Z
+LOCATION:Sienk. 4 pr. przem. 4
+DTSTART:20260122T121500Z
+SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
+UID:447d8dba-6acd-4cc0-8ec9-41b0a015a64b@447d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Salerno-Kochan
+DTEND:20251104T120000Z
+LOCATION:Paw.C sala A
+DTSTART:20251104T103000Z
+SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (wykład)
+UID:5b5f4842-5993-4690-9c5d-bcbafefeffd5@5b5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Wacław Adamczyk
+DTEND:20251022T124500Z
+LOCATION:Paw.C sala A
+DTSTART:20251022T111500Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:11ca91e5-9f60-477b-8d99-0f74587e38f8@11ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
+DTEND:20251222T134500Z
+LOCATION:Paw.G 10
+DTSTART:20251222T121500Z
+SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (ćwiczenia)
+UID:911ed3d2-7758-4e6e-ae73-81b3a5ba643d@911e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
+DTEND:20251002T110000Z
+LOCATION:Paw.F 104
+DTSTART:20251002T093000Z
+SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (wykład)
+UID:9cbc935e-35e1-4333-8359-3f4c9f766c88@9cbc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Wacław Adamczyk
+DTEND:20251029T120000Z
+LOCATION:Paw.B 251
+DTSTART:20251029T103000Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:e31cae73-aabf-4942-9f53-c7e24d7353f0@e31c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Salerno-Kochan
+DTEND:20251021T110000Z
+LOCATION:Paw.C sala A
+DTSTART:20251021T093000Z
+SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (wykład)
+UID:bcaecc9f-2187-47d2-abf5-920d551a113e@bcae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
+DTEND:20251208T134500Z
+LOCATION:Paw.G 10
+DTSTART:20251208T121500Z
+SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (ćwiczenia)
+UID:79470609-55d6-48dd-8456-7c007534ef62@7947.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20251022T110000Z
+LOCATION:Paw.S sala 7
+DTSTART:20251022T093000Z
+SUMMARY:Matematyka (wykład)
+UID:54265ea5-4542-43c3-8d55-63d2492c1331@5426.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Wacław Adamczyk
+DTEND:20251001T110000Z
+LOCATION:Paw.B 251
+DTSTART:20251001T093000Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:c12cde10-2477-410c-a2d1-7bcc4c5004cd@c12c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Wacław Adamczyk
+DTEND:20251210T120000Z
+LOCATION:Paw.B 251
+DTSTART:20251210T103000Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:2e241910-1d36-4a80-a70b-40e9abffe8a1@2e24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Wacław Adamczyk
+DTEND:20251203T134500Z
+LOCATION:Paw.C sala A
+DTSTART:20251203T121500Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:c68601e8-7e74-4cf4-9076-baeba9a567e2@c686.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20251211T083000Z
+LOCATION:Paw.F 109
+DTSTART:20251211T070000Z
+SUMMARY:Matematyka (ćwiczenia)
+UID:304b105b-a191-4f59-b333-1122feaefe9a@304b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Wacław Adamczyk
+DTEND:20251008T124500Z
+LOCATION:Paw.C sala A
+DTSTART:20251008T111500Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:64adb731-a4d1-4ef8-8b43-ed2a81d39ba6@64ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Salerno-Kochan
+DTEND:20251028T120000Z
+LOCATION:Paw.C sala A
+DTSTART:20251028T103000Z
+SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (wykład)
+UID:6a1c57d0-df47-4092-934d-5688faf8a0d7@6a1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Wacław Adamczyk
+DTEND:20260114T134500Z
+LOCATION:Paw.C sala A
+DTSTART:20260114T121500Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:af5ba33c-bacb-4664-a92e-162751c2efe6@af5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20260121T083000Z
+LOCATION:Paw.F 104
+DTSTART:20260121T070000Z
+SUMMARY:Matematyka (ćwiczenia)
+UID:aa3d9c46-a57f-4631-8b7b-104d8cc5d0a8@aa3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
+DTEND:20251020T124500Z
+LOCATION:Paw.G 10
+DTSTART:20251020T111500Z
+SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (ćwiczenia)
+UID:e86a2757-afe2-4cbc-894b-67ecfc835077@e86a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Wacław Adamczyk
+DTEND:20251119T134500Z
+LOCATION:Paw.C sala A
+DTSTART:20251119T121500Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:008f053d-6a93-4eae-8b8b-41605be8dc93@008f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Wacław Adamczyk
+DTEND:20251105T134500Z
+LOCATION:Paw.C sala A
+DTSTART:20251105T121500Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:53b990ac-b32a-4fb8-8cc9-be00bdfed006@53b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20260107T083000Z
+LOCATION:Paw.F 104
+DTSTART:20260107T070000Z
+SUMMARY:Matematyka (ćwiczenia)
+UID:361b5162-02b4-44b3-ba4d-261f1cf6fb88@361b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251016T123000Z
+DTSTART:20251016T093000Z
+SUMMARY: (rezerwacja)
+UID:e42f62fb-49f1-413f-9f91-9b763e8dc637@e42f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Salerno-Kochan
+DTEND:20251002T141500Z
+LOCATION:Sienk. 4 pr. przem. 3
+DTSTART:20251002T111500Z
+SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
+UID:09d51ddf-e488-4bc3-8d7a-52453dc8ccae@09d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20251218T190000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20251218T173000Z
+SUMMARY:Technologie cyfrowe (ćwiczenia)
+UID:7e29d5f6-1dcf-4f1c-93a5-d63d7eb12057@7e29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
+DTEND:20251009T141500Z
+LOCATION:Sienk. 4 pr. przem. 3
+DTSTART:20251009T111500Z
+SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
+UID:dbea4df9-636b-4142-975f-ae76533a281e@dbea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
+DTEND:20260108T120000Z
+LOCATION:Paw.F 104
+DTSTART:20260108T103000Z
+SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (wykład)
+UID:f00c32cb-1133-4231-8746-fd9b03359740@f00c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20251222T153000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20251222T140000Z
+SUMMARY:Technologie cyfrowe (ćwiczenia)
+UID:e9d4968f-6f6a-409b-a6d0-367353fb2b28@e9d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20251103T153000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20251103T140000Z
+SUMMARY:Technologie cyfrowe (ćwiczenia)
+UID:1e617eef-b676-43e8-9f26-3d7d4f638906@1e61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
+DTEND:20251117T134500Z
+LOCATION:Paw.G 10
+DTSTART:20251117T121500Z
+SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (ćwiczenia)
+UID:2e382483-6a4d-4473-8cad-601f2c83a5cd@2e38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
+DTEND:20251211T120000Z
+LOCATION:Paw.F 104
+DTSTART:20251211T103000Z
+SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (wykład)
+UID:988bbc0a-70d5-4855-bbda-8471cb88f0a9@988b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20251008T073000Z
+LOCATION:Paw.F 104
+DTSTART:20251008T060000Z
+SUMMARY:Matematyka (ćwiczenia)
+UID:e24c9aee-9c60-4784-9f89-1038dc833c97@e24c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20251027T153000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20251027T140000Z
+SUMMARY:Technologie cyfrowe (ćwiczenia)
+UID:9487a102-af36-41c7-98b1-987dc8119a2d@9487.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
+DTEND:20251117T101500Z
+LOCATION:Paw.G 10
+DTSTART:20251117T084500Z
+SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (ćwiczenia)
+UID:26d25d79-e638-4b13-b470-fab0527bbd87@26d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20251119T120000Z
+LOCATION:Paw.S sala 7
+DTSTART:20251119T103000Z
+SUMMARY:Matematyka (wykład)
+UID:789130e4-ba8e-4f06-a6c7-09f00cc7a34f@7891.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20251114T101500Z
+LOCATION:Paw.F 614
+DTSTART:20251114T084500Z
+SUMMARY:Ergonomia i BHP (konwersatorium)
+UID:9d953318-f979-4514-a970-57c9e18f390c@9d95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
+DTEND:20251204T151500Z
+LOCATION:Sienk. 4 pr. przem. 4
+DTSTART:20251204T121500Z
+SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
+UID:ef230c6e-8d1f-463f-a986-d7df3c10a1bd@ef23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
+DTEND:20251216T120000Z
+LOCATION:Paw.C sala A
+DTSTART:20251216T103000Z
+SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (wykład)
+UID:1fc40577-47de-45e5-8e8d-b07429438d4a@1fc4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20260122T083000Z
+LOCATION:Paw.F 109
+DTSTART:20260122T070000Z
+SUMMARY:Matematyka (ćwiczenia)
+UID:f20878b2-cf62-448a-88b2-7550bb1073f0@f208.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Wacław Adamczyk
+DTEND:20251015T110000Z
+LOCATION:Paw.B 251
+DTSTART:20251015T093000Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:1063dcaf-0461-4704-8621-af13eb2071fd@1063.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
+DTEND:20251218T151500Z
+LOCATION:Sienk. 4 pr. przem. 4
+DTSTART:20251218T121500Z
+SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
+UID:5bd048d1-621c-47c5-a181-7d326b5d22d6@5bd0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
+DTEND:20251127T120000Z
+LOCATION:Paw.F 104
+DTSTART:20251127T103000Z
+SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (wykład)
+UID:e07211ba-7ecb-4386-8252-e65cc1ebf5aa@e072.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20251001T073000Z
+LOCATION:Paw.F 104
+DTSTART:20251001T060000Z
+SUMMARY:Matematyka (ćwiczenia)
+UID:0b6d65cc-a0c7-4c3a-9d1c-03d881187179@0b6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20260112T101500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20260112T084500Z
+SUMMARY:Technologie cyfrowe (ćwiczenia)
+UID:c60f1416-f671-4909-aec7-9c6c1e301d9a@c60f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20251119T083000Z
+LOCATION:Paw.F 104
+DTSTART:20251119T070000Z
+SUMMARY:Matematyka (ćwiczenia)
+UID:58f6e9eb-144a-4a53-b571-53c333534021@58f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
+DTEND:20251202T120000Z
+LOCATION:Paw.C sala A
+DTSTART:20251202T103000Z
+SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (wykład)
+UID:fb97a1c6-4f30-4f93-944a-de85d9a80e66@fb97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Wacław Adamczyk
+DTEND:20251001T124500Z
+LOCATION:Paw.C sala A
+DTSTART:20251001T111500Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:f2b713cc-6aa2-4753-83b3-aeadfaa1114d@f2b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Salerno-Kochan
+DTEND:20251030T151500Z
+LOCATION:Sienk. 4 pr. przem. 3
+DTSTART:20251030T121500Z
+SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
+UID:28b1434e-6392-4f01-8879-d1828be96e79@28b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20251020T143000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20251020T130000Z
+SUMMARY:Technologie cyfrowe (ćwiczenia)
+UID:48ddd5b8-1a7d-40ef-b34b-2ad9c47f6da0@48dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20251017T091500Z
+LOCATION:Paw.F 614
+DTSTART:20251017T074500Z
+SUMMARY:Ergonomia i BHP (konwersatorium)
+UID:b7ca7b6d-f517-4712-8803-e07b838b7aff@b7ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
+DTEND:20251030T120000Z
+LOCATION:Paw.F 104
+DTSTART:20251030T103000Z
+SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (wykład)
+UID:84216773-d01b-4c36-aeb0-b2d1f370ac8f@8421.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20251105T120000Z
+LOCATION:Paw.S sala 7
+DTSTART:20251105T103000Z
+SUMMARY:Matematyka (wykład)
+UID:9b6ae62c-2591-4f34-bd92-911bf54f3977@9b6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20251029T083000Z
+LOCATION:Paw.F 104
+DTSTART:20251029T070000Z
+SUMMARY:Matematyka (ćwiczenia)
+UID:6cf9968d-4096-418c-9ac7-173981cd7424@6cf9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20251015T073000Z
+LOCATION:Paw.F 104
+DTSTART:20251015T060000Z
+SUMMARY:Matematyka (ćwiczenia)
+UID:631cd692-9d13-4c9e-a0e5-be4d3b43378d@631c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20251217T083000Z
+LOCATION:Paw.F 104
+DTSTART:20251217T070000Z
+SUMMARY:Matematyka (ćwiczenia)
+UID:a2ee184c-3128-473f-af5d-c24830fb8887@a2ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Wacław Adamczyk
+DTEND:20251126T134500Z
+LOCATION:Paw.C sala A
+DTSTART:20251126T121500Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:dd0a8530-cb47-4e7d-914b-a957ae75e4d4@dd0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Salerno-Kochan
+DTEND:20251023T141500Z
+LOCATION:Sienk. 4 pr. przem. 3
+DTSTART:20251023T111500Z
+SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
+UID:a99ae47d-7f7e-4135-9852-857e40d8ce68@a99a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20260122T163000Z
+LOCATION:Paw.S sala 5
+DTSTART:20260122T154500Z
+SUMMARY:Matematyka (ćwiczenia)
+UID:8383a244-54e4-4057-a456-76c7fe18017e@8383.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
+DTEND:20251211T151500Z
+LOCATION:Sienk. 4 pr. przem. 4
+DTSTART:20251211T121500Z
+SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
+UID:2a497e80-ddba-41be-bd59-d2744a1da556@2a49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
+DTEND:20251125T120000Z
+LOCATION:Paw.C sala A
+DTSTART:20251125T103000Z
+SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (wykład)
+UID:b08dddec-3f51-45b2-a8aa-3fe278a513b2@b08d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
+DTEND:20251127T151500Z
+LOCATION:Sienk. 4 pr. przem. 4
+DTSTART:20251127T121500Z
+SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
+UID:6834fb00-d9f2-41e7-a49b-80f3996e13b4@6834.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
+DTEND:20251118T120000Z
+LOCATION:Paw.C sala A
+DTSTART:20251118T103000Z
+SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (wykład)
+UID:f05ca2ea-3207-4206-b0c2-45114f67ecb5@f05c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20251117T153000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20251117T140000Z
+SUMMARY:Technologie cyfrowe (ćwiczenia)
+UID:476c9f58-3488-427d-9d1b-a9ceee04ca25@476c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
+DTEND:20251124T134500Z
+LOCATION:Bud.gł. 7
+DTSTART:20251124T121500Z
+SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (ćwiczenia)
+UID:5781d55e-3335-4405-9152-2479f894715b@5781.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
+DTEND:20260115T151500Z
+LOCATION:Sienk. 4 pr. przem. 4
+DTSTART:20260115T121500Z
+SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
+UID:1ff73c4c-1828-4976-87df-41b11b159345@1ff7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20251208T153000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20251208T140000Z
+SUMMARY:Technologie cyfrowe (ćwiczenia)
+UID:5c06d70d-bf9d-44c6-a2cd-d1027b7d4bd7@5c06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Wacław Adamczyk
+DTEND:20260121T134500Z
+LOCATION:Paw.C sala A
+DTSTART:20260121T121500Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:d0a87ca9-43c7-439d-8e3b-de509e0e5b07@d0a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20260123T093000Z
+LOCATION:Paw.F 614
+DTSTART:20260123T084500Z
+SUMMARY:Ergonomia i BHP (konwersatorium)
+UID:0208d873-ce84-4b0d-a868-548fd68ce1ff@0208.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
+DTEND:20260112T171500Z
+LOCATION:Paw.G 10
+DTSTART:20260112T154500Z
+SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (ćwiczenia)
+UID:7c894230-6db1-402b-aab2-fa7e56ddc669@7c89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20251013T143000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20251013T130000Z
+SUMMARY:Technologie cyfrowe (ćwiczenia)
+UID:0b9cf354-3491-4a3d-8c4e-b155410f958a@0b9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
+DTEND:20251027T134500Z
+LOCATION:Paw.G 10
+DTSTART:20251027T121500Z
+SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (ćwiczenia)
+UID:bda9a01b-634a-4919-9909-9741f74dfd9d@bda9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20260108T083000Z
+LOCATION:Paw.F 109
+DTSTART:20260108T070000Z
+SUMMARY:Matematyka (ćwiczenia)
+UID:a10dcfc2-5d32-4f6e-bd82-8fb934cb70f4@a10d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20251126T083000Z
+LOCATION:Paw.F 104
+DTSTART:20251126T070000Z
+SUMMARY:Matematyka (ćwiczenia)
+UID:7dfd1bdb-37e8-40be-bd72-282f880ddc89@7dfd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Wacław Adamczyk
+DTEND:20251112T134500Z
+LOCATION:Paw.C sala A
+DTSTART:20251112T121500Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:ebbb7a25-11b4-46ce-8db4-416867342eee@ebbb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20251124T153000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20251124T140000Z
+SUMMARY:Technologie cyfrowe (ćwiczenia)
+UID:c08da4ce-baea-413f-9d9c-7f990f7c2215@c08d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Wacław Adamczyk
+DTEND:20260121T111500Z
+LOCATION:Paw.B 251
+DTSTART:20260121T103000Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:392e65fa-a563-4da9-a78d-1b9ee9593b93@392e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20251105T083000Z
+LOCATION:Paw.F 104
+DTSTART:20251105T070000Z
+SUMMARY:Matematyka (ćwiczenia)
+UID:7e1c1905-dc3c-4bd6-9fc3-40ad2627667b@7e1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251217T134500Z
+DTSTART:20251217T121500Z
+SUMMARY: (rezerwacja)
+UID:8ccd22f0-74b3-47cf-8216-02f955fe4f78@8ccd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Wacław Adamczyk
+DTEND:20260107T120000Z
+LOCATION:Paw.B 251
+DTSTART:20260107T103000Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:1d63bcc2-c5ce-4fd1-839f-48cb60da9865@1d63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Salerno-Kochan
+DTEND:20251007T110000Z
+LOCATION:Paw.C sala A
+DTSTART:20251007T093000Z
+SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (wykład)
+UID:4ba48b6b-b1cc-4391-b477-2608546d938e@4ba4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20251008T110000Z
+LOCATION:Paw.S sala 7
+DTSTART:20251008T093000Z
+SUMMARY:Matematyka (wykład)
+UID:4b5cd92f-11ac-4de6-a6c6-a33d752e5ac6@4b5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20251127T083000Z
+LOCATION:Paw.F 109
+DTSTART:20251127T070000Z
+SUMMARY:Matematyka (ćwiczenia)
+UID:e7517803-58e1-48c7-9d63-6269676b0ff4@e751.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20251212T101500Z
+LOCATION:Paw.F 614
+DTSTART:20251212T084500Z
+SUMMARY:Ergonomia i BHP (konwersatorium)
+UID:39694f5b-31ed-40e0-a336-7fdd36744a67@3969.org
 END:VEVENT
 END:VCALENDAR
