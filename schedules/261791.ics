@@ -2,12 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Konrad Kulikowski
+DTEND:20251206T134500Z
+LOCATION:Zajęcia Online
+DTSTART:20251206T074500Z
+SUMMARY:Psychologia społeczna (Studia podyplomowe)
+UID:e11d16ac-54a4-4336-8aa7-d6d57875511f@e11d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Markiewicz
+DTEND:20260110T134500Z
+DTSTART:20260110T074500Z
+SUMMARY:Strategie i struktury organizacji (Studia podyplomowe)
+UID:eb112533-5fbf-4631-bc58-16198e0ab7dd@eb11.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Piotr Sedlak
 DTEND:20251019T131500Z
 LOCATION:Paw.G 10
 DTSTART:20251019T101500Z
 SUMMARY:Przywództwo podczas trnsformacji (Studia podyplomowe)
-UID:9e009511-b800-4782-95b9-9f9da7ff4ab4@9e00.org
+UID:deb1eea0-8503-4163-bee2-a8a1bfa6ab92@deb1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Seweryn Rudnicki
@@ -15,85 +30,7 @@ DTEND:20251123T121500Z
 LOCATION:Paw.G - 1
 DTSTART:20251123T074500Z
 SUMMARY:Procesy kreatywne i ich facylitacja (Studia podyplomowe)
-UID:815e8145-7963-417f-b0ed-ce3c905bef04@815e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Paweł Schmidt
-DTEND:20251108T134500Z
-LOCATION:Zajęcia Online
-DTSTART:20251108T074500Z
-SUMMARY:Zarządzanie projektem i programem (Studia podyplomowe)
-UID:dae9a24b-af1f-42c2-ac13-c097f334f925@dae9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Markiewicz
-DTEND:20260110T134500Z
-DTSTART:20260110T074500Z
-SUMMARY:Strategie i struktury organizacji (Studia podyplomowe)
-UID:74eac9cb-62b4-4a60-8e7c-fd32c9b96b57@74ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Alicja Szczygieł
-DTEND:20260125T121500Z
-LOCATION:Paw.G  9
-DTSTART:20260125T074500Z
-SUMMARY:Negocjacje i zarządzanie konfliktem (Studia podyplomowe)
-UID:2c2079c3-2ddc-4642-967b-585e1ab5beda@2c20.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Robert Kozłowski
-DTEND:20260222T134500Z
-LOCATION:Zajęcia Online
-DTSTART:20260222T074500Z
-SUMMARY:Modelowanie procesów biznesowych (Studia podyplomowe)
-UID:dce618ba-6cc2-4459-a2c4-e1f309d35e8c@dce6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Sedlak
-DTEND:20251018T073000Z
-LOCATION:Paw.G  9
-DTSTART:20251018T064500Z
-SUMMARY:Zajęcia organizacyjne (Studia podyplomowe)
-UID:7e17b57f-eaa8-4c03-8bbc-320002d5d7c3@7e17.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Alicja Szczygieł
-DTEND:20260124T121500Z
-LOCATION:Paw.G  9
-DTSTART:20260124T074500Z
-SUMMARY:Negocjacje i zarządzanie konfliktem (Studia podyplomowe)
-UID:2222fefd-181d-46ab-a22e-d20d4ff6cb14@2222.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Paweł Schmidt
-DTEND:20251109T134500Z
-LOCATION:Zajęcia Online
-DTSTART:20251109T074500Z
-SUMMARY:Zarządzanie projektem i programem (Studia podyplomowe)
-UID:3681952b-4df5-4f97-95b1-a8ca186e9609@3681.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Agnieszka Kotucz
-DTEND:20260111T134500Z
-DTSTART:20260111T074500Z
-SUMMARY:Stres i techniki zarządzania stresem (Studia podyplomowe)
-UID:531bb53b-efd9-456a-be39-f79f603511a4@531b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Robert Kozłowski
-DTEND:20260221T134500Z
-LOCATION:Zajęcia Online
-DTSTART:20260221T074500Z
-SUMMARY:Modelowanie procesów biznesowych (Studia podyplomowe)
-UID:faad924b-f4e6-4426-90ae-493382f6d60e@faad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Konrad Kulikowski
-DTEND:20251207T134500Z
-LOCATION:Zajęcia Online
-DTSTART:20251207T074500Z
-SUMMARY:Psychologia w biznesie (Studia podyplomowe)
-UID:dce18754-9f3f-4562-90ec-4416ac01272e@dce1.org
+UID:0816269d-e859-4372-853e-7fd71ca1a641@0816.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Piotr Sedlak
@@ -101,23 +38,7 @@ DTEND:20251018T134500Z
 LOCATION:Paw.G  9
 DTSTART:20251018T074500Z
 SUMMARY:Przywództwo podczas trnsformacji (Studia podyplomowe)
-UID:8a95f413-fb84-4654-af4c-843b0aa9e096@8a95.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Seweryn Rudnicki
-DTEND:20251122T121500Z
-LOCATION:Paw.B 059 (KSB)
-DTSTART:20251122T074500Z
-SUMMARY:Procesy kreatywne i ich facylitacja (Studia podyplomowe)
-UID:f67689ae-b0cc-4ad4-a82d-b2d9f4c82a08@f676.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Konrad Kulikowski
-DTEND:20251206T134500Z
-LOCATION:Zajęcia Online
-DTSTART:20251206T074500Z
-SUMMARY:Psychologia społeczna (Studia podyplomowe)
-UID:997a0535-a508-4d8e-9f57-65cd351d28ba@997a.org
+UID:eafd26e5-b931-49eb-8949-45e05543401e@eafd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Piotr Sedlak
@@ -125,6 +46,85 @@ DTEND:20251019T094500Z
 LOCATION:Paw.G 10
 DTSTART:20251019T064500Z
 SUMMARY:Psychologia zmian\, przyczyny oporu i tranzycja (Studia podyplomowe)
-UID:6ae2c4ec-6a71-41e3-9622-4af9d1ae387a@6ae2.org
+UID:f27d43fd-4080-4b5a-b05d-f140acf7fd07@f27d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Robert Kozłowski
+DTEND:20260221T134500Z
+LOCATION:Zajęcia Online
+DTSTART:20260221T074500Z
+SUMMARY:Modelowanie procesów biznesowych (Studia podyplomowe)
+UID:e4d4ec9e-18e7-4519-b5a6-3d8d4d37c0ff@e4d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Robert Kozłowski
+DTEND:20260222T134500Z
+LOCATION:Zajęcia Online
+DTSTART:20260222T074500Z
+SUMMARY:Modelowanie procesów biznesowych (Studia podyplomowe)
+UID:5952a1a6-619a-4da9-97bc-13f64d25e922@5952.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agnieszka Kotucz
+DTEND:20260111T134500Z
+DTSTART:20260111T074500Z
+SUMMARY:Stres i techniki zarządzania stresem (Studia podyplomowe)
+UID:6b335c4d-6ede-4b6d-9e80-79f4e2640f40@6b33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Sedlak
+DTEND:20251018T073000Z
+LOCATION:Paw.G  9
+DTSTART:20251018T064500Z
+SUMMARY:Zajęcia organizacyjne (Studia podyplomowe)
+UID:4bddf5e4-6966-4831-a17c-5eb5e1935265@4bdd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Schmidt
+DTEND:20251109T134500Z
+LOCATION:Zajęcia Online
+DTSTART:20251109T074500Z
+SUMMARY:Zarządzanie projektem i programem (Studia podyplomowe)
+UID:25625953-98cf-41db-9d80-de7495e8553a@2562.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Alicja Szczygieł
+DTEND:20260124T121500Z
+LOCATION:Paw.G  9
+DTSTART:20260124T074500Z
+SUMMARY:Negocjacje i zarządzanie konfliktem (Studia podyplomowe)
+UID:98497628-db4e-4250-be75-a855e0b5c21c@9849.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Alicja Szczygieł
+DTEND:20260125T121500Z
+LOCATION:Paw.G  9
+DTSTART:20260125T074500Z
+SUMMARY:Negocjacje i zarządzanie konfliktem (Studia podyplomowe)
+UID:2640adce-45fe-4163-b628-48a111949a47@2640.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Konrad Kulikowski
+DTEND:20251207T134500Z
+LOCATION:Zajęcia Online
+DTSTART:20251207T074500Z
+SUMMARY:Psychologia w biznesie (Studia podyplomowe)
+UID:2b6c1015-dc7a-4716-af93-4b7245e9787e@2b6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Schmidt
+DTEND:20251108T134500Z
+LOCATION:Zajęcia Online
+DTSTART:20251108T074500Z
+SUMMARY:Zarządzanie projektem i programem (Studia podyplomowe)
+UID:23e5be77-ea29-4b9a-aa54-aa52af98c8c6@23e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Seweryn Rudnicki
+DTEND:20251122T121500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20251122T074500Z
+SUMMARY:Procesy kreatywne i ich facylitacja (Studia podyplomowe)
+UID:3a19f6b4-6545-4fd2-9d23-4d87a5dafac6@3a19.org
 END:VEVENT
 END:VCALENDAR
