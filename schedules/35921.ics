@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Magdalena Dołhasz
-DTEND:20251025T111500Z
-LOCATION:Paw.G - 2
-DTSTART:20251025T064500Z
-SUMMARY:Zarządzanie marketingowe (Studia podyplomowe)
-UID:42d93a55-da9a-4bbc-96d5-2825e36beb26@42d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
-DTEND:20251128T191500Z
-LOCATION:Paw.G 11
-DTSTART:20251128T144500Z
-SUMMARY:Controlling realizacji projektów (Studia podyplomowe)
-UID:59e49a44-8514-44ab-8739-b3934f9ffb19@59e4.org
+DESCRIPTION:Instructor: dr Michał Teczke
+DTEND:20251010T181500Z
+LOCATION:Paw.G - 1
+DTSTART:20251010T134500Z
+SUMMARY:Podstawy zarządzania (Studia podyplomowe)
+UID:bd1a0a0f-700e-4087-bfba-1c3ec07050aa@bd1a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jerzy Kołodziej
@@ -23,31 +15,7 @@ DTEND:20260131T121500Z
 LOCATION:Paw.G - 1
 DTSTART:20260131T074500Z
 SUMMARY:Zarządzanie ryzykiem w projekcie (Studia podyplomowe)
-UID:131b07c4-bdaf-4741-8905-d6a5bf5a85ba@131b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
-DTEND:20251212T191500Z
-LOCATION:Paw.G  7
-DTSTART:20251212T144500Z
-SUMMARY:Budżetowanie i rachunkowość projektów (Studia podyplomowe)
-UID:a31ee0ae-6118-435e-81c4-a26eb1a8a214@a31e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Hubert Obora
-DTEND:20260213T191500Z
-LOCATION:Paw.G  7
-DTSTART:20260213T144500Z
-SUMMARY:Jakość w zarządzaniu projektami (Studia podyplomowe)
-UID:3f1974f1-555d-4887-84da-4dd8b794f5aa@3f19.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Teczke
-DTEND:20251010T181500Z
-LOCATION:Paw.G - 1
-DTSTART:20251010T134500Z
-SUMMARY:Podstawy zarządzania (Studia podyplomowe)
-UID:678a556a-5b41-459c-92e1-1ac65e03d26a@678a.org
+UID:2c3ddaa6-ea7e-4d24-8e66-f8dc396e600d@2c3d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Wojciech Zatorski
@@ -55,23 +23,15 @@ DTEND:20251115T121500Z
 LOCATION:Paw.G  7
 DTSTART:20251115T074500Z
 SUMMARY:Podstawy komunikowania się i negocjacji w pracy projektowej (Studia podyplomowe)
-UID:9b40806b-0a55-4173-8720-9313cc76bc40@9b40.org
+UID:7b57043f-4a2d-4e1f-bcee-1e993d11059c@7b57.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Wojciech Zatorski
-DTEND:20251114T191500Z
+DESCRIPTION:Instructor: dr Hubert Obora
+DTEND:20260213T191500Z
 LOCATION:Paw.G  7
-DTSTART:20251114T144500Z
-SUMMARY:Rozwiązywanie konfliktów w grupie (Studia podyplomowe)
-UID:b23029e8-ad06-4044-a165-52a28fd65173@b230.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Paweł Schmidt
-DTEND:20251024T181500Z
-LOCATION:Paw.G - 2
-DTSTART:20251024T134500Z
-SUMMARY:Metodyki zarządzania projektami (Studia podyplomowe)
-UID:25aec456-5b6f-4b96-967d-ea431cb94a9f@25ae.org
+DTSTART:20260213T144500Z
+SUMMARY:Jakość w zarządzaniu projektami (Studia podyplomowe)
+UID:7fbd3249-2710-48c6-bce1-8a1d50e4260a@7fbd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Agnieszka Peszko
@@ -79,7 +39,39 @@ DTEND:20251011T111500Z
 LOCATION:Paw.G - 1
 DTSTART:20251011T064500Z
 SUMMARY:Wprowadzenie do zarządzania projektami (Studia podyplomowe)
-UID:15eb155c-d05f-4e6e-bcf2-ae99b17bd253@15eb.org
+UID:ed020a30-7623-4f98-a89b-21fa8b3393f6@ed02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Magdalena Dołhasz
+DTEND:20251025T111500Z
+LOCATION:Paw.G - 2
+DTSTART:20251025T064500Z
+SUMMARY:Zarządzanie marketingowe (Studia podyplomowe)
+UID:f5b12d5e-c9e8-4df1-86c4-01b3c8c3acad@f5b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Zatorski
+DTEND:20251114T191500Z
+LOCATION:Paw.G  7
+DTSTART:20251114T144500Z
+SUMMARY:Rozwiązywanie konfliktów w grupie (Studia podyplomowe)
+UID:3829c337-50f2-4762-8d51-481152abbe7e@3829.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20251212T191500Z
+LOCATION:Paw.G  7
+DTSTART:20251212T144500Z
+SUMMARY:Budżetowanie i rachunkowość projektów (Studia podyplomowe)
+UID:7526249c-1d5b-4615-9d0b-e7090b16f702@7526.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
+DTEND:20251128T191500Z
+LOCATION:Paw.G 11
+DTSTART:20251128T144500Z
+SUMMARY:Controlling realizacji projektów (Studia podyplomowe)
+UID:8f5bebb7-c30a-498f-be7a-ad3e6739e8af@8f5b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Krzysztof Misiołek
@@ -87,15 +79,7 @@ DTEND:20251213T121500Z
 LOCATION:Paw.G  7
 DTSTART:20251213T074500Z
 SUMMARY:Zarządzanie zmianą (Studia podyplomowe)
-UID:311a2633-471e-4e2b-9a7b-6aefa2499058@311a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jerzy Kołodziej
-DTEND:20260130T191500Z
-LOCATION:Paw.G - 1
-DTSTART:20260130T144500Z
-SUMMARY:Zarządzanie ryzykiem w projekcie (Studia podyplomowe)
-UID:981047c9-ac3f-4a28-8e62-bcbf08b75ff4@9810.org
+UID:88bf1758-a99d-475a-84f7-b4d1b134c10b@88bf.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
@@ -103,7 +87,7 @@ DTEND:20251129T121500Z
 LOCATION:Paw.G 11
 DTSTART:20251129T074500Z
 SUMMARY:Opłacalność inwestycji w zarządzaniu projektami (Studia podyplomowe)
-UID:48dfe7c0-f29e-4fe1-b69a-6ca4e59aea97@48df.org
+UID:a25aac30-eb11-4ac0-a69a-da27781ba086@a25a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Angelika Wodecka-Hyjek
@@ -111,6 +95,22 @@ DTEND:20260116T191500Z
 LOCATION:Paw.G 12
 DTSTART:20260116T144500Z
 SUMMARY:Techniki twórczego myślenia w zarządzaniu projektami (Studia podyplomowe)
-UID:c4942f94-2470-4f88-a12d-09631a8ae9c8@c494.org
+UID:ab91115d-130d-4a1b-bd82-757751dbab8b@ab91.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Schmidt
+DTEND:20251024T181500Z
+LOCATION:Paw.G - 2
+DTSTART:20251024T134500Z
+SUMMARY:Metodyki zarządzania projektami (Studia podyplomowe)
+UID:651decf8-31cd-4c93-9e4a-80ee2a0051bc@651d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kołodziej
+DTEND:20260130T191500Z
+LOCATION:Paw.G - 1
+DTSTART:20260130T144500Z
+SUMMARY:Zarządzanie ryzykiem w projekcie (Studia podyplomowe)
+UID:34fbc675-cf89-4ef8-b4ee-deab508cd82e@34fb.org
 END:VEVENT
 END:VCALENDAR

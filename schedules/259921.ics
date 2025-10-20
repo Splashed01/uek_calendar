@@ -2,35 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251016T123000Z
-DTSTART:20251016T093000Z
-SUMMARY: (rezerwacja)
-UID:b1de4c5c-2df5-4f7d-ba36-32ca0297664d@b1de.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Joanna Sikorska
-DTEND:20260111T143000Z
-LOCATION:Paw.F 515
-DTSTART:20260111T121500Z
-SUMMARY:Contemporary Cultural Challenges (konwersatorium do wyboru)
-UID:95528f79-eddf-4d53-b447-5d847bbcf7ef@9552.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
-DTEND:20251123T143000Z
-LOCATION:Paw.F 104
-DTSTART:20251123T121500Z
-SUMMARY:Fair Trade\, CSR and Sustainability (konwersatorium)
-UID:73c1250b-38a2-41ab-abae-89d7e34bbd0e@73c1.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
-DTEND:20251214T143000Z
-LOCATION:Paw.A 07 lab. Win7\, Office21
-DTSTART:20251214T121500Z
+DTEND:20251025T081500Z
+LOCATION:309  paw. U (tylko KatHZ)
+DTSTART:20251025T060000Z
 SUMMARY:Data science (konwersatorium do wyboru)
-UID:37ce9fea-662f-441a-aac3-304c32a437e6@37ce.org
+UID:f6db5922-51c6-4fbc-aa9c-328bb859c483@f6db.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
@@ -38,165 +15,7 @@ DTEND:20251123T114500Z
 LOCATION:Paw.A 09 lab. Win8.1\, Office21
 DTSTART:20251123T093000Z
 SUMMARY:Data science (konwersatorium do wyboru)
-UID:69b4730d-6b7b-4fb1-af7f-2807ea8bd8d8@69b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
-DTEND:20251130T143000Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20251130T121500Z
-SUMMARY:Data science (konwersatorium do wyboru)
-UID:c0c312b6-59b6-4762-aedf-cade7c1cdfeb@c0c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
-DTEND:20251213T143000Z
-LOCATION:Bud.gł. 9
-DTSTART:20251213T121500Z
-SUMMARY:Fair Trade\, CSR and Sustainability (konwersatorium)
-UID:671e7365-a72c-4125-8410-26d338553a63@671e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
-DTEND:20260117T170000Z
-LOCATION:Paw.S sala 10
-DTSTART:20260117T144500Z
-SUMMARY:Fair Trade\, CSR and Sustainability (konwersatorium)
-UID:36ab1e05-0c49-453f-bc80-b98ce6a08574@36ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
-DTEND:20260117T143000Z
-LOCATION:Paw.A 07 lab. Win7\, Office21
-DTSTART:20260117T121500Z
-SUMMARY:Data science (konwersatorium do wyboru)
-UID:69d31066-e05c-446a-ad00-8e5cb180bfd9@69d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joseph Abodakpi
-DTEND:20251121T194500Z
-LOCATION:Paw.B 251
-DTSTART:20251121T173000Z
-SUMMARY:Geopolitics and International Conflicts (konwersatorium)
-UID:1fb72b6b-183b-4307-8eb9-2c7ec57a57ad@1fb7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joseph Abodakpi
-DTEND:20260109T194500Z
-LOCATION:Paw.F 614
-DTSTART:20260109T173000Z
-SUMMARY:Geopolitics and International Conflicts (konwersatorium)
-UID:be86d182-93ed-4119-b732-eeb21a76af2d@be86.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joseph Abodakpi
-DTEND:20251024T184500Z
-LOCATION:Paw.B 251
-DTSTART:20251024T163000Z
-SUMMARY:Geopolitics and International Conflicts (konwersatorium)
-UID:f6f15645-c7c3-48c6-9bc8-22c44883e41d@f6f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Joanna Sikorska
-DTEND:20251128T194500Z
-LOCATION:Paw.F 415
-DTSTART:20251128T173000Z
-SUMMARY:Contemporary Cultural Challenges (konwersatorium do wyboru)
-UID:2a069b76-1bb7-48f3-b3ac-a382a080f303@2a06.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Joanna Sikorska
-DTEND:20251213T114500Z
-LOCATION:Rakowicka 16 sala 12
-DTSTART:20251213T093000Z
-SUMMARY:Contemporary Cultural Challenges (konwersatorium do wyboru)
-UID:877ef722-cffc-4e64-acbf-54fe77a4e3de@877e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
-DTEND:20260111T091500Z
-LOCATION:Paw.U sala M
-DTSTART:20260111T070000Z
-SUMMARY:Fair Trade\, CSR and Sustainability (konwersatorium)
-UID:b6ad8d7d-0396-4a7a-a2f7-709e8240d1a4@b6ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Joanna Sikorska
-DTEND:20251123T091500Z
-LOCATION:Paw.E sala J
-DTSTART:20251123T070000Z
-SUMMARY:Contemporary Cultural Challenges (konwersatorium do wyboru)
-UID:acba3999-ad04-4bab-9170-51ac65f456fc@acba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joseph Abodakpi
-DTEND:20260116T170000Z
-LOCATION:Paw.F 515
-DTSTART:20260116T144500Z
-SUMMARY:Geopolitics and International Conflicts (konwersatorium)
-UID:6cf3c0a1-ba00-42f7-b079-247612288edf@6cf3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joseph Abodakpi
-DTEND:20251128T170000Z
-LOCATION:Paw.F 614
-DTSTART:20251128T144500Z
-SUMMARY:Geopolitics and International Conflicts (konwersatorium)
-UID:dc016417-9866-4d1f-849f-35c89bf7d3d8@dc01.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Joanna Sikorska
-DTEND:20251025T160000Z
-DTSTART:20251025T134500Z
-SUMMARY:Contemporary Cultural Challenges (Przeniesienie zajęć)
-UID:d4a9ff97-cfe3-4322-85c7-fc8ef39c2259@d4a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Joanna Sikorska
-DTEND:20260117T091500Z
-LOCATION:Rakowicka 16 sala 12
-DTSTART:20260117T070000Z
-SUMMARY:Contemporary Cultural Challenges (konwersatorium do wyboru)
-UID:85a00277-5675-48b4-b5a2-4f8fedb6d024@85a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Joanna Sikorska
-DTEND:20251121T170000Z
-LOCATION:Paw.F 102
-DTSTART:20251121T144500Z
-SUMMARY:Contemporary Cultural Challenges (konwersatorium do wyboru)
-UID:e548f98f-58cc-4764-956b-b669cc63ccc9@e548.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joseph Abodakpi
-DTEND:20251214T114500Z
-LOCATION:Paw.F 111
-DTSTART:20251214T093000Z
-SUMMARY:Geopolitics and International Conflicts (konwersatorium)
-UID:ea761344-db3a-454f-bd2f-0ff224f57a61@ea76.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
-DTEND:20260111T114500Z
-LOCATION:309  paw. U (tylko KatHZ)
-DTSTART:20260111T093000Z
-SUMMARY:Data science (konwersatorium do wyboru)
-UID:0974d48d-6a06-4549-a0e3-bea3580103da@0974.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251217T134500Z
-DTSTART:20251217T121500Z
-SUMMARY: (rezerwacja)
-UID:ad5988d0-8578-4b23-9b29-2c8cca4a3813@ad59.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
-DTEND:20251025T104500Z
-LOCATION:Paw.S sala 4
-DTSTART:20251025T083000Z
-SUMMARY:Fair Trade\, CSR and Sustainability (konwersatorium)
-UID:2d70eeb7-1cbb-433a-bcf2-738fcde2ea69@2d70.org
+UID:f9cff17b-4c37-4b80-86a9-085f2d7bd89a@f9cf.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
@@ -204,14 +23,195 @@ DTEND:20251130T114500Z
 LOCATION:Paw.F 008
 DTSTART:20251130T093000Z
 SUMMARY:Fair Trade\, CSR and Sustainability (konwersatorium)
-UID:4db80ebb-6f9f-469e-ae88-0023e92fd4e5@4db8.org
+UID:0b6a7561-880b-4589-b633-e48eb53264cc@0b6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joseph Abodakpi
+DTEND:20251214T114500Z
+LOCATION:Paw.F 111
+DTSTART:20251214T093000Z
+SUMMARY:Geopolitics and International Conflicts (konwersatorium)
+UID:89bd1c5c-0c33-4795-a382-a4121d3638b5@89bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
+DTEND:20260111T091500Z
+LOCATION:Paw.U sala M
+DTSTART:20260111T070000Z
+SUMMARY:Fair Trade\, CSR and Sustainability (konwersatorium)
+UID:74dd8d55-84ea-4e63-9a92-32db4ef63004@74dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joseph Abodakpi
+DTEND:20251121T194500Z
+LOCATION:Paw.B 251
+DTSTART:20251121T173000Z
+SUMMARY:Geopolitics and International Conflicts (konwersatorium)
+UID:8dfbb82c-e50a-441e-b5ad-9e5124a25d7d@8dfb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sikorska
+DTEND:20251121T170000Z
+LOCATION:Paw.F 102
+DTSTART:20251121T144500Z
+SUMMARY:Contemporary Cultural Challenges (konwersatorium do wyboru)
+UID:634c4a1d-1f5e-4a43-9bab-9c0c434ff6e8@634c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
+DTEND:20260117T170000Z
+LOCATION:Paw.S sala 10
+DTSTART:20260117T144500Z
+SUMMARY:Fair Trade\, CSR and Sustainability (konwersatorium)
+UID:6ccf6260-302a-418c-8c27-9f19cf80a990@6ccf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joseph Abodakpi
+DTEND:20251128T170000Z
+LOCATION:Paw.F 614
+DTSTART:20251128T144500Z
+SUMMARY:Geopolitics and International Conflicts (konwersatorium)
+UID:37b71259-959d-4be9-80a6-6799dfce0bd4@37b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
+DTEND:20251123T143000Z
+LOCATION:Paw.F 104
+DTSTART:20251123T121500Z
+SUMMARY:Fair Trade\, CSR and Sustainability (konwersatorium)
+UID:d9ed8645-6fac-4952-9229-e40c9333b864@d9ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joseph Abodakpi
+DTEND:20260109T194500Z
+LOCATION:Paw.F 614
+DTSTART:20260109T173000Z
+SUMMARY:Geopolitics and International Conflicts (konwersatorium)
+UID:72098db5-1495-4b82-a4cc-e5b83d8e776d@7209.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
+DTEND:20251025T104500Z
+LOCATION:Paw.S sala 4
+DTSTART:20251025T083000Z
+SUMMARY:Fair Trade\, CSR and Sustainability (konwersatorium)
+UID:0631016c-8830-4b25-8b51-a4966c95d7f9@0631.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sikorska
+DTEND:20251128T194500Z
+LOCATION:Paw.F 415
+DTSTART:20251128T173000Z
+SUMMARY:Contemporary Cultural Challenges (konwersatorium do wyboru)
+UID:a6e45a8e-2002-4457-9124-c145453a3940@a6e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251016T123000Z
+DTSTART:20251016T093000Z
+SUMMARY: (rezerwacja)
+UID:957786f3-2be9-4ba4-bf36-b66102f32c80@9577.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
+DTEND:20251213T143000Z
+LOCATION:Bud.gł. 9
+DTSTART:20251213T121500Z
+SUMMARY:Fair Trade\, CSR and Sustainability (konwersatorium)
+UID:2ee38fd2-91d6-4b0b-82c0-3d2ef94ab726@2ee3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
-DTEND:20251025T081500Z
-LOCATION:309  paw. U (tylko KatHZ)
-DTSTART:20251025T060000Z
+DTEND:20260117T143000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20260117T121500Z
 SUMMARY:Data science (konwersatorium do wyboru)
-UID:e78bf155-7df8-45fe-92db-2733ba2801ff@e78b.org
+UID:d736deed-d6a1-4826-b591-ee26e05090fe@d736.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joseph Abodakpi
+DTEND:20251024T184500Z
+LOCATION:Paw.B 251
+DTSTART:20251024T163000Z
+SUMMARY:Geopolitics and International Conflicts (konwersatorium)
+UID:1e433da2-ebd2-4c6f-9c99-321dbb14244e@1e43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sikorska
+DTEND:20251213T114500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20251213T093000Z
+SUMMARY:Contemporary Cultural Challenges (konwersatorium do wyboru)
+UID:ce5a2e1a-feff-40e9-8887-04981fe08bd9@ce5a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
+DTEND:20260111T114500Z
+LOCATION:309  paw. U (tylko KatHZ)
+DTSTART:20260111T093000Z
+SUMMARY:Data science (konwersatorium do wyboru)
+UID:08b5eb6a-2a75-4be2-9243-487f52cae424@08b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joseph Abodakpi
+DTEND:20260116T170000Z
+LOCATION:Paw.F 515
+DTSTART:20260116T144500Z
+SUMMARY:Geopolitics and International Conflicts (konwersatorium)
+UID:d0681e4b-1047-4cb4-be6c-e8e4f9c68b05@d068.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251217T134500Z
+DTSTART:20251217T121500Z
+SUMMARY: (rezerwacja)
+UID:c7eaa298-3582-40e1-8684-b73417e4e707@c7ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sikorska
+DTEND:20260117T091500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20260117T070000Z
+SUMMARY:Contemporary Cultural Challenges (konwersatorium do wyboru)
+UID:d4469319-7073-437c-8b1a-9c7cb87bc54e@d446.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
+DTEND:20251130T143000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20251130T121500Z
+SUMMARY:Data science (konwersatorium do wyboru)
+UID:00d656bb-df5b-4229-8e4a-f75598f8f323@00d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sikorska
+DTEND:20251123T091500Z
+LOCATION:Paw.E sala J
+DTSTART:20251123T070000Z
+SUMMARY:Contemporary Cultural Challenges (konwersatorium do wyboru)
+UID:5e41549f-fadd-4bc4-b59b-61eba7346d82@5e41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sikorska
+DTEND:20251025T160000Z
+DTSTART:20251025T134500Z
+SUMMARY:Contemporary Cultural Challenges (Przeniesienie zajęć)
+UID:6a330cd4-a954-4ec8-9daf-d3a9cecf6269@6a33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
+DTEND:20251214T143000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20251214T121500Z
+SUMMARY:Data science (konwersatorium do wyboru)
+UID:690e6aee-fcb7-494e-95fa-df35652bdb94@690e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sikorska
+DTEND:20260111T143000Z
+LOCATION:Paw.F 515
+DTSTART:20260111T121500Z
+SUMMARY:Contemporary Cultural Challenges (konwersatorium do wyboru)
+UID:2b821cec-5eb3-4397-b40c-12d58654dd79@2b82.org
 END:VEVENT
 END:VCALENDAR
