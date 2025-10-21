@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Monika Polakowska
-DTEND:20251012T131500Z
+DESCRIPTION:Instructor: mgr Joanna Bolińska
+DTEND:20251012T101500Z
 LOCATION:Zajęcia Online
-DTSTART:20251012T101500Z
+DTSTART:20251012T093000Z
 SUMMARY:Rola giełd w procesach ESG (Studia podyplomowe)
-UID:8c9e2a76-502f-490a-a770-373a53d3a6fc@8c9e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Agnieszka Gontarek
-DTEND:20260110T134500Z
-LOCATION:Zajęcia Online
-DTSTART:20260110T074500Z
-SUMMARY:ESRS � standardy ładu korporacyjnego (Studia podyplomowe)
-UID:6dd6d18e-14a5-48e4-8f47-bfa28088aff0@6dd6.org
+UID:6b856e92-3597-4e75-9bc0-96932b17cbe1@6b85.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Agnieszka Stanik
@@ -23,55 +15,7 @@ DTEND:20251115T134500Z
 LOCATION:Zajęcia Online
 DTSTART:20251115T074500Z
 SUMMARY:Taksonomia UE (Studia podyplomowe)
-UID:45de374d-53d1-45fe-9f1f-a85b4c4e328e@45de.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Aleksander Pałka
-DTEND:20251130T134500Z
-LOCATION:Zajęcia Online
-DTSTART:20251130T074500Z
-SUMMARY:Tworzenie strategii przedsiębiorstwa z perspektywy ESG (Studia podyplomowe)
-UID:803e103e-4e4f-47c6-837e-2eea9cd79ec1@803e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Włodzimierz Kuc
-DTEND:20260124T134500Z
-LOCATION:Zajęcia Online
-DTSTART:20260124T074500Z
-SUMMARY:Analiza ryzyk ESG i strategia zarządzania ryzykiem (Studia podyplomowe)
-UID:b04796fa-772f-4411-a302-02ed11bbc4ae@b047.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Agnieszka Gontarek
-DTEND:20260111T134500Z
-LOCATION:Zajęcia Online
-DTSTART:20260111T074500Z
-SUMMARY:ESRS � standardy ładu korporacyjnego (Studia podyplomowe)
-UID:2bff60e7-2a44-498f-89b4-f85931d310f6@2bff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Joanna Bolińska
-DTEND:20251012T101500Z
-LOCATION:Zajęcia Online
-DTSTART:20251012T093000Z
-SUMMARY:Rola giełd w procesach ESG (Studia podyplomowe)
-UID:21dc818d-86d9-4cad-8e29-ffbd050037c3@21dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Karolina Studniarek
-DTEND:20251012T090000Z
-LOCATION:Zajęcia Online
-DTSTART:20251012T064500Z
-SUMMARY:Rola giełd w procesach ESG (Studia podyplomowe)
-UID:61c926db-c192-478e-a7b0-686a4dab075b@61c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Karolina Dorula-Mamala
-DTEND:20251214T134500Z
-LOCATION:Zajęcia Online
-DTSTART:20251214T074500Z
-SUMMARY:Manager ESG - elementy przywództwa (Studia podyplomowe)
-UID:ee293fa1-b6a6-43fb-9ec6-882c0795ab08@ee29.org
+UID:b8893da7-3bfd-4cd2-8f51-8094b1d30ee8@b889.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Aleksander Pałka
@@ -79,7 +23,31 @@ DTEND:20251129T134500Z
 LOCATION:Zajęcia Online
 DTSTART:20251129T074500Z
 SUMMARY:Tworzenie strategii przedsiębiorstwa z perspektywy ESG (Studia podyplomowe)
-UID:8ae25daf-10ab-4f90-9f5b-fc244af8dafa@8ae2.org
+UID:2aaa3b0c-4ad8-4002-ac27-8e2d5e9ff1dd@2aaa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Dorula-Mamala
+DTEND:20251214T134500Z
+LOCATION:Zajęcia Online
+DTSTART:20251214T074500Z
+SUMMARY:Manager ESG - elementy przywództwa (Studia podyplomowe)
+UID:aa812082-8090-4050-a866-b77848b9dd5c@aa81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agnieszka Gontarek
+DTEND:20260111T134500Z
+LOCATION:Zajęcia Online
+DTSTART:20260111T074500Z
+SUMMARY:ESRS � standardy ładu korporacyjnego (Studia podyplomowe)
+UID:ebd3cd21-9cae-4ce4-99fd-6b3875c87fff@ebd3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Włodzimierz Kuc
+DTEND:20260124T134500Z
+LOCATION:Zajęcia Online
+DTSTART:20260124T074500Z
+SUMMARY:Analiza ryzyk ESG i strategia zarządzania ryzykiem (Studia podyplomowe)
+UID:0de9be79-d548-4707-9d10-e76e7c416b17@0de9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Tomasz Wiśniewski
@@ -87,6 +55,38 @@ DTEND:20251116T104500Z
 LOCATION:Zajęcia Online
 DTSTART:20251116T074500Z
 SUMMARY:Zarządzanie danymi ESG (Studia podyplomowe)
-UID:0fe93771-b1fb-460e-8a7f-340713f19439@0fe9.org
+UID:301a4796-a0fe-4f28-b780-db430acc0c93@301a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agnieszka Gontarek
+DTEND:20260110T134500Z
+LOCATION:Zajęcia Online
+DTSTART:20260110T074500Z
+SUMMARY:ESRS � standardy ładu korporacyjnego (Studia podyplomowe)
+UID:efd25152-a58c-4d0d-bf14-15629e122c12@efd2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Studniarek
+DTEND:20251012T090000Z
+LOCATION:Zajęcia Online
+DTSTART:20251012T064500Z
+SUMMARY:Rola giełd w procesach ESG (Studia podyplomowe)
+UID:d3fa4882-ed97-41cb-8ace-f423c5298b55@d3fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Monika Polakowska
+DTEND:20251012T131500Z
+LOCATION:Zajęcia Online
+DTSTART:20251012T101500Z
+SUMMARY:Rola giełd w procesach ESG (Studia podyplomowe)
+UID:41496ddc-5fce-4f49-aafb-8bcd4d868428@4149.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Aleksander Pałka
+DTEND:20251130T134500Z
+LOCATION:Zajęcia Online
+DTSTART:20251130T074500Z
+SUMMARY:Tworzenie strategii przedsiębiorstwa z perspektywy ESG (Studia podyplomowe)
+UID:4d04f698-ad4d-4f09-ad97-aa6f18d7e256@4d04.org
 END:VEVENT
 END:VCALENDAR
