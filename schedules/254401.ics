@@ -2,20 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251217T134500Z
+DTSTART:20251217T121500Z
+SUMMARY: (rezerwacja)
+UID:ae35b3b5-12a9-4700-83d2-955c3f0a0695@ae35.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Elżbieta Bielak
 DTEND:20251022T114500Z
 LOCATION:Sienk. 4 pr. an .sens.
 DTSTART:20251022T101500Z
 SUMMARY:Seminarium - 30 (seminarium)
-UID:bdcbb5eb-dd92-4266-9cf4-90aef9648999@bdcb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
-DTEND:20251104T153000Z
-LOCATION:link do zajęć
-DTSTART:20251104T140000Z
-SUMMARY:Seminarium indywidualne - 30h (seminarium)
-UID:4fb4d985-f138-4908-aa13-21832657486a@4fb4.org
+UID:ecd7269d-0882-46db-987d-69b14f1621fc@ecd7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
@@ -23,21 +22,14 @@ DTEND:20251202T153000Z
 LOCATION:link do zajęć
 DTSTART:20251202T140000Z
 SUMMARY:Seminarium indywidualne - 30h (seminarium)
-UID:2afed147-92a8-4f03-bf29-8fa7daade3cd@2afe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251217T134500Z
-DTSTART:20251217T121500Z
-SUMMARY: (rezerwacja)
-UID:d23ec371-4836-41b9-898d-f3ffacfe0a90@d23e.org
+UID:269759ff-ba1c-4e23-a505-5dea4f26a8a1@2697.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: 
 DTEND:20251016T123000Z
 DTSTART:20251016T093000Z
 SUMMARY: (rezerwacja)
-UID:0fc6eb91-1b97-4051-b68f-37aaf1c908b2@0fc6.org
+UID:940b927c-b5a8-4b5d-80c4-c7aa06cb88b8@940b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Elżbieta Bielak
@@ -45,31 +37,15 @@ DTEND:20251017T133000Z
 LOCATION:Sienk. 4 pr. przem. 4
 DTSTART:20251017T111500Z
 SUMMARY:Seminarium - 30 (seminarium)
-UID:3f8db5f2-f87f-488d-a27e-b7c33498d929@3f8d.org
+UID:20d05f2c-62f7-46b6-b2e0-605bbfadb595@20d0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
-DTEND:20251021T143000Z
+DTEND:20251104T153000Z
 LOCATION:link do zajęć
-DTSTART:20251021T130000Z
+DTSTART:20251104T140000Z
 SUMMARY:Seminarium indywidualne - 30h (seminarium)
-UID:540ede07-6302-4101-abd6-573922e02f0b@540e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
-DTEND:20251216T153000Z
-LOCATION:link do zajęć
-DTSTART:20251216T140000Z
-SUMMARY:Seminarium indywidualne - 30h (seminarium)
-UID:5727afdf-2d76-422c-a0bb-449dee059efe@5727.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
-DTEND:20260113T153000Z
-LOCATION:link do zajęć
-DTSTART:20260113T140000Z
-SUMMARY:Seminarium indywidualne - 30h (seminarium)
-UID:ae51ec3b-3e4e-4a81-aa0e-d89788dd7217@ae51.org
+UID:c22620c3-4a50-4f5e-920d-86cc7eb5e638@c226.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Elżbieta Bielak
@@ -77,7 +53,15 @@ DTEND:20251008T110000Z
 LOCATION:Paw.F 614
 DTSTART:20251008T093000Z
 SUMMARY:Seminarium - 30 (seminarium)
-UID:0a3aeaf8-0dda-4430-8ab2-79c5408e29d0@0a3a.org
+UID:9f5d5e12-4d7b-47de-aa2c-350156f0bd1d@9f5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20251216T153000Z
+LOCATION:link do zajęć
+DTSTART:20251216T140000Z
+SUMMARY:Seminarium indywidualne - 30h (seminarium)
+UID:48164be0-25ea-4c30-b879-5498b7c99e3c@4816.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
@@ -85,6 +69,22 @@ DTEND:20251118T153000Z
 LOCATION:link do zajęć
 DTSTART:20251118T140000Z
 SUMMARY:Seminarium indywidualne - 30h (seminarium)
-UID:20a0b7e1-eb9a-4af2-8a88-811d47eb0744@20a0.org
+UID:55b50321-83bf-4940-a3d3-9aa9652c9cde@55b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20260113T153000Z
+LOCATION:link do zajęć
+DTSTART:20260113T140000Z
+SUMMARY:Seminarium indywidualne - 30h (seminarium)
+UID:29f4dfd5-e796-4911-84fd-5d338458b352@29f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20251021T143000Z
+LOCATION:link do zajęć
+DTSTART:20251021T130000Z
+SUMMARY:Seminarium indywidualne - 30h (seminarium)
+UID:bd6c90b8-caf0-45da-b8ac-5b1ca88f72c4@bd6c.org
 END:VEVENT
 END:VCALENDAR
