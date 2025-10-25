@@ -2,12 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Grzybowski
+DTEND:20251120T153000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20251120T140000Z
+SUMMARY:Prawo ochrony środowiska (konwersatorium)
+UID:a187bc00-1e51-4069-a327-5878563fd005@a187.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Bogna Gawrońska-Nowak
 DTEND:20251104T171500Z
 LOCATION:link do zajęć
 DTSTART:20251104T154500Z
 SUMMARY:Metody analizy danych transakcyjnych z rynków energii (wykład)
-UID:acb85230-4741-4223-93c4-470cbd6eeb2c@acb8.org
+UID:ec42a8e6-0f0a-40cd-a4c2-c967c9fcee3d@ec42.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Krzysztof Głuc
@@ -15,7 +23,14 @@ DTEND:20260108T190000Z
 LOCATION:Paw.G - 2
 DTSTART:20260108T173000Z
 SUMMARY:Samorząd terytorialny a zrównoważony rozwój (wykład do wyboru)
-UID:63201b62-62b4-4632-9448-fb39dda32213@6320.org
+UID:e70fcfde-cd43-47aa-838f-a4d4bf032612@e70f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Oramus
+DTEND:20251017T073000Z
+DTSTART:20251017T060000Z
+SUMMARY:Nowe technologie w energetyce (Przeniesienie zajęć)
+UID:f0b90498-63a9-44f0-964d-53f293445aea@f0b9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marek Oramus
@@ -23,261 +38,14 @@ DTEND:20251211T120000Z
 LOCATION:link do zajęć
 DTSTART:20251211T103000Z
 SUMMARY:Nowe technologie w energetyce (wykład do wyboru)
-UID:31d222b5-deb2-4bce-b824-5b766d4d0a89@31d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Anna Gomola
-DTEND:20251017T110000Z
-DTSTART:20251017T093000Z
-SUMMARY:Metody analizy danych transakcyjnych z rynków energii (Przeniesienie zajęć)
-UID:8c2a0650-e618-4dcc-9d13-5361c6b0e19f@8c2a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Adam Drozdek
-DTEND:20251030T171500Z
-LOCATION:Paw.F CJ 303
-DTSTART:20251030T154500Z
-SUMMARY:Podatki i opłaty ekologiczne (konwersatorium do wyboru)
-UID:900c1eca-5579-4865-8c5f-f13e1eb7b2b7@900c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
-DTEND:20251119T171500Z
-LOCATION:Paw.G - 1
-DTSTART:20251119T154500Z
-SUMMARY:Audyt w sektorze energetycznym (konwersatorium)
-UID:9ad0b882-283c-49ef-a553-5941ff8db540@9ad0.org
+UID:dc3ba5cb-a3cc-4832-a0d1-077940d5d62e@dc3b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marcin Grzybowski
-DTEND:20251218T153000Z
-LOCATION:Paw.B 052 (KSB)
-DTSTART:20251218T140000Z
-SUMMARY:Prawo ochrony środowiska (konwersatorium)
-UID:f14a25e5-1935-401e-9ab2-a3a5dc2615af@f14a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Grzybowski
-DTEND:20260122T153000Z
-LOCATION:Paw.B 052 (KSB)
-DTSTART:20260122T140000Z
-SUMMARY:Prawo ochrony środowiska (konwersatorium)
-UID:fdd7f804-322e-4d30-bff5-5c5253598432@fdd7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Oramus
-DTEND:20260107T153000Z
-LOCATION:Paw.F CJ 302
-DTSTART:20260107T140000Z
-SUMMARY:Nowe technologie w energetyce (ćwiczenia do wyboru)
-UID:648819bb-e734-47ed-b231-296fe4bb7af1@6488.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Grzybowski
-DTEND:20251030T153000Z
-LOCATION:Paw.B 052 (KSB)
-DTSTART:20251030T140000Z
-SUMMARY:Prawo ochrony środowiska (konwersatorium)
-UID:6f653c02-1739-4734-8ad0-c5dac30e25e5@6f65.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Anna Gomola
-DTEND:20260123T130000Z
-LOCATION:Bud.gł. 6
-DTSTART:20260123T121500Z
-SUMMARY:Metody analizy danych transakcyjnych z rynków energii (ćwiczenia)
-UID:6b9bdf2d-5c07-414f-b626-266a3ae9b196@6b9b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
-DTEND:20251008T161500Z
-LOCATION:Paw.G - 1
-DTSTART:20251008T144500Z
-SUMMARY:Audyt w sektorze energetycznym (konwersatorium)
-UID:0c502474-74d4-421b-a1e9-92cdc512d4c9@0c50.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Głuc
-DTEND:20260122T190000Z
-LOCATION:Paw.G - 2
-DTSTART:20260122T181500Z
-SUMMARY:Samorząd terytorialny a zrównoważony rozwój (ćwiczenia do wyboru)
-UID:4b511d3b-8cc5-446e-899c-47c1bede6ef2@4b51.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
-DTEND:20260107T171500Z
-LOCATION:Paw.G - 1
-DTSTART:20260107T154500Z
-SUMMARY:Audyt w sektorze energetycznym (konwersatorium)
-UID:8e8c8c8e-011d-486f-830a-813ad3183c2f@8e8c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Oramus
-DTEND:20251210T153000Z
-LOCATION:Paw.C sala A
-DTSTART:20251210T140000Z
-SUMMARY:Nowe technologie w energetyce (ćwiczenia do wyboru)
-UID:0558157b-2516-4745-958f-cd5f5c38b3b6@0558.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Anna Gomola
-DTEND:20251114T120000Z
-LOCATION:Paw.F 107
-DTSTART:20251114T103000Z
-SUMMARY:Metody analizy danych transakcyjnych z rynków energii (ćwiczenia)
-UID:e8fad734-5f37-4b3c-9d7a-99d9a2dc4783@e8fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Głuc
-DTEND:20251204T190000Z
-LOCATION:Paw.G - 2
-DTSTART:20251204T173000Z
-SUMMARY:Samorząd terytorialny a zrównoważony rozwój (ćwiczenia do wyboru)
-UID:ed36c3a0-a355-4859-936a-839d9c6f0978@ed36.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Adam Drozdek
-DTEND:20260122T163000Z
-LOCATION:Paw.F CJ 303
-DTSTART:20260122T154500Z
-SUMMARY:Podatki i opłaty ekologiczne (konwersatorium do wyboru)
-UID:1b7a56a8-89a3-47af-b23c-d2c58366b50d@1b7a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Bogna Gawrońska-Nowak
-DTEND:20251007T161500Z
-LOCATION:link do zajęć
-DTSTART:20251007T144500Z
-SUMMARY:Metody analizy danych transakcyjnych z rynków energii (wykład)
-UID:63efca70-8b16-4e49-8321-b9dd6d40aa74@63ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Głuc
-DTEND:20260115T190000Z
-LOCATION:Paw.G - 2
-DTSTART:20260115T173000Z
-SUMMARY:Samorząd terytorialny a zrównoważony rozwój (ćwiczenia do wyboru)
-UID:38535441-dd17-4d56-9a98-7c31ac91cb8b@3853.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251217T134500Z
-DTSTART:20251217T121500Z
-SUMMARY: (rezerwacja)
-UID:4bfc6f57-433a-4e5f-99dd-5328332a5459@4bfc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Oramus
-DTEND:20251126T153000Z
-LOCATION:Paw.F CJ 314
-DTSTART:20251126T140000Z
-SUMMARY:Nowe technologie w energetyce (ćwiczenia do wyboru)
-UID:db51611f-ce3d-4ff9-b525-778a37fd2e2e@db51.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Grzybowski
-DTEND:20251016T143000Z
-LOCATION:Paw.B 052 (KSB)
-DTSTART:20251016T130000Z
-SUMMARY:Prawo ochrony środowiska (konwersatorium)
-UID:887a71e3-12a9-4964-b61f-034be26362d4@887a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Głuc
-DTEND:20251030T190000Z
-LOCATION:Paw.G - 2
-DTSTART:20251030T173000Z
-SUMMARY:Samorząd terytorialny a zrównoważony rozwój (wykład do wyboru)
-UID:888feedf-fd52-4613-8302-e9a7dd353afc@888f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Adam Drozdek
-DTEND:20251002T161500Z
-LOCATION:Paw.F CJ 303
-DTSTART:20251002T144500Z
-SUMMARY:Podatki i opłaty ekologiczne (konwersatorium do wyboru)
-UID:f23a9aae-d31c-4473-8f28-1fe42cd6ab42@f23a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Głuc
-DTEND:20251120T190000Z
-LOCATION:Paw.G - 2
-DTSTART:20251120T173000Z
-SUMMARY:Samorząd terytorialny a zrównoważony rozwój (ćwiczenia do wyboru)
-UID:c7e0a044-66f7-4e2d-8dce-116c2040e55a@c7e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Oramus
-DTEND:20251015T143000Z
-LOCATION:Paw.B 058 (KSB)
-DTSTART:20251015T130000Z
-SUMMARY:Nowe technologie w energetyce (ćwiczenia do wyboru)
-UID:d273e894-5618-4f5b-b6e3-4954c68977fa@d273.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
-DTEND:20251105T171500Z
-LOCATION:Paw.G - 1
-DTSTART:20251105T154500Z
-SUMMARY:Audyt w sektorze energetycznym (konwersatorium)
-UID:5f90be70-1ff2-4327-bb5a-8b537d6e193c@5f90.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Oramus
-DTEND:20260120T161500Z
-LOCATION:link do zajęć
-DTSTART:20260120T140000Z
-SUMMARY:Nowe technologie w energetyce (wykład do wyboru)
-UID:bf4e9489-1015-4283-9211-20469d49e394@bf4e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Grzybowski
-DTEND:20251009T143000Z
-LOCATION:Paw.B 052 (KSB)
-DTSTART:20251009T130000Z
-SUMMARY:Prawo ochrony środowiska (konwersatorium)
-UID:a665ab72-6159-4068-a938-a67a9e7e47fd@a665.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Głuc
-DTEND:20251127T190000Z
-LOCATION:Paw.G - 2
-DTSTART:20251127T173000Z
-SUMMARY:Samorząd terytorialny a zrównoważony rozwój (wykład do wyboru)
-UID:7c3f94c2-ac14-49c1-ae6a-9a93cfbab77e@7c3f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
-DTEND:20251001T161500Z
-LOCATION:Paw.G - 1
-DTSTART:20251001T144500Z
-SUMMARY:Audyt w sektorze energetycznym (konwersatorium)
-UID:7c261d5e-2469-4044-8ca3-29accc3ebd04@7c26.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Głuc
-DTEND:20251016T180000Z
-LOCATION:Paw.G - 2
-DTSTART:20251016T163000Z
-SUMMARY:Samorząd terytorialny a zrównoważony rozwój (wykład do wyboru)
-UID:91154935-604a-4c60-8112-d865ba6be370@9115.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Głuc
-DTEND:20251002T180000Z
-LOCATION:Paw.F 416
-DTSTART:20251002T163000Z
-SUMMARY:Samorząd terytorialny a zrównoważony rozwój (wykład do wyboru)
-UID:ff7590a8-2414-4d04-aa72-395b0129551e@ff75.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Anna Gomola
-DTEND:20260123T120000Z
-LOCATION:Paw.F 107
-DTSTART:20260123T103000Z
-SUMMARY:Metody analizy danych transakcyjnych z rynków energii (ćwiczenia)
-UID:3af50309-252e-406c-b1c4-c3c11cd48624@3af5.org
+DTEND:20251106T153000Z
+DTSTART:20251106T140000Z
+SUMMARY:Prawo ochrony środowiska (Przeniesienie zajęć)
+UID:761d6192-b958-4e39-a909-b0322adcbbd7@761d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Bogna Gawrońska-Nowak
@@ -285,441 +53,23 @@ DTEND:20251216T171500Z
 LOCATION:link do zajęć
 DTSTART:20251216T154500Z
 SUMMARY:Metody analizy danych transakcyjnych z rynków energii (wykład)
-UID:e389b2fa-afe4-447c-bafa-de08fdf205cf@e389.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Bogna Gawrońska-Nowak
-DTEND:20260113T171500Z
-LOCATION:link do zajęć
-DTSTART:20260113T154500Z
-SUMMARY:Metody analizy danych transakcyjnych z rynków energii (wykład)
-UID:217c53fa-e531-4e91-b9ef-572c92c66adf@217c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Grzybowski
-DTEND:20251127T153000Z
-LOCATION:Paw.B 052 (KSB)
-DTSTART:20251127T140000Z
-SUMMARY:Prawo ochrony środowiska (konwersatorium)
-UID:46ab2122-c284-4866-90dc-e5f4f7dfe54d@46ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Bogna Gawrońska-Nowak
-DTEND:20251118T171500Z
-LOCATION:link do zajęć
-DTSTART:20251118T154500Z
-SUMMARY:Metody analizy danych transakcyjnych z rynków energii (wykład)
-UID:c246cac5-8086-476d-821d-fc4cee8a5253@c246.org
+UID:bba258c1-0a44-45a7-acbb-deba47249be0@bba2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Krzysztof Głuc
-DTEND:20251009T180000Z
+DTEND:20260122T190000Z
 LOCATION:Paw.G - 2
-DTSTART:20251009T163000Z
+DTSTART:20260122T181500Z
 SUMMARY:Samorząd terytorialny a zrównoważony rozwój (ćwiczenia do wyboru)
-UID:022bd745-960e-4fd6-bba0-d91221b9d2b4@022b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Adam Drozdek
-DTEND:20251016T161500Z
-LOCATION:Paw.F CJ 303
-DTSTART:20251016T144500Z
-SUMMARY:Podatki i opłaty ekologiczne (konwersatorium do wyboru)
-UID:203173e1-6fe4-444b-bae5-35b0e41cadc6@2031.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
-DTEND:20251210T171500Z
-LOCATION:Paw.G - 1
-DTSTART:20251210T154500Z
-SUMMARY:Audyt w sektorze energetycznym (konwersatorium)
-UID:e7ac6c44-0972-4573-8c5d-9e772fe8316a@e7ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Adam Drozdek
-DTEND:20251127T171500Z
-LOCATION:Paw.F CJ 303
-DTSTART:20251127T154500Z
-SUMMARY:Podatki i opłaty ekologiczne (konwersatorium do wyboru)
-UID:af418ec2-edeb-4735-8e0e-a7fda34d3f36@af41.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Oramus
-DTEND:20251030T120000Z
-LOCATION:link do zajęć
-DTSTART:20251030T103000Z
-SUMMARY:Nowe technologie w energetyce (wykład do wyboru)
-UID:5d670d80-28a7-42ad-8fbf-0138f2936606@5d67.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Adam Drozdek
-DTEND:20251211T171500Z
-LOCATION:Paw.F CJ 303
-DTSTART:20251211T154500Z
-SUMMARY:Podatki i opłaty ekologiczne (konwersatorium do wyboru)
-UID:41e8fe13-9fc4-4050-9f92-7c36d4acc1bc@41e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Bogna Gawrońska-Nowak
-DTEND:20260113T153000Z
-LOCATION:link do zajęć
-DTSTART:20260113T144500Z
-SUMMARY:Metody analizy danych transakcyjnych z rynków energii (wykład)
-UID:cc1a7c45-5186-456b-b3cf-032b651ea4af@cc1a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Oramus
-DTEND:20251112T153000Z
-LOCATION:Paw.F 415
-DTSTART:20251112T140000Z
-SUMMARY:Nowe technologie w energetyce (ćwiczenia do wyboru)
-UID:a91b2b0b-202e-40c6-83af-ef24a3eb14e3@a91b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
-DTEND:20251217T171500Z
-LOCATION:Paw.G - 1
-DTSTART:20251217T154500Z
-SUMMARY:Audyt w sektorze energetycznym (konwersatorium)
-UID:25eb9daa-4763-4526-84a4-8d903100cba1@25eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Głuc
-DTEND:20251113T190000Z
-LOCATION:Paw.G - 2
-DTSTART:20251113T173000Z
-SUMMARY:Samorząd terytorialny a zrównoważony rozwój (wykład do wyboru)
-UID:214a6ee9-1a92-417e-b7e4-fd68ff8e8bd7@214a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Grzybowski
-DTEND:20251204T153000Z
-LOCATION:Paw.B 052 (KSB)
-DTSTART:20251204T140000Z
-SUMMARY:Prawo ochrony środowiska (konwersatorium)
-UID:a52d9b96-406c-4ea8-bf8b-1b9421f7dfd3@a52d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
-DTEND:20251203T171500Z
-LOCATION:Paw.G - 1
-DTSTART:20251203T154500Z
-SUMMARY:Audyt w sektorze energetycznym (konwersatorium)
-UID:ec79adb9-2ff5-4e55-9528-529ed4d2888b@ec79.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
-DTEND:20251015T161500Z
-LOCATION:Paw.G - 1
-DTSTART:20251015T144500Z
-SUMMARY:Audyt w sektorze energetycznym (konwersatorium)
-UID:a183060b-6a46-4e8c-a741-1b63d5b8e53c@a183.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Oramus
-DTEND:20251003T073000Z
-LOCATION:Paw.F 415
-DTSTART:20251003T060000Z
-SUMMARY:Nowe technologie w energetyce (ćwiczenia do wyboru)
-UID:6336ec2c-d520-4edc-a6af-a88d2f34fc12@6336.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Grzybowski
-DTEND:20251211T153000Z
-LOCATION:Paw.B 052 (KSB)
-DTSTART:20251211T140000Z
-SUMMARY:Prawo ochrony środowiska (konwersatorium)
-UID:7ec0ce22-283b-4022-95d5-62c17481ba32@7ec0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Oramus
-DTEND:20251021T180000Z
-DTSTART:20251021T163000Z
-SUMMARY:Nowe technologie w energetyce (Przeniesienie zajęć)
-UID:9ad87038-0d42-4b96-9ab8-c8d70ab2181e@9ad8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Głuc
-DTEND:20251211T190000Z
-LOCATION:Paw.G - 2
-DTSTART:20251211T173000Z
-SUMMARY:Samorząd terytorialny a zrównoważony rozwój (wykład do wyboru)
-UID:1f157cfe-2c71-4ca0-be95-1937340f0130@1f15.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Grzybowski
-DTEND:20251120T153000Z
-LOCATION:Paw.B 052 (KSB)
-DTSTART:20251120T140000Z
-SUMMARY:Prawo ochrony środowiska (konwersatorium)
-UID:5cf19928-28bf-4672-9ff9-15b5d28d465c@5cf1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Grzybowski
-DTEND:20251106T153000Z
-DTSTART:20251106T140000Z
-SUMMARY:Prawo ochrony środowiska (Przeniesienie zajęć)
-UID:54d6ccce-4a2f-426d-864f-a5bb0a414a2c@54d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
-DTEND:20251022T161500Z
-DTSTART:20251022T144500Z
-SUMMARY:Audyt w sektorze energetycznym (Przeniesienie zajęć)
-UID:3b70af5f-5927-4b47-b7c0-d833662a5425@3b70.org
+UID:3b13b8a9-dc05-4b7a-8ad0-3bf7c4622b44@3b13.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Anna Gomola
-DTEND:20251128T120000Z
-DTSTART:20251128T103000Z
-SUMMARY:Metody analizy danych transakcyjnych z rynków energii (Przeniesienie zajęć)
-UID:9dd74cf2-786d-439b-a5e2-e063ec814eaf@9dd7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Anna Gomola
-DTEND:20260109T120000Z
-LOCATION:Paw.F 107
-DTSTART:20260109T103000Z
+DTEND:20260123T130000Z
+LOCATION:Bud.gł. 6
+DTSTART:20260123T121500Z
 SUMMARY:Metody analizy danych transakcyjnych z rynków energii (ćwiczenia)
-UID:7abe3e47-bb97-4e5a-8780-bd22bd804042@7abe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Grzybowski
-DTEND:20251023T143000Z
-LOCATION:Paw.B 052 (KSB)
-DTSTART:20251023T130000Z
-SUMMARY:Prawo ochrony środowiska (konwersatorium)
-UID:482ddb6c-fcc0-4bc1-b08c-45394e7563e1@482d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Głuc
-DTEND:20251218T190000Z
-LOCATION:Paw.G - 2
-DTSTART:20251218T173000Z
-SUMMARY:Samorząd terytorialny a zrównoważony rozwój (ćwiczenia do wyboru)
-UID:e870cb7d-a720-44d3-9f25-c746b741fc77@e870.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Grzybowski
-DTEND:20251113T153000Z
-LOCATION:Paw.B 052 (KSB)
-DTSTART:20251113T140000Z
-SUMMARY:Prawo ochrony środowiska (konwersatorium)
-UID:8b66775f-97c8-4876-825c-a066bc7eb017@8b66.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Oramus
-DTEND:20251017T073000Z
-DTSTART:20251017T060000Z
-SUMMARY:Nowe technologie w energetyce (Przeniesienie zajęć)
-UID:a69c63f0-4f90-4bce-8016-cd3bc84aa6c2@a69c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Oramus
-DTEND:20251029T153000Z
-LOCATION:Paw.B 058 (KSB)
-DTSTART:20251029T140000Z
-SUMMARY:Nowe technologie w energetyce (ćwiczenia do wyboru)
-UID:636fcc00-c8df-4974-9efa-4532019c7c2b@636f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Oramus
-DTEND:20260107T181500Z
-LOCATION:Paw.F 415
-DTSTART:20260107T173000Z
-SUMMARY:Nowe technologie w energetyce (ćwiczenia do wyboru)
-UID:f3cc1857-57c0-47e2-a6db-4d8177357bbf@f3cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Adam Drozdek
-DTEND:20251113T171500Z
-LOCATION:Paw.F CJ 303
-DTSTART:20251113T154500Z
-SUMMARY:Podatki i opłaty ekologiczne (konwersatorium do wyboru)
-UID:a254eb84-cfa0-44b4-bf88-d1e0bbcc5936@a254.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Oramus
-DTEND:20251113T120000Z
-LOCATION:link do zajęć
-DTSTART:20251113T103000Z
-SUMMARY:Nowe technologie w energetyce (wykład do wyboru)
-UID:b4dcba7d-1e6a-4d47-9850-30d2ac9d38f8@b4dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Głuc
-DTEND:20251106T190000Z
-LOCATION:Paw.G - 2
-DTSTART:20251106T173000Z
-SUMMARY:Samorząd terytorialny a zrównoważony rozwój (ćwiczenia do wyboru)
-UID:5efb3e6e-62c7-4974-9e0a-cd9b927829f8@5efb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Grzybowski
-DTEND:20251113T134500Z
-LOCATION:Paw.F CJ 309
-DTSTART:20251113T121500Z
-SUMMARY:Prawo ochrony środowiska (konwersatorium)
-UID:b4dc4586-f041-4181-8005-7f65921034d4@b4dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
-DTEND:20260121T171500Z
-LOCATION:Paw.G - 1
-DTSTART:20260121T154500Z
-SUMMARY:Audyt w sektorze energetycznym (konwersatorium)
-UID:c6099d58-756a-4405-9159-498f29c43119@c609.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Grzybowski
-DTEND:20260115T153000Z
-LOCATION:Paw.B 052 (KSB)
-DTSTART:20260115T140000Z
-SUMMARY:Prawo ochrony środowiska (konwersatorium)
-UID:9f2980ba-0744-46c6-9197-701d999f20f5@9f29.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Anna Gomola
-DTEND:20251031T120000Z
-LOCATION:Paw.F 107
-DTSTART:20251031T103000Z
-SUMMARY:Metody analizy danych transakcyjnych z rynków energii (ćwiczenia)
-UID:b8bb8818-959e-4c90-8660-26e131b064f7@b8bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Oramus
-DTEND:20260108T120000Z
-LOCATION:link do zajęć
-DTSTART:20260108T103000Z
-SUMMARY:Nowe technologie w energetyce (wykład do wyboru)
-UID:496efbab-c1f5-4a6a-ae82-ba65693c9832@496e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Bogna Gawrońska-Nowak
-DTEND:20251202T171500Z
-LOCATION:link do zajęć
-DTSTART:20251202T154500Z
-SUMMARY:Metody analizy danych transakcyjnych z rynków energii (wykład)
-UID:a0beb43f-c2b7-4377-a19e-110aba408df5@a0be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
-DTEND:20251126T171500Z
-LOCATION:Paw.G - 1
-DTSTART:20251126T154500Z
-SUMMARY:Audyt w sektorze energetycznym (konwersatorium)
-UID:70bd4706-4c45-4a40-b590-8abda5465458@70bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Adam Drozdek
-DTEND:20260108T171500Z
-LOCATION:Paw.F CJ 303
-DTSTART:20260108T154500Z
-SUMMARY:Podatki i opłaty ekologiczne (konwersatorium do wyboru)
-UID:bf7b2b37-dcb8-4fce-a334-a49e01b826b6@bf7b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Grzybowski
-DTEND:20260108T153000Z
-LOCATION:Paw.B 052 (KSB)
-DTSTART:20260108T140000Z
-SUMMARY:Prawo ochrony środowiska (konwersatorium)
-UID:5e1c2e5a-5639-42a0-85b3-5ac6e350e37e@5e1c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
-DTEND:20260114T171500Z
-LOCATION:Paw.G - 1
-DTSTART:20260114T154500Z
-SUMMARY:Audyt w sektorze energetycznym (konwersatorium)
-UID:dd7818a3-27a1-4c8d-b6d5-9d7beafbecbf@dd78.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Grzybowski
-DTEND:20251002T143000Z
-LOCATION:Paw.B 052 (KSB)
-DTSTART:20251002T130000Z
-SUMMARY:Prawo ochrony środowiska (konwersatorium)
-UID:4520336d-8b39-4667-8ae1-1250a6d3a1eb@4520.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Anna Gomola
-DTEND:20251114T134500Z
-LOCATION:Bud.gł. 8
-DTSTART:20251114T121500Z
-SUMMARY:Metody analizy danych transakcyjnych z rynków energii (ćwiczenia)
-UID:a670d557-1252-49c1-ab07-3752dc13f876@a670.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Oramus
-DTEND:20251007T180000Z
-LOCATION:link do zajęć
-DTSTART:20251007T163000Z
-SUMMARY:Nowe technologie w energetyce (wykład do wyboru)
-UID:4a54cd6d-99dd-4f80-a8ec-88170269e0db@4a54.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Bogna Gawrońska-Nowak
-DTEND:20251021T161500Z
-LOCATION:link do zajęć
-DTSTART:20251021T144500Z
-SUMMARY:Metody analizy danych transakcyjnych z rynków energii (wykład)
-UID:1d7811d9-95b3-4813-8111-12bb999040c9@1d78.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251016T123000Z
-DTSTART:20251016T093000Z
-SUMMARY: (rezerwacja)
-UID:6568155e-1387-4ec7-9f73-976d824a7728@6568.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
-DTEND:20251029T171500Z
-LOCATION:Paw.G - 1
-DTSTART:20251029T154500Z
-SUMMARY:Audyt w sektorze energetycznym (konwersatorium)
-UID:83280bdc-15cb-4f18-b65f-577f26ae2561@8328.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Anna Gomola
-DTEND:20251031T134500Z
-LOCATION:Paw.F 715
-DTSTART:20251031T121500Z
-SUMMARY:Metody analizy danych transakcyjnych z rynków energii (ćwiczenia)
-UID:4947e4a9-ad03-41d3-8d9a-74cb37c5ca18@4947.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
-DTEND:20251105T153000Z
-LOCATION:Rakowicka 16 sala 12
-DTSTART:20251105T140000Z
-SUMMARY:Audyt w sektorze energetycznym (konwersatorium)
-UID:6761b2b3-e2ac-4fe0-a8cf-5ae3c5fcc82e@6761.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Głuc
-DTEND:20260122T181500Z
-LOCATION:Paw.G - 2
-DTSTART:20260122T173000Z
-SUMMARY:Samorząd terytorialny a zrównoważony rozwój (wykład do wyboru)
-UID:b819c203-cc77-42f4-9a41-dda3da91c46d@b819.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Anna Gomola
-DTEND:20251212T120000Z
-LOCATION:Paw.F 107
-DTSTART:20251212T103000Z
-SUMMARY:Metody analizy danych transakcyjnych z rynków energii (ćwiczenia)
-UID:6f7849f4-4131-4813-afe1-a6b01a7a0dc5@6f78.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Głuc
-DTEND:20251023T180000Z
-LOCATION:Paw.G - 2
-DTSTART:20251023T163000Z
-SUMMARY:Samorząd terytorialny a zrównoważony rozwój (ćwiczenia do wyboru)
-UID:8a484074-dc81-4786-a614-140606c2b0e2@8a48.org
+UID:61946985-0c09-41a1-b998-c66d3b3daf15@6194.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marek Oramus
@@ -727,7 +77,252 @@ DTEND:20251127T120000Z
 LOCATION:link do zajęć
 DTSTART:20251127T103000Z
 SUMMARY:Nowe technologie w energetyce (wykład do wyboru)
-UID:6d678d11-c0de-45ca-b008-32e444378f44@6d67.org
+UID:f0f47c3f-a3a2-4406-95b3-531260f7e213@f0f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Oramus
+DTEND:20251112T153000Z
+LOCATION:Paw.F 415
+DTSTART:20251112T140000Z
+SUMMARY:Nowe technologie w energetyce (ćwiczenia do wyboru)
+UID:e6503220-54df-4743-b518-c461ecb9da7e@e650.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Głuc
+DTEND:20251009T180000Z
+LOCATION:Paw.G - 2
+DTSTART:20251009T163000Z
+SUMMARY:Samorząd terytorialny a zrównoważony rozwój (ćwiczenia do wyboru)
+UID:520802c3-2d01-4a8b-b3a4-49be12046aa5@5208.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Adam Drozdek
+DTEND:20251113T171500Z
+LOCATION:Paw.F CJ 303
+DTSTART:20251113T154500Z
+SUMMARY:Podatki i opłaty ekologiczne (konwersatorium do wyboru)
+UID:1dd764fd-9044-41f3-b173-9bb52a9eeaf3@1dd7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Głuc
+DTEND:20251211T190000Z
+LOCATION:Paw.G - 2
+DTSTART:20251211T173000Z
+SUMMARY:Samorząd terytorialny a zrównoważony rozwój (wykład do wyboru)
+UID:375f3139-9f2b-44e4-95a8-c8d2d6fa008a@375f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Oramus
+DTEND:20260108T120000Z
+LOCATION:link do zajęć
+DTSTART:20260108T103000Z
+SUMMARY:Nowe technologie w energetyce (wykład do wyboru)
+UID:e6c7ca38-ee3c-4e34-8fd8-c4442c0fe894@e6c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
+DTEND:20260114T171500Z
+LOCATION:Paw.G - 1
+DTSTART:20260114T154500Z
+SUMMARY:Audyt w sektorze energetycznym (konwersatorium)
+UID:477aa002-23ef-481b-aedd-27a8fd4a9ed0@477a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Głuc
+DTEND:20251218T190000Z
+LOCATION:Paw.G - 2
+DTSTART:20251218T173000Z
+SUMMARY:Samorząd terytorialny a zrównoważony rozwój (ćwiczenia do wyboru)
+UID:575bfe73-0a90-418d-b02a-80feaaa8d2d0@575b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Gomola
+DTEND:20251017T110000Z
+DTSTART:20251017T093000Z
+SUMMARY:Metody analizy danych transakcyjnych z rynków energii (Przeniesienie zajęć)
+UID:bdc15a21-48a9-4393-ac82-2e8a663b65d6@bdc1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
+DTEND:20260121T171500Z
+LOCATION:Paw.G - 1
+DTSTART:20260121T154500Z
+SUMMARY:Audyt w sektorze energetycznym (konwersatorium)
+UID:954aa7e4-751b-4226-8eb9-ed85225d72e2@954a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Oramus
+DTEND:20251007T180000Z
+LOCATION:link do zajęć
+DTSTART:20251007T163000Z
+SUMMARY:Nowe technologie w energetyce (wykład do wyboru)
+UID:becdb69f-9fa2-430b-a38f-ae71433b6f9d@becd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Grzybowski
+DTEND:20251023T143000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20251023T130000Z
+SUMMARY:Prawo ochrony środowiska (konwersatorium)
+UID:1d44dad4-5be4-4a62-afa9-a16670e84a69@1d44.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Grzybowski
+DTEND:20251113T134500Z
+LOCATION:Paw.F CJ 309
+DTSTART:20251113T121500Z
+SUMMARY:Prawo ochrony środowiska (konwersatorium)
+UID:ceeff2da-cc17-44e0-8e9a-25a31afbe326@ceef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Oramus
+DTEND:20251015T143000Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20251015T130000Z
+SUMMARY:Nowe technologie w energetyce (ćwiczenia do wyboru)
+UID:61700a5c-09eb-4657-86e0-33aaff009824@6170.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Oramus
+DTEND:20251126T153000Z
+LOCATION:Paw.F CJ 314
+DTSTART:20251126T140000Z
+SUMMARY:Nowe technologie w energetyce (ćwiczenia do wyboru)
+UID:b34f2247-201e-4cab-8c9c-a5644be1fa08@b34f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Adam Drozdek
+DTEND:20251127T171500Z
+LOCATION:Paw.F CJ 303
+DTSTART:20251127T154500Z
+SUMMARY:Podatki i opłaty ekologiczne (konwersatorium do wyboru)
+UID:f7591d37-8e67-445f-a7d4-2044ae83016d@f759.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Oramus
+DTEND:20260107T153000Z
+LOCATION:Paw.F CJ 302
+DTSTART:20260107T140000Z
+SUMMARY:Nowe technologie w energetyce (ćwiczenia do wyboru)
+UID:4ac46bf9-cf0a-49be-8638-bb5c5a02c0a2@4ac4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Oramus
+DTEND:20251021T180000Z
+DTSTART:20251021T163000Z
+SUMMARY:Nowe technologie w energetyce (Przeniesienie zajęć)
+UID:adf3e6ef-f255-42f6-a948-b1c6e64cabf7@adf3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
+DTEND:20251203T171500Z
+LOCATION:Paw.G - 1
+DTSTART:20251203T154500Z
+SUMMARY:Audyt w sektorze energetycznym (konwersatorium)
+UID:84b09fa7-cec9-4207-98fc-1c6358a181c7@84b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Gomola
+DTEND:20251031T134500Z
+LOCATION:Paw.F 715
+DTSTART:20251031T121500Z
+SUMMARY:Metody analizy danych transakcyjnych z rynków energii (ćwiczenia)
+UID:24d89c36-172b-499c-956e-1ebfd5537e96@24d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
+DTEND:20251105T153000Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20251105T140000Z
+SUMMARY:Audyt w sektorze energetycznym (konwersatorium)
+UID:8e45ce03-1be3-4141-bd20-d88d7e9d5d9a@8e45.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
+DTEND:20251001T161500Z
+LOCATION:Paw.G - 1
+DTSTART:20251001T144500Z
+SUMMARY:Audyt w sektorze energetycznym (konwersatorium)
+UID:2f43e8cb-6532-4219-8196-e7877a92bfae@2f43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Oramus
+DTEND:20260120T161500Z
+LOCATION:link do zajęć
+DTSTART:20260120T140000Z
+SUMMARY:Nowe technologie w energetyce (wykład do wyboru)
+UID:11ec94e0-695e-436b-b9d3-2d08ba589cd0@11ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
+DTEND:20251015T161500Z
+LOCATION:Paw.G - 1
+DTSTART:20251015T144500Z
+SUMMARY:Audyt w sektorze energetycznym (konwersatorium)
+UID:be0c4e4b-8582-4dc8-b37a-66f3a6954268@be0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Adam Drozdek
+DTEND:20260108T171500Z
+LOCATION:Paw.F CJ 303
+DTSTART:20260108T154500Z
+SUMMARY:Podatki i opłaty ekologiczne (konwersatorium do wyboru)
+UID:5321c5dc-9064-46cc-bf99-e5aa061eeb34@5321.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251016T123000Z
+DTSTART:20251016T093000Z
+SUMMARY: (rezerwacja)
+UID:b0c7053f-0146-4bc4-b4d0-907f6fe98936@b0c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Głuc
+DTEND:20251002T180000Z
+LOCATION:Paw.F 416
+DTSTART:20251002T163000Z
+SUMMARY:Samorząd terytorialny a zrównoważony rozwój (wykład do wyboru)
+UID:bbce1c01-9098-47dc-94f1-0eafff493bb5@bbce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Grzybowski
+DTEND:20251030T153000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20251030T140000Z
+SUMMARY:Prawo ochrony środowiska (konwersatorium)
+UID:ba179b5b-d905-47e8-b261-4f4b33e5815d@ba17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bogna Gawrońska-Nowak
+DTEND:20251118T171500Z
+LOCATION:link do zajęć
+DTSTART:20251118T154500Z
+SUMMARY:Metody analizy danych transakcyjnych z rynków energii (wykład)
+UID:7d01cf52-a60a-43da-9b30-0a4e6620728b@7d01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bogna Gawrońska-Nowak
+DTEND:20260113T171500Z
+LOCATION:link do zajęć
+DTSTART:20260113T154500Z
+SUMMARY:Metody analizy danych transakcyjnych z rynków energii (wykład)
+UID:78def729-67a5-4aa2-8b40-11df538ff5cc@78de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Grzybowski
+DTEND:20251204T153000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20251204T140000Z
+SUMMARY:Prawo ochrony środowiska (konwersatorium)
+UID:eb65e3b9-dd29-42c6-bbf1-7a4f52f4c7f1@eb65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Oramus
+DTEND:20251210T153000Z
+LOCATION:Paw.C sala A
+DTSTART:20251210T140000Z
+SUMMARY:Nowe technologie w energetyce (ćwiczenia do wyboru)
+UID:ed5bfcf0-d08f-47df-95ca-c95dfd7a7ff6@ed5b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
@@ -735,6 +330,403 @@ DTEND:20251112T171500Z
 LOCATION:Paw.G - 1
 DTSTART:20251112T154500Z
 SUMMARY:Audyt w sektorze energetycznym (konwersatorium)
-UID:87601a05-e993-4717-b42d-a514231bc725@8760.org
+UID:24de2822-b2ab-484b-9694-b248a77e6c8a@24de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Głuc
+DTEND:20260115T190000Z
+LOCATION:Paw.G - 2
+DTSTART:20260115T173000Z
+SUMMARY:Samorząd terytorialny a zrównoważony rozwój (ćwiczenia do wyboru)
+UID:a6aef08b-689d-4f85-9801-e7c820078ac9@a6ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Grzybowski
+DTEND:20260108T153000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20260108T140000Z
+SUMMARY:Prawo ochrony środowiska (konwersatorium)
+UID:1f15c538-a972-4661-ae87-1feb008553be@1f15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Głuc
+DTEND:20251023T180000Z
+LOCATION:Paw.G - 2
+DTSTART:20251023T163000Z
+SUMMARY:Samorząd terytorialny a zrównoważony rozwój (ćwiczenia do wyboru)
+UID:b5ca6f79-4774-4a49-8135-aa5cfb360573@b5ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
+DTEND:20251126T171500Z
+LOCATION:Paw.G - 1
+DTSTART:20251126T154500Z
+SUMMARY:Audyt w sektorze energetycznym (konwersatorium)
+UID:ea00d068-9deb-492a-b0ae-eed7dd4858e9@ea00.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Głuc
+DTEND:20251016T180000Z
+LOCATION:Paw.G - 2
+DTSTART:20251016T163000Z
+SUMMARY:Samorząd terytorialny a zrównoważony rozwój (wykład do wyboru)
+UID:8f963ded-7eb9-4170-93d3-4b9cbffd1c0c@8f96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Gomola
+DTEND:20251212T120000Z
+LOCATION:Paw.F 107
+DTSTART:20251212T103000Z
+SUMMARY:Metody analizy danych transakcyjnych z rynków energii (ćwiczenia)
+UID:05ba9c23-46e8-4cd9-b14e-cbd58b96cfd7@05ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Głuc
+DTEND:20251030T190000Z
+LOCATION:Paw.G - 2
+DTSTART:20251030T173000Z
+SUMMARY:Samorząd terytorialny a zrównoważony rozwój (wykład do wyboru)
+UID:84ddd2e1-8826-4887-af81-87881d0f4e0a@84dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Oramus
+DTEND:20260107T181500Z
+LOCATION:Paw.F 415
+DTSTART:20260107T173000Z
+SUMMARY:Nowe technologie w energetyce (ćwiczenia do wyboru)
+UID:bb1c1bf3-a050-404c-8e22-cb1e1825b043@bb1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Grzybowski
+DTEND:20251127T153000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20251127T140000Z
+SUMMARY:Prawo ochrony środowiska (konwersatorium)
+UID:2396b147-1303-4961-b0d1-608e5a075c8e@2396.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Grzybowski
+DTEND:20251113T153000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20251113T140000Z
+SUMMARY:Prawo ochrony środowiska (konwersatorium)
+UID:1135155c-7be7-4025-a671-718f4eb434a1@1135.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Gomola
+DTEND:20260109T120000Z
+LOCATION:Paw.F 107
+DTSTART:20260109T103000Z
+SUMMARY:Metody analizy danych transakcyjnych z rynków energii (ćwiczenia)
+UID:daad0040-4603-4296-bf80-641aa48c8713@daad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Głuc
+DTEND:20251113T190000Z
+LOCATION:Paw.G - 2
+DTSTART:20251113T173000Z
+SUMMARY:Samorząd terytorialny a zrównoważony rozwój (wykład do wyboru)
+UID:01720a88-15e9-4efb-89f5-d56ffa3acf93@0172.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Głuc
+DTEND:20251127T190000Z
+LOCATION:Paw.G - 2
+DTSTART:20251127T173000Z
+SUMMARY:Samorząd terytorialny a zrównoważony rozwój (wykład do wyboru)
+UID:ccc59017-2b70-4a9d-9d3b-b4341875068c@ccc5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Głuc
+DTEND:20251106T190000Z
+LOCATION:Paw.G - 2
+DTSTART:20251106T173000Z
+SUMMARY:Samorząd terytorialny a zrównoważony rozwój (ćwiczenia do wyboru)
+UID:b7d18d91-7ddd-46c7-931d-67e90d7bb8ee@b7d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Oramus
+DTEND:20251113T120000Z
+LOCATION:link do zajęć
+DTSTART:20251113T103000Z
+SUMMARY:Nowe technologie w energetyce (wykład do wyboru)
+UID:78b21eaf-9dac-421f-b01a-f6634561219e@78b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
+DTEND:20251119T171500Z
+LOCATION:Paw.G - 1
+DTSTART:20251119T154500Z
+SUMMARY:Audyt w sektorze energetycznym (konwersatorium)
+UID:b9e65128-e02c-4c60-bfa6-f173716f49b6@b9e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Grzybowski
+DTEND:20260122T153000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20260122T140000Z
+SUMMARY:Prawo ochrony środowiska (konwersatorium)
+UID:9c2b0c1f-2b84-4957-8e8b-9dda3f6f681c@9c2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Głuc
+DTEND:20260122T181500Z
+LOCATION:Paw.G - 2
+DTSTART:20260122T173000Z
+SUMMARY:Samorząd terytorialny a zrównoważony rozwój (wykład do wyboru)
+UID:f68041c7-8374-46b4-b369-6f0784b9e4a1@f680.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bogna Gawrońska-Nowak
+DTEND:20251202T171500Z
+LOCATION:link do zajęć
+DTSTART:20251202T154500Z
+SUMMARY:Metody analizy danych transakcyjnych z rynków energii (wykład)
+UID:68fd0c9a-200f-4ac1-b230-327bcb4949c6@68fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Grzybowski
+DTEND:20251009T143000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20251009T130000Z
+SUMMARY:Prawo ochrony środowiska (konwersatorium)
+UID:dab28c61-42ef-46b2-9b99-533096654a5f@dab2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Adam Drozdek
+DTEND:20260122T163000Z
+LOCATION:Paw.F CJ 303
+DTSTART:20260122T154500Z
+SUMMARY:Podatki i opłaty ekologiczne (konwersatorium do wyboru)
+UID:06443448-30aa-4c52-bc4b-3a9cee94b4a2@0644.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Grzybowski
+DTEND:20251016T143000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20251016T130000Z
+SUMMARY:Prawo ochrony środowiska (konwersatorium)
+UID:5dc596a4-0d37-4014-a160-afe3e891f940@5dc5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Oramus
+DTEND:20251030T120000Z
+LOCATION:link do zajęć
+DTSTART:20251030T103000Z
+SUMMARY:Nowe technologie w energetyce (wykład do wyboru)
+UID:370282cf-dfd5-4f53-8c81-1bb21ddfe850@3702.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Gomola
+DTEND:20251128T120000Z
+DTSTART:20251128T103000Z
+SUMMARY:Metody analizy danych transakcyjnych z rynków energii (Przeniesienie zajęć)
+UID:fb5840f4-b72c-4ef7-a200-516c41b2cdcb@fb58.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
+DTEND:20251029T171500Z
+LOCATION:Paw.G - 1
+DTSTART:20251029T154500Z
+SUMMARY:Audyt w sektorze energetycznym (konwersatorium)
+UID:8747a8a5-1f37-488e-a761-9a6b3669569c@8747.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Grzybowski
+DTEND:20260115T153000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20260115T140000Z
+SUMMARY:Prawo ochrony środowiska (konwersatorium)
+UID:81e56cd6-b74f-4567-a3cc-c104bb21ef1e@81e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Gomola
+DTEND:20260123T120000Z
+LOCATION:Paw.F 107
+DTSTART:20260123T103000Z
+SUMMARY:Metody analizy danych transakcyjnych z rynków energii (ćwiczenia)
+UID:758c253e-de40-4043-84e2-a9be21c687ca@758c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Adam Drozdek
+DTEND:20251002T161500Z
+LOCATION:Paw.F CJ 303
+DTSTART:20251002T144500Z
+SUMMARY:Podatki i opłaty ekologiczne (konwersatorium do wyboru)
+UID:9b8d667b-a4d4-475a-91ca-8b736de3c7dc@9b8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Gomola
+DTEND:20251114T133000Z
+LOCATION:.
+DTSTART:20251114T103000Z
+SUMMARY:Metody analizy danych transakcyjnych z rynków energii (ćwiczenia)
+UID:d522e426-7216-443b-8cc1-e8d980fdc2dc@d522.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
+DTEND:20251008T161500Z
+LOCATION:Paw.G - 1
+DTSTART:20251008T144500Z
+SUMMARY:Audyt w sektorze energetycznym (konwersatorium)
+UID:83a3d9a1-2854-4021-bfd4-c94f3aa914c6@83a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Oramus
+DTEND:20251003T073000Z
+LOCATION:Paw.F 415
+DTSTART:20251003T060000Z
+SUMMARY:Nowe technologie w energetyce (ćwiczenia do wyboru)
+UID:d9d4b7b7-e1f7-4839-bb5a-8f5d9354d17a@d9d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
+DTEND:20251105T171500Z
+LOCATION:Paw.G - 1
+DTSTART:20251105T154500Z
+SUMMARY:Audyt w sektorze energetycznym (konwersatorium)
+UID:62c56d5d-408d-4971-8283-03b285e8afdb@62c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
+DTEND:20251022T161500Z
+DTSTART:20251022T144500Z
+SUMMARY:Audyt w sektorze energetycznym (Przeniesienie zajęć)
+UID:7f4ade20-5696-4b9a-979c-9b5ade7ce191@7f4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
+DTEND:20251217T171500Z
+LOCATION:Paw.G - 1
+DTSTART:20251217T154500Z
+SUMMARY:Audyt w sektorze energetycznym (konwersatorium)
+UID:15777d79-adcd-428e-905a-0ddd7cd857a7@1577.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bogna Gawrońska-Nowak
+DTEND:20260113T153000Z
+LOCATION:link do zajęć
+DTSTART:20260113T144500Z
+SUMMARY:Metody analizy danych transakcyjnych z rynków energii (wykład)
+UID:1ae759cc-1ca9-4d02-85a1-5cf6523a5eae@1ae7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251217T134500Z
+DTSTART:20251217T121500Z
+SUMMARY: (rezerwacja)
+UID:581f1edb-9ffd-4651-a30d-8e2f6a186352@581f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Adam Drozdek
+DTEND:20251030T171500Z
+LOCATION:Paw.F CJ 303
+DTSTART:20251030T154500Z
+SUMMARY:Podatki i opłaty ekologiczne (konwersatorium do wyboru)
+UID:77140749-b8e9-48fa-80f2-ec68b905c59e@7714.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Głuc
+DTEND:20251120T190000Z
+LOCATION:Paw.G - 2
+DTSTART:20251120T173000Z
+SUMMARY:Samorząd terytorialny a zrównoważony rozwój (ćwiczenia do wyboru)
+UID:41f3aaf1-3a95-41df-897c-73d8088ca6bc@41f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Adam Drozdek
+DTEND:20251016T161500Z
+LOCATION:Paw.F CJ 303
+DTSTART:20251016T144500Z
+SUMMARY:Podatki i opłaty ekologiczne (konwersatorium do wyboru)
+UID:2c9e4f49-966a-4f65-a534-cfae0e5c865b@2c9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
+DTEND:20260107T171500Z
+LOCATION:Paw.G - 1
+DTSTART:20260107T154500Z
+SUMMARY:Audyt w sektorze energetycznym (konwersatorium)
+UID:506f3349-c582-4986-84cb-e6cde3bf0467@506f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Adam Drozdek
+DTEND:20251211T171500Z
+LOCATION:Paw.F CJ 303
+DTSTART:20251211T154500Z
+SUMMARY:Podatki i opłaty ekologiczne (konwersatorium do wyboru)
+UID:5fb143f6-bbe3-43ba-b3f1-e9717f087601@5fb1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bogna Gawrońska-Nowak
+DTEND:20251007T161500Z
+LOCATION:link do zajęć
+DTSTART:20251007T144500Z
+SUMMARY:Metody analizy danych transakcyjnych z rynków energii (wykład)
+UID:8f6f4d01-cf8f-4c17-9318-f1b585e58583@8f6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Grzybowski
+DTEND:20251218T153000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20251218T140000Z
+SUMMARY:Prawo ochrony środowiska (konwersatorium)
+UID:8ad2911e-1e9d-4c7b-b049-5340f0e94a34@8ad2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
+DTEND:20251210T171500Z
+LOCATION:Paw.G - 1
+DTSTART:20251210T154500Z
+SUMMARY:Audyt w sektorze energetycznym (konwersatorium)
+UID:29ee26c7-cd05-4a12-93b4-23f1b107fc40@29ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bogna Gawrońska-Nowak
+DTEND:20251021T161500Z
+LOCATION:link do zajęć
+DTSTART:20251021T144500Z
+SUMMARY:Metody analizy danych transakcyjnych z rynków energii (wykład)
+UID:887ae972-d8e8-42b2-a3e2-9436e32858b4@887a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Grzybowski
+DTEND:20251211T153000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20251211T140000Z
+SUMMARY:Prawo ochrony środowiska (konwersatorium)
+UID:9d82b77c-9d34-443b-aac5-3ea524c68cfe@9d82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Głuc
+DTEND:20251204T190000Z
+LOCATION:Paw.G - 2
+DTSTART:20251204T173000Z
+SUMMARY:Samorząd terytorialny a zrównoważony rozwój (ćwiczenia do wyboru)
+UID:da39ec0f-d592-4f75-9f66-df0ed2259fa5@da39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Grzybowski
+DTEND:20251002T143000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20251002T130000Z
+SUMMARY:Prawo ochrony środowiska (konwersatorium)
+UID:4e5c8d98-296c-4792-badd-90770572fe4e@4e5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Oramus
+DTEND:20251029T153000Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20251029T140000Z
+SUMMARY:Nowe technologie w energetyce (ćwiczenia do wyboru)
+UID:9da6d3c6-a540-4a3a-a01a-6f15316e3167@9da6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Gomola
+DTEND:20251031T120000Z
+LOCATION:Paw.F 107
+DTSTART:20251031T103000Z
+SUMMARY:Metody analizy danych transakcyjnych z rynków energii (ćwiczenia)
+UID:7a0cbd95-534f-4acc-8afe-420da64a1b54@7a0c.org
 END:VEVENT
 END:VCALENDAR

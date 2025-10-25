@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
-DTEND:20251211T171500Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20251211T154500Z
-SUMMARY:Socjologia (wykład do wyboru)
-UID:32ba5169-3b6b-47a2-935d-a8dfa149074d@32ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Gabriela Strojna
-DTEND:20251105T101500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251105T084500Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
-UID:98cba419-f8d5-4644-b2d3-568ce3a287b0@98cb.org
+DESCRIPTION:Instructor: dr Justyna Pawlak
+DTEND:20251027T101500Z
+LOCATION:Paw.S sala 9
+DTSTART:20251027T084500Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:d1f489b6-133d-4e5e-9c61-fa07b95e6046@d1f4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
@@ -23,7 +15,7 @@ DTEND:20251126T101500Z
 LOCATION:Paw.A 301a lab.Win10\, Office21
 DTSTART:20251126T084500Z
 SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
-UID:848aee17-e77c-4de7-94a8-2e6bf8461531@848a.org
+UID:b8dfb4a5-d621-43fe-a206-c99f15852eb2@b8df.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
@@ -31,383 +23,7 @@ DTEND:20251205T120000Z
 LOCATION:Bud.gł. Stara Aula
 DTSTART:20251205T103000Z
 SUMMARY:Filozofia (wykład do wyboru)
-UID:1166129f-9307-4885-ab43-266f0ab81e33@1166.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20251009T110000Z
-LOCATION:Paw.S sala 1
-DTSTART:20251009T093000Z
-SUMMARY:Ekonomika i finansowanie ochrony środowiska (wykład)
-UID:36d27742-98a9-4903-a973-921371b0c776@36d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20260107T134500Z
-LOCATION:Paw.F 615
-DTSTART:20260107T121500Z
-SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
-UID:d42dd52f-32f8-41e1-a6cc-71454021d13e@d42d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20251031T101500Z
-LOCATION:Paw.C sala E
-DTSTART:20251031T084500Z
-SUMMARY:Analiza Statystyczna w Finansach (wykład do wyboru)
-UID:69b37f5a-3820-4fca-8317-1a3625d3cc2b@69b3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
-DTEND:20251114T120000Z
-LOCATION:Bud.gł. Stara Aula
-DTSTART:20251114T103000Z
-SUMMARY:Filozofia (wykład do wyboru)
-UID:915fbbe1-0e0b-425a-89d7-84cad2bd932c@915f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
-DTEND:20251208T130000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251208T121500Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
-UID:f5ce9bf9-f223-4bbf-aa23-9f8c46f3a68b@f5ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Pawlak
-DTEND:20251117T101500Z
-LOCATION:Paw.S sala 9
-DTSTART:20251117T084500Z
-SUMMARY:Psychologia (wykład do wyboru)
-UID:a6f719d8-2223-4752-8994-2c5f70b6561d@a6f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Gabriela Strojna
-DTEND:20251015T091500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251015T074500Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
-UID:faacf6c1-50eb-46d3-a9c2-5eacf73e51b1@faac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
-DTEND:20260114T101500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260114T084500Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
-UID:1bfb7594-7f6c-4fcc-acef-3f7fdd9c19a6@1bfb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20251022T161500Z
-LOCATION:Paw.F CJ 310
-DTSTART:20251022T144500Z
-SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (ćwiczenia)
-UID:3027bbdf-9fd1-4078-8ffc-cbf43458482f@3027.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20260121T144500Z
-LOCATION:Paw.F 616
-DTSTART:20260121T140000Z
-SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (ćwiczenia)
-UID:da0c4449-02b6-480b-8b24-5a74460826ca@da0c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20251003T091500Z
-LOCATION:Paw.C sala E
-DTSTART:20251003T074500Z
-SUMMARY:Analiza Statystyczna w Finansach (wykład do wyboru)
-UID:e5e750d5-8cd1-4eb7-9df8-2a639f756622@e5e7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
-DTEND:20251120T101500Z
-LOCATION:Paw.S sala 5
-DTSTART:20251120T084500Z
-SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (wykład)
-UID:357a3012-f821-4018-be92-d0794590499e@357a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20251008T180000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251008T163000Z
-SUMMARY:Historia gospodarcza (wykład do wyboru)
-UID:3f4294bb-f8b0-41c4-9513-2380a2339a23@3f42.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
-DTEND:20251119T101500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251119T084500Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
-UID:8d84a3bc-a8a5-41c8-b015-df9b7dc25789@8d84.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20251127T101500Z
-LOCATION:Paw.S sala 5
-DTSTART:20251127T084500Z
-SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (wykład)
-UID:02a9416d-f0a8-4f47-8ca8-127d966361bf@02a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
-DTEND:20251210T101500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251210T084500Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
-UID:49c04a83-7f89-46d8-a6d3-e30aa0c047ca@49c0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
-DTEND:20251023T143000Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20251023T130000Z
-SUMMARY:Ekonomika i finansowanie ochrony środowiska (ćwiczenia)
-UID:a541b62b-9086-4e47-84ae-8ee3adeedb03@a541.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Gabriela Strojna
-DTEND:20251008T091500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251008T074500Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
-UID:c0d62193-eeb3-42b7-8e7c-25c7d96c672d@c0d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
-DTEND:20251103T134500Z
-LOCATION:Paw.S sala 9
-DTSTART:20251103T121500Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
-UID:0ec62bf4-1d37-4bc2-8730-f97e74ac6ac8@0ec6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Pawlak
-DTEND:20251124T101500Z
-LOCATION:Paw.S sala 9
-DTSTART:20251124T084500Z
-SUMMARY:Psychologia (wykład do wyboru)
-UID:5023dc39-3215-4b4d-89c1-2b3529cabde7@5023.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
-DTEND:20251127T171500Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20251127T154500Z
-SUMMARY:Socjologia (wykład do wyboru)
-UID:d5be02c8-58d1-4a4f-bb05-6e2b175627c3@d5be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20251016T161500Z
-LOCATION:Paw.C sala E
-DTSTART:20251016T144500Z
-SUMMARY:Ekonomika i finansowanie ochrony środowiska (wykład)
-UID:b049b2d7-a058-4b92-951a-8ccdfd002084@b049.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
-DTEND:20251009T161500Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20251009T144500Z
-SUMMARY:Socjologia (wykład do wyboru)
-UID:50b30f15-e43a-42a2-a5b4-3c936c4baefc@50b3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
-DTEND:20260115T153000Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20260115T140000Z
-SUMMARY:Ekonomika i finansowanie ochrony środowiska (ćwiczenia)
-UID:8d801c22-be1f-4dd7-a33d-1a4d9e46b2bf@8d80.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Gabriela Strojna
-DTEND:20251029T101500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251029T084500Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
-UID:79d23884-d52a-4e1b-a72b-af941882415e@79d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
-DTEND:20260115T171500Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20260115T154500Z
-SUMMARY:Socjologia (wykład do wyboru)
-UID:7101c90c-4033-40e7-aeb5-998521b61832@7101.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20251126T190000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251126T173000Z
-SUMMARY:Historia gospodarcza (wykład do wyboru)
-UID:13179c0c-47e8-4c2a-9ef0-d6bad472b740@1317.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Pawlak
-DTEND:20251020T091500Z
-LOCATION:Paw.S sala 9
-DTSTART:20251020T074500Z
-SUMMARY:Psychologia (wykład do wyboru)
-UID:ab25a780-e8ef-4bdc-8e98-285de2a83a68@ab25.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
-DTEND:20251023T091500Z
-LOCATION:Paw.S sala 5
-DTSTART:20251023T074500Z
-SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (wykład)
-UID:b2201dbe-ebc4-4a95-9472-b08c88ebcc91@b220.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
-DTEND:20260122T101500Z
-LOCATION:Paw.S sala 5
-DTSTART:20260122T093000Z
-SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (wykład)
-UID:49a73f9e-61ae-4e03-bc00-c50f2b7a83e7@49a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
-DTEND:20251017T110000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251017T093000Z
-SUMMARY:Filozofia (wykład do wyboru)
-UID:2db3449e-a50f-4a5e-ba85-35389f7f42a0@2db3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
-DTEND:20251113T171500Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20251113T154500Z
-SUMMARY:Socjologia (wykład do wyboru)
-UID:e115bacc-ce08-4504-963e-f64c96e58870@e115.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
-DTEND:20251001T091500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251001T074500Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
-UID:ab9387ae-a95e-43bb-ab9a-d54a9d88d4e4@ab93.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
-DTEND:20251124T134500Z
-LOCATION:Paw.S sala 9
-DTSTART:20251124T121500Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
-UID:4724f2b5-41e1-4af5-b2c2-f1e864f60615@4724.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Leśniak
-DTEND:20260119T120000Z
-LOCATION:Paw.F CJ 313
-DTSTART:20260119T103000Z
-SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (ćwiczenia)
-UID:d542018e-49f9-46f1-96d4-20588e1fa34d@d542.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20251114T101500Z
-LOCATION:Paw.C sala E
-DTSTART:20251114T084500Z
-SUMMARY:Analiza Statystyczna w Finansach (wykład do wyboru)
-UID:79473a33-0cf5-41a3-8e46-ac72dd862421@7947.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Pawlak
-DTEND:20251208T101500Z
-LOCATION:Paw.S sala 9
-DTSTART:20251208T084500Z
-SUMMARY:Psychologia (wykład do wyboru)
-UID:21e08ccd-80f7-47ce-8f65-e68a3271a760@21e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
-DTEND:20251120T153000Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20251120T140000Z
-SUMMARY:Ekonomika i finansowanie ochrony środowiska (ćwiczenia)
-UID:66b27883-ca85-4e7e-b917-7de7d88bfb06@66b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20251119T190000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251119T173000Z
-SUMMARY:Historia gospodarcza (wykład do wyboru)
-UID:dd256b64-6bcf-4c34-bc25-53632e088fdb@dd25.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20260114T190000Z
-LOCATION:Paw.S sala 9
-DTSTART:20260114T173000Z
-SUMMARY:Historia gospodarcza (wykład do wyboru)
-UID:ba355ba5-44bc-4ba2-91df-149d70be9bc5@ba35.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20251126T134500Z
-LOCATION:Paw.F 615
-DTSTART:20251126T121500Z
-SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
-UID:5363bf2a-7eeb-4748-a57e-57c2b94fb219@5363.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20251030T101500Z
-LOCATION:Paw.S sala 5
-DTSTART:20251030T084500Z
-SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (wykład)
-UID:b50e0dd1-ffec-4207-b1e6-7f5768695590@b50e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
-DTEND:20251211T153000Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20251211T140000Z
-SUMMARY:Ekonomika i finansowanie ochrony środowiska (ćwiczenia)
-UID:f5391131-948b-4ddb-b757-e4c1f79f81fe@f539.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
-DTEND:20260123T120000Z
-LOCATION:Paw.S sala 9
-DTSTART:20260123T103000Z
-SUMMARY:Filozofia (wykład do wyboru)
-UID:b52e7e2a-97b5-419b-ac4a-45a3620b849b@b52e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20251217T190000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251217T173000Z
-SUMMARY:Historia gospodarcza (wykład do wyboru)
-UID:df4f2f05-e356-4b36-9e9b-f02949bc8cfe@df4f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
-DTEND:20251218T101500Z
-LOCATION:Paw.S sala 5
-DTSTART:20251218T084500Z
-SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (wykład)
-UID:c937ae08-b55d-4960-ac29-8846de056bd9@c937.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Leśniak
-DTEND:20251013T110000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20251013T093000Z
-SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (ćwiczenia)
-UID:7986974d-884a-4a45-ba3c-fbf056b3241b@7986.org
+UID:b83abd66-4bc0-4737-9d10-30ca7ec1be50@b83a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
@@ -415,555 +31,7 @@ DTEND:20260107T101500Z
 LOCATION:Paw.A 301a lab.Win10\, Office21
 DTSTART:20260107T084500Z
 SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
-UID:4385d4f9-0464-4cf0-a520-261a43999f35@4385.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
-DTEND:20251020T124500Z
-LOCATION:Paw.S sala 9
-DTSTART:20251020T111500Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
-UID:9bf509e6-cb5c-43bb-9181-3e6b4d08564d@9bf5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20251112T134500Z
-LOCATION:Paw.F 615
-DTSTART:20251112T121500Z
-SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
-UID:476d54f4-be92-4a4d-bc1c-2c6f7b10e59a@476d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Leśniak
-DTEND:20251222T161500Z
-LOCATION:Paw.F 717
-DTSTART:20251222T140000Z
-SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (ćwiczenia)
-UID:16259360-6fd8-435f-9968-1e2b18e53fc9@1625.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Pawlak
-DTEND:20251208T083000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251208T070000Z
-SUMMARY:Psychologia (wykład do wyboru)
-UID:84b92b35-c2cf-4dbf-9f17-ead0f61a0371@84b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20260122T093000Z
-LOCATION:Paw.S sala 5
-DTSTART:20260122T084500Z
-SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (wykład)
-UID:e4015076-4e96-4235-9638-7108b87717ad@e401.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20260121T134500Z
-LOCATION:Paw.F 615
-DTSTART:20260121T121500Z
-SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
-UID:59b4ee20-a990-402a-b1aa-cf7fe2857592@59b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
-DTEND:20251016T143000Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20251016T130000Z
-SUMMARY:Ekonomika i finansowanie ochrony środowiska (ćwiczenia)
-UID:2f984505-5abf-48f9-b79e-f7b4d0d855a5@2f98.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20251113T101500Z
-LOCATION:Paw.S sala 5
-DTSTART:20251113T084500Z
-SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (wykład)
-UID:90f9fcb9-7edd-43ba-9691-55a6da3dbb85@90f9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20251029T190000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251029T173000Z
-SUMMARY:Historia gospodarcza (wykład do wyboru)
-UID:16e52129-dc9b-4f9a-8ea3-5f8e51a1b05f@16e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20251003T124500Z
-LOCATION:Paw.F 615
-DTSTART:20251003T111500Z
-SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
-UID:90677caf-3bac-4706-a745-e7f66346d0c1@9067.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20251015T143000Z
-DTSTART:20251015T130000Z
-SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (Przeniesienie zajęć)
-UID:12415f37-a5e6-44b0-87b5-a1b7f6d19469@1241.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
-DTEND:20260121T101500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260121T084500Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
-UID:4e587473-a873-46e0-8c91-1aa267557aef@4e58.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20251210T153000Z
-LOCATION:Paw.F 616
-DTSTART:20251210T140000Z
-SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (ćwiczenia)
-UID:22dd84dd-6c07-4711-adf0-a5ee013c8286@22dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20260107T153000Z
-LOCATION:Paw.F 616
-DTSTART:20260107T140000Z
-SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (ćwiczenia)
-UID:a82c875d-6bb4-47c0-9f61-05fb60a3c7d9@a82c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20260123T101500Z
-LOCATION:Paw.C sala E
-DTSTART:20260123T093000Z
-SUMMARY:Analiza Statystyczna w Finansach (wykład do wyboru)
-UID:26029e75-7029-48e0-8a9e-0c6ecc4a4f25@2602.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20251112T153000Z
-LOCATION:Paw.F 616
-DTSTART:20251112T140000Z
-SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (ćwiczenia)
-UID:831506d9-66cd-49b0-82ef-54affc36c99e@8315.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
-DTEND:20251003T110000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251003T093000Z
-SUMMARY:Filozofia (wykład do wyboru)
-UID:aa5e90f9-b618-41db-88ce-452c18c6ceca@aa5e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20251016T091500Z
-LOCATION:Paw.S sala 5
-DTSTART:20251016T074500Z
-SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (wykład)
-UID:9d1d75e2-cfaa-41ac-93f7-dba3ce8e65c4@9d1d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251016T123000Z
-DTSTART:20251016T093000Z
-SUMMARY: (rezerwacja)
-UID:04a86f86-5368-4cf2-85c6-7416e97768ad@04a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
-DTEND:20260108T171500Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20260108T154500Z
-SUMMARY:Socjologia (wykład do wyboru)
-UID:2f6bbd07-a4cf-403d-8513-2e0fe9bbecd0@2f6b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Leśniak
-DTEND:20251208T120000Z
-LOCATION:Paw.F CJ 313
-DTSTART:20251208T103000Z
-SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (ćwiczenia)
-UID:4f7dd4bb-fc46-422e-a888-3581bc1425a2@4f7d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20251001T180000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251001T163000Z
-SUMMARY:Historia gospodarcza (wykład do wyboru)
-UID:ee6941f4-4ae3-49fa-a717-5c377cb4851c@ee69.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Pawlak
-DTEND:20251013T091500Z
-LOCATION:Paw.S sala 9
-DTSTART:20251013T074500Z
-SUMMARY:Psychologia (wykład do wyboru)
-UID:1797b303-e175-477d-8e52-cfdbf0877d16@1797.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20251022T180000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251022T163000Z
-SUMMARY:Historia gospodarcza (wykład do wyboru)
-UID:623b5c8e-bcbc-44ab-bbc4-c1ddd5095a4e@623b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20251030T120000Z
-LOCATION:Paw.S sala 1
-DTSTART:20251030T103000Z
-SUMMARY:Ekonomika i finansowanie ochrony środowiska (wykład)
-UID:06734f82-c7fa-4cde-a049-41a1c464a388@0673.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20251203T190000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251203T173000Z
-SUMMARY:Historia gospodarcza (wykład do wyboru)
-UID:7c30c641-a71d-4e1a-87c5-2b3bff5060e1@7c30.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Leśniak
-DTEND:20251027T120000Z
-LOCATION:Paw.F CJ 313
-DTSTART:20251027T103000Z
-SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (ćwiczenia)
-UID:6d7da6b2-a685-4c74-ae88-828259295eb1@6d7d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20251031T083000Z
-LOCATION:Paw.C sala E
-DTSTART:20251031T070000Z
-SUMMARY:Analiza Statystyczna w Finansach (wykład do wyboru)
-UID:13055544-1465-4627-8efe-d9735506b26a@1305.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
-DTEND:20251113T153000Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20251113T140000Z
-SUMMARY:Ekonomika i finansowanie ochrony środowiska (ćwiczenia)
-UID:70ac1bb3-b8a1-497c-a291-92047bf46819@70ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20251218T120000Z
-LOCATION:link do zajęć
-DTSTART:20251218T103000Z
-SUMMARY:Ekonomika i finansowanie ochrony środowiska (wykład zdalny)
-UID:ec3589e2-dbcc-4415-beff-1dc24d037825@ec35.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20251015T124500Z
-LOCATION:Paw.F 615
-DTSTART:20251015T111500Z
-SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
-UID:04f1370b-8551-46eb-8e46-7c46d6a1592c@04f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20251105T190000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251105T173000Z
-SUMMARY:Historia gospodarcza (wykład do wyboru)
-UID:a7321561-7609-4199-8b88-14ecd667bfa9@a732.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20251112T190000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251112T173000Z
-SUMMARY:Historia gospodarcza (wykład do wyboru)
-UID:d61cf10c-c84d-4c57-8e4a-2a9fa3f550a7@d61c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20251119T134500Z
-LOCATION:Paw.F 615
-DTSTART:20251119T121500Z
-SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
-UID:2467afd1-b4c7-417d-af85-b24ae88e191f@2467.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20251120T120000Z
-LOCATION:Paw.S sala 1
-DTSTART:20251120T103000Z
-SUMMARY:Ekonomika i finansowanie ochrony środowiska (wykład)
-UID:7da5bc0c-19bc-4951-8fc1-622e31f75724@7da5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20260115T120000Z
-LOCATION:Paw.S sala 1
-DTSTART:20260115T103000Z
-SUMMARY:Ekonomika i finansowanie ochrony środowiska (wykład)
-UID:2feaf11a-0171-49ca-bb01-1abe4d74fb19@2fea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Pawlak
-DTEND:20260119T101500Z
-LOCATION:Paw.S sala 9
-DTSTART:20260119T084500Z
-SUMMARY:Psychologia (wykład do wyboru)
-UID:efb6622e-a379-49ce-95a6-b47b25f2859c@efb6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20251015T180000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251015T163000Z
-SUMMARY:Historia gospodarcza (wykład do wyboru)
-UID:513c78a0-af7d-4f3c-bacf-8d7788348756@513c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Pawlak
-DTEND:20251027T101500Z
-LOCATION:Paw.S sala 9
-DTSTART:20251027T084500Z
-SUMMARY:Psychologia (wykład do wyboru)
-UID:4b54b928-6892-4783-b5de-470bb1a1a530@4b54.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20260114T134500Z
-LOCATION:Paw.F 615
-DTSTART:20260114T121500Z
-SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
-UID:1ab57b85-69db-456d-a28e-8e0ccdef7d42@1ab5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20251008T161500Z
-LOCATION:Paw.S sala 6
-DTSTART:20251008T144500Z
-SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (ćwiczenia)
-UID:17d8c657-e44b-4b78-8429-1d3fde8d5aa4@17d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Pawlak
-DTEND:20251027T083000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251027T070000Z
-SUMMARY:Psychologia (wykład do wyboru)
-UID:cbd40eb6-9d8e-4fe1-9c7b-16cd4eef5549@cbd4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20260108T101500Z
-LOCATION:Paw.S sala 5
-DTSTART:20260108T084500Z
-SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (wykład)
-UID:df2fcb1d-efd0-4681-9fcf-c7e9db9d7b5e@df2f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Pawlak
-DTEND:20251124T083000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251124T070000Z
-SUMMARY:Psychologia (wykład do wyboru)
-UID:a7eac4aa-2238-42a0-8dbf-babe8860e2eb@a7ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20251212T101500Z
-LOCATION:Paw.C sala E
-DTSTART:20251212T084500Z
-SUMMARY:Analiza Statystyczna w Finansach (wykład do wyboru)
-UID:c1167e92-a353-464d-a6a9-09937ad6de02@c116.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
-DTEND:20251127T153000Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20251127T140000Z
-SUMMARY:Ekonomika i finansowanie ochrony środowiska (ćwiczenia)
-UID:531c5164-55f4-4d02-aeff-ec53ea88f839@531c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251217T134500Z
-DTSTART:20251217T121500Z
-SUMMARY: (rezerwacja)
-UID:17060818-4616-4f23-99c4-ac869b9b42f7@1706.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20251211T120000Z
-LOCATION:Paw.S sala 1
-DTSTART:20251211T103000Z
-SUMMARY:Ekonomika i finansowanie ochrony środowiska (wykład)
-UID:364cf65b-5ce8-4373-8a61-8e5c35f9f67d@364c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
-DTEND:20251204T101500Z
-LOCATION:Paw.S sala 5
-DTSTART:20251204T084500Z
-SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (wykład)
-UID:47363638-7793-4cbe-bb86-05019a6a4959@4736.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
-DTEND:20251204T171500Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20251204T154500Z
-SUMMARY:Socjologia (wykład do wyboru)
-UID:f30bc346-a467-48dc-a9f8-cb2d2778d74d@f30b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20251008T124500Z
-LOCATION:Paw.F 615
-DTSTART:20251008T111500Z
-SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
-UID:1ab508ba-b8e2-4f38-97f1-a3abd4f6b70f@1ab5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
-DTEND:20251201T134500Z
-LOCATION:Paw.S sala 9
-DTSTART:20251201T121500Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
-UID:fec7eedb-41e8-4736-8873-116fe9618394@fec7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20260109T101500Z
-LOCATION:Paw.C sala E
-DTSTART:20260109T084500Z
-SUMMARY:Analiza Statystyczna w Finansach (wykład do wyboru)
-UID:556474f0-ac28-4a49-b045-af896183d89b@5564.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20251204T120000Z
-LOCATION:Paw.S sala 1
-DTSTART:20251204T103000Z
-SUMMARY:Ekonomika i finansowanie ochrony środowiska (wykład)
-UID:c7c2e274-48ef-4c39-ab3a-012be0fcecc5@c7c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
-DTEND:20260109T120000Z
-LOCATION:Paw.S sala 9
-DTSTART:20260109T103000Z
-SUMMARY:Filozofia (wykład do wyboru)
-UID:a1a31cab-ec50-461e-9608-6f70764d700c@a1a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20251002T110000Z
-LOCATION:Paw.S sala 1
-DTSTART:20251002T093000Z
-SUMMARY:Ekonomika i finansowanie ochrony środowiska (wykład)
-UID:5becaeca-38cd-4013-b21a-b51b9564b564@5bec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20251113T120000Z
-LOCATION:Paw.S sala 1
-DTSTART:20251113T103000Z
-SUMMARY:Ekonomika i finansowanie ochrony środowiska (wykład)
-UID:6fa7ad06-e13a-4937-90fc-abb19d4c295c@6fa7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
-DTEND:20251031T120000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251031T103000Z
-SUMMARY:Filozofia (wykład do wyboru)
-UID:b9c52a17-62e7-401f-803d-d012f1506a26@b9c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
-DTEND:20251117T153000Z
-LOCATION:Paw.C sala E
-DTSTART:20251117T140000Z
-SUMMARY:Socjologia (wykład do wyboru)
-UID:4fc6bf91-5652-4c60-bd64-25d9be71541f@4fc6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
-DTEND:20260115T101500Z
-LOCATION:Paw.S sala 5
-DTSTART:20260115T084500Z
-SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (wykład)
-UID:bfe196e2-951f-42f9-a6ef-49fee6a39236@bfe1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Pawlak
-DTEND:20251201T101500Z
-LOCATION:Paw.S sala 9
-DTSTART:20251201T084500Z
-SUMMARY:Psychologia (wykład do wyboru)
-UID:aede3b51-1671-4ab5-ad5f-255bc75c0f40@aede.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20251023T110000Z
-LOCATION:Paw.S sala 1
-DTSTART:20251023T093000Z
-SUMMARY:Ekonomika i finansowanie ochrony środowiska (wykład)
-UID:f1e3c9dc-7932-4da2-b53d-97931673a987@f1e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
-DTEND:20251107T120000Z
-LOCATION:Bud.gł. Stara Aula
-DTSTART:20251107T103000Z
-SUMMARY:Filozofia (wykład do wyboru)
-UID:9de1a5be-2693-4895-aa31-873a8fc2985a@9de1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
-DTEND:20251106T153000Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20251106T140000Z
-SUMMARY:Ekonomika i finansowanie ochrony środowiska (ćwiczenia)
-UID:abf92475-2fbf-4161-832b-6d1862131a54@abf9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
-DTEND:20251027T134500Z
-LOCATION:Paw.S sala 9
-DTSTART:20251027T121500Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
-UID:0a2b6fb2-8fa9-453e-a7c0-36d6d7ee4eb0@0a2b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
-DTEND:20251002T161500Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20251002T144500Z
-SUMMARY:Socjologia (wykład do wyboru)
-UID:b132d7c7-cbed-432b-b7c1-bb35cdb22dff@b132.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Pawlak
-DTEND:20260126T161500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21\, Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20260126T140000Z
-SUMMARY:Psychologia (egzamin)
-UID:16956adc-ac18-44e2-882c-481de7b7a6fd@1695.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
-DTEND:20251106T101500Z
-LOCATION:Paw.S sala 5
-DTSTART:20251106T084500Z
-SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (wykład)
-UID:85c8dcc2-79eb-4fb6-86e3-085fdf0eb8a5@85c8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
-DTEND:20251103T153000Z
-DTSTART:20251103T140000Z
-SUMMARY:Socjologia (Przeniesienie zajęć)
-UID:f4a8eec6-1c9e-4b0f-9949-3d9f59147f33@f4a8.org
+UID:0cada5ae-1662-4453-af3f-0bef9b8b461c@0cad.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
@@ -971,31 +39,7 @@ DTEND:20251112T101500Z
 LOCATION:Paw.A 301a lab.Win10\, Office21
 DTSTART:20251112T084500Z
 SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
-UID:fa047284-8655-476b-82bb-1cca429b447d@fa04.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
-DTEND:20251121T120000Z
-LOCATION:Bud.gł. Stara Aula
-DTSTART:20251121T103000Z
-SUMMARY:Filozofia (wykład do wyboru)
-UID:a2a1cd72-4f6e-45a5-8acb-3814ba6fd7c2@a2a1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20251029T134500Z
-LOCATION:Paw.F 615
-DTSTART:20251029T121500Z
-SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
-UID:e2f55a1d-8fb5-4a78-a5ad-efc6caa000fa@e2f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20251126T153000Z
-LOCATION:Paw.F 616
-DTSTART:20251126T140000Z
-SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (ćwiczenia)
-UID:15a672c7-788d-4798-b898-54686886cfbd@15a6.org
+UID:371c4ac4-44f1-4c10-bb20-515a39a4db73@371c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Piotr Miodunka
@@ -1003,333 +47,79 @@ DTEND:20260107T190000Z
 LOCATION:Paw.S sala 9
 DTSTART:20260107T173000Z
 SUMMARY:Historia gospodarcza (wykład do wyboru)
-UID:80137226-5e3d-4e6f-a9df-64e4a4383c5c@8013.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
-DTEND:20251002T143000Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20251002T130000Z
-SUMMARY:Ekonomika i finansowanie ochrony środowiska (ćwiczenia)
-UID:5cae3f25-2f0e-428d-bdc2-70cfd348843b@5cae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
-DTEND:20251009T143000Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20251009T130000Z
-SUMMARY:Ekonomika i finansowanie ochrony środowiska (ćwiczenia)
-UID:73a87fd8-9bbf-48a5-b7ca-548f1bae758f@73a8.org
+UID:525d5aa2-405e-4704-b871-a8c75adfe661@525d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20251106T120000Z
+DTEND:20251009T110000Z
 LOCATION:Paw.S sala 1
-DTSTART:20251106T103000Z
+DTSTART:20251009T093000Z
 SUMMARY:Ekonomika i finansowanie ochrony środowiska (wykład)
-UID:595d2f3c-507c-4cee-b4a6-3ef5670ecb4f@595d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
-DTEND:20251219T120000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251219T103000Z
-SUMMARY:Filozofia (wykład do wyboru)
-UID:f35d6204-68a1-4af0-8099-515f88dd0b9f@f35d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Leśniak
-DTEND:20251124T120000Z
-LOCATION:Paw.F CJ 313
-DTSTART:20251124T103000Z
-SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (ćwiczenia)
-UID:bd2f710c-c7e9-4358-ac55-f1c11804fb2b@bd2f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
-DTEND:20251204T153000Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20251204T140000Z
-SUMMARY:Ekonomika i finansowanie ochrony środowiska (ćwiczenia)
-UID:c1d41360-64db-4a8a-b5a4-588e477e2226@c1d4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
-DTEND:20251218T171500Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20251218T154500Z
-SUMMARY:Socjologia (wykład do wyboru)
-UID:f16b3180-69c3-4ed1-803a-ac92110e9d01@f16b.org
+UID:000d656c-53c7-41d6-bad3-4c20a015fc4a@000d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20251128T101500Z
+DTEND:20251114T101500Z
 LOCATION:Paw.C sala E
-DTSTART:20251128T084500Z
+DTSTART:20251114T084500Z
 SUMMARY:Analiza Statystyczna w Finansach (wykład do wyboru)
-UID:223aefba-8a53-4340-a735-fdf0100c4527@223a.org
+UID:a5dfbb09-7ed7-49ed-85a1-d25bf2f8de05@a5df.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
-DTEND:20251218T153000Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20251218T140000Z
-SUMMARY:Ekonomika i finansowanie ochrony środowiska (ćwiczenia)
-UID:7a8bce39-4783-4231-ac06-f8f63f62b6ae@7a8b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
-DTEND:20251030T153000Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20251030T140000Z
-SUMMARY:Ekonomika i finansowanie ochrony środowiska (ćwiczenia)
-UID:65d0330a-653c-48a0-973f-db104a35e420@65d0.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
+DTEND:20251020T124500Z
+LOCATION:Paw.S sala 9
+DTSTART:20251020T111500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
+UID:719e3025-ae94-46b2-a415-713a15469f71@719e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20251029T153000Z
-LOCATION:Paw.F 616
-DTSTART:20251029T140000Z
+DTEND:20251022T161500Z
+LOCATION:Paw.F CJ 310
+DTSTART:20251022T144500Z
 SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (ćwiczenia)
-UID:fdd99f5a-e43e-4da9-a72e-c56f0a229358@fdd9.org
+UID:05c32883-8517-4f1a-8a30-c460a5138cc3@05c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Pawlak
+DTEND:20260119T101500Z
+LOCATION:Paw.S sala 9
+DTSTART:20260119T084500Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:ea27ad50-927c-47f2-a8ab-2a662a86651d@ea27.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
-DTEND:20251009T091500Z
+DTEND:20260122T101500Z
 LOCATION:Paw.S sala 5
-DTSTART:20251009T074500Z
+DTSTART:20260122T093000Z
 SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (wykład)
-UID:7d6f6332-b1fd-4448-8106-25b310287922@7d6f.org
+UID:99246ac9-2336-46e6-9040-f4bacf17edbb@9924.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20251127T120000Z
+DTEND:20251023T110000Z
 LOCATION:Paw.S sala 1
-DTSTART:20251127T103000Z
+DTSTART:20251023T093000Z
 SUMMARY:Ekonomika i finansowanie ochrony środowiska (wykład)
-UID:c91424af-8f5e-4354-b977-f6a4a6f82376@c914.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20260121T190000Z
-LOCATION:Paw.S sala 9
-DTSTART:20260121T173000Z
-SUMMARY:Historia gospodarcza (wykład do wyboru)
-UID:e4705edc-7fa3-4258-a5c4-1f81a7788b61@e470.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
-DTEND:20251013T124500Z
-LOCATION:Paw.S sala 9
-DTSTART:20251013T111500Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
-UID:d80302ac-ef7f-4e0f-9330-a79fa59356b5@d803.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20251210T134500Z
-LOCATION:Paw.F 615
-DTSTART:20251210T121500Z
-SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
-UID:c226d9c8-652f-4fe4-926d-0b848b4f77f6@c226.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20260108T120000Z
-LOCATION:Paw.S sala 1
-DTSTART:20260108T103000Z
-SUMMARY:Ekonomika i finansowanie ochrony środowiska (wykład)
-UID:5fe93bd3-6b2b-47e3-aa54-5e804759da3c@5fe9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
-DTEND:20251010T110000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251010T093000Z
-SUMMARY:Filozofia (wykład do wyboru)
-UID:2ac5ffbf-fb2c-448c-8faa-30d6d96f8276@2ac5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
-DTEND:20251024T110000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251024T093000Z
-SUMMARY:Filozofia (wykład do wyboru)
-UID:4a6e639b-fd7b-4b66-acc8-51680648c44c@4a6e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Pawlak
-DTEND:20251103T101500Z
-LOCATION:Paw.S sala 9
-DTSTART:20251103T084500Z
-SUMMARY:Psychologia (wykład do wyboru)
-UID:9e77021f-b9d3-44a3-9f26-875d01c1937c@9e77.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
-DTEND:20251212T120000Z
-LOCATION:Bud.gł. Stara Aula
-DTSTART:20251212T103000Z
-SUMMARY:Filozofia (wykład do wyboru)
-UID:d0e00d1b-b52c-4ea6-afe0-e063e2ba0a3d@d0e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
-DTEND:20260122T171500Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20260122T154500Z
-SUMMARY:Socjologia (wykład do wyboru)
-UID:4c93d493-4ffc-4110-b545-590cde26ba64@4c93.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
-DTEND:20251106T171500Z
-DTSTART:20251106T154500Z
-SUMMARY:Socjologia (Przeniesienie zajęć)
-UID:ebe13036-d7e0-46ab-a793-8006238dccd6@ebe1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20251105T134500Z
-LOCATION:Paw.F 615
-DTSTART:20251105T121500Z
-SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
-UID:170a0aa4-3b43-4005-9ec5-d816f9ed352b@170a.org
+UID:6ef8720b-87f4-431b-90e9-2f747463c80b@6ef8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
-DTEND:20260108T153000Z
+DTEND:20251211T153000Z
 LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20260108T140000Z
+DTSTART:20251211T140000Z
 SUMMARY:Ekonomika i finansowanie ochrony środowiska (ćwiczenia)
-UID:0b379321-496c-4370-966c-fdf5d6810ef2@0b37.org
+UID:1de27184-ef01-409c-ab78-cedcd3115096@1de2.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
-DTEND:20260116T120000Z
-LOCATION:Paw.S sala 9
-DTSTART:20260116T103000Z
-SUMMARY:Filozofia (wykład do wyboru)
-UID:e0b9a879-f077-4005-8c41-8bce18833041@e0b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
-DTEND:20260122T153000Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20260122T140000Z
-SUMMARY:Ekonomika i finansowanie ochrony środowiska (ćwiczenia)
-UID:aedf30de-bd0a-4fe9-9b0d-1ba6b9411e29@aedf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
-DTEND:20251120T171500Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20251120T154500Z
-SUMMARY:Socjologia (wykład do wyboru)
-UID:a35940d4-44d0-467d-88a9-61870b2921b9@a359.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
-DTEND:20251030T171500Z
-DTSTART:20251030T154500Z
-SUMMARY:Socjologia (Przeniesienie zajęć)
-UID:9a7c9e12-5b87-49b3-a451-e22bce9ce0ac@9a7c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20251210T190000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251210T173000Z
-SUMMARY:Historia gospodarcza (wykład do wyboru)
-UID:1dcf9439-86dd-4792-9920-89fa89570af2@1dcf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20251211T101500Z
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20251120T101500Z
 LOCATION:Paw.S sala 5
-DTSTART:20251211T084500Z
+DTSTART:20251120T084500Z
 SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (wykład)
-UID:2f9aae5e-190a-4683-ba62-fb70548b9b01@2f9a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Pawlak
-DTEND:20251215T101500Z
-LOCATION:Paw.S sala 9
-DTSTART:20251215T084500Z
-SUMMARY:Psychologia (wykład do wyboru)
-UID:a3e055b5-e745-4580-a240-29b79f7b0117@a3e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
-DTEND:20251128T120000Z
-LOCATION:Paw.S sala 4
-DTSTART:20251128T103000Z
-SUMMARY:Filozofia (wykład do wyboru)
-UID:9de4eae2-0264-4329-916f-cd2fa4a31c58@9de4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
-DTEND:20251203T101500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251203T084500Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
-UID:dde05abb-1393-43f1-86a6-89a6df0b42e7@dde0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Leśniak
-DTEND:20251222T120000Z
-LOCATION:Paw.F CJ 313
-DTSTART:20251222T103000Z
-SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (ćwiczenia)
-UID:13ff4b24-3fc1-4c44-97e1-c960fa3c7c73@13ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20251022T124500Z
-LOCATION:Paw.F 615
-DTSTART:20251022T111500Z
-SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
-UID:977a7d7c-8247-48d6-ab62-07ac684da31c@977a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
-DTEND:20251117T134500Z
-LOCATION:Paw.S sala 9
-DTSTART:20251117T121500Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
-UID:56b70afe-c09c-4ace-ae4e-09ee2c49b65e@56b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20251217T120000Z
-LOCATION:Paw.F 615
-DTSTART:20251217T103000Z
-SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
-UID:fde04c65-f63b-4325-afba-8abc6a3c766a@fde0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Pawlak
-DTEND:20260112T101500Z
-LOCATION:Paw.S sala 9
-DTSTART:20260112T084500Z
-SUMMARY:Psychologia (wykład do wyboru)
-UID:467bf263-12ac-4978-bb07-aa33218ae349@467b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20251203T134500Z
-LOCATION:Paw.F 615
-DTSTART:20251203T121500Z
-SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
-UID:abb37ba9-5f66-4b77-861f-c49c56e9dd58@abb3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Gabriela Strojna
-DTEND:20251022T091500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251022T074500Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
-UID:420b4d9a-5303-4830-be03-638f4112464b@420b.org
+UID:ed51ba53-9297-4878-9753-5128fcc07bab@ed51.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Justyna Pawlak
@@ -1337,7 +127,1050 @@ DTEND:20251222T101500Z
 LOCATION:Paw.S sala 9
 DTSTART:20251222T084500Z
 SUMMARY:Psychologia (wykład do wyboru)
-UID:0b8bfc9a-80f3-4760-ac30-c5ae6a6a77d1@0b8b.org
+UID:16fe0b5c-8bb1-4b8e-907a-a6f1e01bcff9@16fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20251001T180000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251001T163000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:8c33b7ec-0271-40ae-b94e-bb035658795f@8c33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20251119T134500Z
+LOCATION:Paw.F 615
+DTSTART:20251119T121500Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:f817b6ff-b8ff-46c2-ba94-912bb3c4bbcc@f817.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20251219T120000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251219T103000Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:ece6fa45-b004-48e5-969f-a0a51bd6a152@ece6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Pawlak
+DTEND:20260112T101500Z
+LOCATION:Paw.S sala 9
+DTSTART:20260112T084500Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:e9c17b95-9ee6-4e6a-8a61-93c4031e478b@e9c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Pawlak
+DTEND:20251103T101500Z
+LOCATION:Paw.S sala 9
+DTSTART:20251103T084500Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:f9055fd4-427d-45b8-81de-1616f6d8398e@f905.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20260107T153000Z
+LOCATION:Paw.F 616
+DTSTART:20260107T140000Z
+SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (ćwiczenia)
+UID:4f38edfb-92f1-4f3b-81a5-2a79e084cbe7@4f38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20251112T153000Z
+LOCATION:Paw.F 616
+DTSTART:20251112T140000Z
+SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (ćwiczenia)
+UID:0d2496dd-cadb-4e54-830e-6229f9529640@0d24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
+DTEND:20251127T171500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20251127T154500Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:bd99d5d5-d061-4485-b417-26ea462646d6@bd99.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
+DTEND:20251103T134500Z
+LOCATION:Paw.S sala 9
+DTSTART:20251103T121500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
+UID:cf71fa8f-aec0-46b7-b5ae-1043bf989184@cf71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20251211T101500Z
+LOCATION:Paw.S sala 5
+DTSTART:20251211T084500Z
+SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (wykład)
+UID:4960b8fa-ed1c-4d89-a744-2da20bffbe27@4960.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
+DTEND:20260108T171500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20260108T154500Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:7188d0e7-9902-4580-9968-df98fb5f9f9d@7188.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Gabriela Strojna
+DTEND:20251008T091500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251008T074500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:09f4a3e0-3324-4b60-9094-d574ea5cd6ba@09f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
+DTEND:20251117T153000Z
+LOCATION:Paw.C sala E
+DTSTART:20251117T140000Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:8a1966ea-d246-4328-986f-f539dde4fbfc@8a19.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20260123T120000Z
+LOCATION:Paw.S sala 9
+DTSTART:20260123T103000Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:9843d369-dd9b-4e60-b4ac-1b691efe7c0e@9843.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20251114T120000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20251114T103000Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:23accb81-f383-4a2c-8ff0-5f388cef02f1@23ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20251120T120000Z
+LOCATION:Paw.S sala 1
+DTSTART:20251120T103000Z
+SUMMARY:Ekonomika i finansowanie ochrony środowiska (wykład)
+UID:8eec7488-f4aa-4f9e-9948-f174dd2e65fc@8eec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
+DTEND:20251201T134500Z
+LOCATION:Paw.S sala 9
+DTSTART:20251201T121500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
+UID:81f8b335-fdfe-4bd0-a5d8-45994c304d90@81f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20260121T190000Z
+LOCATION:Paw.S sala 9
+DTSTART:20260121T173000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:ddee43ef-e768-49ce-8a44-997a83f1b627@ddee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20251008T180000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251008T163000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:cab8d695-3849-4ecb-be31-545b80391223@cab8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20251003T091500Z
+LOCATION:Paw.C sala E
+DTSTART:20251003T074500Z
+SUMMARY:Analiza Statystyczna w Finansach (wykład do wyboru)
+UID:de476ce1-2a75-45d4-9d97-34ca1cc59b83@de47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20251030T120000Z
+LOCATION:Paw.S sala 1
+DTSTART:20251030T103000Z
+SUMMARY:Ekonomika i finansowanie ochrony środowiska (wykład)
+UID:8ce0d405-8c0a-4ca3-bdff-02dfed591737@8ce0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Pawlak
+DTEND:20260126T161500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21\, Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20260126T140000Z
+SUMMARY:Psychologia (egzamin)
+UID:c933a3ec-cc9a-403b-b37a-b208a95aefb5@c933.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20251031T120000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251031T103000Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:4ff75e89-05da-4aa3-b51b-100d898eaa41@4ff7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Pawlak
+DTEND:20251215T101500Z
+LOCATION:Paw.S sala 9
+DTSTART:20251215T084500Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:9a8bbe90-b6b2-4e0a-85c7-2664aaecac88@9a8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20251203T134500Z
+LOCATION:Paw.F 615
+DTSTART:20251203T121500Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:e656fd0e-8870-4ae0-b498-03d3258abe85@e656.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20251010T110000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251010T093000Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:15d1839b-2674-449f-b43e-84c42f5d712d@15d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
+DTEND:20251203T101500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251203T084500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:de6bbdbf-ee04-4c09-abe9-fbdff2d83dd7@de6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20251127T153000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20251127T140000Z
+SUMMARY:Ekonomika i finansowanie ochrony środowiska (ćwiczenia)
+UID:85a34635-b215-4236-8662-ed78962e85b2@85a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20251031T101500Z
+LOCATION:Paw.C sala E
+DTSTART:20251031T084500Z
+SUMMARY:Analiza Statystyczna w Finansach (wykład do wyboru)
+UID:fda7af7d-8bd9-43a6-8636-82fa18d09bd0@fda7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Pawlak
+DTEND:20251124T083000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251124T070000Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:3c420233-f185-4017-bdd9-e5ad25fbcfe8@3c42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20251015T180000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251015T163000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:0a4144e2-ec65-4b18-b289-a89c25330adc@0a41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
+DTEND:20251218T171500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20251218T154500Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:b705bd45-7f51-4865-890a-38f46319cea6@b705.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
+DTEND:20251113T171500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20251113T154500Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:f69408c9-88f4-455f-8491-73ef72e2c916@f694.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak
+DTEND:20251013T110000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20251013T093000Z
+SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (ćwiczenia)
+UID:b13d7894-6fdb-4a76-ad40-abfccda9ba5f@b13d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20251112T134500Z
+LOCATION:Paw.F 615
+DTSTART:20251112T121500Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:bb972a81-6069-4a7c-bd9a-92cb6cef7ad4@bb97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20251009T143000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20251009T130000Z
+SUMMARY:Ekonomika i finansowanie ochrony środowiska (ćwiczenia)
+UID:14a0133b-0b84-4981-aa4d-c8bd6f4572af@14a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20251022T180000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251022T163000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:014120c1-e175-491e-9dc0-5ee55677a616@0141.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20251113T101500Z
+LOCATION:Paw.S sala 5
+DTSTART:20251113T084500Z
+SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (wykład)
+UID:1bb3220e-6f00-40af-828b-b40369936017@1bb3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
+DTEND:20251208T130000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251208T121500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
+UID:a9f8f209-f00c-44a8-b85c-a9efa97bd75f@a9f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20260115T153000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20260115T140000Z
+SUMMARY:Ekonomika i finansowanie ochrony środowiska (ćwiczenia)
+UID:9419900e-7d82-42f0-a308-c8962c5ee606@9419.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20260121T134500Z
+LOCATION:Paw.F 615
+DTSTART:20260121T121500Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:e9fc0b9b-e49f-4bf0-b6e3-b4364adce753@e9fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20260114T190000Z
+LOCATION:Paw.S sala 9
+DTSTART:20260114T173000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:423faaa4-7e64-46ef-8f23-30fcd884be3c@423f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20260121T144500Z
+LOCATION:Paw.F 616
+DTSTART:20260121T140000Z
+SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (ćwiczenia)
+UID:f1aee495-2b5e-4b53-8162-60ef39c39bff@f1ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
+DTEND:20260121T101500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260121T084500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:dbc2d692-d51e-4fe4-98c2-54898d2a5795@dbc2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Pawlak
+DTEND:20251208T101500Z
+LOCATION:Paw.S sala 9
+DTSTART:20251208T084500Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:f303756b-0589-4a3b-9e40-c87c81841a06@f303.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
+DTEND:20251204T171500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20251204T154500Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:30eb8519-5242-40d4-a9dc-1081e903e167@30eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak
+DTEND:20251222T161500Z
+LOCATION:Paw.F 717
+DTSTART:20251222T140000Z
+SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (ćwiczenia)
+UID:2bc0239d-b45f-4f2b-8c14-5878edb1030f@2bc0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20251119T190000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251119T173000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:e88b8b93-80c2-4d4a-8f62-602923af0b94@e88b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20251113T120000Z
+LOCATION:Paw.S sala 1
+DTSTART:20251113T103000Z
+SUMMARY:Ekonomika i finansowanie ochrony środowiska (wykład)
+UID:08188155-4cc3-4460-895c-d5601e6f7e73@0818.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20251106T101500Z
+LOCATION:Paw.S sala 5
+DTSTART:20251106T084500Z
+SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (wykład)
+UID:28eb83f3-196c-4f5a-81cf-f2eb155f9bf6@28eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20251029T153000Z
+LOCATION:Paw.F 616
+DTSTART:20251029T140000Z
+SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (ćwiczenia)
+UID:46f0167a-efa3-4afc-982e-7e5428c3541a@46f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20251023T143000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20251023T130000Z
+SUMMARY:Ekonomika i finansowanie ochrony środowiska (ćwiczenia)
+UID:653320eb-17e7-4a21-8891-bbf2c4b22397@6533.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20251031T083000Z
+LOCATION:Paw.C sala E
+DTSTART:20251031T070000Z
+SUMMARY:Analiza Statystyczna w Finansach (wykład do wyboru)
+UID:1be4d8ef-da0a-4180-8a17-eaaf725e70d2@1be4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20251105T190000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251105T173000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:15be4a87-20bb-43b7-8c61-17330d98c321@15be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
+DTEND:20251120T171500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20251120T154500Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:71d24320-06b4-4701-9ab0-780753fdec4a@71d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Gabriela Strojna
+DTEND:20251015T091500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251015T074500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:679da0ec-d7f9-4eee-9a37-1bb9c9babd91@679d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak
+DTEND:20251208T120000Z
+LOCATION:Paw.F CJ 313
+DTSTART:20251208T103000Z
+SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (ćwiczenia)
+UID:0a0eef89-047a-440e-a16e-0a1bb7dade5a@0a0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20251015T143000Z
+DTSTART:20251015T130000Z
+SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (Przeniesienie zajęć)
+UID:3572b4c8-0afd-4d23-b201-a66cc042baa3@3572.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20251128T101500Z
+LOCATION:Paw.C sala E
+DTSTART:20251128T084500Z
+SUMMARY:Analiza Statystyczna w Finansach (wykład do wyboru)
+UID:3fc03777-e3c8-4256-9579-245d9bfefb50@3fc0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Gabriela Strojna
+DTEND:20251029T101500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251029T084500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:a4db3988-6caf-426f-863b-ba5f5e674e3b@a4db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
+DTEND:20251117T134500Z
+LOCATION:Paw.S sala 9
+DTSTART:20251117T121500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
+UID:3188f478-e9f2-4d79-88d7-a980f18e6cb4@3188.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20251112T190000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251112T173000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:055e6be2-1551-4429-8b59-ab4e073f6b52@055e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak
+DTEND:20260119T120000Z
+LOCATION:Paw.F CJ 313
+DTSTART:20260119T103000Z
+SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (ćwiczenia)
+UID:a55a2901-3003-4f7e-a0af-0ba8ccff7a66@a55a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20251003T110000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251003T093000Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:2ff008d7-fd95-4eae-b78b-beb7eb73f580@2ff0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20251030T153000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20251030T140000Z
+SUMMARY:Ekonomika i finansowanie ochrony środowiska (ćwiczenia)
+UID:cc99d7fa-6535-4a22-a1ad-ecc301508d4a@cc99.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20251016T161500Z
+LOCATION:Paw.C sala E
+DTSTART:20251016T144500Z
+SUMMARY:Ekonomika i finansowanie ochrony środowiska (wykład)
+UID:6f5c4f65-845e-4a31-9eff-07b456720d69@6f5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20251106T153000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20251106T140000Z
+SUMMARY:Ekonomika i finansowanie ochrony środowiska (ćwiczenia)
+UID:dcb2c4f4-a60f-46e3-8b76-aa24e5038ce3@dcb2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
+DTEND:20251124T134500Z
+LOCATION:Paw.S sala 9
+DTSTART:20251124T121500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
+UID:08a6487c-5a21-4a1d-84d6-c319915f8fec@08a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak
+DTEND:20251124T120000Z
+LOCATION:Paw.F CJ 313
+DTSTART:20251124T103000Z
+SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (ćwiczenia)
+UID:f3d9ef55-d3ec-4512-8579-698a6358d45f@f3d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Pawlak
+DTEND:20251117T101500Z
+LOCATION:Paw.S sala 9
+DTSTART:20251117T084500Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:53cb6416-4990-402d-884e-d54834f417d0@53cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20251218T101500Z
+LOCATION:Paw.S sala 5
+DTSTART:20251218T084500Z
+SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (wykład)
+UID:354d3f2c-fc6b-4873-a558-e6709d654c3a@354d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20251029T190000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251029T173000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:250e2915-aa80-47eb-807b-4ef6350cc4e7@250e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20251128T120000Z
+LOCATION:Paw.S sala 4
+DTSTART:20251128T103000Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:770c5c5e-e6a6-45e6-8b13-4cf31dbb732d@770c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
+DTEND:20251001T091500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251001T074500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:39a67dff-a409-48f1-a693-23dfa0daf827@39a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20251120T153000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20251120T140000Z
+SUMMARY:Ekonomika i finansowanie ochrony środowiska (ćwiczenia)
+UID:42a20f75-fffa-4877-a155-ffee42b48bab@42a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20260123T101500Z
+LOCATION:Paw.C sala E
+DTSTART:20260123T093000Z
+SUMMARY:Analiza Statystyczna w Finansach (wykład do wyboru)
+UID:548516d8-0b2e-46ba-82fe-829c10e782db@5485.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251217T134500Z
+DTSTART:20251217T121500Z
+SUMMARY: (rezerwacja)
+UID:c8ff5dcd-ab5f-4b43-b4d9-a892071768a4@c8ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20251017T110000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251017T093000Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:7ade1ebf-6419-4e7c-8631-2032af5aff4b@7ade.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
+DTEND:20260122T171500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20260122T154500Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:d2b5d198-5175-484a-98ee-b613a6a241b9@d2b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20260114T134500Z
+LOCATION:Paw.F 615
+DTSTART:20260114T121500Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:37ff0973-cdc2-4952-ac3c-4e234f8653a4@37ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20251030T101500Z
+LOCATION:Paw.S sala 5
+DTSTART:20251030T084500Z
+SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (wykład)
+UID:0c9299ba-3d7a-4729-97b4-8c75cb49806e@0c92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20251127T101500Z
+LOCATION:Paw.S sala 5
+DTSTART:20251127T084500Z
+SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (wykład)
+UID:d69d76db-7828-4471-b46a-10b643a2e551@d69d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20251022T124500Z
+LOCATION:Paw.F 615
+DTSTART:20251022T111500Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:86e28c97-47bb-4362-bc8d-c4e7ef5075b9@86e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
+DTEND:20251027T134500Z
+LOCATION:Paw.S sala 9
+DTSTART:20251027T121500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
+UID:b0cf55d5-d462-4718-81b9-b1d786c32f54@b0cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20251204T153000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20251204T140000Z
+SUMMARY:Ekonomika i finansowanie ochrony środowiska (ćwiczenia)
+UID:540ba9fc-824d-4427-93bc-e88f32ead634@540b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Pawlak
+DTEND:20251201T101500Z
+LOCATION:Paw.S sala 9
+DTSTART:20251201T084500Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:f3569cd6-aabc-4018-9256-407105b08fec@f356.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20251210T153000Z
+LOCATION:Paw.F 616
+DTSTART:20251210T140000Z
+SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (ćwiczenia)
+UID:169c23b4-7251-4a54-b652-bff69cbdd2e8@169c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Gabriela Strojna
+DTEND:20251105T101500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251105T084500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:3636f3f1-96cd-4cfb-b129-83cb17a1556c@3636.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20251211T120000Z
+LOCATION:Paw.S sala 1
+DTSTART:20251211T103000Z
+SUMMARY:Ekonomika i finansowanie ochrony środowiska (wykład)
+UID:dd227389-702a-44ad-a465-7a9340d66c48@dd22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20260115T120000Z
+LOCATION:Paw.S sala 1
+DTSTART:20260115T103000Z
+SUMMARY:Ekonomika i finansowanie ochrony środowiska (wykład)
+UID:19251457-7a43-4ea2-82f2-0ed46a0bff70@1925.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20251106T120000Z
+LOCATION:Paw.S sala 1
+DTSTART:20251106T103000Z
+SUMMARY:Ekonomika i finansowanie ochrony środowiska (wykład)
+UID:16e494f3-522b-4401-bc81-32702ed37a72@16e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Pawlak
+DTEND:20251208T083000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251208T070000Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:c24d6c4b-26e7-46ad-8def-e35b3677af4c@c24d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20251002T110000Z
+LOCATION:Paw.S sala 1
+DTSTART:20251002T093000Z
+SUMMARY:Ekonomika i finansowanie ochrony środowiska (wykład)
+UID:508348b4-1c49-4152-b7cb-b32120fea845@5083.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20260116T120000Z
+LOCATION:Paw.S sala 9
+DTSTART:20260116T103000Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:cc6e5969-a7e7-468b-bb55-8132d33317ad@cc6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20251126T190000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251126T173000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:33c139fd-8005-4349-bdfb-f64fe0e9d7e8@33c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20251016T091500Z
+LOCATION:Paw.S sala 5
+DTSTART:20251016T074500Z
+SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (wykład)
+UID:61c92263-0b93-4227-afec-1aa01d27330b@61c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20251217T120000Z
+LOCATION:Paw.F 615
+DTSTART:20251217T103000Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:a56c0b17-d70c-45de-92d7-d3dc4dea7db0@a56c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20251217T190000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251217T173000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:7bf6e4f4-9d6b-44f3-bc37-3f13568ba5d8@7bf6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
+DTEND:20251106T171500Z
+DTSTART:20251106T154500Z
+SUMMARY:Socjologia (Przeniesienie zajęć)
+UID:f4def9b4-6945-4ad0-a0d4-96637d9a8197@f4de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20260108T120000Z
+LOCATION:Paw.S sala 1
+DTSTART:20260108T103000Z
+SUMMARY:Ekonomika i finansowanie ochrony środowiska (wykład)
+UID:74349f2a-dd14-4f35-bd65-ae8e08eb09f2@7434.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20251105T134500Z
+LOCATION:Paw.F 615
+DTSTART:20251105T121500Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:4bd048cb-749a-412b-8fda-010299adfd03@4bd0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
+DTEND:20260115T171500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20260115T154500Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:6fdc704a-91b6-4c92-b1f2-cc8ff8faae03@6fdc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20251008T161500Z
+LOCATION:Paw.S sala 6
+DTSTART:20251008T144500Z
+SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (ćwiczenia)
+UID:da711d1a-b2d7-4231-ab51-e3d2282edbba@da71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Gabriela Strojna
+DTEND:20251022T091500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251022T074500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:81f25069-9854-49d5-966d-4797f52762de@81f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20251024T110000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251024T093000Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:9c4713a9-42d9-4d3a-b76e-42057ceacac0@9c47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20251203T190000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251203T173000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:80f39ff2-b418-4fb0-98a8-4abeb41399f7@80f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
+DTEND:20251009T161500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20251009T144500Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:6b92256b-6cb9-4457-b75b-e167c50baf87@6b92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Pawlak
+DTEND:20251027T083000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251027T070000Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:f8ab39f0-4f7d-4984-bbd4-622f2f4c1383@f8ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20251002T143000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20251002T130000Z
+SUMMARY:Ekonomika i finansowanie ochrony środowiska (ćwiczenia)
+UID:160e34c0-0122-49a0-ab95-923fd290d455@160e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20260122T153000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20260122T140000Z
+SUMMARY:Ekonomika i finansowanie ochrony środowiska (ćwiczenia)
+UID:c65f025d-3d57-4935-a34e-487416cbd283@c65f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20260109T101500Z
+LOCATION:Paw.C sala E
+DTSTART:20260109T084500Z
+SUMMARY:Analiza Statystyczna w Finansach (wykład do wyboru)
+UID:dcaa46cf-5590-4521-9c5e-86de61933681@dcaa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Pawlak
+DTEND:20251020T091500Z
+LOCATION:Paw.S sala 9
+DTSTART:20251020T074500Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:a3f66cbd-1224-4687-b252-02cd86db18a4@a3f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20251218T120000Z
+LOCATION:link do zajęć
+DTSTART:20251218T103000Z
+SUMMARY:Ekonomika i finansowanie ochrony środowiska (wykład zdalny)
+UID:8abfe043-0e6d-442c-ae16-136f4a0ce02d@8abf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
+DTEND:20251030T171500Z
+DTSTART:20251030T154500Z
+SUMMARY:Socjologia (Przeniesienie zajęć)
+UID:010465af-b6d9-4c74-87c6-af9d76ec8eca@0104.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20260108T153000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20260108T140000Z
+SUMMARY:Ekonomika i finansowanie ochrony środowiska (ćwiczenia)
+UID:d2e2e79e-ee20-4fae-8f92-0432ab1d4f3c@d2e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
+DTEND:20260114T101500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260114T084500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:8e45c3e3-885c-43ac-acea-55c8c43e5d7f@8e45.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20251016T143000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20251016T130000Z
+SUMMARY:Ekonomika i finansowanie ochrony środowiska (ćwiczenia)
+UID:b04b145f-b51b-46fa-a2eb-4a1168ec4d78@b04b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
+DTEND:20251103T153000Z
+DTSTART:20251103T140000Z
+SUMMARY:Socjologia (Przeniesienie zajęć)
+UID:33ec1162-5e33-45e3-8c50-cf02ed200ba6@33ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Pawlak
+DTEND:20251124T101500Z
+LOCATION:Paw.S sala 9
+DTSTART:20251124T084500Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:7b3f564f-9854-4477-858c-98c3bca8da65@7b3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20251126T153000Z
+LOCATION:Paw.F 616
+DTSTART:20251126T140000Z
+SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (ćwiczenia)
+UID:4659b8c3-96a3-4936-8867-acceb3a383ee@4659.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20251127T120000Z
+LOCATION:Paw.S sala 1
+DTSTART:20251127T103000Z
+SUMMARY:Ekonomika i finansowanie ochrony środowiska (wykład)
+UID:4d6d3b0c-9eb3-44e8-9a97-e56a15f80575@4d6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20251029T134500Z
+LOCATION:Paw.F 615
+DTSTART:20251029T121500Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:5663f2e8-8675-47a8-894e-886544b9444f@5663.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20260108T101500Z
+LOCATION:Paw.S sala 5
+DTSTART:20260108T084500Z
+SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (wykład)
+UID:a9365d54-340f-40f2-8845-111ea9a3bf64@a936.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20260115T101500Z
+LOCATION:Paw.S sala 5
+DTSTART:20260115T084500Z
+SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (wykład)
+UID:11014ff5-e244-4688-ba99-fe6f57e77a24@1101.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
+DTEND:20251119T101500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251119T084500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:92c5794e-2d84-48a9-aac4-d7d681291936@92c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20251121T120000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20251121T103000Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:8ff71add-2221-49b3-a491-fc0b17c11d94@8ff7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20251023T091500Z
+LOCATION:Paw.S sala 5
+DTSTART:20251023T074500Z
+SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (wykład)
+UID:d37cd0c0-d397-4379-8407-4e839d14b865@d37c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20260122T093000Z
+LOCATION:Paw.S sala 5
+DTSTART:20260122T084500Z
+SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (wykład)
+UID:c2ea0f76-1481-483c-8d43-66339e32d1e8@c2ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20251008T124500Z
+LOCATION:Paw.F 615
+DTSTART:20251008T111500Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:285d00f6-227e-4336-8b7e-f7901f72ad97@285d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20260109T120000Z
+LOCATION:Paw.S sala 9
+DTSTART:20260109T103000Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:c43d161e-be10-4407-a7e7-5735bb038850@c43d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20251009T091500Z
+LOCATION:Paw.S sala 5
+DTSTART:20251009T074500Z
+SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (wykład)
+UID:d6f6fccf-aa4c-4c13-9be9-c1578be7b425@d6f6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
@@ -1345,15 +1178,110 @@ DTEND:20260122T120000Z
 LOCATION:Paw.S sala 1
 DTSTART:20260122T103000Z
 SUMMARY:Ekonomika i finansowanie ochrony środowiska (wykład)
-UID:ed96173b-a084-4bf6-94c8-fb00c05f117a@ed96.org
+UID:838ca5d8-9515-440b-affc-f372cfc1bdd4@838c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20251002T091500Z
-LOCATION:Paw.S sala 5
-DTSTART:20251002T074500Z
-SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (wykład)
-UID:b14484cb-ff9b-43ec-af24-03a949bacf1f@b144.org
+DESCRIPTION:Instructor: dr Justyna Pawlak
+DTEND:20251013T091500Z
+LOCATION:Paw.S sala 9
+DTSTART:20251013T074500Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:8483e537-bb2f-4c95-9f95-fb546a18bd3b@8483.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251016T123000Z
+DTSTART:20251016T093000Z
+SUMMARY: (rezerwacja)
+UID:5faae08b-757a-4bc3-900d-953a046e9986@5faa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20251212T120000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20251212T103000Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:89efefb4-c33a-49dd-b535-af4711e99b9b@89ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20260107T134500Z
+LOCATION:Paw.F 615
+DTSTART:20260107T121500Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:b35c3fb7-8cf9-490a-b8b0-69ccd499bb2f@b35c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
+DTEND:20251002T161500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20251002T144500Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:64a8060d-750c-4e22-b5de-4d48280f2fc2@64a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20251003T124500Z
+LOCATION:Paw.F 615
+DTSTART:20251003T111500Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:2fad617f-da06-4c5d-a5d4-e9b968078baf@2fad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak
+DTEND:20251222T120000Z
+LOCATION:Paw.F CJ 313
+DTSTART:20251222T103000Z
+SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (ćwiczenia)
+UID:3bcdb9e2-e861-49bb-b458-985879b12ba2@3bcd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20251015T124500Z
+LOCATION:Paw.F 615
+DTSTART:20251015T111500Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:97e68656-3ee0-40a7-98d3-dd04f23c6e0f@97e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20251107T120000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20251107T103000Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:4ab7795f-bf21-4d20-831b-1eec512f4c85@4ab7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20251210T190000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251210T173000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:4b0bf933-0a77-4323-8840-59bcd4c29d7e@4b0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20251212T101500Z
+LOCATION:Paw.C sala E
+DTSTART:20251212T084500Z
+SUMMARY:Analiza Statystyczna w Finansach (wykład do wyboru)
+UID:9dd5fe89-d097-4e28-a993-7588447bc081@9dd5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20251113T153000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20251113T140000Z
+SUMMARY:Ekonomika i finansowanie ochrony środowiska (ćwiczenia)
+UID:2d008e81-8343-4e22-9015-919d36925145@2d00.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
+DTEND:20251210T101500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251210T084500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:c1889d6a-d6d0-410a-b693-4b351cdb4aca@c188.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
@@ -1361,6 +1289,78 @@ DTEND:20251217T101500Z
 LOCATION:Paw.A 301a lab.Win10\, Office21
 DTSTART:20251217T084500Z
 SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
-UID:1f8e329c-478c-4125-ad69-c075f9ff5e10@1f8e.org
+UID:b6277aeb-6f06-4bab-9c03-597ec199d810@b627.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
+DTEND:20251013T124500Z
+LOCATION:Paw.S sala 9
+DTSTART:20251013T111500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
+UID:d72132af-259a-4a8d-9114-e98397f435d3@d721.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20251126T134500Z
+LOCATION:Paw.F 615
+DTSTART:20251126T121500Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:44d9681b-27cc-4ceb-9b22-55a66dad2a3d@44d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20251002T091500Z
+LOCATION:Paw.S sala 5
+DTSTART:20251002T074500Z
+SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (wykład)
+UID:fd17976c-7e78-4536-b89d-28b3d503f97f@fd17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20251204T101500Z
+LOCATION:Paw.S sala 5
+DTSTART:20251204T084500Z
+SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (wykład)
+UID:3df2e56c-449c-464d-af60-9d5a336cd1cd@3df2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20251210T134500Z
+LOCATION:Paw.F 615
+DTSTART:20251210T121500Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:26367345-c994-463d-a7a4-d91d7ade0f58@2636.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
+DTEND:20251211T171500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20251211T154500Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:05c2a740-4429-4e10-a759-0fa41db99bf7@05c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20251218T153000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20251218T140000Z
+SUMMARY:Ekonomika i finansowanie ochrony środowiska (ćwiczenia)
+UID:98293232-2c3d-47bc-b2c6-9e89c0461693@9829.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20251204T120000Z
+LOCATION:Paw.S sala 1
+DTSTART:20251204T103000Z
+SUMMARY:Ekonomika i finansowanie ochrony środowiska (wykład)
+UID:1675294e-1e51-4a19-b502-490ffefc245f@1675.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak
+DTEND:20251027T120000Z
+LOCATION:Paw.F CJ 313
+DTSTART:20251027T103000Z
+SUMMARY:Zarządzanie ryzykiem: 1.Ryzyko w działalności gospodarczej 2.Komputero (ćwiczenia)
+UID:7c8dbda3-40af-40a3-9551-b2b7735f027b@7c8d.org
 END:VEVENT
 END:VCALENDAR

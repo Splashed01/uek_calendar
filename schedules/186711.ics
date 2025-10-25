@@ -2,28 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Witko
-DTEND:20251025T114500Z
-LOCATION:link do zajęć
-DTSTART:20251025T093000Z
-SUMMARY:Zrównoważona logistyka (wykład)
-UID:52f1ab26-2d3f-4a6c-bc20-b48d6f47c1e8@52f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Jędrzej Kołodziej
-DTEND:20260124T143000Z
-LOCATION:Paw.U sala N
-DTSTART:20260124T121500Z
-SUMMARY:Zrównoważona logistyka (ćwiczenia)
-UID:742cb9fe-5da7-43aa-9fc9-9b887f0e90de@742c.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marian Bursztyn
-DTEND:20251130T170000Z
+DTEND:20251012T104500Z
 LOCATION:Paw.C sala A
-DTSTART:20251130T144500Z
+DTSTART:20251012T083000Z
 SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (konwersatorium do wyboru)
-UID:a3999dde-66c0-4285-8838-0b3ec455737a@a399.org
+UID:82348889-2575-4c4c-9aea-cdd33452bd0c@8234.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Satora
+DTEND:20251026T170000Z
+DTSTART:20251026T144500Z
+SUMMARY:Standaryzacja i optymalizacja operacyjnych procesów zakupowych (Przeniesienie zajęć)
+UID:46ccce79-1b59-463c-aaa1-5d9abde258f3@46cc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr inż. Magdalena Satora
@@ -31,188 +22,23 @@ DTEND:20251212T194500Z
 LOCATION:Paw.U sala O
 DTSTART:20251212T173000Z
 SUMMARY:Standaryzacja i optymalizacja operacyjnych procesów zakupowych (konwersatorium)
-UID:5f12b761-b2ae-4261-851e-1dcc54f64d34@5f12.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Witko
-DTEND:20251011T090000Z
-LOCATION:link do zajęć
-DTSTART:20251011T064500Z
-SUMMARY:Zrównoważona logistyka (wykład)
-UID:f6eeb565-eb43-4eff-abdd-03ffee937f33@f6ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Magdalena Satora
-DTEND:20251026T170000Z
-DTSTART:20251026T144500Z
-SUMMARY:Standaryzacja i optymalizacja operacyjnych procesów zakupowych (Przeniesienie zajęć)
-UID:8e089a30-d3d2-453c-814d-b7d60991d927@8e08.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
-DTEND:20260109T170000Z
-LOCATION:Paw.U sala N
-DTSTART:20260109T144500Z
-SUMMARY:Zarządzanie logistyką produkcji (konwersatorium)
-UID:25aaa273-b23f-4a61-a58c-b83b77b91cc8@25aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Magdalena Satora
-DTEND:20260124T114500Z
-LOCATION:Paw.U sala P (KatRozOrg)
-DTSTART:20260124T093000Z
-SUMMARY:Standaryzacja i optymalizacja operacyjnych procesów zakupowych (konwersatorium)
-UID:e4ce8907-ebf1-4c24-808f-b043078cc2d8@e4ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Magdalena Satora
-DTEND:20251122T114500Z
-LOCATION:Paw.U sala K
-DTSTART:20251122T093000Z
-SUMMARY:Standaryzacja i optymalizacja operacyjnych procesów zakupowych (konwersatorium)
-UID:40026fae-0d6c-48ff-ae7c-84f26ec6668f@4002.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
-DTEND:20251011T114500Z
-LOCATION:link do zajęć
-DTSTART:20251011T093000Z
-SUMMARY:Strategie zarządzania w dystrybucji towarów (wykład)
-UID:f3cc50a0-77bd-4cd6-a861-0a41fd734474@f3cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
-DTEND:20251121T194500Z
-LOCATION:link do zajęć
-DTSTART:20251121T173000Z
-SUMMARY:Strategie zarządzania w dystrybucji towarów (wykład)
-UID:d2d9efce-22ad-4da4-a8c1-baf63f4ab25d@d2d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
-DTEND:20251130T114500Z
-LOCATION:Paw.U sala N
-DTSTART:20251130T093000Z
-SUMMARY:Zarządzanie logistyką produkcji (konwersatorium)
-UID:62c91455-8029-4e24-85e7-1c20645d7a91@62c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
-DTEND:20251130T091500Z
-LOCATION:Paw.U sala K
-DTSTART:20251130T070000Z
-SUMMARY:Certyfikacja w procesach logistycznych (konwersatorium)
-UID:52b4e933-49da-49dc-a4ad-0d1e14f8b6c4@52b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
-DTEND:20251214T091500Z
-LOCATION:Paw.U sala K
-DTSTART:20251214T070000Z
-SUMMARY:Certyfikacja w procesach logistycznych (konwersatorium)
-UID:5175f426-bca9-4295-876f-6439bef239ff@5175.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Witko
-DTEND:20251121T170000Z
-LOCATION:link do zajęć
-DTSTART:20251121T144500Z
-SUMMARY:Zrównoważona logistyka (wykład)
-UID:236df7bf-0b7f-4113-91d2-6f5feff9c0bd@236d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251016T123000Z
-DTSTART:20251016T093000Z
-SUMMARY: (rezerwacja)
-UID:f6028a87-fc03-44a0-9926-d078f9c7b826@f602.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Jędrzej Kołodziej
-DTEND:20260109T194500Z
-LOCATION:Paw.U sala N
-DTSTART:20260109T173000Z
-SUMMARY:Zrównoważona logistyka (ćwiczenia)
-UID:9f72e820-45b2-4ee3-ae51-68177a304bcf@9f72.org
+UID:2c64e81b-7a8a-4817-8ba0-33220065a0e3@2c64.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
-DTEND:20251123T114500Z
-LOCATION:Paw.B 053 (KSB)
-DTSTART:20251123T093000Z
+DTEND:20251129T124500Z
+LOCATION:Paw.S sala 10
+DTSTART:20251129T103000Z
 SUMMARY:Prognozowanie\, planowanie i optymalizacja zapasów (laboratorium)
-UID:ee2d4a31-57e0-4852-a081-bd824a208f58@ee2d.org
+UID:f21411af-c56c-4ef5-8676-a7bf47a27db5@f214.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
-DTEND:20260110T100000Z
-LOCATION:Paw.U sala P (KatRozOrg)
-DTSTART:20260110T074500Z
-SUMMARY:Certyfikacja w procesach logistycznych (konwersatorium)
-UID:66fea91a-002a-44e0-a961-959a4b7c60c2@66fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
-DTEND:20251025T090000Z
-LOCATION:link do zajęć
-DTSTART:20251025T064500Z
-SUMMARY:Strategie zarządzania w dystrybucji towarów (wykład)
-UID:66bec026-5cb2-4760-a428-b3e92a0ff764@66be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Wojciech Kolasa
-DTEND:20251128T170000Z
-LOCATION:Paw.F 104
-DTSTART:20251128T144500Z
-SUMMARY:Logistyka a rozwój współczesnych gospodarek (konwersatorium do wyboru)
-UID:da463692-d856-4d0d-8450-eb987922a42b@da46.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
-DTEND:20251128T194500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251128T173000Z
-SUMMARY:Prognozowanie\, planowanie i optymalizacja zapasów (laboratorium)
-UID:aee84f5f-a793-4ebf-80e4-b44d6e476ab7@aee8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251217T134500Z
-DTSTART:20251217T121500Z
-SUMMARY: (rezerwacja)
-UID:2122f610-0f34-4f1c-9a70-97d0e5828148@2122.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Wojciech Kolasa
-DTEND:20260111T091500Z
-LOCATION:Paw.B 054 (KSB)
-DTSTART:20260111T070000Z
-SUMMARY:Logistyka a rozwój współczesnych gospodarek (konwersatorium do wyboru)
-UID:39cd49cf-d02a-4adb-8611-083bd0787641@39cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Wojciech Kolasa
-DTEND:20251213T100000Z
-LOCATION:Paw.B 055 (KSB)
-DTSTART:20251213T074500Z
-SUMMARY:Logistyka a rozwój współczesnych gospodarek (konwersatorium do wyboru)
-UID:8927b05b-4fb7-42c6-a5d9-34982a3325a7@8927.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
-DTEND:20251214T170000Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251214T144500Z
-SUMMARY:Prognozowanie\, planowanie i optymalizacja zapasów (laboratorium)
-UID:432399ea-d88f-4029-b57c-1880585ccba4@4323.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
-DTEND:20260111T114500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260111T093000Z
-SUMMARY:Prognozowanie\, planowanie i optymalizacja zapasów (laboratorium)
-UID:c86b969e-17ef-43fc-aff8-53e9be899499@c86b.org
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20251130T170000Z
+LOCATION:Paw.C sala A
+DTSTART:20251130T144500Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (konwersatorium do wyboru)
+UID:be57c4ee-7c2c-4f8c-bfb9-6b2a76f9529e@be57.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marian Bursztyn
@@ -220,23 +46,63 @@ DTEND:20251026T114500Z
 LOCATION:Paw.C sala A
 DTSTART:20251026T093000Z
 SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (konwersatorium do wyboru)
-UID:01912d30-02b5-4b39-8e5d-6268b6ba9ed9@0191.org
+UID:a84cd816-36ce-4721-b3f8-7f539aee1e92@a84c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marian Bursztyn
-DTEND:20251012T104500Z
-LOCATION:Paw.C sala A
-DTSTART:20251012T083000Z
-SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (konwersatorium do wyboru)
-UID:dab109d5-c24e-4898-a53a-7275a281e18a@dab1.org
+DESCRIPTION:Instructor: mgr inż. Magdalena Satora
+DTEND:20260124T114500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20260124T093000Z
+SUMMARY:Standaryzacja i optymalizacja operacyjnych procesów zakupowych (konwersatorium)
+UID:6af9071a-ce1a-473a-8fe4-a52119f94fc0@6af9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Kolasa
+DTEND:20260111T091500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20260111T070000Z
+SUMMARY:Logistyka a rozwój współczesnych gospodarek (konwersatorium do wyboru)
+UID:ae3cb788-d9e2-4fb5-ac6c-9f61015a80f1@ae3c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20251025T090000Z
+LOCATION:link do zajęć
+DTSTART:20251025T064500Z
+SUMMARY:Strategie zarządzania w dystrybucji towarów (wykład)
+UID:f3ce3809-1cd1-4c00-bc9e-a07598d96b50@f3ce.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
-DTEND:20260124T170000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260124T144500Z
+DTEND:20251123T114500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20251123T093000Z
 SUMMARY:Prognozowanie\, planowanie i optymalizacja zapasów (laboratorium)
-UID:ce7a8292-3ce3-44d0-82e9-ebb4a49e2436@ce7a.org
+UID:63ec08c6-3381-40e8-a4fb-f5d783c8d781@63ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20251011T114500Z
+LOCATION:link do zajęć
+DTSTART:20251011T093000Z
+SUMMARY:Strategie zarządzania w dystrybucji towarów (wykład)
+UID:d62cc7a8-3beb-4ad9-a68d-93ee17781cbb@d62c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20251121T194500Z
+LOCATION:link do zajęć
+DTSTART:20251121T173000Z
+SUMMARY:Strategie zarządzania w dystrybucji towarów (wykład)
+UID:10fb8cac-361d-4587-a820-f2ab2e571bf2@10fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Kolasa
+DTEND:20251213T100000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20251213T074500Z
+SUMMARY:Logistyka a rozwój współczesnych gospodarek (konwersatorium do wyboru)
+UID:69b9c341-1848-4a41-b1ea-36b6c35cb969@69b9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr inż. Jędrzej Kołodziej
@@ -244,15 +110,53 @@ DTEND:20251129T100000Z
 LOCATION:Rakowicka 16 sala 12
 DTSTART:20251129T074500Z
 SUMMARY:Zrównoważona logistyka (ćwiczenia)
-UID:55b478d5-3239-48bb-bb89-b7af00d0bd81@55b4.org
+UID:460be3df-954d-472e-a24f-7d63d75b4bc2@460b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
-DTEND:20251212T170000Z
+DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
+DTEND:20260124T170000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260124T144500Z
+SUMMARY:Prognozowanie\, planowanie i optymalizacja zapasów (laboratorium)
+UID:05ccb7e8-bc11-4739-bc3e-69d1f40b90d8@05cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251016T123000Z
+DTSTART:20251016T093000Z
+SUMMARY: (rezerwacja)
+UID:29c9ef85-2359-4279-ba71-20bbec6d6778@29c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
+DTEND:20251128T194500Z
+DTSTART:20251128T173000Z
+SUMMARY:Prognozowanie\, planowanie i optymalizacja zapasów (Przeniesienie zajęć)
+UID:3c39b616-bbb4-4d43-a659-253c29f3a18e@3c39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20251214T091500Z
 LOCATION:Paw.U sala K
-DTSTART:20251212T144500Z
-SUMMARY:Zarządzanie logistyką produkcji (konwersatorium)
-UID:6bb2069c-592e-4c8f-9ca1-d662d1f860ab@6bb2.org
+DTSTART:20251214T070000Z
+SUMMARY:Certyfikacja w procesach logistycznych (konwersatorium)
+UID:527b67eb-9c9b-40cc-8b10-d038049da4b7@527b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20260110T100000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20260110T074500Z
+SUMMARY:Certyfikacja w procesach logistycznych (konwersatorium)
+UID:fb8ef3c7-0520-4cc6-99e3-29fb1e745b94@fb8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20251011T090000Z
+LOCATION:link do zajęć
+DTSTART:20251011T064500Z
+SUMMARY:Zrównoważona logistyka (wykład)
+UID:3273849d-7c8f-4337-a3d9-c2ba78263986@3273.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
@@ -260,6 +164,116 @@ DTEND:20251026T091500Z
 LOCATION:Paw.A 09 lab. Win8.1\, Office21
 DTSTART:20251026T070000Z
 SUMMARY:Prognozowanie\, planowanie i optymalizacja zapasów (laboratorium)
-UID:de029c94-683e-41f7-b823-877b3d603aca@de02.org
+UID:361b0e7a-c808-45eb-bed4-55e27da4baca@361b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Kolasa
+DTEND:20251129T161500Z
+LOCATION:Paw.C sala B
+DTSTART:20251129T140000Z
+SUMMARY:Logistyka a rozwój współczesnych gospodarek (konwersatorium do wyboru)
+UID:b22e3933-9589-4d8b-8e48-f997f810a408@b22e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
+DTEND:20251214T170000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251214T144500Z
+SUMMARY:Prognozowanie\, planowanie i optymalizacja zapasów (laboratorium)
+UID:435e5428-6b7a-4782-837a-ef59ee9d25be@435e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20251130T091500Z
+LOCATION:Paw.U sala K
+DTSTART:20251130T070000Z
+SUMMARY:Certyfikacja w procesach logistycznych (konwersatorium)
+UID:59c9584a-5eb4-4ec3-940e-de921f85e609@59c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Jędrzej Kołodziej
+DTEND:20260109T194500Z
+LOCATION:Paw.U sala N
+DTSTART:20260109T173000Z
+SUMMARY:Zrównoważona logistyka (ćwiczenia)
+UID:61cfac47-26f3-4e70-bb3b-5ac39527673e@61cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
+DTEND:20251212T170000Z
+LOCATION:Paw.U sala K
+DTSTART:20251212T144500Z
+SUMMARY:Zarządzanie logistyką produkcji (konwersatorium)
+UID:3a38ee82-fa6b-4a62-ba27-b576f13e2741@3a38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
+DTEND:20260111T114500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260111T093000Z
+SUMMARY:Prognozowanie\, planowanie i optymalizacja zapasów (laboratorium)
+UID:4a63abfb-97cb-4204-bd8a-ab6967d89062@4a63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20251025T114500Z
+LOCATION:link do zajęć
+DTSTART:20251025T093000Z
+SUMMARY:Zrównoważona logistyka (wykład)
+UID:ff080dd1-e82f-416c-919c-262bb370465a@ff08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20251121T170000Z
+LOCATION:link do zajęć
+DTSTART:20251121T144500Z
+SUMMARY:Zrównoważona logistyka (wykład)
+UID:18b6f042-6182-4b02-9371-bff049308ef7@18b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Satora
+DTEND:20251122T114500Z
+LOCATION:Paw.U sala K
+DTSTART:20251122T093000Z
+SUMMARY:Standaryzacja i optymalizacja operacyjnych procesów zakupowych (konwersatorium)
+UID:ca23a53b-121a-4ed2-a698-6f210da60228@ca23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
+DTEND:20251130T114500Z
+LOCATION:Paw.U sala N
+DTSTART:20251130T093000Z
+SUMMARY:Zarządzanie logistyką produkcji (konwersatorium)
+UID:ccccd4f0-5d4d-43d0-9192-83b472b730bb@cccc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Kolasa
+DTEND:20251128T170000Z
+DTSTART:20251128T144500Z
+SUMMARY:Logistyka a rozwój współczesnych gospodarek (Przeniesienie zajęć)
+UID:02a189e4-89f0-4044-ae53-2b337c5fdddf@02a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251217T134500Z
+DTSTART:20251217T121500Z
+SUMMARY: (rezerwacja)
+UID:5af3a1e6-ee54-4a53-8ebc-7c89f11991d0@5af3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
+DTEND:20260109T170000Z
+LOCATION:Paw.U sala N
+DTSTART:20260109T144500Z
+SUMMARY:Zarządzanie logistyką produkcji (konwersatorium)
+UID:f1042dd2-e397-42ab-9432-ed5c80bd333d@f104.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Jędrzej Kołodziej
+DTEND:20260124T143000Z
+LOCATION:Paw.U sala N
+DTSTART:20260124T121500Z
+SUMMARY:Zrównoważona logistyka (ćwiczenia)
+UID:6960481a-b1e1-47bf-8d34-e72b4d82331a@6960.org
 END:VEVENT
 END:VCALENDAR

@@ -2,36 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20251007T143000Z
-LOCATION:Paw.B 052 (KSB)
-DTSTART:20251007T130000Z
-SUMMARY:Sztuczna inteligencja.Metody i zastosowania (konwersatorium do wyboru)
-UID:4e18cba7-f6e1-4adb-bcc6-7ae4c339af18@4e18.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Małgorzata Kucia
-DTEND:20251121T114500Z
-LOCATION:Sienk. 5 pr. chem. 1
-DTSTART:20251121T093000Z
-SUMMARY:Przemiany fizykochemiczne produktu (ćwiczenia)
-UID:7a56e2e8-7a8a-4e5d-9b9a-b325ec16e573@7a56.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20251014T143000Z
-LOCATION:Paw.B 052 (KSB)
-DTSTART:20251014T130000Z
-SUMMARY:Sztuczna inteligencja.Metody i zastosowania (konwersatorium do wyboru)
-UID:618a4ad0-1714-4a67-8a36-48df3e662a8e@618a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Marzena Wójcik
-DTEND:20251218T101500Z
-LOCATION:Paw.C sala A
-DTSTART:20251218T084500Z
-SUMMARY:Zarządzanie zespołem sprzedażowym (konwersatorium)
-UID:2c1a4c4e-50ae-48a4-b845-84bf89316d42@2c1a.org
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20251112T083000Z
+DTSTART:20251112T070000Z
+SUMMARY:Neuroróżnorodność w organizacji (Przeniesienie zajęć)
+UID:98205281-c908-42ad-9dea-660db487dce8@9820.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr inż. Małgorzata Kucia
@@ -39,141 +14,7 @@ DTEND:20251017T104500Z
 LOCATION:Sienk. 5 pr. chem. 1
 DTSTART:20251017T083000Z
 SUMMARY:Przemiany fizykochemiczne produktu (ćwiczenia)
-UID:70d0160f-382c-424a-9861-62728f0e08cf@70d0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
-DTEND:20251118T101500Z
-LOCATION:Sienk. 4 sala audio
-DTSTART:20251118T084500Z
-SUMMARY:Trendy rozwojowe na rynku FMCG (konwersatorium)
-UID:2dd01ba7-3d2b-4226-80c3-1b48723168e2@2dd0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Małgorzata Kucia
-DTEND:20251024T104500Z
-LOCATION:Sienk. 5 pr. chem. 1
-DTSTART:20251024T083000Z
-SUMMARY:Przemiany fizykochemiczne produktu (ćwiczenia)
-UID:9fc79770-9e94-4b7b-9a60-d531a6ca2612@9fc7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
-DTEND:20251007T091500Z
-LOCATION:Sienk. 4 sala audio
-DTSTART:20251007T074500Z
-SUMMARY:Trendy rozwojowe na rynku FMCG (konwersatorium)
-UID:3b587b0c-268c-499d-8625-4222087e78f0@3b58.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Marzena Wójcik
-DTEND:20251204T101500Z
-LOCATION:Paw.C sala A
-DTSTART:20251204T084500Z
-SUMMARY:Zarządzanie zespołem sprzedażowym (konwersatorium)
-UID:6850d115-1f10-4a6a-9017-360ffbda97ee@6850.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariola Wiater
-DTEND:20251029T083000Z
-DTSTART:20251029T070000Z
-SUMMARY:Neuroróżnorodność w organizacji (Przeniesienie zajęć)
-UID:7556a2eb-f12a-41e5-8530-4165fe974ea0@7556.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariola Wiater
-DTEND:20260121T083000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20260121T074500Z
-SUMMARY:Neuroróżnorodność w organizacji (konwersatorium do wyboru)
-UID:d9a3cbb4-269f-4fd0-8bb8-7e7d66db87eb@d9a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jarosław Świda
-DTEND:20251023T124500Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251023T111500Z
-SUMMARY:Trendy i innowacje we współczesnej logistyce (konwersatorium do wyboru)
-UID:ae4958e8-a5e5-46ce-95b7-ea797ae1f9c9@ae49.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
-DTEND:20251215T120000Z
-LOCATION:Bud.gł. 7
-DTSTART:20251215T103000Z
-SUMMARY:Trendy rozwojowe na rynku FMCG (konwersatorium)
-UID:221318a1-692b-4ab3-8c6c-ce4b4ced1722@2213.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
-DTEND:20251119T153000Z
-LOCATION:Sienk. 4 sala audio
-DTSTART:20251119T140000Z
-SUMMARY:Innowacja wartości. Doskonalenie produktu. (konwersatorium do wyboru)
-UID:cce620aa-8bbc-4bc4-a252-b3727dc09abd@cce6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
-DTEND:20251014T091500Z
-LOCATION:Sienk. 4 sala audio
-DTSTART:20251014T074500Z
-SUMMARY:Trendy rozwojowe na rynku FMCG (konwersatorium)
-UID:e6362aed-08e4-4056-ad76-d9c43a4e9ca5@e636.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Małgorzata Kucia
-DTEND:20251010T104500Z
-LOCATION:Sienk. 5 pr. chem. 1
-DTSTART:20251010T083000Z
-SUMMARY:Przemiany fizykochemiczne produktu (ćwiczenia)
-UID:0e8400fd-360f-47cd-92dd-1ca9f972eccf@0e84.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Małgorzata Kucia
-DTEND:20251107T114500Z
-LOCATION:Sienk. 5 pr. chem. 1
-DTSTART:20251107T093000Z
-SUMMARY:Przemiany fizykochemiczne produktu (ćwiczenia)
-UID:e564cb1c-a538-46c8-8f47-4fdf42678712@e564.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251016T123000Z
-DTSTART:20251016T093000Z
-SUMMARY: (rezerwacja)
-UID:ee58d759-d703-459e-9a89-53af83316816@ee58.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20251119T180000Z
-LOCATION:Paw.A 301b
-DTSTART:20251119T163000Z
-SUMMARY:Sztuczna inteligencja.Metody i zastosowania (konwersatorium do wyboru)
-UID:67abc886-e6c7-4f72-bf7a-042c0372ad98@67ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20251202T153000Z
-LOCATION:Paw.B 052 (KSB)
-DTSTART:20251202T140000Z
-SUMMARY:Sztuczna inteligencja.Metody i zastosowania (konwersatorium do wyboru)
-UID:e6238e13-aa73-4a40-b28d-6b86aab0f819@e623.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20251028T153000Z
-LOCATION:Paw.B 052 (KSB)
-DTSTART:20251028T140000Z
-SUMMARY:Sztuczna inteligencja.Metody i zastosowania (konwersatorium do wyboru)
-UID:1fd963fd-67b9-4e29-9a47-6b855cd31406@1fd9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jarosław Świda
-DTEND:20251009T124500Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251009T111500Z
-SUMMARY:Trendy i innowacje we współczesnej logistyce (konwersatorium do wyboru)
-UID:efb380e7-19f3-436b-9dc4-7935b8c1c270@efb3.org
+UID:54707531-8bcd-4e66-a94a-83a6b20239b4@5470.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
@@ -181,119 +22,7 @@ DTEND:20251105T153000Z
 LOCATION:Sienk. 4 sala audio
 DTSTART:20251105T140000Z
 SUMMARY:Innowacja wartości. Doskonalenie produktu. (konwersatorium do wyboru)
-UID:5ac653ea-a674-43b8-bf4f-5ca5d1f238ff@5ac6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Paweł Turek
-DTEND:20251106T171500Z
-LOCATION:Platforma Moodle
-DTSTART:20251106T154500Z
-SUMMARY:Reklamacje produktów (wykład e-learningowy)
-UID:ff0f592e-66a7-4a9c-8272-23f0d37f5de3@ff0f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
-DTEND:20251203T153000Z
-LOCATION:Sienk. 4 sala audio
-DTSTART:20251203T140000Z
-SUMMARY:Innowacja wartości. Doskonalenie produktu. (konwersatorium do wyboru)
-UID:7b4e89ad-d427-47c7-bd68-7233a3b18bff@7b4e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jarosław Świda
-DTEND:20251218T134500Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251218T121500Z
-SUMMARY:Trendy i innowacje we współczesnej logistyce (konwersatorium do wyboru)
-UID:27fc347d-ab3a-47f4-aa79-7f5c9dc666fd@27fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Paweł Turek
-DTEND:20251016T161500Z
-LOCATION:link do zajęć
-DTSTART:20251016T144500Z
-SUMMARY:Reklamacje produktów (wykład)
-UID:5c281850-e5f8-4720-8af2-1e74261e371d@5c28.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariola Wiater
-DTEND:20260107T083000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20260107T070000Z
-SUMMARY:Neuroróżnorodność w organizacji (konwersatorium do wyboru)
-UID:c87ab94d-f996-4b37-aa61-4134f62540e8@c87a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Małgorzata Kucia
-DTEND:20251128T114500Z
-LOCATION:Sienk. 5 pr. chem. 1
-DTSTART:20251128T093000Z
-SUMMARY:Przemiany fizykochemiczne produktu (ćwiczenia)
-UID:761e2a04-52bd-495f-aefb-ece4da784094@761e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jarosław Świda
-DTEND:20251117T114500Z
-LOCATION:.
-DTSTART:20251117T093000Z
-SUMMARY:Trendy i innowacje we współczesnej logistyce (konwersatorium do wyboru)
-UID:274fd8a8-553f-456b-8178-3d64f9b1be2f@274f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
-DTEND:20251028T101500Z
-LOCATION:Sienk. 4 sala audio
-DTSTART:20251028T084500Z
-SUMMARY:Trendy rozwojowe na rynku FMCG (konwersatorium)
-UID:8d52f40c-4061-4a21-822f-518a5359723d@8d52.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
-DTEND:20260107T153000Z
-LOCATION:Sienk. 4 sala audio
-DTSTART:20260107T140000Z
-SUMMARY:Innowacja wartości. Doskonalenie produktu. (konwersatorium do wyboru)
-UID:6ca8fbae-e2d3-42bf-a8df-5320d49e462f@6ca8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
-DTEND:20251217T153000Z
-LOCATION:Sienk. 4 sala audio
-DTSTART:20251217T140000Z
-SUMMARY:Innowacja wartości. Doskonalenie produktu. (konwersatorium do wyboru)
-UID:81aa217d-72fa-461c-8d99-31370a55d3b9@81aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
-DTEND:20260122T180000Z
-LOCATION:Sienk. 4 sala audio
-DTSTART:20260122T163000Z
-SUMMARY:Innowacja wartości. Doskonalenie produktu. (konwersatorium do wyboru)
-UID:68b1b2d9-e992-4725-8e35-f832f65c1f89@68b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
-DTEND:20251201T120000Z
-LOCATION:Bud.gł. 7
-DTSTART:20251201T103000Z
-SUMMARY:Trendy rozwojowe na rynku FMCG (konwersatorium)
-UID:058d53ad-5968-414d-83fb-f947a14bf209@058d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
-DTEND:20251208T120000Z
-LOCATION:Bud.gł. 7
-DTSTART:20251208T103000Z
-SUMMARY:Trendy rozwojowe na rynku FMCG (konwersatorium)
-UID:06b11937-d566-44ae-98bc-205ccf8a8f3a@06b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Małgorzata Kucia
-DTEND:20251212T114500Z
-LOCATION:Sienk. 5 pr. chem. 1
-DTSTART:20251212T093000Z
-SUMMARY:Przemiany fizykochemiczne produktu (ćwiczenia)
-UID:8bb2b360-6b92-459b-9163-7086f3d69505@8bb2.org
+UID:998787db-14fb-498c-a810-49ce7a77ee0c@9987.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
@@ -301,15 +30,7 @@ DTEND:20251125T153000Z
 LOCATION:Paw.B 052 (KSB)
 DTSTART:20251125T140000Z
 SUMMARY:Sztuczna inteligencja.Metody i zastosowania (konwersatorium do wyboru)
-UID:1dc00fea-8163-4571-b0f1-b02e623ca6e4@1dc0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
-DTEND:20260114T153000Z
-LOCATION:Sienk. 4 sala audio
-DTSTART:20260114T140000Z
-SUMMARY:Innowacja wartości. Doskonalenie produktu. (konwersatorium do wyboru)
-UID:d97de4e9-b19e-4ec1-a15c-0ab2c447f501@d97d.org
+UID:5be20114-016e-40a8-a084-e9c6ffeaa2e2@5be2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
@@ -317,142 +38,30 @@ DTEND:20260121T153000Z
 LOCATION:Sienk. 4 sala audio
 DTSTART:20260121T140000Z
 SUMMARY:Innowacja wartości. Doskonalenie produktu. (konwersatorium do wyboru)
-UID:6f399c53-8ad7-453f-b5ce-65467d22b999@6f39.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20260120T153000Z
-LOCATION:Paw.B 052 (KSB)
-DTSTART:20260120T140000Z
-SUMMARY:Sztuczna inteligencja.Metody i zastosowania (konwersatorium do wyboru)
-UID:9672b4f1-2fb0-4b08-a24c-bb76f69bbf86@9672.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
-DTEND:20251029T153000Z
-LOCATION:Sienk. 4 sala audio
-DTSTART:20251029T140000Z
-SUMMARY:Innowacja wartości. Doskonalenie produktu. (konwersatorium do wyboru)
-UID:62cec98b-72d4-442e-bc79-47bcceec60f5@62ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Marzena Wójcik
-DTEND:20251024T073000Z
-LOCATION:Paw.E sala H (KSB)
-DTSTART:20251024T060000Z
-SUMMARY:Zarządzanie zespołem sprzedażowym (konwersatorium)
-UID:405c2eeb-fb94-44a3-9916-1387e611e0d6@405c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Marzena Wójcik
-DTEND:20251120T101500Z
-LOCATION:Paw.C sala A
-DTSTART:20251120T084500Z
-SUMMARY:Zarządzanie zespołem sprzedażowym (konwersatorium)
-UID:02133d52-4f13-46f6-933c-336928a668a8@0213.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20251216T153000Z
-LOCATION:Paw.B 052 (KSB)
-DTSTART:20251216T140000Z
-SUMMARY:Sztuczna inteligencja.Metody i zastosowania (konwersatorium do wyboru)
-UID:94ea9ec0-fde9-4970-b379-912ace9a39c0@94ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Małgorzata Kucia
-DTEND:20251031T114500Z
-LOCATION:Sienk. 5 pr. chem. 1
-DTSTART:20251031T093000Z
-SUMMARY:Przemiany fizykochemiczne produktu (ćwiczenia)
-UID:541bc7c0-cc5b-44d7-bcb8-cd60088692c1@541b.org
+UID:fbc3ac43-3f23-4190-a38f-c97a82064251@fbc3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jarosław Świda
-DTEND:20251120T134500Z
+DTEND:20251009T124500Z
 LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251120T121500Z
+DTSTART:20251009T111500Z
 SUMMARY:Trendy i innowacje we współczesnej logistyce (konwersatorium do wyboru)
-UID:2ce84406-c0b4-4dfd-991a-3be2b37388a9@2ce8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20251209T153000Z
-LOCATION:Paw.B 052 (KSB)
-DTSTART:20251209T140000Z
-SUMMARY:Sztuczna inteligencja.Metody i zastosowania (konwersatorium do wyboru)
-UID:f9507a93-0663-427e-a1c4-a5a61446cfe9@f950.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
-DTEND:20251222T120000Z
-LOCATION:Bud.gł. 7
-DTSTART:20251222T103000Z
-SUMMARY:Trendy rozwojowe na rynku FMCG (konwersatorium)
-UID:7808cc09-ab09-4b86-a77e-08570d0acc18@7808.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Marzena Wójcik
-DTEND:20251106T101500Z
-LOCATION:Paw.C sala A
-DTSTART:20251106T084500Z
-SUMMARY:Zarządzanie zespołem sprzedażowym (konwersatorium)
-UID:75911fa2-222c-495d-b1a0-3ab0f0eaa007@7591.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251217T134500Z
-DTSTART:20251217T121500Z
-SUMMARY: (rezerwacja)
-UID:fa691c47-d6a4-4199-9243-afae24153bac@fa69.org
+UID:fad2ed83-08c8-46b2-b49b-467f432a795b@fad2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Mariola Wiater
-DTEND:20251001T073000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251001T060000Z
-SUMMARY:Neuroróżnorodność w organizacji (konwersatorium do wyboru)
-UID:28314ae8-9f71-4fd6-a835-f9f4771f7bf2@2831.org
+DTEND:20251029T083000Z
+DTSTART:20251029T070000Z
+SUMMARY:Neuroróżnorodność w organizacji (Przeniesienie zajęć)
+UID:220e6255-b089-47a1-8c85-628af388e2c5@220e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Paweł Turek
-DTEND:20251009T161500Z
-LOCATION:link do zajęć
-DTSTART:20251009T144500Z
-SUMMARY:Reklamacje produktów (wykład)
-UID:6867758e-32d0-4236-a57b-8d5a1a399873@6867.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
-DTEND:20260119T120000Z
-LOCATION:Bud.gł. 7
-DTSTART:20260119T103000Z
-SUMMARY:Trendy rozwojowe na rynku FMCG (konwersatorium)
-UID:0edda92a-dcd5-4ef5-aa04-66c3f6627765@0edd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Marzena Wójcik
-DTEND:20251009T091500Z
-LOCATION:Paw.C sala A
-DTSTART:20251009T074500Z
-SUMMARY:Zarządzanie zespołem sprzedażowym (konwersatorium)
-UID:25732332-c57d-45ac-8c79-d61f19b1fa10@2573.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
-DTEND:20251104T101500Z
-LOCATION:Sienk. 4 sala audio
-DTSTART:20251104T084500Z
-SUMMARY:Trendy rozwojowe na rynku FMCG (konwersatorium)
-UID:58f1c461-f032-4cc7-a39d-aa53fc8988eb@58f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Paweł Turek
-DTEND:20251113T171500Z
-LOCATION:link do zajęć
-DTSTART:20251113T154500Z
-SUMMARY:Reklamacje produktów (wykład)
-UID:dedca271-e2e4-44de-b24f-84371e7a3d64@dedc.org
+DESCRIPTION:Instructor: mgr inż. Małgorzata Kucia
+DTEND:20251212T114500Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20251212T093000Z
+SUMMARY:Przemiany fizykochemiczne produktu (ćwiczenia)
+UID:1242e632-113a-42e4-a203-f308ae747c8b@1242.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Paweł Turek
@@ -460,47 +69,15 @@ DTEND:20251120T163000Z
 LOCATION:Platforma Moodle
 DTSTART:20251120T154500Z
 SUMMARY:Reklamacje produktów (wykład e-learningowy)
-UID:94282806-9fb7-4b19-880d-7b5ae85a807a@9428.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariola Wiater
-DTEND:20251210T083000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251210T070000Z
-SUMMARY:Neuroróżnorodność w organizacji (konwersatorium do wyboru)
-UID:c4e2a810-0d67-4f70-b27d-2a81439182fe@c4e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20251118T153000Z
-LOCATION:Paw.B 052 (KSB)
-DTSTART:20251118T140000Z
-SUMMARY:Sztuczna inteligencja.Metody i zastosowania (konwersatorium do wyboru)
-UID:1741a7ce-0749-4e29-a297-25139aa8e0ce@1741.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20251002T110000Z
-LOCATION:Bud.gł. 2
-DTSTART:20251002T093000Z
-SUMMARY:Sztuczna inteligencja.Metody i zastosowania (konwersatorium do wyboru)
-UID:13e2c7a6-990a-43e4-a6c0-600715e67d39@13e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jarosław Świda
-DTEND:20251204T134500Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251204T121500Z
-SUMMARY:Trendy i innowacje we współczesnej logistyce (konwersatorium do wyboru)
-UID:1af3cc38-3d96-457c-93c1-6b7c4c667b21@1af3.org
+UID:fb0156b1-7ccc-4c5a-8f94-1c7eabea7910@fb01.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
-DTEND:20251008T143000Z
+DTEND:20251217T153000Z
 LOCATION:Sienk. 4 sala audio
-DTSTART:20251008T130000Z
+DTSTART:20251217T140000Z
 SUMMARY:Innowacja wartości. Doskonalenie produktu. (konwersatorium do wyboru)
-UID:5bb5b29b-f581-438e-9ac9-0c23c6018427@5bb5.org
+UID:5bd3d0ea-ff1f-47f2-9cbb-0b03d3799ba9@5bd3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
@@ -508,62 +85,23 @@ DTEND:20251125T101500Z
 LOCATION:Sienk. 4 sala audio
 DTSTART:20251125T084500Z
 SUMMARY:Trendy rozwojowe na rynku FMCG (konwersatorium)
-UID:16ada267-055a-4c97-81b4-d655e42af107@16ad.org
+UID:d7e9881a-7e43-49a9-8679-a5980b5ec5e1@d7e9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
-DTEND:20251021T091500Z
+DTEND:20251008T143000Z
 LOCATION:Sienk. 4 sala audio
-DTSTART:20251021T074500Z
-SUMMARY:Trendy rozwojowe na rynku FMCG (konwersatorium)
-UID:2e5995e0-0e1f-4b3c-892b-e2767696328d@2e59.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Małgorzata Kucia
-DTEND:20251205T114500Z
-LOCATION:Sienk. 5 pr. chem. 1
-DTSTART:20251205T093000Z
-SUMMARY:Przemiany fizykochemiczne produktu (ćwiczenia)
-UID:a446a612-31e9-4edc-bb0a-911b87232594@a446.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
-DTEND:20251202T101500Z
-LOCATION:Sienk. 4 sala audio
-DTSTART:20251202T084500Z
-SUMMARY:Trendy rozwojowe na rynku FMCG (konwersatorium)
-UID:ec11dd0f-0a15-4aea-8c26-a0867688d296@ec11.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
-DTEND:20260112T120000Z
-LOCATION:Bud.gł. 7
-DTSTART:20260112T103000Z
-SUMMARY:Trendy rozwojowe na rynku FMCG (konwersatorium)
-UID:c9b41be2-061d-46cf-8459-ddc976fc13a0@c9b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Paweł Turek
-DTEND:20251106T171500Z
-LOCATION:link do zajęć
-DTSTART:20251106T154500Z
-SUMMARY:Reklamacje produktów (wykład)
-UID:532c3cca-c987-4047-9337-d6248e6456d9@532c.org
+DTSTART:20251008T130000Z
+SUMMARY:Innowacja wartości. Doskonalenie produktu. (konwersatorium do wyboru)
+UID:b41e1d6a-ba31-4259-bae2-cd1b339429d2@b41e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20260113T153000Z
+DTEND:20251028T153000Z
 LOCATION:Paw.B 052 (KSB)
-DTSTART:20260113T140000Z
+DTSTART:20251028T140000Z
 SUMMARY:Sztuczna inteligencja.Metody i zastosowania (konwersatorium do wyboru)
-UID:eb00f13e-c407-4be7-a8f2-61daab2f7f23@eb00.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariola Wiater
-DTEND:20251015T073000Z
-DTSTART:20251015T060000Z
-SUMMARY:Neuroróżnorodność w organizacji (Przeniesienie zajęć)
-UID:07bea229-2afa-4e1c-aa94-cc94f6993065@07be.org
+UID:636471af-bad1-4a13-a840-56980d5bff23@6364.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Mariola Wiater
@@ -571,134 +109,7 @@ DTEND:20251126T083000Z
 LOCATION:Paw.U sala L(prac.rys. tech.)
 DTSTART:20251126T070000Z
 SUMMARY:Neuroróżnorodność w organizacji (konwersatorium do wyboru)
-UID:872e14f6-1300-4095-afee-7599aba40b75@872e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
-DTEND:20251015T143000Z
-LOCATION:Sienk. 4 sala audio
-DTSTART:20251015T130000Z
-SUMMARY:Innowacja wartości. Doskonalenie produktu. (konwersatorium do wyboru)
-UID:2c23d23c-6d48-48e2-a45b-2e250687099d@2c23.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
-DTEND:20251112T153000Z
-LOCATION:Sienk. 4 sala audio
-DTSTART:20251112T140000Z
-SUMMARY:Innowacja wartości. Doskonalenie produktu. (konwersatorium do wyboru)
-UID:38b06ca5-9ad3-41e4-a1bf-4b81a77565dc@38b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariola Wiater
-DTEND:20251112T083000Z
-DTSTART:20251112T070000Z
-SUMMARY:Neuroróżnorodność w organizacji (Przeniesienie zajęć)
-UID:5c21c4c4-f28d-4f54-a4ae-8c5c3e79fef4@5c21.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
-DTEND:20251216T083000Z
-LOCATION:Sienk. 4 sala audio
-DTSTART:20251216T070000Z
-SUMMARY:Trendy rozwojowe na rynku FMCG (konwersatorium)
-UID:5ac1d967-d882-4315-8806-6aa56cace81c@5ac1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
-DTEND:20251210T153000Z
-LOCATION:Sienk. 4 sala audio
-DTSTART:20251210T140000Z
-SUMMARY:Innowacja wartości. Doskonalenie produktu. (konwersatorium do wyboru)
-UID:10b15a72-e8a7-4bb2-9101-c72c8a851719@10b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Paweł Turek
-DTEND:20251002T161500Z
-LOCATION:link do zajęć
-DTSTART:20251002T144500Z
-SUMMARY:Reklamacje produktów (wykład)
-UID:c2f9351c-786f-4d8b-af8e-ac2cd302986b@c2f9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Paweł Turek
-DTEND:20251030T171500Z
-LOCATION:link do zajęć
-DTSTART:20251030T154500Z
-SUMMARY:Reklamacje produktów (wykład)
-UID:25ff543f-b98e-448a-89cc-66c515c4444e@25ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jarosław Świda
-DTEND:20251106T134500Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251106T121500Z
-SUMMARY:Trendy i innowacje we współczesnej logistyce (konwersatorium do wyboru)
-UID:e4675b2b-2f55-4f83-a28f-9e72401dbd11@e467.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Paweł Turek
-DTEND:20251120T163000Z
-LOCATION:link do zajęć
-DTSTART:20251120T154500Z
-SUMMARY:Reklamacje produktów (wykład)
-UID:985afc46-586b-4d11-90dd-341d383085e7@985a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20251021T143000Z
-LOCATION:Paw.B 052 (KSB)
-DTSTART:20251021T130000Z
-SUMMARY:Sztuczna inteligencja.Metody i zastosowania (konwersatorium do wyboru)
-UID:e90c2c3a-3aea-4f50-9dec-3c6f5d724d0a@e90c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
-DTEND:20251022T143000Z
-LOCATION:Sienk. 4 sala audio
-DTSTART:20251022T130000Z
-SUMMARY:Innowacja wartości. Doskonalenie produktu. (konwersatorium do wyboru)
-UID:35c7ca31-8738-4a47-9a60-92ed7bfed597@35c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Paweł Turek
-DTEND:20251113T171500Z
-LOCATION:Platforma Moodle
-DTSTART:20251113T154500Z
-SUMMARY:Reklamacje produktów (wykład e-learningowy)
-UID:fe00dc0a-2a67-434b-a50c-1bdd502cb506@fe00.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20260112T101500Z
-LOCATION:Paw.B 052 (KSB)
-DTSTART:20260112T084500Z
-SUMMARY:Sztuczna inteligencja.Metody i zastosowania (konwersatorium do wyboru)
-UID:54f4479d-678d-496e-9772-657168e8727f@54f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Paweł Turek
-DTEND:20251023T161500Z
-LOCATION:link do zajęć
-DTSTART:20251023T144500Z
-SUMMARY:Reklamacje produktów (wykład)
-UID:645c1af2-c2f1-4716-b1fb-fd7d4ea0e304@645c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Marzena Wójcik
-DTEND:20260115T101500Z
-LOCATION:Paw.C sala A
-DTSTART:20260115T084500Z
-SUMMARY:Zarządzanie zespołem sprzedażowym (konwersatorium)
-UID:f10d54e5-a8e7-4fc1-8723-c8298c5d1344@f10d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
-DTEND:20251126T153000Z
-LOCATION:Sienk. 4 sala audio
-DTSTART:20251126T140000Z
-SUMMARY:Innowacja wartości. Doskonalenie produktu. (konwersatorium do wyboru)
-UID:8a9aabae-e316-4359-9df4-07c9799cc776@8a9a.org
+UID:21d82b5e-c8c5-429a-b4f0-5f537c764477@21d8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
@@ -706,15 +117,46 @@ DTEND:20260119T101500Z
 LOCATION:Paw.B 052 (KSB)
 DTSTART:20260119T084500Z
 SUMMARY:Sztuczna inteligencja.Metody i zastosowania (konwersatorium do wyboru)
-UID:1badf2da-1f68-47c0-8276-90978ddcb619@1bad.org
+UID:e70874dc-1c19-49ef-94c8-50817b187b08@e708.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Marzena Wójcik
-DTEND:20260122T093000Z
-LOCATION:Paw.U sala S(Kat.Opak.)
-DTSTART:20260122T084500Z
+DTEND:20251024T073000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20251024T060000Z
 SUMMARY:Zarządzanie zespołem sprzedażowym (konwersatorium)
-UID:19a7ab72-d3db-4ce1-ab04-1bfe03bf0d41@19a7.org
+UID:8c7c90eb-a531-4c62-a8af-20319f947e36@8c7c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20251002T110000Z
+LOCATION:Bud.gł. 2
+DTSTART:20251002T093000Z
+SUMMARY:Sztuczna inteligencja.Metody i zastosowania (konwersatorium do wyboru)
+UID:f3752303-ac49-406e-84d6-7915555ae9e0@f375.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20251209T153000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20251209T140000Z
+SUMMARY:Sztuczna inteligencja.Metody i zastosowania (konwersatorium do wyboru)
+UID:ae015ed1-8f79-46ff-af82-ba4eab61eaaa@ae01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251016T123000Z
+DTSTART:20251016T093000Z
+SUMMARY: (rezerwacja)
+UID:14da882d-9161-474d-8279-10a7cd0460a1@14da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Małgorzata Kucia
+DTEND:20251128T114500Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20251128T093000Z
+SUMMARY:Przemiany fizykochemiczne produktu (ćwiczenia)
+UID:fd25b568-5e8f-4910-9924-bd68d6e41624@fd25.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr inż. Małgorzata Kucia
@@ -722,6 +164,564 @@ DTEND:20251114T114500Z
 LOCATION:Sienk. 5 pr. chem. 1
 DTSTART:20251114T093000Z
 SUMMARY:Przemiany fizykochemiczne produktu (ćwiczenia)
-UID:a9436b74-20cf-4e36-9f30-ff095d99f07a@a943.org
+UID:d7d791b8-6192-4e84-84fa-039ed9204137@d7d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Małgorzata Kucia
+DTEND:20251024T104500Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20251024T083000Z
+SUMMARY:Przemiany fizykochemiczne produktu (ćwiczenia)
+UID:b2a52668-5550-43b4-9643-a2ce2ea705a5@b2a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251217T134500Z
+DTSTART:20251217T121500Z
+SUMMARY: (rezerwacja)
+UID:4999cc9d-9979-4755-8e9f-ed497ef03106@4999.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
+DTEND:20251215T120000Z
+LOCATION:Bud.gł. 7
+DTSTART:20251215T103000Z
+SUMMARY:Trendy rozwojowe na rynku FMCG (konwersatorium)
+UID:43937f58-f182-4304-b49b-8fcd530c0058@4393.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jarosław Świda
+DTEND:20251117T114500Z
+LOCATION:.
+DTSTART:20251117T093000Z
+SUMMARY:Trendy i innowacje we współczesnej logistyce (konwersatorium do wyboru)
+UID:c32ab823-f238-4748-bf54-4655061e6f55@c32a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jarosław Świda
+DTEND:20251204T134500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20251204T121500Z
+SUMMARY:Trendy i innowacje we współczesnej logistyce (konwersatorium do wyboru)
+UID:6354410e-842b-4d46-babc-74bdd9ed116b@6354.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20260113T153000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20260113T140000Z
+SUMMARY:Sztuczna inteligencja.Metody i zastosowania (konwersatorium do wyboru)
+UID:6518e789-d21e-41e7-b667-f89c27e6f5ce@6518.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marzena Wójcik
+DTEND:20251009T091500Z
+LOCATION:Paw.C sala A
+DTSTART:20251009T074500Z
+SUMMARY:Zarządzanie zespołem sprzedażowym (konwersatorium)
+UID:ee83c461-1496-426e-874a-ac808f6ee7fc@ee83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marzena Wójcik
+DTEND:20251106T101500Z
+LOCATION:Paw.C sala A
+DTSTART:20251106T084500Z
+SUMMARY:Zarządzanie zespołem sprzedażowym (konwersatorium)
+UID:6ff497dc-a355-46e6-b24d-55ab51eacbe0@6ff4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20251202T101500Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20251202T084500Z
+SUMMARY:Trendy rozwojowe na rynku FMCG (konwersatorium)
+UID:568b1f62-61b9-41d9-8446-059a948b74cb@568b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
+DTEND:20260119T120000Z
+LOCATION:Bud.gł. 7
+DTSTART:20260119T103000Z
+SUMMARY:Trendy rozwojowe na rynku FMCG (konwersatorium)
+UID:6547497e-0bd5-4827-a2df-2f48b9f56858@6547.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20251029T153000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20251029T140000Z
+SUMMARY:Innowacja wartości. Doskonalenie produktu. (konwersatorium do wyboru)
+UID:b42e232e-b712-4f25-9ab5-93f338aa4d72@b42e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20251007T091500Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20251007T074500Z
+SUMMARY:Trendy rozwojowe na rynku FMCG (konwersatorium)
+UID:79a2e913-8ddd-462c-92ea-807c6c86321f@79a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20251015T073000Z
+DTSTART:20251015T060000Z
+SUMMARY:Neuroróżnorodność w organizacji (Przeniesienie zajęć)
+UID:b8fa1aa3-2e2a-4ee5-b311-d3b99d2aa11d@b8fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jarosław Świda
+DTEND:20251106T134500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20251106T121500Z
+SUMMARY:Trendy i innowacje we współczesnej logistyce (konwersatorium do wyboru)
+UID:54a85684-85ac-41db-b26d-7fffde96999c@54a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20251118T153000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20251118T140000Z
+SUMMARY:Sztuczna inteligencja.Metody i zastosowania (konwersatorium do wyboru)
+UID:12fc4cad-51b5-41ee-9fce-6db566550830@12fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20251021T143000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20251021T130000Z
+SUMMARY:Sztuczna inteligencja.Metody i zastosowania (konwersatorium do wyboru)
+UID:73964f60-0f6a-4ae9-ae4e-b660dd42744b@7396.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jarosław Świda
+DTEND:20251023T124500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20251023T111500Z
+SUMMARY:Trendy i innowacje we współczesnej logistyce (konwersatorium do wyboru)
+UID:6cf8595b-da6e-4ba5-a90d-880dc92ce735@6cf8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20251106T171500Z
+LOCATION:Platforma Moodle
+DTSTART:20251106T154500Z
+SUMMARY:Reklamacje produktów (wykład e-learningowy)
+UID:0a5407e2-7152-433d-86f4-e4aab6923431@0a54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20251007T143000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20251007T130000Z
+SUMMARY:Sztuczna inteligencja.Metody i zastosowania (konwersatorium do wyboru)
+UID:2b297ee5-d26f-4eac-8547-9b4bcb95432e@2b29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marzena Wójcik
+DTEND:20260122T093000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20260122T084500Z
+SUMMARY:Zarządzanie zespołem sprzedażowym (konwersatorium)
+UID:bf0e5444-e043-46e4-b6e2-b6f196e8be45@bf0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Małgorzata Kucia
+DTEND:20251010T104500Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20251010T083000Z
+SUMMARY:Przemiany fizykochemiczne produktu (ćwiczenia)
+UID:38703639-6ad7-4458-8cfa-b25fee2e30ce@3870.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20251112T153000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20251112T140000Z
+SUMMARY:Innowacja wartości. Doskonalenie produktu. (konwersatorium do wyboru)
+UID:9e2fe8a1-577d-48b5-af94-395c74b196d1@9e2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
+DTEND:20251208T120000Z
+LOCATION:Bud.gł. 7
+DTSTART:20251208T103000Z
+SUMMARY:Trendy rozwojowe na rynku FMCG (konwersatorium)
+UID:7f5c8595-c2d4-467e-857a-f884f3f06827@7f5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20251113T171500Z
+LOCATION:link do zajęć
+DTSTART:20251113T154500Z
+SUMMARY:Reklamacje produktów (wykład)
+UID:80cfa3aa-0088-4d1a-bd68-ab28ecb0a59a@80cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20260114T153000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20260114T140000Z
+SUMMARY:Innowacja wartości. Doskonalenie produktu. (konwersatorium do wyboru)
+UID:462b118b-ee5e-498d-9226-e3519ba64878@462b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Małgorzata Kucia
+DTEND:20251121T114500Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20251121T093000Z
+SUMMARY:Przemiany fizykochemiczne produktu (ćwiczenia)
+UID:03ec20d0-bd3e-4486-904c-d442e606dac7@03ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20251030T171500Z
+LOCATION:link do zajęć
+DTSTART:20251030T154500Z
+SUMMARY:Reklamacje produktów (wykład)
+UID:29eaba83-b66b-4eb6-82e1-288890e9d5df@29ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Małgorzata Kucia
+DTEND:20251107T114500Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20251107T093000Z
+SUMMARY:Przemiany fizykochemiczne produktu (ćwiczenia)
+UID:7efa1190-1b71-4da6-8d9a-156c703ac17a@7efa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20251106T171500Z
+LOCATION:link do zajęć
+DTSTART:20251106T154500Z
+SUMMARY:Reklamacje produktów (wykład)
+UID:41737202-6464-4550-b911-4d99057aad8c@4173.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20251113T171500Z
+LOCATION:Platforma Moodle
+DTSTART:20251113T154500Z
+SUMMARY:Reklamacje produktów (wykład e-learningowy)
+UID:dd6d6852-6160-4a04-be55-263d9cb2c54e@dd6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marzena Wójcik
+DTEND:20260115T101500Z
+LOCATION:Paw.C sala A
+DTSTART:20260115T084500Z
+SUMMARY:Zarządzanie zespołem sprzedażowym (konwersatorium)
+UID:6fce54e7-bbf5-46e8-8b8b-f668a5d80090@6fce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20251203T153000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20251203T140000Z
+SUMMARY:Innowacja wartości. Doskonalenie produktu. (konwersatorium do wyboru)
+UID:fbdaa597-53df-481e-ab93-6f0f89075ddb@fbda.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Małgorzata Kucia
+DTEND:20251031T114500Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20251031T093000Z
+SUMMARY:Przemiany fizykochemiczne produktu (ćwiczenia)
+UID:c41fe99c-9bac-4fbf-b2c0-7f333311390d@c41f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20251009T161500Z
+LOCATION:link do zajęć
+DTSTART:20251009T144500Z
+SUMMARY:Reklamacje produktów (wykład)
+UID:91d7e4df-89bb-427e-8406-abfaf24869be@91d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20251001T073000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20251001T060000Z
+SUMMARY:Neuroróżnorodność w organizacji (konwersatorium do wyboru)
+UID:2ff556d2-df5d-4bc4-9ce0-e9c598eb7ae6@2ff5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20251216T153000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20251216T140000Z
+SUMMARY:Sztuczna inteligencja.Metody i zastosowania (konwersatorium do wyboru)
+UID:a2bd261b-8944-48fb-94ad-b13ea82b82de@a2bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20251126T153000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20251126T140000Z
+SUMMARY:Innowacja wartości. Doskonalenie produktu. (konwersatorium do wyboru)
+UID:62d413cf-545f-4d9d-a8a1-9e853b5428c5@62d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20260121T083000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20260121T074500Z
+SUMMARY:Neuroróżnorodność w organizacji (konwersatorium do wyboru)
+UID:5be78c75-f555-4f8e-a281-d61303155dd9@5be7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marzena Wójcik
+DTEND:20251204T101500Z
+LOCATION:Paw.C sala A
+DTSTART:20251204T084500Z
+SUMMARY:Zarządzanie zespołem sprzedażowym (konwersatorium)
+UID:941c3763-2b77-468a-9eb9-b77f07250ae1@941c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20251021T091500Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20251021T074500Z
+SUMMARY:Trendy rozwojowe na rynku FMCG (konwersatorium)
+UID:63a41cf9-68f3-4607-a37c-4d81b38a37a2@63a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20260120T153000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20260120T140000Z
+SUMMARY:Sztuczna inteligencja.Metody i zastosowania (konwersatorium do wyboru)
+UID:2e1826d9-db5a-4d41-948c-0b9b7078758a@2e18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20251002T161500Z
+LOCATION:link do zajęć
+DTSTART:20251002T144500Z
+SUMMARY:Reklamacje produktów (wykład)
+UID:eb080701-791d-48bb-be72-45b0f57b8b37@eb08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20251022T143000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20251022T130000Z
+SUMMARY:Innowacja wartości. Doskonalenie produktu. (konwersatorium do wyboru)
+UID:4ae75a08-f559-462e-a504-e2ff60511a6f@4ae7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20251210T083000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20251210T070000Z
+SUMMARY:Neuroróżnorodność w organizacji (konwersatorium do wyboru)
+UID:7b0e6ae6-de13-4d09-866d-67408b9e9123@7b0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20251028T101500Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20251028T084500Z
+SUMMARY:Trendy rozwojowe na rynku FMCG (konwersatorium)
+UID:44303ac5-10c1-4dee-91df-7c0bfce16685@4430.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jarosław Świda
+DTEND:20251218T134500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20251218T121500Z
+SUMMARY:Trendy i innowacje we współczesnej logistyce (konwersatorium do wyboru)
+UID:ba218d7e-9f5b-4245-9050-b6a7a3d0a2a4@ba21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20260107T083000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20260107T070000Z
+SUMMARY:Neuroróżnorodność w organizacji (konwersatorium do wyboru)
+UID:77a0f9f8-b39e-4f97-ad10-8f6e198b9e3f@77a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20251202T153000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20251202T140000Z
+SUMMARY:Sztuczna inteligencja.Metody i zastosowania (konwersatorium do wyboru)
+UID:2138a487-0d46-408c-9919-d057ebc7d46e@2138.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20260112T101500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20260112T084500Z
+SUMMARY:Sztuczna inteligencja.Metody i zastosowania (konwersatorium do wyboru)
+UID:5453a1b2-0dbb-49e6-a2f0-d8522b56de85@5453.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marzena Wójcik
+DTEND:20251120T101500Z
+LOCATION:Paw.C sala A
+DTSTART:20251120T084500Z
+SUMMARY:Zarządzanie zespołem sprzedażowym (konwersatorium)
+UID:d41e730e-fe15-402e-a230-18276ab3b54d@d41e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20251118T101500Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20251118T084500Z
+SUMMARY:Trendy rozwojowe na rynku FMCG (konwersatorium)
+UID:7589f630-96fa-4af4-8a11-75867152ceac@7589.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20260107T153000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20260107T140000Z
+SUMMARY:Innowacja wartości. Doskonalenie produktu. (konwersatorium do wyboru)
+UID:a060dc07-637b-427f-9bc4-56395840d205@a060.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20251120T163000Z
+LOCATION:link do zajęć
+DTSTART:20251120T154500Z
+SUMMARY:Reklamacje produktów (wykład)
+UID:0178a8ad-8112-4abf-9b51-27d263c949cb@0178.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
+DTEND:20251201T120000Z
+LOCATION:Bud.gł. 7
+DTSTART:20251201T103000Z
+SUMMARY:Trendy rozwojowe na rynku FMCG (konwersatorium)
+UID:b57b9d27-7b18-4504-b215-07e11ac7dcc4@b57b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20251104T101500Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20251104T084500Z
+SUMMARY:Trendy rozwojowe na rynku FMCG (konwersatorium)
+UID:8a073458-dc7f-4517-ade5-f85f8c6bba42@8a07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20251014T091500Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20251014T074500Z
+SUMMARY:Trendy rozwojowe na rynku FMCG (konwersatorium)
+UID:e1707acc-5594-44d7-b1dc-a9ab2b5814fc@e170.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20251119T153000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20251119T140000Z
+SUMMARY:Innowacja wartości. Doskonalenie produktu. (konwersatorium do wyboru)
+UID:075689ff-01da-46fb-932a-a139264370e7@0756.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
+DTEND:20251222T120000Z
+LOCATION:Bud.gł. 7
+DTSTART:20251222T103000Z
+SUMMARY:Trendy rozwojowe na rynku FMCG (konwersatorium)
+UID:d9d71e39-55be-4200-8f5c-a9b5f9fc2b11@d9d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20251015T143000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20251015T130000Z
+SUMMARY:Innowacja wartości. Doskonalenie produktu. (konwersatorium do wyboru)
+UID:f53f91eb-011e-4592-b6f0-9cecc050f38e@f53f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20260122T180000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20260122T163000Z
+SUMMARY:Innowacja wartości. Doskonalenie produktu. (konwersatorium do wyboru)
+UID:c19eda7e-24d6-4d13-9e54-47e4b5b78455@c19e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jarosław Świda
+DTEND:20251120T134500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20251120T121500Z
+SUMMARY:Trendy i innowacje we współczesnej logistyce (konwersatorium do wyboru)
+UID:ebf97091-7a59-4e92-a7e4-55839b15995c@ebf9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20251023T161500Z
+LOCATION:link do zajęć
+DTSTART:20251023T144500Z
+SUMMARY:Reklamacje produktów (wykład)
+UID:da558560-1c77-48f9-b636-76b79fc418f8@da55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
+DTEND:20251216T083000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20251216T070000Z
+SUMMARY:Trendy rozwojowe na rynku FMCG (konwersatorium)
+UID:315c9303-0d4d-4228-af61-52b2126db2d7@315c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marzena Wójcik
+DTEND:20251218T101500Z
+LOCATION:Paw.C sala A
+DTSTART:20251218T084500Z
+SUMMARY:Zarządzanie zespołem sprzedażowym (konwersatorium)
+UID:beb48d73-2a78-4908-921d-5717766f5f60@beb4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20251014T143000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20251014T130000Z
+SUMMARY:Sztuczna inteligencja.Metody i zastosowania (konwersatorium do wyboru)
+UID:3a15425a-78d2-4fe3-8e57-a2336b702603@3a15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20251119T180000Z
+LOCATION:Paw.A 301b
+DTSTART:20251119T163000Z
+SUMMARY:Sztuczna inteligencja.Metody i zastosowania (konwersatorium do wyboru)
+UID:91686fde-8499-4097-9373-6df8467c8d24@9168.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20251210T153000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20251210T140000Z
+SUMMARY:Innowacja wartości. Doskonalenie produktu. (konwersatorium do wyboru)
+UID:6c86a1db-080e-41d1-b0e2-95e77c751ca6@6c86.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Małgorzata Kucia
+DTEND:20251205T114500Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20251205T093000Z
+SUMMARY:Przemiany fizykochemiczne produktu (ćwiczenia)
+UID:1b28a706-ef17-4616-99a3-f5117ac4b2a5@1b28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20251016T161500Z
+LOCATION:link do zajęć
+DTSTART:20251016T144500Z
+SUMMARY:Reklamacje produktów (wykład)
+UID:4cd99112-9736-4198-9421-31b796c9f165@4cd9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
+DTEND:20260112T120000Z
+LOCATION:Bud.gł. 7
+DTSTART:20260112T103000Z
+SUMMARY:Trendy rozwojowe na rynku FMCG (konwersatorium)
+UID:691e7c39-a557-4615-b1d1-bb3d884c02ac@691e.org
 END:VEVENT
 END:VCALENDAR
