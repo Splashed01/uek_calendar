@@ -2,52 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sylwia Wiśniewska
+DTEND:20251130T124500Z
+LOCATION:link do zajęć
+DTSTART:20251130T111500Z
+SUMMARY:Nowoczesne trendy w zarządzaniu zasobami ludzkimi (wykład do wyboru)
+UID:163040d2-5d9c-4248-8f8d-843933878302@1630.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
 DTEND:20251114T170000Z
 LOCATION:Paw.U sala K
 DTSTART:20251114T144500Z
 SUMMARY:Projektowanie i realizacja procesu pozyskiwania pracowników (konwersatorium)
-UID:5757353c-59c5-442b-b925-d797928b30e7@5757.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grzegorz Łukasiewicz
-DTEND:20251024T184500Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20251024T163000Z
-SUMMARY:Zaawansowane systemy informatyczne (konwersatorium)
-UID:ca57ab7b-3104-472c-8a56-a2d57250c194@ca57.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tadeusz Bartoś
-DTEND:20260111T100000Z
-LOCATION:link do zajęć
-DTSTART:20260111T074500Z
-SUMMARY:Etyka (wykład)
-UID:9ac37533-e0a9-4469-b0bf-7cb0ab580dac@9ac3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
-DTEND:20251025T090000Z
-LOCATION:Paw.U sala N
-DTSTART:20251025T060000Z
-SUMMARY:Kierowanie zespołami (konwersatorium)
-UID:c00157cf-9bfe-415e-bfef-fea4ac9ba90e@c001.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grzegorz Łukasiewicz
-DTEND:20251004T114500Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20251004T093000Z
-SUMMARY:Zaawansowane systemy informatyczne (konwersatorium)
-UID:4bc63fff-75da-47de-8fbd-e6196088ac2f@4bc6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
-DTEND:20251220T141500Z
-LOCATION:Paw.U sala T (Kat. ZKL)
-DTSTART:20251220T111500Z
-SUMMARY:Projektowanie i realizacja procesu pozyskiwania pracowników (konwersatorium)
-UID:83ac1dce-bd38-43ec-be2a-486bcb998674@83ac.org
+UID:f85f4810-11ef-421e-84a0-046d715bea97@f85f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. dr hab. Aleksy Pocztowski
@@ -55,197 +23,15 @@ DTEND:20260109T194500Z
 LOCATION:link do zajęć
 DTSTART:20260109T173000Z
 SUMMARY:Zarządzanie wynikami (wykład)
-UID:e3dd1c19-672b-48b7-84a1-79b2dc674d06@e3dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
-DTEND:20251004T090000Z
-LOCATION:Paw.U sala T (Kat. ZKL)
-DTSTART:20251004T064500Z
-SUMMARY:Kierowanie zespołami (konwersatorium)
-UID:53b679d6-2eb2-4f22-a4a1-ca562f01fcae@53b6.org
+UID:30d41c91-f4ce-4a9c-8c17-e7bc72793551@30d4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Tadeusz Bartoś
-DTEND:20260125T124500Z
+DTEND:20260111T100000Z
 LOCATION:link do zajęć
-DTSTART:20260125T103000Z
+DTSTART:20260111T074500Z
 SUMMARY:Etyka (wykład)
-UID:ee5cbdc7-0e34-4c17-87b4-ee3e574e8d62@ee5c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sylwia Wiśniewska
-DTEND:20251005T114500Z
-LOCATION:link do zajęć
-DTSTART:20251005T093000Z
-SUMMARY:Nowoczesne trendy w zarządzaniu zasobami ludzkimi (wykład do wyboru)
-UID:47890db1-bc67-4a53-8c8b-b54e909e1c81@4789.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
-DTEND:20251129T100000Z
-LOCATION:Paw.U sala T (Kat. ZKL)
-DTSTART:20251129T070000Z
-SUMMARY:Kierowanie zespołami (konwersatorium)
-UID:63d0b31d-86f0-4658-90a8-e7de80084316@63d0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tadeusz Bartoś
-DTEND:20251214T100000Z
-LOCATION:link do zajęć
-DTSTART:20251214T074500Z
-SUMMARY:Etyka (wykład)
-UID:946fd492-dc2f-4433-a86d-4c91c951f710@946f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
-DTEND:20260110T141500Z
-LOCATION:Paw.U sala N
-DTSTART:20260110T111500Z
-SUMMARY:Kierowanie zespołami (konwersatorium)
-UID:423bba93-5ce9-4667-be14-db53ef1ed1b8@423b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Wesołowska
-DTEND:20251116T100000Z
-LOCATION:Platforma Moodle
-DTSTART:20251116T074500Z
-SUMMARY:Strategiczne zarządzanie zasobami ludzkimi (Ćwiczenia e-learningowe)
-UID:395a9f9d-f4a2-46af-93ca-b26284ff91e0@395a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
-DTEND:20251024T160000Z
-LOCATION:Paw.U sala N
-DTSTART:20251024T134500Z
-SUMMARY:Projektowanie i realizacja procesu pozyskiwania pracowników (konwersatorium)
-UID:a6293f39-81b1-4295-b865-0f602f79e4e5@a629.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
-DTEND:20251116T124500Z
-LOCATION:Paw.U sala T (Kat. ZKL)
-DTSTART:20251116T103000Z
-SUMMARY:Kierowanie zespołami (konwersatorium)
-UID:ad7d121f-6c1c-4a46-8d42-7b17ec48310e@ad7d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Wesołowska
-DTEND:20251025T114500Z
-LOCATION:Paw.U sala T (Kat. ZKL)
-DTSTART:20251025T093000Z
-SUMMARY:Strategiczne zarządzanie zasobami ludzkimi (ćwiczenia)
-UID:a20dec4d-068d-4468-87a0-8f6a4add854c@a20d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sylwia Wiśniewska
-DTEND:20251026T110000Z
-LOCATION:link do zajęć
-DTSTART:20251026T084500Z
-SUMMARY:Nowoczesne trendy w zarządzaniu zasobami ludzkimi (wykład do wyboru)
-UID:dbc369b0-a956-4811-990e-689f5d65c252@dbc3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sylwia Wiśniewska
-DTEND:20251115T124500Z
-LOCATION:Platforma Moodle
-DTSTART:20251115T103000Z
-SUMMARY:Nowoczesne trendy w zarządzaniu zasobami ludzkimi (wykład e-learningowy)
-UID:47c12a55-afdc-4ad6-a310-aa3a880db662@47c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sylwia Wiśniewska
-DTEND:20251214T124500Z
-LOCATION:Platforma Moodle
-DTSTART:20251214T103000Z
-SUMMARY:Nowoczesne trendy w zarządzaniu zasobami ludzkimi (wykład e-learningowy)
-UID:5b59da2c-1d8c-4ca0-ae85-752314a1a0da@5b59.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Aleksy Pocztowski
-DTEND:20251115T100000Z
-LOCATION:link do zajęć
-DTSTART:20251115T074500Z
-SUMMARY:Strategiczne zarządzanie zasobami ludzkimi (wykład)
-UID:4b32dcc2-7906-49d5-985f-e9f3ccae07ab@4b32.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sylwia Wiśniewska
-DTEND:20260111T124500Z
-LOCATION:link do zajęć
-DTSTART:20260111T103000Z
-SUMMARY:Nowoczesne trendy w zarządzaniu zasobami ludzkimi (wykład do wyboru)
-UID:4ca12146-980a-4325-b992-d8a3ef3ebcf6@4ca1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sylwia Wiśniewska
-DTEND:20251130T124500Z
-LOCATION:link do zajęć
-DTSTART:20251130T111500Z
-SUMMARY:Nowoczesne trendy w zarządzaniu zasobami ludzkimi (wykład do wyboru)
-UID:e4b206e6-dc23-4d99-a46e-19ac7b7599ce@e4b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Wesołowska
-DTEND:20251129T124500Z
-LOCATION:Paw.U sala M
-DTSTART:20251129T103000Z
-SUMMARY:Strategiczne zarządzanie zasobami ludzkimi (ćwiczenia)
-UID:fd9098cd-674d-4ef2-a456-4e8c9b42aa78@fd90.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
-DTEND:20251213T104500Z
-LOCATION:Paw.U sala T (Kat. ZKL)
-DTSTART:20251213T074500Z
-SUMMARY:Projektowanie i realizacja procesu pozyskiwania pracowników (konwersatorium)
-UID:8f003c73-6319-4d36-888f-fe959c1a1642@8f00.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251217T134500Z
-DTSTART:20251217T121500Z
-SUMMARY: (rezerwacja)
-UID:4565fc7c-b343-4ac8-8cce-daab2544d372@4565.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Aleksy Pocztowski
-DTEND:20251005T090000Z
-LOCATION:link do zajęć
-DTSTART:20251005T064500Z
-SUMMARY:Strategiczne zarządzanie zasobami ludzkimi (wykład)
-UID:e31bf200-0da8-46cf-8d89-d14187f199f0@e31b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251016T123000Z
-DTSTART:20251016T093000Z
-SUMMARY: (rezerwacja)
-UID:b75e1e4d-0202-4b11-b687-c9ad879ae77f@b75e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Aleksy Pocztowski
-DTEND:20251212T194500Z
-LOCATION:link do zajęć
-DTSTART:20251212T173000Z
-SUMMARY:Zarządzanie wynikami (wykład)
-UID:1a76592e-101b-4ea8-8874-24d60e3e549d@1a76.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
-DTEND:20260124T141500Z
-LOCATION:Paw.U sala T (Kat. ZKL)
-DTSTART:20260124T111500Z
-SUMMARY:Projektowanie i realizacja procesu pozyskiwania pracowników (konwersatorium)
-UID:78faac9b-d49f-4bbd-abf0-000eba822d82@78fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sylwia Wiśniewska
-DTEND:20251130T111500Z
-LOCATION:Platforma Moodle
-DTSTART:20251130T103000Z
-SUMMARY:Nowoczesne trendy w zarządzaniu zasobami ludzkimi (wykład e-learningowy)
-UID:ff14127a-5da9-4c30-b87c-d1d3dae256b6@ff14.org
+UID:9fb66a9c-f827-43b9-84f6-706b93847344@9fb6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Grzegorz Łukasiewicz
@@ -253,7 +39,94 @@ DTEND:20251114T194500Z
 LOCATION:Paw.A 118 lab. Win10\, Office21
 DTSTART:20251114T173000Z
 SUMMARY:Zaawansowane systemy informatyczne (konwersatorium)
-UID:e40cb935-3daa-4d43-bc52-91dfcb35f0dc@e40c.org
+UID:dea07be6-fea0-4b66-acbd-b67ed2ce003e@dea0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sylwia Wiśniewska
+DTEND:20251026T110000Z
+LOCATION:link do zajęć
+DTSTART:20251026T084500Z
+SUMMARY:Nowoczesne trendy w zarządzaniu zasobami ludzkimi (wykład do wyboru)
+UID:509bbdb7-6350-4f62-bc57-7f3c8b3e8818@509b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
+DTEND:20251129T100000Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20251129T070000Z
+SUMMARY:Kierowanie zespołami (konwersatorium)
+UID:93e1b68c-5590-4e20-b11b-7a1410d0d229@93e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
+DTEND:20251025T090000Z
+LOCATION:Paw.U sala N
+DTSTART:20251025T060000Z
+SUMMARY:Kierowanie zespołami (konwersatorium)
+UID:e59447c8-941f-43ee-84d0-f54c8afa664f@e594.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Wesołowska
+DTEND:20251116T100000Z
+LOCATION:Platforma Moodle
+DTSTART:20251116T074500Z
+SUMMARY:Strategiczne zarządzanie zasobami ludzkimi (Ćwiczenia e-learningowe)
+UID:eba871df-ceb6-4232-abce-1482b1166140@eba8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Wesołowska
+DTEND:20251025T114500Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20251025T093000Z
+SUMMARY:Strategiczne zarządzanie zasobami ludzkimi (ćwiczenia)
+UID:0a500e5a-fc89-4569-8d28-842d1071c2d7@0a50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251016T123000Z
+DTSTART:20251016T093000Z
+SUMMARY: (rezerwacja)
+UID:60e0b522-e35c-4ba5-a435-7426fc43311f@60e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Aleksy Pocztowski
+DTEND:20251005T090000Z
+LOCATION:link do zajęć
+DTSTART:20251005T064500Z
+SUMMARY:Strategiczne zarządzanie zasobami ludzkimi (wykład)
+UID:25f9eef6-95a4-4c15-82b9-cbf93fdbee9f@25f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grzegorz Łukasiewicz
+DTEND:20251004T114500Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20251004T093000Z
+SUMMARY:Zaawansowane systemy informatyczne (konwersatorium)
+UID:cb8d1798-6431-4470-b404-2d4dd7c8774a@cb8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sylwia Wiśniewska
+DTEND:20260111T124500Z
+LOCATION:link do zajęć
+DTSTART:20260111T103000Z
+SUMMARY:Nowoczesne trendy w zarządzaniu zasobami ludzkimi (wykład do wyboru)
+UID:0e1f6e7e-9056-4b91-a91f-6b731fe0a3ad@0e1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grzegorz Łukasiewicz
+DTEND:20251024T184500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20251024T163000Z
+SUMMARY:Zaawansowane systemy informatyczne (konwersatorium)
+UID:462ba31a-0c3a-4683-99f2-380c90f812d2@462b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
+DTEND:20260124T141500Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20260124T111500Z
+SUMMARY:Projektowanie i realizacja procesu pozyskiwania pracowników (konwersatorium)
+UID:f16a1625-3f4e-40c2-b73a-6357614368f9@f16a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. dr hab. Aleksy Pocztowski
@@ -261,7 +134,39 @@ DTEND:20260125T100000Z
 LOCATION:link do zajęć
 DTSTART:20260125T074500Z
 SUMMARY:Zarządzanie wynikami (wykład)
-UID:5e19468d-1c6e-41a1-9d20-bd9426b8d8d3@5e19.org
+UID:2cdc61bc-08b0-4eb6-bc18-1aca555d4258@2cdc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
+DTEND:20251116T124500Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20251116T103000Z
+SUMMARY:Kierowanie zespołami (konwersatorium)
+UID:55013e45-5c55-412d-b740-477fa9990eff@5501.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
+DTEND:20260110T141500Z
+LOCATION:Paw.U sala N
+DTSTART:20260110T111500Z
+SUMMARY:Kierowanie zespołami (konwersatorium)
+UID:0fd77876-5c9a-4b6a-9f71-844c037f6ce3@0fd7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Wesołowska
+DTEND:20251129T124500Z
+LOCATION:Paw.U sala M
+DTSTART:20251129T103000Z
+SUMMARY:Strategiczne zarządzanie zasobami ludzkimi (ćwiczenia)
+UID:70b2a13a-7e3a-495b-abeb-2730156a1ca0@70b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
+DTEND:20251213T104500Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20251213T074500Z
+SUMMARY:Projektowanie i realizacja procesu pozyskiwania pracowników (konwersatorium)
+UID:f2c4a3ea-4939-45c3-afe5-2e91b6ac6b5e@f2c4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. dr hab. Aleksy Pocztowski
@@ -269,6 +174,101 @@ DTEND:20251026T133000Z
 LOCATION:link do zajęć
 DTSTART:20251026T111500Z
 SUMMARY:Strategiczne zarządzanie zasobami ludzkimi (wykład)
-UID:62b4a7ec-dd79-4875-b6dd-e9f1d807f2e1@62b4.org
+UID:f4f3cce4-9ec9-44b9-a78c-32bba6585bb6@f4f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
+DTEND:20251004T090000Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20251004T064500Z
+SUMMARY:Kierowanie zespołami (konwersatorium)
+UID:73c1a9eb-7dbe-416a-a94c-21ce7f17ce61@73c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sylwia Wiśniewska
+DTEND:20251115T124500Z
+LOCATION:Platforma Moodle
+DTSTART:20251115T103000Z
+SUMMARY:Nowoczesne trendy w zarządzaniu zasobami ludzkimi (wykład e-learningowy)
+UID:bac81b9f-5e0e-4956-ad65-9401012b91ab@bac8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Aleksy Pocztowski
+DTEND:20251212T194500Z
+LOCATION:link do zajęć
+DTSTART:20251212T173000Z
+SUMMARY:Zarządzanie wynikami (wykład)
+UID:5b59b005-a98f-4e16-a181-5e689912ae32@5b59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251217T134500Z
+DTSTART:20251217T121500Z
+SUMMARY: (rezerwacja)
+UID:df1c123e-f5f4-4764-9a06-05c427f38405@df1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tadeusz Bartoś
+DTEND:20251214T100000Z
+LOCATION:link do zajęć
+DTSTART:20251214T074500Z
+SUMMARY:Etyka (wykład)
+UID:154f0d35-f1b0-42cb-a814-b5c5d9438abc@154f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
+DTEND:20251220T141500Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20251220T111500Z
+SUMMARY:Projektowanie i realizacja procesu pozyskiwania pracowników (konwersatorium)
+UID:986b6d6a-e540-4bd4-a9b0-45d92ad24f37@986b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sylwia Wiśniewska
+DTEND:20251005T114500Z
+LOCATION:link do zajęć
+DTSTART:20251005T093000Z
+SUMMARY:Nowoczesne trendy w zarządzaniu zasobami ludzkimi (wykład do wyboru)
+UID:b74120c5-2124-48db-8148-a0de17a958fd@b741.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Aleksy Pocztowski
+DTEND:20251115T100000Z
+LOCATION:link do zajęć
+DTSTART:20251115T074500Z
+SUMMARY:Strategiczne zarządzanie zasobami ludzkimi (wykład)
+UID:a5894c85-8ccc-4bd4-a785-d0567b785298@a589.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
+DTEND:20251024T160000Z
+LOCATION:Paw.U sala N
+DTSTART:20251024T134500Z
+SUMMARY:Projektowanie i realizacja procesu pozyskiwania pracowników (konwersatorium)
+UID:582bace8-bbe3-4b39-a8de-da3632e8b386@582b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sylwia Wiśniewska
+DTEND:20251214T124500Z
+LOCATION:Platforma Moodle
+DTSTART:20251214T103000Z
+SUMMARY:Nowoczesne trendy w zarządzaniu zasobami ludzkimi (wykład e-learningowy)
+UID:aeb9859d-bdc7-4676-afbb-a89bde6fbbaa@aeb9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tadeusz Bartoś
+DTEND:20260125T124500Z
+LOCATION:link do zajęć
+DTSTART:20260125T103000Z
+SUMMARY:Etyka (wykład)
+UID:1a40b017-96e5-4853-a979-0ee56a99176b@1a40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sylwia Wiśniewska
+DTEND:20251130T111500Z
+LOCATION:Platforma Moodle
+DTSTART:20251130T103000Z
+SUMMARY:Nowoczesne trendy w zarządzaniu zasobami ludzkimi (wykład e-learningowy)
+UID:d5c3a010-5d0d-45be-84e6-c610e4c95697@d5c3.org
 END:VEVENT
 END:VCALENDAR
