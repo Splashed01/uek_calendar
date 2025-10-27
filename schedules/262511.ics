@@ -2,18 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Rafał Czarny
-DTEND:20251122T144500Z
-DTSTART:20251122T084500Z
-SUMMARY:DTMethod Foundation [przygotowanie do certyfikacji] (Studia podyplomowe)
-UID:2f61f1be-048c-4c82-8b09-2dc1357ec450@2f61.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Piotr Sedlak
 DTEND:20260222T144500Z
 DTSTART:20260222T084500Z
 SUMMARY:Zarządzanie zmianą w Cyfrowej Transformacji (Studia podyplomowe)
-UID:7f596d14-8975-4c36-8f9e-45902250e5f8@7f59.org
+UID:e774c989-18e4-4220-8de4-97f67cc3565f@e774.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Rafał Czarny
@@ -21,23 +14,7 @@ DTEND:20251123T144500Z
 LOCATION:Paw.G 11
 DTSTART:20251123T084500Z
 SUMMARY:DTMethod Foundation [przygotowanie do certyfikacji] (Studia podyplomowe)
-UID:cacffad6-7819-473e-8d3e-a9d4d25793eb@cacf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Agnieszka Balcerzak
-DTEND:20260110T114500Z
-LOCATION:Zajęcia Online
-DTSTART:20260110T084500Z
-SUMMARY:Rola analityka biznesowego w transformacji cyfrowej (Studia podyplomowe)
-UID:e9d966e4-0933-401b-be20-957624fd4f9e@e9d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Karolina Karolczak
-DTEND:20251018T134500Z
-LOCATION:Paw.G - 2
-DTSTART:20251018T074500Z
-SUMMARY: (Studia podyplomowe)
-UID:fde676fb-2e0b-4add-8cf5-61bbfc5c573b@fde6.org
+UID:7fc89768-c6fa-41f3-b919-1bcbb7f290a2@7fc8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Rafał Czarny
@@ -45,7 +22,30 @@ DTEND:20260110T160000Z
 LOCATION:Zajęcia Online
 DTSTART:20260110T130000Z
 SUMMARY:DTMethod Foundation [przygotowanie do certyfikacji] (Studia podyplomowe)
-UID:e094301b-3daa-47a6-aad7-4fa75c0c6119@e094.org
+UID:d4cd06d1-efcd-4314-b60f-abffb503c2ba@d4cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agnieszka Balcerzak
+DTEND:20260110T114500Z
+LOCATION:Zajęcia Online
+DTSTART:20260110T084500Z
+SUMMARY:Rola analityka biznesowego w transformacji cyfrowej (Studia podyplomowe)
+UID:0140f655-35f7-425a-9400-7196150f19f4@0140.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Jarocka
+DTEND:20260125T144500Z
+DTSTART:20260125T084500Z
+SUMMARY:Budowanie PMO i TMO: filary\, praktyka i skuteczne narzędzia (Studia podyplomowe)
+UID:1c9783a5-8e8a-4ac0-a7b0-81b07d9d8586@1c97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Karolczak
+DTEND:20251018T134500Z
+LOCATION:Paw.G - 2
+DTSTART:20251018T074500Z
+SUMMARY: (Studia podyplomowe)
+UID:44985870-7c76-4796-b64f-af54dca0b244@4498.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Rafał Czarny
@@ -53,42 +53,28 @@ DTEND:20260111T144500Z
 LOCATION:Zajęcia Online
 DTSTART:20260111T084500Z
 SUMMARY:DTMethod Foundation [przygotowanie do certyfikacji] (Studia podyplomowe)
-UID:6073c3f3-101c-44bf-bfbf-4fad032e527a@6073.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Robert Pławiak
-DTEND:20260207T144500Z
-DTSTART:20260207T084500Z
-SUMMARY: (Studia podyplomowe)
-UID:163ed51d-ae38-45d7-8760-9ae6e9d7b4ef@163e.org
+UID:04ba4542-5387-4fcd-9e94-194639d44532@04ba.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Adam Bugaj
 DTEND:20260124T144500Z
 DTSTART:20260124T084500Z
 SUMMARY: (Studia podyplomowe)
-UID:cf5cf947-95f5-4c02-8c78-e488204421e9@cf5c.org
+UID:a4c12550-8b66-46e8-a98b-55a24ea875f4@a4c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Robert Pławiak
+DTEND:20260207T144500Z
+DTSTART:20260207T084500Z
+SUMMARY: (Studia podyplomowe)
+UID:4df20bfd-72b4-4c77-9409-032a4fcfa2cf@4df2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Agnieszka Balcerzak.
 DTEND:20260208T144500Z
 DTSTART:20260208T084500Z
 SUMMARY: (Studia podyplomowe)
-UID:e15b505f-5216-472d-8158-fb872a2aceb4@e15b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Ewa Lis-Jeżak
-DTEND:20260221T144500Z
-DTSTART:20260221T084500Z
-SUMMARY: (Studia podyplomowe)
-UID:fa733d6b-9bc8-4f21-a1ae-380a99e15761@fa73.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Karolina Jarocka
-DTEND:20260125T144500Z
-DTSTART:20260125T084500Z
-SUMMARY:Budowanie PMO i TMO: filary\, praktyka i skuteczne narzędzia (Studia podyplomowe)
-UID:903c54e1-4054-4114-bea0-a9ba7c1a4798@903c.org
+UID:f0a2ed65-02fe-4381-905b-88787e6fefc7@f0a2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Aneta Baranowska
@@ -96,6 +82,20 @@ DTEND:20251019T134500Z
 LOCATION:Paw.G  7
 DTSTART:20251019T074500Z
 SUMMARY: (Studia podyplomowe)
-UID:f1a1f7ae-5dca-408b-8000-7762c2eb6ed9@f1a1.org
+UID:54e81ae4-a71d-438f-90f4-3fe3a545ca6b@54e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Ewa Lis-Jeżak
+DTEND:20260221T144500Z
+DTSTART:20260221T084500Z
+SUMMARY: (Studia podyplomowe)
+UID:6ef83183-2508-4a87-a403-1f95eb95e44e@6ef8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Rafał Czarny
+DTEND:20251122T144500Z
+DTSTART:20251122T084500Z
+SUMMARY:DTMethod Foundation [przygotowanie do certyfikacji] (Studia podyplomowe)
+UID:f8a03f38-47bf-4f7b-9c4f-504d729a8e7d@f8a0.org
 END:VEVENT
 END:VCALENDAR

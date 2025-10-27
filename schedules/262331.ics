@@ -2,68 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Janus
-DTEND:20251213T130000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251213T070000Z
-SUMMARY:Analiza danych w Python (Studia podyplomowe)
-UID:efbd2a1f-e503-415f-be6a-5219d30549a1@efbd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Joanna Mariasiewicz
-DTEND:20260214T130000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260214T070000Z
-SUMMARY:Zarządzanie projektami - szkolenie AgilePM/BA (Studia podyplomowe)
-UID:9b033d76-4bc7-4162-8aae-a79ab0277be6@9b03.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Joanna Mariasiewicz
 DTEND:20251130T133000Z
 LOCATION:Paw.G - 2
 DTSTART:20251130T103000Z
 SUMMARY:UX/UI (Studia podyplomowe)
-UID:cf1ee1b1-6d7e-4c3c-9bd6-e51372620b98@cf1e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Wałęga
-DTEND:20260116T184500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260116T154500Z
-SUMMARY:Podstawy analiz danych biznesowych w Microsoft Excel (Studia podyplomowe)
-UID:d819f728-9757-45df-973a-3a6157984d13@d819.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Wałęga
-DTEND:20251025T090000Z
-LOCATION:Zajęcia Online
-DTSTART:20251025T060000Z
-SUMMARY:Ekonomia behawioralna w analizie biznesowej (Studia podyplomowe)
-UID:0558ebd1-3ba5-4445-97f8-840e408911fe@0558.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Karolina Zmitrowicz
-DTEND:20251115T133000Z
-LOCATION:Zajęcia Online
-DTSTART:20251115T103000Z
-SUMMARY:Techniki pozyskiwania i analizy wymagań (Studia podyplomowe)
-UID:eefdb69c-da10-4086-8359-dbc8ede35908@eefd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Joanna Mariasiewicz
-DTEND:20251130T100000Z
-LOCATION:Paw.G - 2
-DTSTART:20251130T070000Z
-SUMMARY:Zarządzanie projektami - szkolenie AgilePM/BA (Studia podyplomowe)
-UID:e1d1b7ef-4995-4c9b-8cfd-fda2fc85acf2@e1d1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krystian Bigos
-DTEND:20251010T171500Z
-LOCATION:Zajęcia Online
-DTSTART:20251010T163000Z
-SUMMARY: (Studia podyplomowe)
-UID:b4953a54-3514-4703-82aa-e42e0a4f145a@b495.org
+UID:d18db047-99a2-47c3-b6f1-964b3d3c2a86@d18d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jakub Janus
@@ -71,7 +15,31 @@ DTEND:20260131T130000Z
 LOCATION:Paw.A 014 lab. Win8.1 Office21
 DTSTART:20260131T070000Z
 SUMMARY:Analiza danych w Python (Studia podyplomowe)
-UID:d8d55d8a-3b1d-4356-b922-30891b38e64e@d8d5.org
+UID:d69dc217-2f66-4696-bae6-8dc621d6b9ca@d69d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Mariasiewicz
+DTEND:20251130T100000Z
+LOCATION:Paw.G - 2
+DTSTART:20251130T070000Z
+SUMMARY:Zarządzanie projektami - szkolenie AgilePM/BA (Studia podyplomowe)
+UID:b72b5d12-1376-447b-9a74-efdccf10144e@b72b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Mariasiewicz
+DTEND:20260214T130000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260214T070000Z
+SUMMARY:Zarządzanie projektami - szkolenie AgilePM/BA (Studia podyplomowe)
+UID:2fa25c41-044d-4aa2-8456-9e6c5f95ad9f@2fa2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Janus
+DTEND:20251213T130000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251213T070000Z
+SUMMARY:Analiza danych w Python (Studia podyplomowe)
+UID:59def423-3d07-455d-8d62-c1c7267151e3@59de.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Rostyslav Apostol
@@ -79,39 +47,15 @@ DTEND:20260117T130000Z
 LOCATION:Paw.G - 2
 DTSTART:20260117T070000Z
 SUMMARY:Rozwiązania AI w analizie biznesowej (Studia podyplomowe)
-UID:fbe1020d-c6fa-45a6-a97e-af84b3e208a8@fbe1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Karolina Zmitrowicz
-DTEND:20251116T130000Z
-LOCATION:Zajęcia Online
-DTSTART:20251116T070000Z
-SUMMARY:Techniki pozyskiwania i analizy wymagań (Studia podyplomowe)
-UID:7eb6c1e4-1039-47da-9edc-2aa9eb562728@7eb6.org
+UID:51ae92a5-51f2-4ffc-95fc-3ecbc4d3723c@51ae.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Wałęga
-DTEND:20260130T184500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260130T154500Z
-SUMMARY:Podstawy analiz danych biznesowych w Microsoft Excel (Studia podyplomowe)
-UID:9e2aaac3-4e71-4db7-809c-376da32a7837@9e2a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Joanna Mariasiewicz
-DTEND:20260215T130000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260215T070000Z
-SUMMARY:UX/UI (Studia podyplomowe)
-UID:3e5e1698-d485-4d04-9813-3619e8bf51d1@3e5e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Rostyslav Apostol
-DTEND:20260118T100000Z
-LOCATION:Paw.G - 2
-DTSTART:20260118T070000Z
-SUMMARY:Rozwiązania AI w analizie biznesowej (Studia podyplomowe)
-UID:cff95efa-67de-4e25-bd2d-1210e2f7bbbd@cff9.org
+DTEND:20251025T090000Z
+LOCATION:Zajęcia Online
+DTSTART:20251025T060000Z
+SUMMARY:Ekonomia behawioralna w analizie biznesowej (Studia podyplomowe)
+UID:1057d01c-f3ac-4e93-b581-1320e01ae3bd@1057.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Karolina Zmitrowicz
@@ -119,7 +63,15 @@ DTEND:20251026T130000Z
 LOCATION:Zajęcia Online
 DTSTART:20251026T070000Z
 SUMMARY:Wstęp do analizy biznesowej (Studia podyplomowe)
-UID:99c6d031-1a3e-455d-8af3-dc9360ca6b81@99c6.org
+UID:b92fe1cc-7091-4684-8307-6cd1fcf8c40a@b92f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Zmitrowicz
+DTEND:20251115T133000Z
+LOCATION:Zajęcia Online
+DTSTART:20251115T103000Z
+SUMMARY:Techniki pozyskiwania i analizy wymagań (Studia podyplomowe)
+UID:45fc44dc-a4bb-4be5-9d3c-246d8babfa11@45fc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Joanna Mariasiewicz
@@ -127,15 +79,7 @@ DTEND:20251129T130000Z
 LOCATION:Paw.G - 2
 DTSTART:20251129T070000Z
 SUMMARY:Zarządzanie projektami - szkolenie AgilePM/BA (Studia podyplomowe)
-UID:68ce60bd-2a58-4b5c-a5f9-5df94293c8e2@68ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Karolina Zmitrowicz
-DTEND:20251115T100000Z
-LOCATION:Zajęcia Online
-DTSTART:20251115T070000Z
-SUMMARY:Wstęp do analizy biznesowej (Studia podyplomowe)
-UID:110bd636-0b3b-45de-8cf3-688d4af77dd5@110b.org
+UID:45895fd0-fa46-4042-9ecf-61b1f7210be8@4589.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Wałęga
@@ -143,6 +87,62 @@ DTEND:20251212T184500Z
 LOCATION:Paw.A 121 lab. Win10\, Office21
 DTSTART:20251212T154500Z
 SUMMARY:Podstawy analiz danych biznesowych w Microsoft Excel (Studia podyplomowe)
-UID:09330458-4220-4e75-9750-6dd6aae3a397@0933.org
+UID:622056fb-acd8-4aec-a3bd-42eee83291de@6220.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krystian Bigos
+DTEND:20251010T171500Z
+LOCATION:Zajęcia Online
+DTSTART:20251010T163000Z
+SUMMARY: (Studia podyplomowe)
+UID:4a39fb06-9bd7-468a-a1d8-c4380f480187@4a39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Wałęga
+DTEND:20260116T184500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260116T154500Z
+SUMMARY:Podstawy analiz danych biznesowych w Microsoft Excel (Studia podyplomowe)
+UID:b701bb02-a3e3-408c-ab4b-ccc7c29b6bf0@b701.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Wałęga
+DTEND:20260130T184500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260130T154500Z
+SUMMARY:Podstawy analiz danych biznesowych w Microsoft Excel (Studia podyplomowe)
+UID:2a2693b8-d3f7-4e74-9c68-60f8b823d3b3@2a26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Mariasiewicz
+DTEND:20260215T130000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260215T070000Z
+SUMMARY:UX/UI (Studia podyplomowe)
+UID:2f715d43-b6df-4f86-ab7d-b4ff25341572@2f71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Rostyslav Apostol
+DTEND:20260118T100000Z
+LOCATION:Paw.G - 2
+DTSTART:20260118T070000Z
+SUMMARY:Rozwiązania AI w analizie biznesowej (Studia podyplomowe)
+UID:411ec472-70e8-4f6c-b6af-38c8ae7adb02@411e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Zmitrowicz
+DTEND:20251115T100000Z
+LOCATION:Zajęcia Online
+DTSTART:20251115T070000Z
+SUMMARY:Wstęp do analizy biznesowej (Studia podyplomowe)
+UID:96d37d98-33f3-44bb-96d8-871377853b3a@96d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Zmitrowicz
+DTEND:20251116T130000Z
+LOCATION:Zajęcia Online
+DTSTART:20251116T070000Z
+SUMMARY:Techniki pozyskiwania i analizy wymagań (Studia podyplomowe)
+UID:2e617ee0-a131-49fc-8ccf-b6b8010684ce@2e61.org
 END:VEVENT
 END:VCALENDAR
