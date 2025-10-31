@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20251027T120000Z
-LOCATION:Paw.F 102
-DTSTART:20251027T103000Z
-SUMMARY:Metody numeryczne (ćwiczenia)
-UID:735e7e56-3b2f-4695-976c-276d508d2386@735e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Widlak
-DTEND:20251001T124500Z
-LOCATION:Paw.F 516
-DTSTART:20251001T111500Z
-SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (wykład)
-UID:58c63189-4eb2-42e3-b3c0-af9b6477111e@58c6.org
+DESCRIPTION:Instructor: dr inż. Jacek Czerniak
+DTEND:20251027T134500Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20251027T121500Z
+SUMMARY:Cyfrowe systemy sterowania procesami produkcyjnymi (ćwiczenia)
+UID:d31b3095-3f73-4f44-bb64-c812b5af29ab@d31b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
@@ -23,436 +15,7 @@ DTEND:20251009T161500Z
 LOCATION:Paw.B 251
 DTSTART:20251009T144500Z
 SUMMARY:Instrumentarium przetwarzania danych (ćwiczenia)
-UID:5f559f64-c57a-46f1-b90f-e7df148f65a4@5f55.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20251013T110000Z
-LOCATION:Paw.F 102
-DTSTART:20251013T093000Z
-SUMMARY:Metody numeryczne (ćwiczenia)
-UID:65142258-40da-4177-a4c3-a261d974607c@6514.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251217T134500Z
-DTSTART:20251217T121500Z
-SUMMARY: (rezerwacja)
-UID:03cb59d5-ab77-45da-9985-d4659dd8c73c@03cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20251210T083000Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20251210T070000Z
-SUMMARY:Metody numeryczne (ćwiczenia)
-UID:4c216c7f-f602-4c59-8e42-a3c3051befe8@4c21.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Widlak
-DTEND:20251029T153000Z
-DTSTART:20251029T140000Z
-SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (Przeniesienie zajęć)
-UID:543e8016-7df7-4738-9bb1-b3b9ff95807a@543e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20260119T120000Z
-LOCATION:Paw.F 102
-DTSTART:20260119T103000Z
-SUMMARY:Metody numeryczne (ćwiczenia)
-UID:341bc074-2fef-4ee9-8052-c20e5c7990cf@341b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20251205T120000Z
-DTSTART:20251205T103000Z
-SUMMARY:Instrumentarium przetwarzania danych (Przeniesienie zajęć)
-UID:db7875c1-2797-4f6f-b6c6-ad5d6f2f2913@db78.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20251118T120000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251118T103000Z
-SUMMARY:Wprowadzenie do baz danych (ćwiczenia)
-UID:49587c89-bb04-4f9f-bd85-c0b17a1d2957@4958.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
-DTEND:20251124T153000Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20251124T140000Z
-SUMMARY:E-biznes (ćwiczenia)
-UID:56ee6785-ce6b-4de6-98d9-fb5926800333@56ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
-DTEND:20251104T134500Z
-LOCATION:Paw.F 104
-DTSTART:20251104T121500Z
-SUMMARY:E-biznes (wykład)
-UID:f015ed63-dce7-430a-a9b5-56393d74430c@f015.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Jacek Czerniak
-DTEND:20251201T134500Z
-LOCATION:Paw.Ustronie lab.fiz.1
-DTSTART:20251201T121500Z
-SUMMARY:Cyfrowe systemy sterowania procesami produkcyjnymi (ćwiczenia)
-UID:c87835d6-2c45-4dad-bfde-6d20b5a7fdfa@c878.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
-DTEND:20251021T124500Z
-LOCATION:Paw.F 104
-DTSTART:20251021T111500Z
-SUMMARY:E-biznes (wykład)
-UID:1ce5fd98-c99c-4cf1-9d6e-4480b71533b0@1ce5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20251014T110000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251014T093000Z
-SUMMARY:Wprowadzenie do baz danych (ćwiczenia)
-UID:74c707d6-4ded-4c82-b863-de7fc30a64c3@74c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20251028T083000Z
-LOCATION:Paw.B 251
-DTSTART:20251028T070000Z
-SUMMARY:Wprowadzenie do baz danych (wykład)
-UID:130dc3d8-4be2-49be-aa8e-8ec2d86696d4@130d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Widlak
-DTEND:20251001T143000Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20251001T130000Z
-SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (ćwiczenia)
-UID:669c586c-2b54-4035-ab28-f856e18f1b84@669c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20251208T120000Z
-LOCATION:Paw.F 102
-DTSTART:20251208T103000Z
-SUMMARY:Metody numeryczne (ćwiczenia)
-UID:8c676172-0809-4fa7-9d9f-45de089e15fc@8c67.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Jacek Czerniak
-DTEND:20251027T134500Z
-LOCATION:Paw.Ustronie lab.fiz.1
-DTSTART:20251027T121500Z
-SUMMARY:Cyfrowe systemy sterowania procesami produkcyjnymi (ćwiczenia)
-UID:68c27d8d-66cb-4280-8f00-c5382a493aa1@68c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Jacek Czerniak
-DTEND:20251208T134500Z
-LOCATION:Paw.Ustronie lab.fiz.1
-DTSTART:20251208T121500Z
-SUMMARY:Cyfrowe systemy sterowania procesami produkcyjnymi (ćwiczenia)
-UID:4f4d7996-9d06-4beb-9dfc-bea1eed2370d@4f4d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
-DTEND:20251211T083000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251211T070000Z
-SUMMARY:Metody statystyczne w analizie danych (ćwiczenia)
-UID:e93b46a7-f816-43b9-812e-cc34bd0280c7@e93b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
-DTEND:20251218T083000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251218T070000Z
-SUMMARY:Metody statystyczne w analizie danych (ćwiczenia)
-UID:e6f8f3a8-ad5f-4fa1-9b26-0b4330fcb9b4@e6f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20251204T171500Z
-LOCATION:Paw.B 251
-DTSTART:20251204T154500Z
-SUMMARY:Instrumentarium przetwarzania danych (ćwiczenia)
-UID:e61d8b19-8577-4575-81cb-7ed36619695f@e61d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20251222T120000Z
-LOCATION:Paw.F 102
-DTSTART:20251222T103000Z
-SUMMARY:Metody numeryczne (ćwiczenia)
-UID:8286b93b-efda-4087-b8ef-405388de6e1d@8286.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
-DTEND:20260107T120000Z
-LOCATION:208 paw.U (tylko Kat. Rach)
-DTSTART:20260107T103000Z
-SUMMARY:Metody statystyczne w analizie danych (ćwiczenia)
-UID:6ff21469-b6d0-4fc1-a2b1-cb885c9187bc@6ff2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20260112T120000Z
-LOCATION:Paw.F 102
-DTSTART:20260112T103000Z
-SUMMARY:Metody numeryczne (ćwiczenia)
-UID:326b9283-92a3-4014-b3a1-60b1e643f799@326b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Widlak
-DTEND:20260121T130000Z
-LOCATION:Paw.F 516
-DTSTART:20260121T121500Z
-SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (wykład)
-UID:d79627e8-1600-499f-beac-d3ddccc05045@d796.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Widlak
-DTEND:20251208T190000Z
-LOCATION:Paw.A 07 lab. Win7\, Office21
-DTSTART:20251208T173000Z
-SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (ćwiczenia)
-UID:0d8c6151-cbcb-4655-8ace-6ce6d18ee632@0d8c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20251211T190000Z
-LOCATION:Bibl. 440
-DTSTART:20251211T173000Z
-SUMMARY:Instrumentarium przetwarzania danych (ćwiczenia)
-UID:0827888c-a25e-4443-84f9-13f5dcd3d26e@0827.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marta Kornafel
-DTEND:20251007T143000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251007T130000Z
-SUMMARY:Metody numeryczne (wykład)
-UID:1f21f710-c273-49b2-b804-2205070e10c7@1f21.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
-DTEND:20260113T130000Z
-LOCATION:Paw.F 104
-DTSTART:20260113T121500Z
-SUMMARY:E-biznes (wykład)
-UID:592ad62f-f1d0-4d5e-8a66-9abdcba00459@592a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
-DTEND:20260114T083000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20260114T070000Z
-SUMMARY:Metody statystyczne w analizie danych (ćwiczenia)
-UID:1733c59a-4d82-44de-a0ae-4225fc2d054c@1733.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20251117T120000Z
-LOCATION:Paw.F 102
-DTSTART:20251117T103000Z
-SUMMARY:Metody numeryczne (ćwiczenia)
-UID:47c4748d-13c3-4094-9e60-6b545125f536@47c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
-DTEND:20251208T153000Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20251208T140000Z
-SUMMARY:E-biznes (ćwiczenia)
-UID:c2f14de4-3d05-4435-8b6d-8bec5d0c6a42@c2f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Widlak
-DTEND:20260107T153000Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20260107T140000Z
-SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (ćwiczenia)
-UID:6d41d919-6b7b-4953-8f44-5c5a5e7edb80@6d41.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
-DTEND:20251119T083000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20251119T070000Z
-SUMMARY:Metody statystyczne w analizie danych (ćwiczenia)
-UID:69b71fdc-718c-4a7b-a815-e3d8284b3a22@69b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Jacek Czerniak
-DTEND:20251124T134500Z
-LOCATION:Paw.Ustronie lab.fiz.1
-DTSTART:20251124T121500Z
-SUMMARY:Cyfrowe systemy sterowania procesami produkcyjnymi (ćwiczenia)
-UID:789614a2-6be2-4534-97ac-0bbecacce80e@7896.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marta Kornafel
-DTEND:20260128T171500Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20260128T154500Z
-SUMMARY: (zaliczenie)
-UID:43d9b700-6b93-4ece-8110-a4a2c2a9b046@43d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20251124T120000Z
-LOCATION:Paw.F 102
-DTSTART:20251124T103000Z
-SUMMARY:Metody numeryczne (ćwiczenia)
-UID:551590ef-1c6d-46b4-8231-58f2c24c5e66@5515.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Jacek Czerniak
-DTEND:20260112T134500Z
-LOCATION:Paw.Ustronie lab.fiz.1
-DTSTART:20260112T121500Z
-SUMMARY:Cyfrowe systemy sterowania procesami produkcyjnymi (ćwiczenia)
-UID:6de038a2-2973-4acc-99a4-af2a58be8594@6de0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20251126T083000Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20251126T070000Z
-SUMMARY:Metody numeryczne (ćwiczenia)
-UID:90cc9443-d5bb-46bd-a55a-68f4ef3156cb@90cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Jacek Czerniak
-DTEND:20251117T134500Z
-LOCATION:Paw.Ustronie lab.fiz.1
-DTSTART:20251117T121500Z
-SUMMARY:Cyfrowe systemy sterowania procesami produkcyjnymi (ćwiczenia)
-UID:ecf76079-2df3-4e70-bab4-bc89643de53d@ecf7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
-DTEND:20251009T073000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251009T060000Z
-SUMMARY:Metody statystyczne w analizie danych (ćwiczenia)
-UID:3d618a36-7083-4269-95ff-2b40420a97cc@3d61.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Widlak
-DTEND:20260107T134500Z
-LOCATION:Paw.F 516
-DTSTART:20260107T121500Z
-SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (wykład)
-UID:dd30fe3b-16f8-48c6-ae7a-c8540753872d@dd30.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20260108T171500Z
-LOCATION:Paw.B 251
-DTSTART:20260108T154500Z
-SUMMARY:Instrumentarium przetwarzania danych (ćwiczenia)
-UID:b2cba023-ca19-490c-a3ac-d596e215e7d1@b2cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20260108T190000Z
-LOCATION:Bibl. 440
-DTSTART:20260108T173000Z
-SUMMARY:Instrumentarium przetwarzania danych (ćwiczenia)
-UID:b0ec639b-4605-46d0-b752-f4dd8949a37e@b0ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
-DTEND:20251204T083000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251204T070000Z
-SUMMARY:Metody statystyczne w analizie danych (ćwiczenia)
-UID:c66ea820-6c38-4de9-a7d4-5f5ea2ff7df5@c66e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marta Kornafel
-DTEND:20251203T120000Z
-LOCATION:Paw.F 614
-DTSTART:20251203T103000Z
-SUMMARY:Metody numeryczne (wykład)
-UID:1d1c8ca7-c56c-48ae-9424-f0162f050251@1d1c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20251030T171500Z
-LOCATION:Paw.B 251
-DTSTART:20251030T154500Z
-SUMMARY:Instrumentarium przetwarzania danych (ćwiczenia)
-UID:5c97bfdd-1d1d-43e9-a47a-743f5ffd5793@5c97.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20251016T161500Z
-LOCATION:Paw.B 251
-DTSTART:20251016T144500Z
-SUMMARY:Instrumentarium przetwarzania danych (ćwiczenia)
-UID:f282906c-6bad-4256-9376-1c3655e042f1@f282.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
-DTEND:20251203T083000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20251203T070000Z
-SUMMARY:Metody statystyczne w analizie danych (ćwiczenia)
-UID:fc0c7174-be24-4b7d-ba8c-4e8aa00ec034@fc0c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20251120T153000Z
-LOCATION:Paw.B 059 (KSB)
-DTSTART:20251120T140000Z
-SUMMARY:Instrumentarium przetwarzania danych (ćwiczenia)
-UID:9ae7d82a-5aae-43e0-b7b8-72e91403ca03@9ae7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20251103T120000Z
-LOCATION:Paw.F 102
-DTSTART:20251103T103000Z
-SUMMARY:Metody numeryczne (ćwiczenia)
-UID:c1cb8b72-4163-4d0f-bfe1-da2246c9000c@c1cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20251104T120000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251104T103000Z
-SUMMARY:Wprowadzenie do baz danych (ćwiczenia)
-UID:b3918b01-b362-4ab7-84ff-e9f90c012320@b391.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Widlak
-DTEND:20251210T153000Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20251210T140000Z
-SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (ćwiczenia)
-UID:25323d4f-7219-4f2f-9ea7-b53deb873333@2532.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Jacek Czerniak
-DTEND:20260120T083000Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20260120T070000Z
-SUMMARY:Cyfrowe systemy sterowania procesami produkcyjnymi (ćwiczenia)
-UID:75ba6012-bbba-4f55-b4b7-c3c4cb81e807@75ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
-DTEND:20251216T134500Z
-LOCATION:Paw.F 104
-DTSTART:20251216T121500Z
-SUMMARY:E-biznes (wykład)
-UID:42f1ef68-0e17-41e7-849c-236c265cca7f@42f1.org
+UID:ed3bc455-82ee-49a1-9de7-5927d48e3353@ed3b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
@@ -460,38 +23,39 @@ DTEND:20251125T083000Z
 LOCATION:Paw.B 251
 DTSTART:20251125T070000Z
 SUMMARY:Wprowadzenie do baz danych (wykład)
-UID:434afeb3-a20d-4262-b463-cc3c0b6289a9@434a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marta Kornafel
-DTEND:20251009T124500Z
-LOCATION:Paw.F 415
-DTSTART:20251009T111500Z
-SUMMARY:Metody numeryczne (wykład)
-UID:c7a721d4-35e0-46da-b174-8b09b8b3df12@c7a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Jacek Czerniak
-DTEND:20251017T073000Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251017T060000Z
-SUMMARY:Cyfrowe systemy sterowania procesami produkcyjnymi (ćwiczenia)
-UID:82749548-2802-4915-869f-f63e99f32b31@8274.org
+UID:3e9af1a9-026a-4f5c-a8f5-5c24d1a0098c@3e9a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Michał Widlak
-DTEND:20260121T144500Z
+DTEND:20251210T153000Z
 LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20260121T140000Z
+DTSTART:20251210T140000Z
 SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (ćwiczenia)
-UID:80baaa03-ac87-4bd5-90b2-732a034f651e@80ba.org
+UID:662027af-9745-4760-b21c-b29c8e9a4216@6620.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Widlak
-DTEND:20251022T143000Z
-DTSTART:20251022T130000Z
-SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (Przeniesienie zajęć)
-UID:d6c8a925-a970-469a-9a2c-e203b38a552c@d6c8.org
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20251208T120000Z
+LOCATION:Paw.F 102
+DTSTART:20251208T103000Z
+SUMMARY:Metody numeryczne (ćwiczenia)
+UID:ebc1714e-b464-416a-822a-6b6aa05195ef@ebc1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
+DTEND:20251204T083000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251204T070000Z
+SUMMARY:Metody statystyczne w analizie danych (ćwiczenia)
+UID:30f24a13-a076-4346-9e57-4386dc08508c@30f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20251126T083000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20251126T070000Z
+SUMMARY:Metody numeryczne (ćwiczenia)
+UID:8d2e91e8-a08f-408a-b480-8e6371689712@8d2e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Jacek Czerniak
@@ -499,39 +63,7 @@ DTEND:20251020T124500Z
 LOCATION:Paw.Ustronie lab.fiz.1
 DTSTART:20251020T111500Z
 SUMMARY:Cyfrowe systemy sterowania procesami produkcyjnymi (ćwiczenia)
-UID:cfc5c8cd-8380-4a5d-8842-e14cbbe756a7@cfc5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marta Kornafel
-DTEND:20260114T111500Z
-LOCATION:Paw.F 614
-DTSTART:20260114T103000Z
-SUMMARY:Metody numeryczne (wykład)
-UID:ad1b6797-ef2a-4b99-80da-d40c45c0eb0e@ad1b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Jacek Czerniak
-DTEND:20251215T153000Z
-LOCATION:Paw.Ustronie lab.fiz.2
-DTSTART:20251215T140000Z
-SUMMARY:Cyfrowe systemy sterowania procesami produkcyjnymi (ćwiczenia)
-UID:f7cf24f7-f533-4aa8-bc1b-73076a87f5dc@f7cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20251028T120000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251028T103000Z
-SUMMARY:Wprowadzenie do baz danych (ćwiczenia)
-UID:42f4ee32-22d9-4f0d-9e62-c133f3df1bce@42f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
-DTEND:20251120T083000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251120T070000Z
-SUMMARY:Metody statystyczne w analizie danych (ćwiczenia)
-UID:2dbdb485-ba8a-4d3c-a728-9eb5dd7638f6@2dbd.org
+UID:8c8e0dde-1e07-4c7a-af7e-8c8d391cdb16@8c8e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
@@ -539,198 +71,23 @@ DTEND:20251127T083000Z
 LOCATION:Paw.A 121 lab. Win10\, Office21
 DTSTART:20251127T070000Z
 SUMMARY:Metody statystyczne w analizie danych (ćwiczenia)
-UID:ad3bac72-b190-4d1b-9e70-38e523df7004@ad3b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Widlak
-DTEND:20251210T134500Z
-LOCATION:Paw.F 516
-DTSTART:20251210T121500Z
-SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (wykład)
-UID:0a2c9827-2026-403a-bf31-af1c1f8c516a@0a2c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20260122T194500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20260122T173000Z
-SUMMARY:Wprowadzenie do baz danych (ćwiczenia)
-UID:e0b4f73b-aa1a-4b25-b6b8-6076e32ca45c@e0b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20260120T120000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260120T103000Z
-SUMMARY:Wprowadzenie do baz danych (ćwiczenia)
-UID:7f3f70ab-ee19-4b8e-b720-9a11f95c7066@7f3f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Widlak
-DTEND:20251112T134500Z
-LOCATION:Paw.F 516
-DTSTART:20251112T121500Z
-SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (wykład)
-UID:b148d7e8-00b2-4842-8430-63b0e61453f2@b148.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20251014T073000Z
-LOCATION:Paw.B 251
-DTSTART:20251014T060000Z
-SUMMARY:Wprowadzenie do baz danych (wykład)
-UID:ed3228da-e76c-4bc0-babc-368d210bcaf7@ed32.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Widlak
-DTEND:20251015T124500Z
-DTSTART:20251015T111500Z
-SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (Przeniesienie zajęć)
-UID:1a6846a0-e78c-46a0-8087-333b3e110220@1a68.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20251211T171500Z
-LOCATION:Paw.B 251
-DTSTART:20251211T154500Z
-SUMMARY:Instrumentarium przetwarzania danych (ćwiczenia)
-UID:6e716465-97b7-4274-b4f7-1a30834ba29d@6e71.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20260115T171500Z
-LOCATION:Paw.B 251
-DTSTART:20260115T154500Z
-SUMMARY:Instrumentarium przetwarzania danych (ćwiczenia)
-UID:ba6d91f2-baf8-44f0-99c5-79a5ed3cb574@ba6d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20251204T190000Z
-LOCATION:Bibl. 440
-DTSTART:20251204T173000Z
-SUMMARY:Instrumentarium przetwarzania danych (ćwiczenia)
-UID:ff092a7a-92f1-4d46-992f-73fa07be81cb@ff09.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20251106T171500Z
-LOCATION:Paw.B 251
-DTSTART:20251106T154500Z
-SUMMARY:Instrumentarium przetwarzania danych (ćwiczenia)
-UID:c8f5f147-2832-4829-bf19-63cdc727cb00@c8f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20251023T161500Z
-LOCATION:Paw.B 251
-DTSTART:20251023T144500Z
-SUMMARY:Instrumentarium przetwarzania danych (ćwiczenia)
-UID:65a3083e-b3ed-41bd-8151-db75c02f474e@65a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20251113T171500Z
-LOCATION:Paw.B 251
-DTSTART:20251113T154500Z
-SUMMARY:Instrumentarium przetwarzania danych (ćwiczenia)
-UID:deb6dece-6672-4dc0-906b-d4083e637cab@deb6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
-DTEND:20260108T083000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260108T070000Z
-SUMMARY:Metody statystyczne w analizie danych (ćwiczenia)
-UID:2a298d9b-3629-45f4-ae0a-31dbedea5773@2a29.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
-DTEND:20260122T083000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260122T070000Z
-SUMMARY:Metody statystyczne w analizie danych (ćwiczenia)
-UID:c8ed71a9-10bc-40b1-b98d-5695087273e8@c8ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20251202T083000Z
-LOCATION:Paw.B 251
-DTSTART:20251202T074500Z
-SUMMARY:Wprowadzenie do baz danych (wykład)
-UID:0e05563a-5ca9-4130-8a2b-4319af0057ac@0e05.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
-DTEND:20251112T083000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20251112T070000Z
-SUMMARY:Metody statystyczne w analizie danych (ćwiczenia)
-UID:948a3af6-a2ae-42b5-a50c-40b91e8e3d13@948a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski  dr Marta Kornafel  mgr Krystian Szczęsny
-DTEND:20260220T101500Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20260220T084500Z
-SUMMARY:Metody numeryczne\, Numerical Methods (egzamin)
-UID:7ae04bc4-4627-49fd-b5a1-6e445f478529@7ae0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20260122T171500Z
-LOCATION:Paw.B 251
-DTSTART:20260122T154500Z
-SUMMARY:Instrumentarium przetwarzania danych (ćwiczenia)
-UID:4adc1a2a-6f15-405e-9ae1-00fc591eea21@4adc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20251104T083000Z
-LOCATION:Paw.B 251
-DTSTART:20251104T070000Z
-SUMMARY:Wprowadzenie do baz danych (wykład)
-UID:8184c233-0f9b-4359-b969-0ed0c8ad2624@8184.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
-DTEND:20251007T124500Z
-LOCATION:Paw.F 104
-DTSTART:20251007T111500Z
-SUMMARY:E-biznes (wykład)
-UID:8d2edf3b-13ab-4505-9989-56ce400870d0@8d2e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Widlak
-DTEND:20251112T153000Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20251112T140000Z
-SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (ćwiczenia)
-UID:5701751e-6b40-4803-b3e7-fd64c21d1638@5701.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20251202T120000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251202T103000Z
-SUMMARY:Wprowadzenie do baz danych (ćwiczenia)
-UID:2b9d1635-83c1-43e9-a694-55b16d5d95ae@2b9d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20251007T073000Z
-LOCATION:Paw.B 251
-DTSTART:20251007T060000Z
-SUMMARY:Wprowadzenie do baz danych (wykład)
-UID:dfdeacbf-7442-4391-952f-04d49217bbd3@dfde.org
+UID:221a5ef3-6e82-4905-9715-eb64d072d6f4@221a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20260121T083000Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20260121T070000Z
+DTEND:20260112T120000Z
+LOCATION:Paw.F 102
+DTSTART:20260112T103000Z
 SUMMARY:Metody numeryczne (ćwiczenia)
-UID:a62f8c5e-2f69-4541-a663-0db964e2239a@a62f.org
+UID:1bec84a6-fef9-44d4-9f75-f52d1f8351bc@1bec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jacek Czerniak
+DTEND:20251017T073000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251017T060000Z
+SUMMARY:Cyfrowe systemy sterowania procesami produkcyjnymi (ćwiczenia)
+UID:565caa3c-a493-49cf-96fe-3bc620ebcbd0@565c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
@@ -738,347 +95,47 @@ DTEND:20251013T143000Z
 LOCATION:Paw.A 116 lab.Win8.1\, Office21
 DTSTART:20251013T130000Z
 SUMMARY:E-biznes (ćwiczenia)
-UID:66411ada-5631-4a02-8739-d3301e497743@6641.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20260113T120000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260113T103000Z
-SUMMARY:Wprowadzenie do baz danych (ćwiczenia)
-UID:699b0c8d-123a-4401-880c-63f7b9551bd1@699b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Widlak
-DTEND:20251126T153000Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20251126T140000Z
-SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (ćwiczenia)
-UID:84f5b25e-1c1e-4969-a4ad-b9d18947518f@84f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marta Kornafel
-DTEND:20251119T120000Z
-LOCATION:Paw.F 614
-DTSTART:20251119T103000Z
-SUMMARY:Metody numeryczne (wykład)
-UID:746cab27-fe98-4313-96c7-f6ba59751e87@746c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Widlak
-DTEND:20251126T134500Z
-LOCATION:Paw.F 516
-DTSTART:20251126T121500Z
-SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (wykład)
-UID:1d076d2a-aa42-4223-921a-6db42be9d3de@1d07.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20251209T120000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251209T103000Z
-SUMMARY:Wprowadzenie do baz danych (ćwiczenia)
-UID:4f256365-3187-41cd-87ac-5beee7731500@4f25.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marta Kornafel
-DTEND:20251008T110000Z
-DTSTART:20251008T093000Z
-SUMMARY:Metody numeryczne (Przeniesienie zajęć)
-UID:78fa7011-b56f-4d2e-9aed-0dd2faf0aa82@78fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Jacek Czerniak
-DTEND:20260121T120000Z
-LOCATION:Paw.Ustronie lab.fiz.1
-DTSTART:20260121T103000Z
-SUMMARY:Cyfrowe systemy sterowania procesami produkcyjnymi (ćwiczenia)
-UID:e759b902-c09e-41ad-a724-f2c4a34a3b41@e759.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marta Kornafel
-DTEND:20251105T120000Z
-LOCATION:Paw.F 614
-DTSTART:20251105T103000Z
-SUMMARY:Metody numeryczne (wykład)
-UID:9ab1df2b-e0b4-4369-be34-dab6d625682e@9ab1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
-DTEND:20260119T153000Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20260119T140000Z
-SUMMARY:E-biznes (ćwiczenia)
-UID:5030e6f2-c05b-4ece-a408-24c443960d50@5030.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
-DTEND:20251217T083000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20251217T070000Z
-SUMMARY:Metody statystyczne w analizie danych (ćwiczenia)
-UID:dcf48362-ed66-4190-9403-7409d2294e8a@dcf4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
-DTEND:20251016T073000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251016T060000Z
-SUMMARY:Metody statystyczne w analizie danych (ćwiczenia)
-UID:1aace948-30fe-4f9e-9005-0d35c83e1d5f@1aac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Widlak
-DTEND:20251029T134500Z
-DTSTART:20251029T121500Z
-SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (Przeniesienie zajęć)
-UID:836fbcc4-d6b3-4c32-a5e8-2e2e46dc331a@836f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20251125T120000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251125T103000Z
-SUMMARY:Wprowadzenie do baz danych (ćwiczenia)
-UID:cf147be7-61c9-45c8-852b-3361975430a7@cf14.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20251007T110000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251007T093000Z
-SUMMARY:Wprowadzenie do baz danych (ćwiczenia)
-UID:61871284-ec75-4141-b9e0-044ee0ead6a0@6187.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marta Kornafel
-DTEND:20251217T120000Z
-LOCATION:Paw.F 614
-DTSTART:20251217T103000Z
-SUMMARY:Metody numeryczne (wykład)
-UID:e284825c-00d0-4a3a-9d80-b112999975cc@e284.org
+UID:2ba01698-9f6e-42d2-acae-f9417c064cbb@2ba0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20251002T161500Z
+DTEND:20251030T171500Z
 LOCATION:Paw.B 251
-DTSTART:20251002T144500Z
+DTSTART:20251030T154500Z
 SUMMARY:Instrumentarium przetwarzania danych (ćwiczenia)
-UID:c23ecd8f-d563-4bb7-a1e7-c5f4dbd20fc8@c23e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20251127T171500Z
-LOCATION:Paw.B 251
-DTSTART:20251127T154500Z
-SUMMARY:Instrumentarium przetwarzania danych (ćwiczenia)
-UID:3fc2aaae-2257-49af-8016-fc0b7d068273@3fc2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marta Kornafel
-DTEND:20251022T110000Z
-LOCATION:Paw.F 614
-DTSTART:20251022T093000Z
-SUMMARY:Metody numeryczne (wykład)
-UID:35c69e4d-faa7-4c35-9431-d025a451fc51@35c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Jacek Czerniak
-DTEND:20251010T073000Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251010T060000Z
-SUMMARY:Cyfrowe systemy sterowania procesami produkcyjnymi (ćwiczenia)
-UID:0c5cfa63-cf91-411a-96d2-1a35ad199856@0c5c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
-DTEND:20251027T153000Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20251027T140000Z
-SUMMARY:E-biznes (ćwiczenia)
-UID:769eee4f-454a-4209-86ac-afef10f3cae4@769e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20251120T171500Z
-LOCATION:Paw.B 251
-DTSTART:20251120T154500Z
-SUMMARY:Instrumentarium przetwarzania danych (ćwiczenia)
-UID:82aa2bb1-090e-4e5c-aed8-f20da892034b@82aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
-DTEND:20260112T083000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260112T070000Z
-SUMMARY:Metody statystyczne w analizie danych (ćwiczenia)
-UID:b94cfbfd-29b7-45be-997e-db31148fc739@b94c.org
+UID:14309392-53f8-4f6d-bc18-206d21ecb2c1@1430.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20260115T194500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20260115T173000Z
-SUMMARY:Wprowadzenie do baz danych (ćwiczenia)
-UID:328a502a-f756-4de8-af57-7f1effb958f9@328a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
-DTEND:20260112T194500Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20260112T173000Z
-SUMMARY:E-biznes (ćwiczenia)
-UID:9961c65f-4d0f-428d-be0d-afb522ee74d0@9961.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251016T123000Z
-DTSTART:20251016T093000Z
-SUMMARY: (rezerwacja)
-UID:cee03c26-50a6-40e5-a4fb-506f9b6cfa21@cee0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20251021T073000Z
+DTEND:20251014T073000Z
 LOCATION:Paw.B 251
-DTSTART:20251021T060000Z
+DTSTART:20251014T060000Z
 SUMMARY:Wprowadzenie do baz danych (wykład)
-UID:d40ff4a5-7581-4a23-aaaa-2029f459215b@d40f.org
+UID:9003723f-770b-482b-b95c-486e0f88b58a@9003.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20251218T171500Z
-LOCATION:Paw.B 251
-DTSTART:20251218T154500Z
-SUMMARY:Instrumentarium przetwarzania danych (ćwiczenia)
-UID:20a79aca-cd3e-414e-8648-6b68473aa0ff@20a7.org
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20260119T120000Z
+LOCATION:Paw.F 102
+DTSTART:20260119T103000Z
+SUMMARY:Metody numeryczne (ćwiczenia)
+UID:bfa3dcf1-3c00-4e26-aa82-5b41a1d60e98@bfa3.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20251118T083000Z
-LOCATION:Paw.B 251
-DTSTART:20251118T070000Z
-SUMMARY:Wprowadzenie do baz danych (wykład)
-UID:7522a436-5e7d-4516-a0fb-99dff9b725d5@7522.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20251021T110000Z
+DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
+DTEND:20251009T073000Z
 LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251021T093000Z
+DTSTART:20251009T060000Z
+SUMMARY:Metody statystyczne w analizie danych (ćwiczenia)
+UID:773bdd50-b491-45d0-84e6-42287e779abd@773b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20260120T120000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260120T103000Z
 SUMMARY:Wprowadzenie do baz danych (ćwiczenia)
-UID:c374a721-e9aa-42e3-897c-e3a05628177f@c374.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20251215T120000Z
-LOCATION:Paw.F 102
-DTSTART:20251215T103000Z
-SUMMARY:Metody numeryczne (ćwiczenia)
-UID:715e1d35-018d-4897-a502-653958fa636f@715e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Widlak
-DTEND:20251015T143000Z
-DTSTART:20251015T130000Z
-SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (Przeniesienie zajęć)
-UID:4bcddd69-efad-417a-82b3-0651548a0858@4bcd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Jacek Czerniak
-DTEND:20251103T134500Z
-LOCATION:Paw.Ustronie lab.fiz.1
-DTSTART:20251103T121500Z
-SUMMARY:Cyfrowe systemy sterowania procesami produkcyjnymi (ćwiczenia)
-UID:3b71ea9c-3eb1-4ca8-b34f-dc69959b0ef3@3b71.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
-DTEND:20251222T153000Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20251222T140000Z
-SUMMARY:E-biznes (ćwiczenia)
-UID:1e97500f-75f3-4558-a14c-310892209a46@1e97.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
-DTEND:20260112T153000Z
-LOCATION:Paw.F 104
-DTSTART:20260112T140000Z
-SUMMARY:E-biznes (wykład)
-UID:c352be51-a593-4ef7-bd07-b87390f5a7e0@c352.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20251201T120000Z
-LOCATION:Paw.F 102
-DTSTART:20251201T103000Z
-SUMMARY:Metody numeryczne (ćwiczenia)
-UID:118d144b-e6b0-4737-82f9-d879cacd03d5@118d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Jacek Czerniak
-DTEND:20251215T134500Z
-LOCATION:Paw.Ustronie lab.fiz.1
-DTSTART:20251215T121500Z
-SUMMARY:Cyfrowe systemy sterowania procesami produkcyjnymi (ćwiczenia)
-UID:b87cfade-c138-4ee2-8027-75ed76d9fec6@b87c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20251216T120000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251216T103000Z
-SUMMARY:Wprowadzenie do baz danych (ćwiczenia)
-UID:15f54249-2f81-43f5-9932-ece6fb00156f@15f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20251020T110000Z
-LOCATION:Paw.F 102
-DTSTART:20251020T093000Z
-SUMMARY:Metody numeryczne (ćwiczenia)
-UID:8b1713bb-0197-4b54-81a1-c1c9ff169d8c@8b17.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski  dr Marta Kornafel  mgr Krystian Szczęsny
-DTEND:20260128T101500Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20260128T084500Z
-SUMMARY:Metody numeryczne (egzamin)
-UID:b490b5ee-0493-430e-9154-b3bc5332914f@b490.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
-DTEND:20251113T083000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251113T070000Z
-SUMMARY:Metody statystyczne w analizie danych (ćwiczenia)
-UID:712c1931-b1c0-432d-ae1d-eaf6566210a6@712c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
-DTEND:20251106T083000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251106T070000Z
-SUMMARY:Metody statystyczne w analizie danych (ćwiczenia)
-UID:4549d279-4924-40d1-ac11-4c9263e16f5d@4549.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Jacek Czerniak
-DTEND:20251222T134500Z
-LOCATION:Paw.Ustronie lab.fiz.1
-DTSTART:20251222T121500Z
-SUMMARY:Cyfrowe systemy sterowania procesami produkcyjnymi (ćwiczenia)
-UID:a1c47812-c9a9-44b5-8cae-7299d63e5e1a@a1c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
-DTEND:20260115T083000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260115T070000Z
-SUMMARY:Metody statystyczne w analizie danych (ćwiczenia)
-UID:9bd9ebc3-7b51-4a0c-a7c7-440e9249dc04@9bd9.org
+UID:1df013ba-8a12-498a-bed1-433f7f248b5b@1df0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
@@ -1086,23 +143,127 @@ DTEND:20251218T190000Z
 LOCATION:Bibl. 440
 DTSTART:20251218T173000Z
 SUMMARY:Instrumentarium przetwarzania danych (ćwiczenia)
-UID:3c4894e4-0a8f-4990-9648-15988dffda0a@3c48.org
+UID:feb2444e-c56a-4373-ad36-d668e0aac263@feb2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20260121T083000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20260121T070000Z
+SUMMARY:Metody numeryczne (ćwiczenia)
+UID:c342a21b-6739-46ed-abb7-166299f3b323@c342.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20251120T171500Z
+LOCATION:Paw.B 251
+DTSTART:20251120T154500Z
+SUMMARY:Instrumentarium przetwarzania danych (ćwiczenia)
+UID:ad1280ce-aae5-4e11-a3e5-a4995d80d54b@ad12.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
-DTEND:20260114T134500Z
-LOCATION:208 paw.U (tylko Kat. Rach)
-DTSTART:20260114T121500Z
+DTEND:20251218T083000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251218T070000Z
 SUMMARY:Metody statystyczne w analizie danych (ćwiczenia)
-UID:f7a4d931-106f-4789-8413-40acd4324607@f7a4.org
+UID:47599912-b9a7-473a-8325-0320dd3c33be@4759.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Kornafel
+DTEND:20251119T120000Z
+LOCATION:Paw.F 614
+DTSTART:20251119T103000Z
+SUMMARY:Metody numeryczne (wykład)
+UID:ef6121d6-628f-49cc-83d0-c302e1e80236@ef61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20260113T120000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260113T103000Z
+SUMMARY:Wprowadzenie do baz danych (ćwiczenia)
+UID:86ab0e86-92ea-4121-a1b4-793fecc80759@86ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
+DTEND:20260112T083000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260112T070000Z
+SUMMARY:Metody statystyczne w analizie danych (ćwiczenia)
+UID:c76cffce-c5d1-4306-80ed-7007a8478d3f@c76c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
-DTEND:20251118T134500Z
+DTEND:20251222T153000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20251222T140000Z
+SUMMARY:E-biznes (ćwiczenia)
+UID:56c8f3e0-a278-437c-83cb-7025bd00d80c@56c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
+DTEND:20251021T124500Z
 LOCATION:Paw.F 104
-DTSTART:20251118T121500Z
+DTSTART:20251021T111500Z
 SUMMARY:E-biznes (wykład)
-UID:42754419-3eed-4502-9ecc-e572fb3a3b9e@4275.org
+UID:a48ebfab-999d-4ab7-adff-7184d1323d40@a48e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20251113T171500Z
+LOCATION:Paw.B 251
+DTSTART:20251113T154500Z
+SUMMARY:Instrumentarium przetwarzania danych (ćwiczenia)
+UID:ae7fb9e7-7ea8-4369-b07e-308a9f5b372f@ae7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20251104T120000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251104T103000Z
+SUMMARY:Wprowadzenie do baz danych (ćwiczenia)
+UID:1a40debe-811b-410a-86ff-5a75d5317261@1a40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Widlak
+DTEND:20251210T134500Z
+LOCATION:Paw.F 516
+DTSTART:20251210T121500Z
+SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (wykład)
+UID:67b6799d-97c8-4700-9811-3d69720c6baf@67b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
+DTEND:20251112T083000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20251112T070000Z
+SUMMARY:Metody statystyczne w analizie danych (ćwiczenia)
+UID:a9e04001-d7e6-477a-bfd8-d6e155d22492@a9e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20251021T110000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251021T093000Z
+SUMMARY:Wprowadzenie do baz danych (ćwiczenia)
+UID:7d2777a2-4df7-4e46-9521-8bfa408d1ec5@7d27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Kornafel
+DTEND:20251022T110000Z
+LOCATION:Paw.F 614
+DTSTART:20251022T093000Z
+SUMMARY:Metody numeryczne (wykład)
+UID:8c4596b5-877b-4273-a8a1-1c05b5b836de@8c45.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20251027T120000Z
+LOCATION:Paw.F 102
+DTSTART:20251027T103000Z
+SUMMARY:Metody numeryczne (ćwiczenia)
+UID:2390db04-9ff7-47ba-ad20-ead2f4449453@2390.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
@@ -1110,6 +271,845 @@ DTEND:20251202T134500Z
 LOCATION:Paw.F 104
 DTSTART:20251202T121500Z
 SUMMARY:E-biznes (wykład)
-UID:f5ead8e3-604e-4fb2-b764-b0eb57a16784@f5ea.org
+UID:618f5767-4ff0-4cc0-b209-d117031b53fa@618f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Widlak
+DTEND:20251126T134500Z
+LOCATION:Paw.F 516
+DTSTART:20251126T121500Z
+SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (wykład)
+UID:4b5fafd8-d342-4036-b356-542b5032983f@4b5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20251002T161500Z
+LOCATION:Paw.B 251
+DTSTART:20251002T144500Z
+SUMMARY:Instrumentarium przetwarzania danych (ćwiczenia)
+UID:34cf4752-2933-4c88-b098-a98e858e015a@34cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
+DTEND:20251208T153000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20251208T140000Z
+SUMMARY:E-biznes (ćwiczenia)
+UID:1f0fa681-2a5c-47ea-8786-613bcacf7397@1f0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20251218T171500Z
+LOCATION:Paw.B 251
+DTSTART:20251218T154500Z
+SUMMARY:Instrumentarium przetwarzania danych (ćwiczenia)
+UID:d2b06126-844a-464b-9223-e183dfa1713c@d2b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251016T123000Z
+DTSTART:20251016T093000Z
+SUMMARY: (rezerwacja)
+UID:5cf02204-145a-4ad2-80f2-85b6b5ffe32f@5cf0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20251202T083000Z
+LOCATION:Paw.B 251
+DTSTART:20251202T074500Z
+SUMMARY:Wprowadzenie do baz danych (wykład)
+UID:321d8458-dc3f-4526-a081-0dd5c2ae932f@321d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jacek Czerniak
+DTEND:20251208T134500Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20251208T121500Z
+SUMMARY:Cyfrowe systemy sterowania procesami produkcyjnymi (ćwiczenia)
+UID:bbdbf47f-4ad9-445d-9dad-d6b9eb2539b2@bbdb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20260115T194500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20260115T173000Z
+SUMMARY:Wprowadzenie do baz danych (ćwiczenia)
+UID:2452f533-07b2-4d89-a857-e47d5eeec84a@2452.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Widlak
+DTEND:20251208T190000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20251208T173000Z
+SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (ćwiczenia)
+UID:11c2def2-54f7-4608-ba7b-442c9c50c89a@11c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
+DTEND:20251016T073000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251016T060000Z
+SUMMARY:Metody statystyczne w analizie danych (ćwiczenia)
+UID:6a6325fc-fce3-47c3-aa4e-fea68474f259@6a63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Widlak
+DTEND:20251112T134500Z
+LOCATION:Paw.F 516
+DTSTART:20251112T121500Z
+SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (wykład)
+UID:9ac62f4f-5973-43ed-8bc2-89c2d09a1f6b@9ac6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
+DTEND:20251124T153000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20251124T140000Z
+SUMMARY:E-biznes (ćwiczenia)
+UID:be41dfa2-be38-4e29-aa02-847427828dfd@be41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
+DTEND:20251203T083000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20251203T070000Z
+SUMMARY:Metody statystyczne w analizie danych (ćwiczenia)
+UID:36efd470-3b77-47c4-a500-57bc52be723f@36ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
+DTEND:20251027T153000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20251027T140000Z
+SUMMARY:E-biznes (ćwiczenia)
+UID:7d4fa7d1-a741-4892-9db8-026666f1ea77@7d4f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20260108T190000Z
+LOCATION:Bibl. 440
+DTSTART:20260108T173000Z
+SUMMARY:Instrumentarium przetwarzania danych (ćwiczenia)
+UID:3995e25d-7256-468b-a51a-babead832782@3995.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Widlak
+DTEND:20251015T124500Z
+DTSTART:20251015T111500Z
+SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (Przeniesienie zajęć)
+UID:c6c86d20-91af-4e0d-946b-bb40a5ebc81c@c6c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Kornafel
+DTEND:20251007T143000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251007T130000Z
+SUMMARY:Metody numeryczne (wykład)
+UID:1a261b05-f1fd-4c0d-abd4-3d884a803f0c@1a26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20251118T120000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251118T103000Z
+SUMMARY:Wprowadzenie do baz danych (ćwiczenia)
+UID:163ef4b3-37e5-44b7-9e2b-9b0fdeb17c1b@163e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20260122T194500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20260122T173000Z
+SUMMARY:Wprowadzenie do baz danych (ćwiczenia)
+UID:2448c505-f010-42df-a374-f3cbca913b32@2448.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
+DTEND:20251216T134500Z
+LOCATION:Paw.F 104
+DTSTART:20251216T121500Z
+SUMMARY:E-biznes (wykład)
+UID:336cd243-5b22-40cb-897e-af23b6eb4ec3@336c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Widlak
+DTEND:20251029T153000Z
+DTSTART:20251029T140000Z
+SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (Przeniesienie zajęć)
+UID:10088354-2237-435d-9270-cabef2301322@1008.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20251021T073000Z
+LOCATION:Paw.B 251
+DTSTART:20251021T060000Z
+SUMMARY:Wprowadzenie do baz danych (wykład)
+UID:d0f56055-3e07-4bcc-bbdb-193a52bdbc2a@d0f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jacek Czerniak
+DTEND:20251222T134500Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20251222T121500Z
+SUMMARY:Cyfrowe systemy sterowania procesami produkcyjnymi (ćwiczenia)
+UID:c5706149-8ed8-417e-a73e-c2d91846791d@c570.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20251201T120000Z
+LOCATION:Paw.F 102
+DTSTART:20251201T103000Z
+SUMMARY:Metody numeryczne (ćwiczenia)
+UID:dee69e8e-b4f8-4fd9-bf24-d2906fccf128@dee6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
+DTEND:20251217T083000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20251217T070000Z
+SUMMARY:Metody statystyczne w analizie danych (ćwiczenia)
+UID:9a6decf3-38ac-4ec2-8908-2fc0e7ae9e4e@9a6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jacek Czerniak
+DTEND:20251124T134500Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20251124T121500Z
+SUMMARY:Cyfrowe systemy sterowania procesami produkcyjnymi (ćwiczenia)
+UID:7e3699db-987d-4c4d-afb8-3b5adf35312f@7e36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Kornafel
+DTEND:20251009T124500Z
+LOCATION:Paw.F 415
+DTSTART:20251009T111500Z
+SUMMARY:Metody numeryczne (wykład)
+UID:8084ac7f-62b1-4b46-99d1-937aafdefa86@8084.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20251028T120000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251028T103000Z
+SUMMARY:Wprowadzenie do baz danych (ćwiczenia)
+UID:9ee971e0-e565-4ac4-84e1-943a05138e98@9ee9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20251007T073000Z
+LOCATION:Paw.B 251
+DTSTART:20251007T060000Z
+SUMMARY:Wprowadzenie do baz danych (wykład)
+UID:838ce121-22ac-4eb4-8f95-071f33916d9c@838c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Widlak
+DTEND:20251112T153000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20251112T140000Z
+SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (ćwiczenia)
+UID:35fbe1f5-7440-4335-a4cd-8f203a5b2763@35fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20251205T120000Z
+DTSTART:20251205T103000Z
+SUMMARY:Instrumentarium przetwarzania danych (Przeniesienie zajęć)
+UID:e8dfa33f-2468-4751-827c-ae8dcaf587a6@e8df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Kornafel
+DTEND:20260114T111500Z
+LOCATION:Paw.F 614
+DTSTART:20260114T103000Z
+SUMMARY:Metody numeryczne (wykład)
+UID:68543451-7210-49ed-a8d0-8e14b1f5a885@6854.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20260122T171500Z
+LOCATION:Paw.B 251
+DTSTART:20260122T154500Z
+SUMMARY:Instrumentarium przetwarzania danych (ćwiczenia)
+UID:8be784fb-2c6b-42bb-ac13-1b55127bafaa@8be7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
+DTEND:20260108T083000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260108T070000Z
+SUMMARY:Metody statystyczne w analizie danych (ćwiczenia)
+UID:dfc7a9b4-a837-488f-8c8a-f8cac077e43d@dfc7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
+DTEND:20260113T130000Z
+LOCATION:Paw.F 104
+DTSTART:20260113T121500Z
+SUMMARY:E-biznes (wykład)
+UID:f77165ee-2c07-4ea1-846a-2b86885e944d@f771.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Widlak
+DTEND:20251001T124500Z
+LOCATION:Paw.F 516
+DTSTART:20251001T111500Z
+SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (wykład)
+UID:bf5d4ad0-0d15-4e9a-bf2f-42bee0b438dd@bf5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20251215T120000Z
+LOCATION:Paw.F 102
+DTSTART:20251215T103000Z
+SUMMARY:Metody numeryczne (ćwiczenia)
+UID:5f5a6a98-209d-4ded-bbaa-652f533ed52f@5f5a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Widlak
+DTEND:20260107T134500Z
+LOCATION:Paw.F 516
+DTSTART:20260107T121500Z
+SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (wykład)
+UID:53e1da2e-a3a2-4ba7-ac5e-463c1eeee310@53e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
+DTEND:20260112T153000Z
+LOCATION:Paw.F 104
+DTSTART:20260112T140000Z
+SUMMARY:E-biznes (wykład)
+UID:7fe3ee51-3e33-4372-80a3-bd8c04f19518@7fe3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Kornafel
+DTEND:20251217T120000Z
+LOCATION:Paw.F 614
+DTSTART:20251217T103000Z
+SUMMARY:Metody numeryczne (wykład)
+UID:d4766c98-4c15-45a8-bbe8-20b356da3219@d476.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
+DTEND:20260122T083000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260122T070000Z
+SUMMARY:Metody statystyczne w analizie danych (ćwiczenia)
+UID:4d223bd3-a232-4526-8b88-df2524659b21@4d22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20251120T153000Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20251120T140000Z
+SUMMARY:Instrumentarium przetwarzania danych (ćwiczenia)
+UID:2804d3f9-5c51-4da8-bdf5-053a6149ee6b@2804.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
+DTEND:20260112T194500Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20260112T173000Z
+SUMMARY:E-biznes (ćwiczenia)
+UID:b4b1836f-be17-4c62-917b-0c6fb433ab89@b4b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
+DTEND:20260107T120000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20260107T103000Z
+SUMMARY:Metody statystyczne w analizie danych (ćwiczenia)
+UID:f03b6791-cea4-4ed1-8074-e2a98d73faca@f03b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Widlak
+DTEND:20251001T143000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20251001T130000Z
+SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (ćwiczenia)
+UID:f35b15a3-b987-4175-b4da-fee1ec463a2c@f35b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Widlak
+DTEND:20260107T153000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20260107T140000Z
+SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (ćwiczenia)
+UID:0f677861-28be-4f25-b688-d0cc3f8e1f0d@0f67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jacek Czerniak
+DTEND:20251117T134500Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20251117T121500Z
+SUMMARY:Cyfrowe systemy sterowania procesami produkcyjnymi (ćwiczenia)
+UID:d598674b-5894-425d-aa4b-6080580708e2@d598.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Widlak
+DTEND:20251022T143000Z
+DTSTART:20251022T130000Z
+SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (Przeniesienie zajęć)
+UID:8c08d4d2-e319-44cf-ada7-58a570b2cc40@8c08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20251211T190000Z
+LOCATION:Bibl. 440
+DTSTART:20251211T173000Z
+SUMMARY:Instrumentarium przetwarzania danych (ćwiczenia)
+UID:ac1fc39c-684b-417f-aad2-88de4b7058b8@ac1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jacek Czerniak
+DTEND:20251215T134500Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20251215T121500Z
+SUMMARY:Cyfrowe systemy sterowania procesami produkcyjnymi (ćwiczenia)
+UID:1a94b7f0-324e-4d51-9a11-3fc1673a123b@1a94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jacek Czerniak
+DTEND:20251010T073000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251010T060000Z
+SUMMARY:Cyfrowe systemy sterowania procesami produkcyjnymi (ćwiczenia)
+UID:9b6fbd0f-e99e-459f-9be2-1e133ad07e7e@9b6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski  dr Marta Kornafel  mgr Krystian Szczęsny
+DTEND:20260128T101500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20260128T084500Z
+SUMMARY:Metody numeryczne (egzamin)
+UID:4441da1a-df43-43d5-9464-b0ff66d41b2e@4441.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20251204T190000Z
+LOCATION:Bibl. 440
+DTSTART:20251204T173000Z
+SUMMARY:Instrumentarium przetwarzania danych (ćwiczenia)
+UID:ba8591ab-9685-4221-9faf-114e7e50f730@ba85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
+DTEND:20260114T083000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20260114T070000Z
+SUMMARY:Metody statystyczne w analizie danych (ćwiczenia)
+UID:aa0f020f-4c00-4fd6-9c8c-a24684408b8c@aa0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20251211T171500Z
+LOCATION:Paw.B 251
+DTSTART:20251211T154500Z
+SUMMARY:Instrumentarium przetwarzania danych (ćwiczenia)
+UID:2fcf3900-5213-46e1-a746-3dbeea1903ca@2fcf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jacek Czerniak
+DTEND:20260120T083000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20260120T070000Z
+SUMMARY:Cyfrowe systemy sterowania procesami produkcyjnymi (ćwiczenia)
+UID:9f8b5ee5-0cb3-4a64-af06-23b160ed522e@9f8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jacek Czerniak
+DTEND:20251201T134500Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20251201T121500Z
+SUMMARY:Cyfrowe systemy sterowania procesami produkcyjnymi (ćwiczenia)
+UID:a6545e95-4b70-4b9d-9a65-03f51bb0ee68@a654.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20251020T110000Z
+LOCATION:Paw.F 102
+DTSTART:20251020T093000Z
+SUMMARY:Metody numeryczne (ćwiczenia)
+UID:e894aca8-f2e2-446a-bea3-3185edd350a7@e894.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
+DTEND:20251118T134500Z
+LOCATION:Paw.F 104
+DTSTART:20251118T121500Z
+SUMMARY:E-biznes (wykład)
+UID:1bf0c2d3-e6e7-4cfd-82ef-e7b65b936eba@1bf0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20251125T120000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251125T103000Z
+SUMMARY:Wprowadzenie do baz danych (ćwiczenia)
+UID:ec457739-745f-496f-9aff-393811cfe1cc@ec45.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
+DTEND:20251106T083000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251106T070000Z
+SUMMARY:Metody statystyczne w analizie danych (ćwiczenia)
+UID:1846ee8e-0fe4-44a3-8166-a3c72c5f8ac7@1846.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
+DTEND:20251007T124500Z
+LOCATION:Paw.F 104
+DTSTART:20251007T111500Z
+SUMMARY:E-biznes (wykład)
+UID:780f2f83-dec2-49b1-8469-9661348c2f55@780f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20251016T161500Z
+LOCATION:Paw.B 251
+DTSTART:20251016T144500Z
+SUMMARY:Instrumentarium przetwarzania danych (ćwiczenia)
+UID:9da89722-de65-4484-8803-7bf9fb30d2c8@9da8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Kornafel
+DTEND:20251105T120000Z
+LOCATION:Paw.F 614
+DTSTART:20251105T103000Z
+SUMMARY:Metody numeryczne (wykład)
+UID:956e16e8-54d5-4db3-9c8c-70097a7aebde@956e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Kornafel
+DTEND:20260128T171500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20260128T154500Z
+SUMMARY: (zaliczenie)
+UID:723352ab-9666-4734-aac1-18913ec20fad@7233.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
+DTEND:20251211T083000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251211T070000Z
+SUMMARY:Metody statystyczne w analizie danych (ćwiczenia)
+UID:79158bbc-42a0-43d1-b0e6-638387037b24@7915.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jacek Czerniak
+DTEND:20251103T134500Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20251103T121500Z
+SUMMARY:Cyfrowe systemy sterowania procesami produkcyjnymi (ćwiczenia)
+UID:655c2630-29dd-4006-aa3e-795c46dcb42e@655c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20251007T110000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251007T093000Z
+SUMMARY:Wprowadzenie do baz danych (ćwiczenia)
+UID:18c33e80-1914-4a87-ad26-7a2afa50d018@18c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
+DTEND:20251119T083000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20251119T070000Z
+SUMMARY:Metody statystyczne w analizie danych (ćwiczenia)
+UID:1134a7c7-ea3c-40fe-be3b-36bb982102ba@1134.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20251103T120000Z
+LOCATION:Paw.F 102
+DTSTART:20251103T103000Z
+SUMMARY:Metody numeryczne (ćwiczenia)
+UID:0be122fb-8b9c-4089-8ddd-21bb2296331f@0be1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20251117T120000Z
+LOCATION:Paw.F 102
+DTSTART:20251117T103000Z
+SUMMARY:Metody numeryczne (ćwiczenia)
+UID:02189c94-86c2-4db1-a6c7-50a073ee74c6@0218.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20251014T110000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251014T093000Z
+SUMMARY:Wprowadzenie do baz danych (ćwiczenia)
+UID:3c0c3e18-8d5a-4271-8bf6-7235735d236f@3c0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
+DTEND:20251113T083000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251113T070000Z
+SUMMARY:Metody statystyczne w analizie danych (ćwiczenia)
+UID:aa616176-fbe6-4961-afee-da0713d9e219@aa61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20251127T171500Z
+LOCATION:Paw.B 251
+DTSTART:20251127T154500Z
+SUMMARY:Instrumentarium przetwarzania danych (ćwiczenia)
+UID:76a68bd2-a401-42df-ae55-3ce4fa01f771@76a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20251204T171500Z
+LOCATION:Paw.B 251
+DTSTART:20251204T154500Z
+SUMMARY:Instrumentarium przetwarzania danych (ćwiczenia)
+UID:60f2aadd-a5fd-4706-9b5b-254a1939b769@60f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20260115T171500Z
+LOCATION:Paw.B 251
+DTSTART:20260115T154500Z
+SUMMARY:Instrumentarium przetwarzania danych (ćwiczenia)
+UID:ef0156c6-a840-43e0-8163-138604f2f85d@ef01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20251216T120000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251216T103000Z
+SUMMARY:Wprowadzenie do baz danych (ćwiczenia)
+UID:af1d9e8e-5704-47ac-a115-85a9431ddb76@af1d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
+DTEND:20251120T083000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251120T070000Z
+SUMMARY:Metody statystyczne w analizie danych (ćwiczenia)
+UID:fd4181f1-7167-4a2d-8bae-a20415ee7810@fd41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
+DTEND:20251104T134500Z
+LOCATION:Paw.F 104
+DTSTART:20251104T121500Z
+SUMMARY:E-biznes (wykład)
+UID:42df0246-9061-4224-9a11-05bb09983979@42df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
+DTEND:20260114T134500Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20260114T121500Z
+SUMMARY:Metody statystyczne w analizie danych (ćwiczenia)
+UID:e78954ff-35de-42d1-80ae-fcff6ab17fab@e789.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Widlak
+DTEND:20260121T144500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20260121T140000Z
+SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (ćwiczenia)
+UID:b37da167-df75-4438-8bca-ca69b39e286d@b37d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20251023T161500Z
+LOCATION:Paw.B 251
+DTSTART:20251023T144500Z
+SUMMARY:Instrumentarium przetwarzania danych (ćwiczenia)
+UID:a41fea3a-b751-442a-b058-bf3db00e2500@a41f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20251202T120000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251202T103000Z
+SUMMARY:Wprowadzenie do baz danych (ćwiczenia)
+UID:2f180a6e-0b1e-4096-8a62-8f7bfb26fb5d@2f18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski  dr Marta Kornafel  mgr Krystian Szczęsny
+DTEND:20260220T101500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20260220T084500Z
+SUMMARY:Metody numeryczne\, Numerical Methods (egzamin)
+UID:e9fa19b8-d000-4c7a-b01f-286236efcd98@e9fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20251106T171500Z
+LOCATION:Paw.B 251
+DTSTART:20251106T154500Z
+SUMMARY:Instrumentarium przetwarzania danych (ćwiczenia)
+UID:c5aca160-f6a4-45bc-9457-2d27113a167c@c5ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
+DTEND:20260115T083000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260115T070000Z
+SUMMARY:Metody statystyczne w analizie danych (ćwiczenia)
+UID:33227b1c-76dd-4fdf-9564-947d517943d2@3322.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Widlak
+DTEND:20251015T143000Z
+DTSTART:20251015T130000Z
+SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (Przeniesienie zajęć)
+UID:d5313f09-6f4b-4d98-9e26-eeec6dccb413@d531.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20251013T110000Z
+LOCATION:Paw.F 102
+DTSTART:20251013T093000Z
+SUMMARY:Metody numeryczne (ćwiczenia)
+UID:7392853f-70be-4d61-8647-2128fc6e77b3@7392.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Kornafel
+DTEND:20251203T120000Z
+LOCATION:Paw.F 614
+DTSTART:20251203T103000Z
+SUMMARY:Metody numeryczne (wykład)
+UID:5d1603dc-6942-47d7-ac86-2e482d222096@5d16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20260108T171500Z
+LOCATION:Paw.B 251
+DTSTART:20260108T154500Z
+SUMMARY:Instrumentarium przetwarzania danych (ćwiczenia)
+UID:074e7730-d615-4f15-8b6d-a7e13077625f@074e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20251104T083000Z
+LOCATION:Paw.B 251
+DTSTART:20251104T070000Z
+SUMMARY:Wprowadzenie do baz danych (wykład)
+UID:02df8358-37d0-4e60-8942-1ca9e5fef104@02df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20251124T120000Z
+LOCATION:Paw.F 102
+DTSTART:20251124T103000Z
+SUMMARY:Metody numeryczne (ćwiczenia)
+UID:8dba31ab-508e-47ce-ba8c-fefaaa8f8cd9@8dba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20251210T083000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20251210T070000Z
+SUMMARY:Metody numeryczne (ćwiczenia)
+UID:12202f21-118f-4a77-a98c-8598a4c578f8@1220.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20251209T120000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251209T103000Z
+SUMMARY:Wprowadzenie do baz danych (ćwiczenia)
+UID:38c2e135-e59d-4275-a758-8018211af6ea@38c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Kornafel
+DTEND:20251008T110000Z
+DTSTART:20251008T093000Z
+SUMMARY:Metody numeryczne (Przeniesienie zajęć)
+UID:483d9475-30e8-4996-ad83-6a89b80133a1@483d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jacek Czerniak
+DTEND:20251215T153000Z
+LOCATION:Paw.Ustronie lab.fiz.2
+DTSTART:20251215T140000Z
+SUMMARY:Cyfrowe systemy sterowania procesami produkcyjnymi (ćwiczenia)
+UID:7bfbfc02-d147-4a20-867a-35156b754827@7bfb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jacek Czerniak
+DTEND:20260112T134500Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20260112T121500Z
+SUMMARY:Cyfrowe systemy sterowania procesami produkcyjnymi (ćwiczenia)
+UID:953fe57f-c157-48fc-92a9-e47c1436a522@953f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jacek Czerniak
+DTEND:20260121T120000Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20260121T103000Z
+SUMMARY:Cyfrowe systemy sterowania procesami produkcyjnymi (ćwiczenia)
+UID:79d8c8e7-5bc4-4c9f-9311-b0a9cc1dc38a@79d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Widlak
+DTEND:20251126T153000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20251126T140000Z
+SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (ćwiczenia)
+UID:e4846f5f-167e-4868-8d39-75a2e7d79810@e484.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Widlak
+DTEND:20260121T130000Z
+LOCATION:Paw.F 516
+DTSTART:20260121T121500Z
+SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (wykład)
+UID:89fe2cac-8535-4121-ac7d-46277565532a@89fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20251118T083000Z
+LOCATION:Paw.B 251
+DTSTART:20251118T070000Z
+SUMMARY:Wprowadzenie do baz danych (wykład)
+UID:7c35b16f-fc42-4464-9533-76117e194f8f@7c35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251217T134500Z
+DTSTART:20251217T121500Z
+SUMMARY: (rezerwacja)
+UID:5d49e123-5084-487d-89e4-a5cccf9dcd76@5d49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20251028T083000Z
+LOCATION:Paw.B 251
+DTSTART:20251028T070000Z
+SUMMARY:Wprowadzenie do baz danych (wykład)
+UID:da5dc478-b430-4a90-b5f4-f1bb00db8651@da5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20251222T120000Z
+LOCATION:Paw.F 102
+DTSTART:20251222T103000Z
+SUMMARY:Metody numeryczne (ćwiczenia)
+UID:b1d10cb6-904a-4af4-ae79-8847fcdcbbc1@b1d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Widlak
+DTEND:20251029T134500Z
+DTSTART:20251029T121500Z
+SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (Przeniesienie zajęć)
+UID:0edeff87-80c1-4d6c-931e-b84ea81260f7@0ede.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
+DTEND:20260119T153000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20260119T140000Z
+SUMMARY:E-biznes (ćwiczenia)
+UID:760a912a-09bc-4dc0-b61b-6d5101b525fe@760a.org
 END:VEVENT
 END:VCALENDAR
