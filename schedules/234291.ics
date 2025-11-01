@@ -2,12 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Mrówka
+DTEND:20251122T091500Z
+LOCATION:link do zajęć
+DTSTART:20251122T070000Z
+SUMMARY:Metody badań organizatorskich (wykład)
+UID:d2210a37-1b7b-40c0-ba2a-656e6357e052@d221.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Iryna Manczak
 DTEND:20251129T114500Z
 LOCATION:Paw.E sala J
 DTSTART:20251129T093000Z
 SUMMARY:Instytucje rynkowe (ćwiczenia)
-UID:273b92c2-8a83-4c89-aa29-8350c245d91d@273b.org
+UID:72edb472-79ab-4f80-978b-143005f21b3e@72ed.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Kornelia Kłopecka
@@ -15,47 +23,7 @@ DTEND:20260110T143000Z
 LOCATION:208 paw.U (tylko Kat. Rach)
 DTSTART:20260110T121500Z
 SUMMARY:Statystyka w zarządzaniu (ćwiczenia)
-UID:9d08a192-1bd2-45fc-8425-c887d66ea792@9d08.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Olejnik
-DTEND:20251019T104500Z
-LOCATION:Paw.F 107
-DTSTART:20251019T083000Z
-SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
-UID:88777058-f80c-4ebf-9f86-ce95e25b7f29@8877.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
-DTEND:20251026T091500Z
-LOCATION:link do zajęć
-DTSTART:20251026T070000Z
-SUMMARY:Innowacyjne strategie promocyjne (wykład do wyboru)
-UID:c676e9db-8ef1-40c2-94bc-da8adb4be74c@c676.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
-DTEND:20251011T160000Z
-LOCATION:link do zajęć
-DTSTART:20251011T134500Z
-SUMMARY:Marketing międzynarodowy (wykład do wyboru)
-UID:1f125b07-3400-494a-914d-8bc96ce19704@1f12.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Małkus
-DTEND:20251116T091500Z
-LOCATION:link do zajęć
-DTSTART:20251116T070000Z
-SUMMARY:Zarządzanie czasem w projekcie (wykład)
-UID:fa24bfa8-3dc6-4b5c-a598-ed089986b1e0@fa24.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Wałęga
-DTEND:20251122T143000Z
-LOCATION:link do zajęć
-DTSTART:20251122T121500Z
-SUMMARY:Statystyka w zarządzaniu (wykład)
-UID:da4ace66-9c54-4c98-b040-e61539cae31f@da4a.org
+UID:bfdf42c3-bf50-440f-b589-db41d62d0725@bfdf.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Jerzy Mrówka
@@ -63,125 +31,7 @@ DTEND:20260130T171500Z
 LOCATION:Paw.C sala E
 DTSTART:20260130T154500Z
 SUMMARY:Metody badań organizatorskich (egzamin)
-UID:1f521a28-2785-4b32-9fd6-04367baedfdb@1f52.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Jerzy Mrówka
-DTEND:20260123T171500Z
-LOCATION:Paw.S sala 9
-DTSTART:20260123T154500Z
-SUMMARY:Metody badań organizatorskich (egzamin)
-UID:c9d84ccf-6723-45a2-9a4d-6c2555c48fa2@c9d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
-DTEND:20251214T114500Z
-LOCATION:link do zajęć
-DTSTART:20251214T093000Z
-SUMMARY:Marketing międzynarodowy (wykład do wyboru)
-UID:534edcfb-3033-4981-bad1-08b32842146d@534e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251217T134500Z
-DTSTART:20251217T121500Z
-SUMMARY: (rezerwacja)
-UID:54da529d-1621-4cc8-bd90-9c34262530b1@54da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Jerzy Mrówka
-DTEND:20251213T091500Z
-LOCATION:link do zajęć
-DTSTART:20251213T070000Z
-SUMMARY:Metody badań organizatorskich (wykład)
-UID:83e1f72f-5d16-4ff4-a061-726b4d4b4824@83e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Kornelia Kłopecka
-DTEND:20251206T114500Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20251206T093000Z
-SUMMARY:Statystyka w zarządzaniu (ćwiczenia)
-UID:073153db-86d1-4c99-ae4f-e92c4890c16a@0731.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iryna Manczak
-DTEND:20251010T184500Z
-LOCATION:link do zajęć
-DTSTART:20251010T163000Z
-SUMMARY:Instytucje rynkowe (wykład)
-UID:6f0920fa-035b-4c4f-826d-d40a1f35540f@6f09.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Siuta-Tokarska
-DTEND:20251122T114500Z
-LOCATION:link do zajęć
-DTSTART:20251122T093000Z
-SUMMARY:Zarządzanie finansami przedsiębiorstwa (wykład)
-UID:68789216-fa74-486a-8290-f8f3a379013e@6878.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
-DTEND:20251026T114500Z
-LOCATION:link do zajęć
-DTSTART:20251026T093000Z
-SUMMARY:Marketing międzynarodowy (wykład do wyboru)
-UID:ad074c8d-8c69-4d28-9397-a38c8c05000a@ad07.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
-DTEND:20251011T133000Z
-LOCATION:link do zajęć
-DTSTART:20251011T111500Z
-SUMMARY:Innowacyjne strategie promocyjne (wykład do wyboru)
-UID:d9928646-0066-4a5a-a89d-b619d9acbeb7@d992.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Wałęga
-DTEND:20251213T114500Z
-LOCATION:link do zajęć
-DTSTART:20251213T093000Z
-SUMMARY:Statystyka w zarządzaniu (wykład)
-UID:f51a07ca-824c-4251-9bc4-1e0aa0c2be1e@f51a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Małkus
-DTEND:20260111T091500Z
-LOCATION:link do zajęć
-DTSTART:20260111T070000Z
-SUMMARY:Zarządzanie czasem w projekcie (wykład)
-UID:b5fedfce-4c97-414d-ad4e-b8418384b716@b5fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iryna Manczak
-DTEND:20251019T133000Z
-DTSTART:20251019T111500Z
-SUMMARY:Instytucje rynkowe (Przeniesienie zajęć)
-UID:c95cb08d-4cd7-4406-85d8-fd15149dc6fb@c95c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Kornelia Kłopecka
-DTEND:20251115T114500Z
-LOCATION:208 paw.U (tylko Kat. Rach)
-DTSTART:20251115T093000Z
-SUMMARY:Statystyka w zarządzaniu (ćwiczenia)
-UID:91307065-4ea8-4c62-9234-4c919b12f0b0@9130.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Małkus
-DTEND:20251207T143000Z
-LOCATION:link do zajęć
-DTSTART:20251207T121500Z
-SUMMARY:Zarządzanie czasem w projekcie (wykład)
-UID:8dea99a9-0cb0-4aeb-924a-bb5663810eaf@8dea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Angelika Wodecka-Hyjek
-DTEND:20251206T091500Z
-LOCATION:Paw.F 413
-DTSTART:20251206T070000Z
-SUMMARY:Metody badań organizatorskich (ćwiczenia)
-UID:e97af473-5ee3-4555-845b-46d01f82606d@e97a.org
+UID:d48c9c37-097e-450b-bac4-1f7b6d153d25@d48c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Kornelia Kłopecka
@@ -189,174 +39,7 @@ DTEND:20260124T114500Z
 LOCATION:Paw.A 201 lab. Win10\, Office21
 DTSTART:20260124T093000Z
 SUMMARY:Statystyka w zarządzaniu (ćwiczenia)
-UID:e03c7952-a5d2-46ba-a8fe-16e9fb858d62@e03c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Małkus
-DTEND:20260118T114500Z
-LOCATION:link do zajęć
-DTSTART:20260118T093000Z
-SUMMARY:Zarządzanie czasem w projekcie (wykład)
-UID:05e6e364-d8f9-4ad1-aa8a-24014cdeaebb@05e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Sonia Żemła
-DTEND:20260124T091500Z
-LOCATION:Paw.F 413
-DTSTART:20260124T070000Z
-SUMMARY:Zarządzanie czasem w projekcie (ćwiczenia)
-UID:93366c32-7709-4edf-bcf0-e8a55899f529@9336.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Sonia Żemła
-DTEND:20251129T091500Z
-LOCATION:Bud.gł. 8
-DTSTART:20251129T070000Z
-SUMMARY:Zarządzanie czasem w projekcie (ćwiczenia)
-UID:5a4083d1-7577-4b1b-b65d-9f94a588d681@5a40.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Jerzy Mrówka
-DTEND:20251122T091500Z
-LOCATION:link do zajęć
-DTSTART:20251122T070000Z
-SUMMARY:Metody badań organizatorskich (wykład)
-UID:6113b015-8ea5-4da5-bdd9-8c227c4ba60b@6113.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Siuta-Tokarska
-DTEND:20251012T133000Z
-LOCATION:link do zajęć
-DTSTART:20251012T111500Z
-SUMMARY:Zarządzanie finansami przedsiębiorstwa (wykład)
-UID:ac7478e5-a350-4214-aa3d-e96eeb27221e@ac74.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Olejnik
-DTEND:20260110T091500Z
-LOCATION:Paw.F 613
-DTSTART:20260110T070000Z
-SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
-UID:d732cb37-7128-4354-8ede-ca4b44cc1d51@d732.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Wałęga
-DTEND:20260131T110000Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20260131T084500Z
-SUMMARY:Statystyka w zarządzaniu (egzamin)
-UID:e9924b59-6eef-40e6-87ce-4cc64eff4afc@e992.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Kornelia Kłopecka
-DTEND:20251019T081500Z
-LOCATION:Paw.A 013 lab. Win10\, Office21
-DTSTART:20251019T060000Z
-SUMMARY:Statystyka w zarządzaniu (ćwiczenia)
-UID:480bf5ee-9678-45d2-a15d-de024f2169f3@480b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Kornelia Kłopecka
-DTEND:20251123T091500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20251123T070000Z
-SUMMARY:Statystyka w zarządzaniu (ćwiczenia)
-UID:f5293879-8f03-4ceb-b638-74e92b718905@f529.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Sonia Żemła
-DTEND:20260110T114500Z
-LOCATION:Bud.gł. 2
-DTSTART:20260110T093000Z
-SUMMARY:Zarządzanie czasem w projekcie (ćwiczenia)
-UID:09ab0746-bd75-4b99-bdcb-2e8feb839994@09ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251016T123000Z
-DTSTART:20251016T093000Z
-SUMMARY: (rezerwacja)
-UID:2bba60e1-5124-4be9-9e3b-0a5a1c26ffad@2bba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
-DTEND:20251018T081500Z
-LOCATION:link do zajęć
-DTSTART:20251018T060000Z
-SUMMARY:Innowacyjne strategie promocyjne (wykład do wyboru)
-UID:a49ac11a-4e6c-425b-b230-24ba9f82d41d@a49a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Angelika Wodecka-Hyjek
-DTEND:20260117T091500Z
-LOCATION:Paw.F 613
-DTSTART:20260117T070000Z
-SUMMARY:Metody badań organizatorskich (ćwiczenia)
-UID:e7f59457-6335-4329-800f-1a874af250c1@e7f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
-DTEND:20251116T114500Z
-LOCATION:link do zajęć
-DTSTART:20251116T093000Z
-SUMMARY:Innowacyjne strategie promocyjne (wykład do wyboru)
-UID:0c4c7214-447e-4b97-996e-a57e79e11fd4@0c4c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iryna Manczak
-DTEND:20251025T104500Z
-LOCATION:link do zajęć
-DTSTART:20251025T083000Z
-SUMMARY:Instytucje rynkowe (wykład)
-UID:fd5da1ff-fd9e-445b-9a45-46e0622bb9ee@fd5d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Olejnik
-DTEND:20251115T143000Z
-LOCATION:Bud.gł. 3
-DTSTART:20251115T121500Z
-SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
-UID:8790a80d-8116-4d1d-8ecc-3ba193181052@8790.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
-DTEND:20251207T091500Z
-LOCATION:link do zajęć
-DTSTART:20251207T070000Z
-SUMMARY:Marketing międzynarodowy (wykład do wyboru)
-UID:48f3b150-17c6-4067-be5e-4416f1b6827a@48f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Jerzy Mrówka
-DTEND:20251018T104500Z
-LOCATION:link do zajęć
-DTSTART:20251018T083000Z
-SUMMARY:Metody badań organizatorskich (wykład)
-UID:70e363d6-8fd5-4145-8fc2-9612564de46f@70e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Angelika Wodecka-Hyjek
-DTEND:20251115T091500Z
-LOCATION:Paw.F 416
-DTSTART:20251115T070000Z
-SUMMARY:Metody badań organizatorskich (ćwiczenia)
-UID:5bf09cdb-f3d5-498a-9851-0b5185af2d0c@5bf0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
-DTEND:20251116T143000Z
-LOCATION:link do zajęć
-DTSTART:20251116T121500Z
-SUMMARY:Marketing międzynarodowy (wykład do wyboru)
-UID:73365d72-506b-4937-9e6a-8069c231c028@7336.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Małkus
-DTEND:20251026T143000Z
-LOCATION:link do zajęć
-DTSTART:20251026T121500Z
-SUMMARY:Zarządzanie czasem w projekcie (wykład)
-UID:4e23fc62-1dff-4b53-8cfd-f2b790b8ac55@4e23.org
+UID:10cd2bd9-3933-4510-81fa-5f88bf9774a9@10cd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Tomasz Małkus
@@ -364,7 +47,15 @@ DTEND:20251025T081500Z
 LOCATION:link do zajęć
 DTSTART:20251025T060000Z
 SUMMARY:Zarządzanie czasem w projekcie (wykład)
-UID:694e2baa-943a-42fc-83be-143dfc586d47@694e.org
+UID:62782a8c-99cc-4f60-975c-8c2e3454b3a8@6278.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Sonia Żemła
+DTEND:20251129T091500Z
+LOCATION:Bud.gł. 8
+DTSTART:20251129T070000Z
+SUMMARY:Zarządzanie czasem w projekcie (ćwiczenia)
+UID:61add8ef-d234-49a2-97b0-26af960811d2@61ad.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
@@ -372,23 +63,37 @@ DTEND:20251018T133000Z
 LOCATION:link do zajęć
 DTSTART:20251018T111500Z
 SUMMARY:Marketing międzynarodowy (wykład do wyboru)
-UID:9e4cc605-af85-4502-a21f-f73b41c5bb4f@9e4c.org
+UID:449d3ab6-3346-4c13-85da-9ce24882a571@449d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iryna Manczak
-DTEND:20251130T114500Z
+DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
+DTEND:20251116T114500Z
 LOCATION:link do zajęć
-DTSTART:20251130T093000Z
-SUMMARY:Instytucje rynkowe (wykład)
-UID:f7758034-ae2b-4851-8052-8e300fe0b6c0@f775.org
+DTSTART:20251116T093000Z
+SUMMARY:Innowacyjne strategie promocyjne (wykład do wyboru)
+UID:50ae0d6f-1a20-42aa-a5a8-8d8eaee37fe5@50ae.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Iryna Manczak
-DTEND:20251123T114500Z
-LOCATION:Paw.B 251
-DTSTART:20251123T093000Z
-SUMMARY:Instytucje rynkowe (ćwiczenia)
-UID:df7ff663-8182-4fbd-bf6c-b4a0c75ff0f4@df7f.org
+DTEND:20251019T133000Z
+DTSTART:20251019T111500Z
+SUMMARY:Instytucje rynkowe (Przeniesienie zajęć)
+UID:29ceddc4-f298-44e8-9671-071bf88cee3a@29ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
+DTEND:20251011T160000Z
+LOCATION:link do zajęć
+DTSTART:20251011T134500Z
+SUMMARY:Marketing międzynarodowy (wykład do wyboru)
+UID:3ed24b26-57fc-47c8-9b23-8fa63e453552@3ed2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251016T123000Z
+DTSTART:20251016T093000Z
+SUMMARY: (rezerwacja)
+UID:e7c4f744-c508-4c58-b391-8b30a90ad8b1@e7c4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Siuta-Tokarska
@@ -396,15 +101,111 @@ DTEND:20251214T143000Z
 LOCATION:link do zajęć
 DTSTART:20251214T121500Z
 SUMMARY:Zarządzanie finansami przedsiębiorstwa (wykład)
-UID:97c5d683-e683-461e-95ca-84223b757d1d@97c5.org
+UID:dea38629-cdcc-47b1-8d68-7121e38b4891@dea3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Kornelia Kłopecka
+DTEND:20251115T114500Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20251115T093000Z
+SUMMARY:Statystyka w zarządzaniu (ćwiczenia)
+UID:33e6dbcd-6d25-4f0d-ac28-1f4a3a5926b5@33e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
+DTEND:20251026T114500Z
+LOCATION:link do zajęć
+DTSTART:20251026T093000Z
+SUMMARY:Marketing międzynarodowy (wykład do wyboru)
+UID:1f511038-9b32-4224-974e-27a12083e5fc@1f51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
+DTEND:20251018T081500Z
+LOCATION:link do zajęć
+DTSTART:20251018T060000Z
+SUMMARY:Innowacyjne strategie promocyjne (wykład do wyboru)
+UID:933962f3-0ab4-4835-ab86-77714711a43d@9339.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Iryna Manczak
-DTEND:20260117T114500Z
-LOCATION:Bud.gł. 9
-DTSTART:20260117T093000Z
-SUMMARY:Instytucje rynkowe (ćwiczenia)
-UID:01ab4939-94e0-4fc6-9082-ff98bd2ab1e7@01ab.org
+DTEND:20251130T114500Z
+LOCATION:link do zajęć
+DTSTART:20251130T093000Z
+SUMMARY:Instytucje rynkowe (wykład)
+UID:e8992d1b-ab37-4425-955e-3bc869b108be@e899.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Kornelia Kłopecka
+DTEND:20251019T081500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20251019T060000Z
+SUMMARY:Statystyka w zarządzaniu (ćwiczenia)
+UID:73b1c97b-71fd-4702-8390-4579478bbf3c@73b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Angelika Wodecka-Hyjek
+DTEND:20260117T091500Z
+LOCATION:Paw.F 613
+DTSTART:20260117T070000Z
+SUMMARY:Metody badań organizatorskich (ćwiczenia)
+UID:e68a18c5-b794-4997-870d-fe8aad756ac0@e68a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Siuta-Tokarska
+DTEND:20251122T114500Z
+LOCATION:link do zajęć
+DTSTART:20251122T093000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (wykład)
+UID:4758bd45-5d54-4caf-9f7c-f05cc45c25a6@4758.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
+DTEND:20251207T091500Z
+LOCATION:link do zajęć
+DTSTART:20251207T070000Z
+SUMMARY:Marketing międzynarodowy (wykład do wyboru)
+UID:3ae4fbfe-0130-466a-a3a9-c91a719782c0@3ae4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Angelika Wodecka-Hyjek
+DTEND:20251206T091500Z
+LOCATION:Paw.F 413
+DTSTART:20251206T070000Z
+SUMMARY:Metody badań organizatorskich (ćwiczenia)
+UID:f27758f5-e23f-40b6-a830-c52857223250@f277.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Kornelia Kłopecka
+DTEND:20251123T091500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20251123T070000Z
+SUMMARY:Statystyka w zarządzaniu (ćwiczenia)
+UID:036fb42e-c7ec-4998-9ef3-8fe868c47b9f@036f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
+DTEND:20251116T143000Z
+LOCATION:link do zajęć
+DTSTART:20251116T121500Z
+SUMMARY:Marketing międzynarodowy (wykład do wyboru)
+UID:58a1263f-0f85-4260-9dac-49b085a8ec18@58a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
+DTEND:20251214T114500Z
+LOCATION:link do zajęć
+DTSTART:20251214T093000Z
+SUMMARY:Marketing międzynarodowy (wykład do wyboru)
+UID:f9969571-bf7a-47b1-a2ab-099422bcfac7@f996.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Siuta-Tokarska
+DTEND:20251012T133000Z
+LOCATION:link do zajęć
+DTSTART:20251012T111500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (wykład)
+UID:fb5b1b8c-7116-4a4c-824c-6b0cba157643@fb5b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
@@ -412,15 +213,7 @@ DTEND:20251214T091500Z
 LOCATION:link do zajęć
 DTSTART:20251214T070000Z
 SUMMARY:Innowacyjne strategie promocyjne (wykład do wyboru)
-UID:6f5fbb27-5bb5-4667-9fe3-6f3fcc619fcd@6f5f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Wałęga
-DTEND:20251010T160000Z
-LOCATION:link do zajęć
-DTSTART:20251010T134500Z
-SUMMARY:Statystyka w zarządzaniu (wykład)
-UID:24369a62-bbfe-48b2-a7a7-c2130c53e923@2436.org
+UID:524719d7-f66a-462d-b8ab-727b02063bf2@5247.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
@@ -428,6 +221,213 @@ DTEND:20251207T114500Z
 LOCATION:link do zajęć
 DTSTART:20251207T093000Z
 SUMMARY:Innowacyjne strategie promocyjne (wykład do wyboru)
-UID:c2311c7c-958e-4ffb-b42d-7c655a58d6ac@c231.org
+UID:683044f8-0ecf-45d4-865c-98e801a846fb@6830.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Wałęga
+DTEND:20251122T143000Z
+LOCATION:link do zajęć
+DTSTART:20251122T121500Z
+SUMMARY:Statystyka w zarządzaniu (wykład)
+UID:0d285ba6-83d0-4724-8553-5e07d89e35fe@0d28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Mrówka
+DTEND:20251018T104500Z
+LOCATION:link do zajęć
+DTSTART:20251018T083000Z
+SUMMARY:Metody badań organizatorskich (wykład)
+UID:2aad97e8-ca09-49c7-8cd0-37650663428a@2aad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Małkus
+DTEND:20251026T143000Z
+LOCATION:link do zajęć
+DTSTART:20251026T121500Z
+SUMMARY:Zarządzanie czasem w projekcie (wykład)
+UID:2169c107-1364-4157-9dc7-62e7a2deaea5@2169.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iryna Manczak
+DTEND:20251010T184500Z
+LOCATION:link do zajęć
+DTSTART:20251010T163000Z
+SUMMARY:Instytucje rynkowe (wykład)
+UID:b3bd1676-7b9a-448a-a6ed-f7e2878abe5c@b3bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Mrówka
+DTEND:20251213T091500Z
+LOCATION:link do zajęć
+DTSTART:20251213T070000Z
+SUMMARY:Metody badań organizatorskich (wykład)
+UID:503d30fa-7882-4b7f-9dce-156c9e48c9f4@503d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Olejnik
+DTEND:20260110T091500Z
+LOCATION:Paw.F 613
+DTSTART:20260110T070000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
+UID:5e467f91-5373-4780-b043-6f703853d081@5e46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iryna Manczak
+DTEND:20251025T104500Z
+LOCATION:link do zajęć
+DTSTART:20251025T083000Z
+SUMMARY:Instytucje rynkowe (wykład)
+UID:950a826c-9807-47a5-9230-fa622446ad6d@950a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Małkus
+DTEND:20260118T114500Z
+LOCATION:link do zajęć
+DTSTART:20260118T093000Z
+SUMMARY:Zarządzanie czasem w projekcie (wykład)
+UID:bd943c3d-ca56-4754-b51d-cde47a22ea51@bd94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Mrówka
+DTEND:20260123T171500Z
+LOCATION:Paw.S sala 9
+DTSTART:20260123T154500Z
+SUMMARY:Metody badań organizatorskich (egzamin)
+UID:315dc586-c1fc-421d-87ad-12194c2ffb2e@315d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Olejnik
+DTEND:20251019T104500Z
+LOCATION:Paw.F 107
+DTSTART:20251019T083000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
+UID:6abf9494-95dc-4475-a17e-737cbea65cb3@6abf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Wałęga
+DTEND:20251010T160000Z
+LOCATION:link do zajęć
+DTSTART:20251010T134500Z
+SUMMARY:Statystyka w zarządzaniu (wykład)
+UID:ccba62ef-75d7-49e0-b56b-2a8828e9074a@ccba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Sonia Żemła
+DTEND:20260124T091500Z
+LOCATION:Paw.F 413
+DTSTART:20260124T070000Z
+SUMMARY:Zarządzanie czasem w projekcie (ćwiczenia)
+UID:56467bab-f2a3-48d8-8a94-3b4e51e971b9@5646.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Angelika Wodecka-Hyjek
+DTEND:20251115T091500Z
+LOCATION:Paw.F 416
+DTSTART:20251115T070000Z
+SUMMARY:Metody badań organizatorskich (ćwiczenia)
+UID:4e78e233-e8d4-4be4-a19d-2948804233d2@4e78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Sonia Żemła
+DTEND:20260110T114500Z
+LOCATION:Bud.gł. 2
+DTSTART:20260110T093000Z
+SUMMARY:Zarządzanie czasem w projekcie (ćwiczenia)
+UID:9487c427-a8c9-40a1-aa69-6b39644913c2@9487.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Małkus
+DTEND:20251207T143000Z
+LOCATION:link do zajęć
+DTSTART:20251207T121500Z
+SUMMARY:Zarządzanie czasem w projekcie (wykład)
+UID:071ceeed-e196-49ed-a991-f5058a918757@071c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Olejnik
+DTEND:20251115T143000Z
+LOCATION:Bud.gł. 3
+DTSTART:20251115T121500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
+UID:8b6c73bf-da56-4fe0-b2f1-0f39635306d0@8b6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251217T134500Z
+DTSTART:20251217T121500Z
+SUMMARY: (rezerwacja)
+UID:7bbe219d-d800-4ce8-bb42-ef640d10d4af@7bbe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Małkus
+DTEND:20260111T091500Z
+LOCATION:link do zajęć
+DTSTART:20260111T070000Z
+SUMMARY:Zarządzanie czasem w projekcie (wykład)
+UID:8037cde1-dad8-408f-92da-2752f15e8acd@8037.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
+DTEND:20251026T091500Z
+LOCATION:link do zajęć
+DTSTART:20251026T070000Z
+SUMMARY:Innowacyjne strategie promocyjne (wykład do wyboru)
+UID:ba066ddd-ea1b-487b-9f21-1ce5d2abb0a2@ba06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Małkus
+DTEND:20251116T091500Z
+LOCATION:link do zajęć
+DTSTART:20251116T070000Z
+SUMMARY:Zarządzanie czasem w projekcie (wykład)
+UID:783d92f7-fde3-40e1-80e9-0a8a5a45f807@783d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Wałęga
+DTEND:20260131T110000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20260131T084500Z
+SUMMARY:Statystyka w zarządzaniu (egzamin)
+UID:b498c425-446d-4f85-a3c5-39785d8435d6@b498.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iryna Manczak
+DTEND:20251123T114500Z
+LOCATION:Paw.B 251
+DTSTART:20251123T093000Z
+SUMMARY:Instytucje rynkowe (ćwiczenia)
+UID:28969148-7edc-44e8-8d73-cf2b331d7ffa@2896.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
+DTEND:20251011T133000Z
+LOCATION:link do zajęć
+DTSTART:20251011T111500Z
+SUMMARY:Innowacyjne strategie promocyjne (wykład do wyboru)
+UID:de489ca9-f2ba-4df0-aa2a-ee9bb116ec9e@de48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Kornelia Kłopecka
+DTEND:20251206T114500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20251206T093000Z
+SUMMARY:Statystyka w zarządzaniu (ćwiczenia)
+UID:41d5fb88-8d4f-4ae1-a3da-389e1d9de55c@41d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iryna Manczak
+DTEND:20260117T114500Z
+LOCATION:Bud.gł. 9
+DTSTART:20260117T093000Z
+SUMMARY:Instytucje rynkowe (ćwiczenia)
+UID:38d04631-9e12-46dc-8acf-8dfcd0888995@38d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Wałęga
+DTEND:20251213T114500Z
+LOCATION:link do zajęć
+DTSTART:20251213T093000Z
+SUMMARY:Statystyka w zarządzaniu (wykład)
+UID:b76c728e-8113-4002-a59e-fc6bf41e8078@b76c.org
 END:VEVENT
 END:VCALENDAR
