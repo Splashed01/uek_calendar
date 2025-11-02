@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Przemysław Szopa
-DTEND:20251025T081500Z
-LOCATION:link do zajęć
-DTSTART:20251025T060000Z
-SUMMARY:Metrologia (wykład)
-UID:8f525713-58da-496b-b4e8-fe0aa42a8604@8f52.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bartak
-DTEND:20251115T114500Z
-LOCATION:link do zajęć
-DTSTART:20251115T093000Z
-SUMMARY:Ekonomia dla inżynierów (wykład)
-UID:623f5011-30fc-49ce-9540-1c4990e95275@623f.org
+DESCRIPTION:Instructor: dr inż. Olga Hnatyszak
+DTEND:20251214T143000Z
+LOCATION:Paw.Ustronie lab.fiz.2
+DTSTART:20251214T121500Z
+SUMMARY:Metrologia (laboratorium)
+UID:ab4b5d56-7ad2-4de8-83b4-5ad37325de1e@ab4b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
@@ -23,127 +15,7 @@ DTEND:20251122T143000Z
 LOCATION:Paw.F 613
 DTSTART:20251122T121500Z
 SUMMARY:Ekonomia dla inżynierów (ćwiczenia)
-UID:3e9b1ff7-4923-4bd2-af94-7a821d2919e3@3e9b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bartak
-DTEND:20251024T184500Z
-LOCATION:link do zajęć
-DTSTART:20251024T163000Z
-SUMMARY:Ekonomia dla inżynierów (wykład)
-UID:9cc28de0-dc71-4d17-b637-f9d5befe3801@9cc2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Olga Hnatyszak
-DTEND:20251123T114500Z
-LOCATION:Paw.Ustronie lab.fiz.2
-DTSTART:20251123T093000Z
-SUMMARY:Metrologia (laboratorium)
-UID:0ea35358-04b4-4d64-90ed-78d34505b66f@0ea3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
-DTEND:20251221T114500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251221T093000Z
-SUMMARY:Podstawy CAD (konwersatorium)
-UID:b2134e85-1014-469e-972e-10b6f2dd1d87@b213.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
-DTEND:20260110T091500Z
-LOCATION:Paw.U sala M
-DTSTART:20260110T070000Z
-SUMMARY:Ekonomia dla inżynierów (ćwiczenia)
-UID:c6c2966c-9bc1-49b1-918d-df952a55a858@c6c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Rychwalski
-DTEND:20260111T114500Z
-LOCATION:Paw.S sala 11
-DTSTART:20260111T093000Z
-SUMMARY:Ekologia i zarządzanie środowiskowe (ćwiczenia)
-UID:837fffa4-d206-4ae3-bee1-7fd4ec829a6f@837f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
-DTEND:20251121T170000Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20251121T144500Z
-SUMMARY:Przetwarzanie danych w arkuszu kalkulacyjnym (ćwiczenia)
-UID:0dc9eeb4-d36f-40ca-b0db-30221e1d8ec4@0dc9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
-DTEND:20251011T081500Z
-LOCATION:link do zajęć
-DTSTART:20251011T060000Z
-SUMMARY:Podstawy organizacji i zarządzania (wykład)
-UID:15f324eb-2afe-4432-a334-1349948ec917@15f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Rychwalski
-DTEND:20251018T104500Z
-LOCATION:link do zajęć
-DTSTART:20251018T083000Z
-SUMMARY:Ekologia i zarządzanie środowiskowe (wykład)
-UID:92b6490d-b05d-489f-b760-4fd54afc0b3d@92b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
-DTEND:20251019T104500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20251019T083000Z
-SUMMARY:Przetwarzanie danych w arkuszu kalkulacyjnym (ćwiczenia)
-UID:0d15ab70-27d8-44ca-b552-4fb338a9c794@0d15.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
-DTEND:20251115T091500Z
-LOCATION:link do zajęć
-DTSTART:20251115T070000Z
-SUMMARY:Podstawy organizacji i zarządzania (wykład)
-UID:151634e9-f893-4b28-94f8-495b8b46b5c6@1516.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Olga Hnatyszak
-DTEND:20260124T143000Z
-LOCATION:Paw.Ustronie lab.fiz.2
-DTSTART:20260124T130000Z
-SUMMARY:Metrologia (laboratorium)
-UID:7443d4d3-1753-4893-a954-cffaf1435c24@7443.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
-DTEND:20260111T143000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20260111T121500Z
-SUMMARY:Grafika inżynierska (laboratorium)
-UID:01caf955-e2ef-446e-a964-a8f5a1bbe511@01ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bartak
-DTEND:20251012T090000Z
-LOCATION:link do zajęć
-DTSTART:20251012T064500Z
-SUMMARY:Ekonomia dla inżynierów (wykład)
-UID:1249c3e3-9c38-4eea-991d-89d3ec8bef5f@1249.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Rychwalski
-DTEND:20251205T170000Z
-LOCATION:Paw.U sala M
-DTSTART:20251205T144500Z
-SUMMARY:Ekologia i zarządzanie środowiskowe (ćwiczenia)
-UID:7af209f4-db35-4faf-a089-5325b8a3e98a@7af2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Rychwalski
-DTEND:20251116T143000Z
-LOCATION:Paw.S sala 11
-DTSTART:20251116T121500Z
-SUMMARY:Ekologia i zarządzanie środowiskowe (ćwiczenia)
-UID:9635702a-6e77-45bb-9563-8cebd562a620@9635.org
+UID:71870658-56dd-4fe7-b5df-e3df79f1dacf@7187.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Olga Hnatyszak
@@ -151,7 +23,7 @@ DTEND:20251207T170000Z
 LOCATION:Paw.Ustronie lab.fiz.2
 DTSTART:20251207T144500Z
 SUMMARY:Metrologia (laboratorium)
-UID:f4dca2e4-a220-4dc2-a8f2-1f8fff5de6a1@f4dc.org
+UID:e65b5a3b-2db6-41fc-b7a1-6e614d9a7f51@e65b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
@@ -159,77 +31,15 @@ DTEND:20251018T081500Z
 LOCATION:link do zajęć
 DTSTART:20251018T060000Z
 SUMMARY:Podstawy organizacji i zarządzania (wykład)
-UID:ce7c8cd4-d730-4eda-8963-8eee6ab87b19@ce7c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Marzena Wójcik
-DTEND:20251116T114500Z
-LOCATION:Paw.C sala E
-DTSTART:20251116T093000Z
-SUMMARY:Podstawy organizacji i zarządzania (ćwiczenia)
-UID:ae89fdb3-1141-4858-a631-41bf8c6790ca@ae89.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
-DTEND:20251130T151500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251130T130000Z
-SUMMARY:Podstawy CAD (konwersatorium)
-UID:54170ea5-5aef-4685-b7bd-c0718ee778db@5417.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
-DTEND:20251220T091500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20251220T070000Z
-SUMMARY:Przetwarzanie danych w arkuszu kalkulacyjnym (ćwiczenia)
-UID:cde9a39d-fa3d-4a9f-bf22-ca65b278cace@cde9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251217T134500Z
-DTSTART:20251217T121500Z
-SUMMARY: (rezerwacja)
-UID:eeccf6da-da1c-4d5a-8245-f76b83ea913a@eecc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Marcin Paprocki
-DTEND:20251017T184500Z
-LOCATION:link do zajęć
-DTSTART:20251017T163000Z
-SUMMARY:Grafika inżynierska (wykład)
-UID:5b22b1eb-4af8-4b3e-b576-75270600c739@5b22.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Rychwalski
-DTEND:20251025T104500Z
-DTSTART:20251025T083000Z
-SUMMARY:Ekologia i zarządzanie środowiskowe (Przeniesienie zajęć)
-UID:c605e619-fdae-4dcd-bfa7-32c75e7e0f47@c605.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
-DTEND:20251026T114500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20251026T093000Z
-SUMMARY:Przetwarzanie danych w arkuszu kalkulacyjnym (ćwiczenia)
-UID:d41e293b-82ad-4176-b8f3-99443eb12441@d41e.org
+UID:18930ed3-08e5-424e-b02b-15cac878df25@1893.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Olga Hnatyszak
-DTEND:20251130T114500Z
+DTEND:20260124T143000Z
 LOCATION:Paw.Ustronie lab.fiz.2
-DTSTART:20251130T093000Z
+DTSTART:20260124T130000Z
 SUMMARY:Metrologia (laboratorium)
-UID:c3f2f402-7dec-4c3c-a749-8e97e9ed1663@c3f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Olga Hnatyszak
-DTEND:20251214T143000Z
-LOCATION:Paw.Ustronie lab.fiz.2
-DTSTART:20251214T121500Z
-SUMMARY:Metrologia (laboratorium)
-UID:72a98b15-d415-4ef6-adad-c0c4229e9e66@72a9.org
+UID:2153838f-1f94-4e81-8abe-93795e47eb74@2153.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Marcin Paprocki
@@ -237,93 +47,7 @@ DTEND:20251114T170000Z
 LOCATION:link do zajęć
 DTSTART:20251114T144500Z
 SUMMARY:Grafika inżynierska (wykład)
-UID:29c5c84f-526e-4737-8bcf-d6cf58cd64d9@29c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Marzena Wójcik
-DTEND:20251206T114500Z
-LOCATION:Bibl. 443
-DTSTART:20251206T093000Z
-SUMMARY:Podstawy organizacji i zarządzania (ćwiczenia)
-UID:8405c8a8-af4e-41d9-b066-eed74f72d437@8405.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
-DTEND:20251207T114500Z
-LOCATION:Paw.F 613
-DTSTART:20251207T093000Z
-SUMMARY:Ekonomia dla inżynierów (ćwiczenia)
-UID:3237ea74-4319-406b-8626-5a7cc9e83e0b@3237.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
-DTEND:20260125T143000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20260125T121500Z
-SUMMARY:Przetwarzanie danych w arkuszu kalkulacyjnym (ćwiczenia)
-UID:3bc2069d-c631-42cb-ba41-5f5d02027651@3bc2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251016T123000Z
-DTSTART:20251016T093000Z
-SUMMARY: (rezerwacja)
-UID:c626538e-3d3c-4a83-abeb-402208e85674@c626.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Rychwalski
-DTEND:20251024T160000Z
-DTSTART:20251024T134500Z
-SUMMARY:Ekologia i zarządzanie środowiskowe (Przeniesienie zajęć)
-UID:89b93875-c8d4-4fe6-b4b3-2b88efa6f691@89b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Rychwalski
-DTEND:20251114T194500Z
-LOCATION:link do zajęć
-DTSTART:20251114T173000Z
-SUMMARY:Ekologia i zarządzanie środowiskowe (wykład)
-UID:26ed4bf1-ebda-4f31-bbad-34ff8221dd56@26ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Olga Hnatyszak
-DTEND:20260125T153000Z
-LOCATION:Paw.Ustronie lab.fiz.2
-DTSTART:20260125T144500Z
-SUMMARY:Metrologia (laboratorium)
-UID:2f2a8c1c-01d3-4db3-9e55-12b8b75ce129@2f2a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Marcin Paprocki
-DTEND:20251010T184500Z
-LOCATION:link do zajęć
-DTSTART:20251010T163000Z
-SUMMARY:Grafika inżynierska (wykład)
-UID:bccfc0d0-a76f-4033-8d2c-99f1122b46a2@bccf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Olga Hnatyszak
-DTEND:20251220T114500Z
-LOCATION:Paw.Ustronie lab.fiz.2
-DTSTART:20251220T093000Z
-SUMMARY:Metrologia (laboratorium)
-UID:a1a54b6d-f1c7-43d0-9cae-a88f4f53ac8c@a1a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
-DTEND:20260125T114500Z
-LOCATION:Paw.C sala A
-DTSTART:20260125T093000Z
-SUMMARY:Ekonomia dla inżynierów (ćwiczenia)
-UID:9adbf0dc-892b-4b75-8f1b-5e6a3fcfd3c8@9adb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
-DTEND:20260124T170000Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260124T144500Z
-SUMMARY:Podstawy CAD (konwersatorium)
-UID:78b309f7-a000-4548-9c60-5bdd29ad25da@78b3.org
+UID:a76cc20a-2de8-4a59-a513-23af8c928086@a76c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
@@ -331,79 +55,102 @@ DTEND:20251206T143000Z
 LOCATION:Paw.A 013 lab. Win10\, Office21
 DTSTART:20251206T121500Z
 SUMMARY:Przetwarzanie danych w arkuszu kalkulacyjnym (ćwiczenia)
-UID:d6f82e33-7236-4565-96ce-413c15dd659b@d6f8.org
+UID:a4c66fbe-d3a1-449d-9478-8b10a5551887@a4c6.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
-DTEND:20251019T133000Z
-LOCATION:Paw.F 613
-DTSTART:20251019T111500Z
-SUMMARY:Ekonomia dla inżynierów (ćwiczenia)
-UID:89904f04-5f9d-4aaf-96c6-bf7c4fe7fa4b@8990.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Przemysław Szopa
-DTEND:20251011T104500Z
-LOCATION:link do zajęć
-DTSTART:20251011T083000Z
-SUMMARY:Metrologia (wykład)
-UID:039adc66-0261-4967-8ea7-7039577613d7@039a.org
+DESCRIPTION:Instructor: dr inż. Olga Hnatyszak
+DTEND:20251130T114500Z
+LOCATION:Paw.Ustronie lab.fiz.2
+DTSTART:20251130T093000Z
+SUMMARY:Metrologia (laboratorium)
+UID:bbb165f5-e233-4559-addb-7362029c8275@bbb1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
-DTEND:20251122T091500Z
+DTEND:20260111T143000Z
 LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251122T070000Z
+DTSTART:20260111T121500Z
 SUMMARY:Grafika inżynierska (laboratorium)
-UID:0e4dbeb0-4b9a-4441-bc40-600a95762748@0e4d.org
+UID:b3b394bc-cd32-45be-9ccd-2d22c99524b8@b3b3.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: Parlament Studencki Uek
-DTEND:20251017T161500Z
-LOCATION:link do zajęć
-DTSTART:20251017T144500Z
-SUMMARY: (wykład)
-UID:e138beda-ad82-4dbb-b1e8-4b9493bebeeb@e138.org
+DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
+DTEND:20251130T151500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251130T130000Z
+SUMMARY:Podstawy CAD (konwersatorium)
+UID:804b1320-2529-4a22-802a-a8824880973b@804b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20251205T170000Z
+LOCATION:Paw.U sala M
+DTSTART:20251205T144500Z
+SUMMARY:Ekologia i zarządzanie środowiskowe (ćwiczenia)
+UID:50ca4a25-e88b-48e4-a8bd-574f8ade9344@50ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
+DTEND:20251221T114500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251221T093000Z
+SUMMARY:Podstawy CAD (konwersatorium)
+UID:2185c9dd-a2b8-4e0f-91be-2d9c8da58fd8@2185.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Marzena Wójcik
-DTEND:20251026T143000Z
-LOCATION:Paw.C sala F
-DTSTART:20251026T121500Z
+DTEND:20251116T114500Z
+LOCATION:Paw.C sala E
+DTSTART:20251116T093000Z
 SUMMARY:Podstawy organizacji i zarządzania (ćwiczenia)
-UID:203fa836-678d-4847-9036-a104e7d7aab2@203f.org
+UID:b21c7b93-283f-4da7-b12b-1dcef5853e5b@b21c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Olga Hnatyszak
+DTEND:20251123T114500Z
+LOCATION:Paw.Ustronie lab.fiz.2
+DTSTART:20251123T093000Z
+SUMMARY:Metrologia (laboratorium)
+UID:972b64ac-5c72-411e-a59a-3bf770b222ab@972b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20251012T090000Z
+LOCATION:link do zajęć
+DTSTART:20251012T064500Z
+SUMMARY:Ekonomia dla inżynierów (wykład)
+UID:481c5836-fc89-4b63-94e1-36c546480a5b@481c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
+DTEND:20251019T104500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20251019T083000Z
+SUMMARY:Przetwarzanie danych w arkuszu kalkulacyjnym (ćwiczenia)
+UID:254b23f6-9459-42b2-9dd9-02a18ac88b13@254b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marcin Rychwalski
-DTEND:20251010T160000Z
-LOCATION:link do zajęć
-DTSTART:20251010T134500Z
-SUMMARY:Ekologia i zarządzanie środowiskowe (wykład)
-UID:39cf4ae4-da0d-4b51-8740-662e055d95ab@39cf.org
+DTEND:20251025T104500Z
+DTSTART:20251025T083000Z
+SUMMARY:Ekologia i zarządzanie środowiskowe (Przeniesienie zajęć)
+UID:c0ffcb03-b752-45de-aa92-b5f5c698c101@c0ff.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marcin Rychwalski
-DTEND:20251212T170000Z
-LOCATION:link do zajęć
-DTSTART:20251212T144500Z
-SUMMARY:Ekologia i zarządzanie środowiskowe (wykład)
-UID:f043a2d6-6c48-48b3-9202-4e3b6a6b8962@f043.org
+DTEND:20251116T143000Z
+LOCATION:Paw.S sala 11
+DTSTART:20251116T121500Z
+SUMMARY:Ekologia i zarządzanie środowiskowe (ćwiczenia)
+UID:8429abbc-30da-40f5-b484-c0cacf4bd0d2@8429.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
-DTEND:20251214T114500Z
-LOCATION:Paw.F 613
-DTSTART:20251214T093000Z
-SUMMARY:Ekonomia dla inżynierów (ćwiczenia)
-UID:4291244d-41d2-4c0e-8a9f-9c994bb5375b@4291.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
-DTEND:20251206T170000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251206T144500Z
-SUMMARY:Grafika inżynierska (laboratorium)
-UID:6c9f8e93-c3de-4736-92d0-e59bf3185f03@6c9f.org
+DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
+DTEND:20251121T170000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20251121T144500Z
+SUMMARY:Przetwarzanie danych w arkuszu kalkulacyjnym (ćwiczenia)
+UID:88e5db66-db5e-408f-a002-b01389353351@88e5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Przemysław Szopa
@@ -411,6 +158,259 @@ DTEND:20251115T143000Z
 LOCATION:link do zajęć
 DTSTART:20251115T121500Z
 SUMMARY:Metrologia (wykład)
-UID:f62af4e8-769c-44a3-9d7e-a1b7fe47115e@f62a.org
+UID:a7142910-36eb-4c9c-ba17-feb264b2d4d3@a714.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20251024T184500Z
+LOCATION:link do zajęć
+DTSTART:20251024T163000Z
+SUMMARY:Ekonomia dla inżynierów (wykład)
+UID:bbb6cc15-9618-4252-a66a-bc03c649f4bd@bbb6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20251212T170000Z
+LOCATION:link do zajęć
+DTSTART:20251212T144500Z
+SUMMARY:Ekologia i zarządzanie środowiskowe (wykład)
+UID:59018c37-6bc5-4fc2-b5eb-fb83ea69e796@5901.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
+DTEND:20251206T170000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20251206T144500Z
+SUMMARY:Grafika inżynierska (laboratorium)
+UID:f45b116b-03c8-435e-8411-70c03218517a@f45b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20251010T160000Z
+LOCATION:link do zajęć
+DTSTART:20251010T134500Z
+SUMMARY:Ekologia i zarządzanie środowiskowe (wykład)
+UID:5b97e6bc-d668-4845-84b4-8cbee84cce1d@5b97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251016T123000Z
+DTSTART:20251016T093000Z
+SUMMARY: (rezerwacja)
+UID:d23347d9-57e1-46a7-a30e-e32d73b170e3@d233.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
+DTEND:20251122T091500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20251122T070000Z
+SUMMARY:Grafika inżynierska (laboratorium)
+UID:978a5602-e815-40b1-bbf4-126ae016fc30@978a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
+DTEND:20251220T091500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20251220T070000Z
+SUMMARY:Przetwarzanie danych w arkuszu kalkulacyjnym (ćwiczenia)
+UID:21b58d68-70c4-4072-bd84-a39910e9389d@21b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20251115T091500Z
+LOCATION:link do zajęć
+DTSTART:20251115T070000Z
+SUMMARY:Podstawy organizacji i zarządzania (wykład)
+UID:f9c89fa1-d331-49f3-bd2d-4b989f1728ce@f9c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20251018T104500Z
+LOCATION:link do zajęć
+DTSTART:20251018T083000Z
+SUMMARY:Ekologia i zarządzanie środowiskowe (wykład)
+UID:0bfa4780-9561-434e-b882-d6cfff9249be@0bfa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
+DTEND:20260110T091500Z
+LOCATION:Paw.U sala M
+DTSTART:20260110T070000Z
+SUMMARY:Ekonomia dla inżynierów (ćwiczenia)
+UID:2b63da1c-56a1-44c6-9580-a2654388c74c@2b63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20251114T194500Z
+LOCATION:link do zajęć
+DTSTART:20251114T173000Z
+SUMMARY:Ekologia i zarządzanie środowiskowe (wykład)
+UID:217f0b5c-b90c-4291-a1ce-bb57798743e4@217f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251217T134500Z
+DTSTART:20251217T121500Z
+SUMMARY: (rezerwacja)
+UID:69627d07-5c6d-4f6b-90fd-4a429cc390cc@6962.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marzena Wójcik
+DTEND:20251026T143000Z
+LOCATION:Paw.C sala F
+DTSTART:20251026T121500Z
+SUMMARY:Podstawy organizacji i zarządzania (ćwiczenia)
+UID:9d6b2779-c74e-4cb1-9f1e-86a27c6b0be1@9d6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20251115T114500Z
+LOCATION:link do zajęć
+DTSTART:20251115T093000Z
+SUMMARY:Ekonomia dla inżynierów (wykład)
+UID:b6b21824-4421-4795-9e17-27f79d298ff6@b6b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
+DTEND:20251026T114500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20251026T093000Z
+SUMMARY:Przetwarzanie danych w arkuszu kalkulacyjnym (ćwiczenia)
+UID:32dfb27d-b278-422e-b0ac-84563f81ed0e@32df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20251010T184500Z
+LOCATION:link do zajęć
+DTSTART:20251010T163000Z
+SUMMARY:Grafika inżynierska (wykład)
+UID:5c4f1d85-30a6-4dd8-b0bc-7a67988c9356@5c4f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
+DTEND:20260125T114500Z
+LOCATION:Paw.C sala A
+DTSTART:20260125T093000Z
+SUMMARY:Ekonomia dla inżynierów (ćwiczenia)
+UID:d82c2275-fd51-498c-917f-56334cb49aac@d82c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20251024T160000Z
+DTSTART:20251024T134500Z
+SUMMARY:Ekologia i zarządzanie środowiskowe (Przeniesienie zajęć)
+UID:6f76c48e-8429-4570-9ab1-b05786cf0da5@6f76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20251011T081500Z
+LOCATION:link do zajęć
+DTSTART:20251011T060000Z
+SUMMARY:Podstawy organizacji i zarządzania (wykład)
+UID:c70ef990-6390-4847-a7f3-c71eb75b91fa@c70e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
+DTEND:20251207T114500Z
+LOCATION:Paw.F 613
+DTSTART:20251207T093000Z
+SUMMARY:Ekonomia dla inżynierów (ćwiczenia)
+UID:c4d54e5b-801a-478b-b190-c9f143553acc@c4d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Olga Hnatyszak
+DTEND:20260125T153000Z
+LOCATION:Paw.Ustronie lab.fiz.2
+DTSTART:20260125T144500Z
+SUMMARY:Metrologia (laboratorium)
+UID:c5f5f964-6764-480a-98ac-097064d79bd5@c5f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Przemysław Szopa
+DTEND:20251011T104500Z
+LOCATION:link do zajęć
+DTSTART:20251011T083000Z
+SUMMARY:Metrologia (wykład)
+UID:44d6923e-5920-4f34-8a6a-f8463dec63b3@44d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
+DTEND:20251019T133000Z
+LOCATION:Paw.F 613
+DTSTART:20251019T111500Z
+SUMMARY:Ekonomia dla inżynierów (ćwiczenia)
+UID:66fdfe38-55fc-4d5a-8493-1d1e3d66ee75@66fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marzena Wójcik
+DTEND:20251206T114500Z
+LOCATION:Bibl. 443
+DTSTART:20251206T093000Z
+SUMMARY:Podstawy organizacji i zarządzania (ćwiczenia)
+UID:9eed19f1-2d77-4fdc-a634-1ccdcd5423ee@9eed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Olga Hnatyszak
+DTEND:20251220T114500Z
+LOCATION:Paw.Ustronie lab.fiz.2
+DTSTART:20251220T093000Z
+SUMMARY:Metrologia (laboratorium)
+UID:e84abca1-a508-4e6b-8447-816d03bdb8bc@e84a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
+DTEND:20260124T170000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260124T144500Z
+SUMMARY:Podstawy CAD (konwersatorium)
+UID:e1c64ead-3a89-46f1-9526-851de3bd75cf@e1c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
+DTEND:20251214T114500Z
+LOCATION:Paw.F 613
+DTSTART:20251214T093000Z
+SUMMARY:Ekonomia dla inżynierów (ćwiczenia)
+UID:d2146d8c-6a8c-4177-8e64-91c4fdddb185@d214.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
+DTEND:20260125T143000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20260125T121500Z
+SUMMARY:Przetwarzanie danych w arkuszu kalkulacyjnym (ćwiczenia)
+UID:716fa223-3ffa-4a17-8c3f-356ca0df48c8@716f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Przemysław Szopa
+DTEND:20251025T081500Z
+LOCATION:link do zajęć
+DTSTART:20251025T060000Z
+SUMMARY:Metrologia (wykład)
+UID:adf47107-c250-4431-8218-dabd7c1bbe52@adf4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20251017T184500Z
+LOCATION:link do zajęć
+DTSTART:20251017T163000Z
+SUMMARY:Grafika inżynierska (wykład)
+UID:d7a22484-d882-4996-b5c8-117f05d6e3bc@d7a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: Parlament Studencki Uek
+DTEND:20251017T161500Z
+LOCATION:link do zajęć
+DTSTART:20251017T144500Z
+SUMMARY: (wykład)
+UID:49181945-0d12-4381-a9f7-9503ba51f68f@4918.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20260111T114500Z
+LOCATION:Paw.S sala 11
+DTSTART:20260111T093000Z
+SUMMARY:Ekologia i zarządzanie środowiskowe (ćwiczenia)
+UID:bddda604-e4a1-430e-b4ba-697459bde156@bddd.org
 END:VEVENT
 END:VCALENDAR

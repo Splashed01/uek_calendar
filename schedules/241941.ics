@@ -2,11 +2,26 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Jusyna Zając-Wysocka
-DTEND:20251213T194500Z
-DTSTART:20251213T173000Z
-SUMMARY:Podatki bezpośrednie II - podatki i opłaty samorządowe (Przeniesienie zajęć)
-UID:b40c6f95-982d-4d7a-b94c-02086eff1bef@b40c.org
+DESCRIPTION:Instructor: dr Paweł Dąbek
+DTEND:20251004T133000Z
+LOCATION:link do zajęć
+DTSTART:20251004T111500Z
+SUMMARY:Postępowanie administracyjne i sądowo-administracyjne (wykład)
+UID:beb4de22-c90b-4f8d-b170-da13f2c4f00a@beb4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251016T123000Z
+DTSTART:20251016T093000Z
+SUMMARY: (rezerwacja)
+UID:49beaa39-bfb6-4e33-88c6-b9bc60dc2428@49be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251217T134500Z
+DTSTART:20251217T121500Z
+SUMMARY: (rezerwacja)
+UID:eebe951e-a9dc-498d-9e90-6352caaa5924@eebe.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Paweł Dąbek
@@ -14,94 +29,7 @@ DTEND:20251129T114500Z
 LOCATION:Paw.C sala A
 DTSTART:20251129T093000Z
 SUMMARY:Postępowanie administracyjne i sądowo-administracyjne (ćwiczenia)
-UID:7e8d708a-923c-4df1-8592-51fd569650c3@7e8d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Karolina Gwiżdż
-DTEND:20251129T143000Z
-LOCATION:Paw.C sala A
-DTSTART:20251129T121500Z
-SUMMARY:Podatki pośrednie II - akcyza\, podatek od gier (ćwiczenia)
-UID:bd9c62cd-6e67-409b-abd5-58a771630b8a@bd9c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Podsiadło
-DTEND:20251123T100000Z
-LOCATION:link do zajęć
-DTSTART:20251123T074500Z
-SUMMARY:Uwarunkowania Podatkowe w działalności gospodarczej (wykład do wyboru)
-UID:c8eedafa-072a-418f-9b4a-6c714e03fa95@c8ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Jusyna Zając-Wysocka
-DTEND:20251214T124500Z
-LOCATION:Bud.gł. 8
-DTSTART:20251214T103000Z
-SUMMARY:Podatki bezpośrednie II - podatki i opłaty samorządowe (ćwiczenia)
-UID:2c97c00a-c89c-4e5e-80f1-ecc5809c690f@2c97.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Witold Furman
-DTEND:20251024T184500Z
-DTSTART:20251024T163000Z
-SUMMARY:Podatki i rachunkowość w organizacjach pozarządowych (Przeniesienie zajęć)
-UID:4d5142d2-48e9-409f-8dcb-85deffebc9a2@4d51.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Dąbek
-DTEND:20251213T143000Z
-LOCATION:Bibl. 441
-DTSTART:20251213T121500Z
-SUMMARY:Postępowanie administracyjne i sądowo-administracyjne (ćwiczenia)
-UID:64c6ec15-d1f7-4d19-8e0f-684d4ca29b06@64c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Krzysztof Surówka
-DTEND:20251005T090000Z
-LOCATION:link do zajęć
-DTSTART:20251005T064500Z
-SUMMARY:Podatki bezpośrednie II - podatki i opłaty samorządowe (wykład)
-UID:f4014a9b-280c-44c5-9ab3-4d11be3d881f@f401.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Dąbek
-DTEND:20251025T081500Z
-LOCATION:Bibl. 443
-DTSTART:20251025T060000Z
-SUMMARY:Postępowanie administracyjne i sądowo-administracyjne (ćwiczenia)
-UID:ca3d2520-c202-4e7b-b72c-a94cee71775f@ca3d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Witold Furman
-DTEND:20251005T114500Z
-LOCATION:link do zajęć
-DTSTART:20251005T093000Z
-SUMMARY:Podatki i rachunkowość w organizacjach pozarządowych (wykład do wyboru)
-UID:330c905e-1588-498e-8641-b4acc873253f@330c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Karolina Gwiżdż
-DTEND:20260110T114500Z
-LOCATION:Bibl. 443
-DTSTART:20260110T093000Z
-SUMMARY:Podatki pośrednie II - akcyza\, podatek od gier (ćwiczenia)
-UID:64c776d7-2bbc-413a-b601-28874c780dd4@64c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Knawa
-DTEND:20251114T170000Z
-LOCATION:link do zajęć
-DTSTART:20251114T144500Z
-SUMMARY:Podatki pośrednie II - akcyza\, podatek od gier (wykład)
-UID:c3e146c5-e2ad-45a8-a6bf-710d67074c33@c3e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Jusyna Zając-Wysocka
-DTEND:20251221T124500Z
-LOCATION:Bud.gł. 8
-DTSTART:20251221T103000Z
-SUMMARY:Podatki bezpośrednie II - podatki i opłaty samorządowe (ćwiczenia)
-UID:a6c58da2-cc25-4eeb-a7b9-3d9f57df8996@a6c5.org
+UID:aa931a00-7b8b-46bc-8056-9b9b10383ec9@aa93.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Piotr Podsiadło
@@ -109,62 +37,7 @@ DTEND:20251003T160000Z
 LOCATION:link do zajęć
 DTSTART:20251003T134500Z
 SUMMARY:Uwarunkowania Podatkowe w działalności gospodarczej (wykład do wyboru)
-UID:d9713402-49aa-4e8a-bb6d-fdf2ebe9d378@d971.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251217T134500Z
-DTSTART:20251217T121500Z
-SUMMARY: (rezerwacja)
-UID:89a96fb2-5b1b-485a-869d-3910cfad00be@89a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Karolina Gwiżdż
-DTEND:20251213T114500Z
-LOCATION:Bibl. 443
-DTSTART:20251213T093000Z
-SUMMARY:Podatki pośrednie II - akcyza\, podatek od gier (ćwiczenia)
-UID:0db0ef65-cbc5-4685-9c06-e5f90dd910a5@0db0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Dąbek
-DTEND:20251004T133000Z
-LOCATION:link do zajęć
-DTSTART:20251004T111500Z
-SUMMARY:Postępowanie administracyjne i sądowo-administracyjne (wykład)
-UID:d5ae6e86-16c2-417a-9085-ff1b22474943@d5ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Karolina Gwiżdż
-DTEND:20251220T091500Z
-LOCATION:Bibl. 443
-DTSTART:20251220T070000Z
-SUMMARY:Podatki pośrednie II - akcyza\, podatek od gier (ćwiczenia)
-UID:3820e09c-2c29-4add-a57d-b3d55591a8fe@3820.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Dąbek
-DTEND:20251220T114500Z
-LOCATION:Bibl. 441
-DTSTART:20251220T093000Z
-SUMMARY:Postępowanie administracyjne i sądowo-administracyjne (ćwiczenia)
-UID:ac8ff8c1-08d9-452d-a4e0-18819aa6bdc8@ac8f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Krzysztof Surówka
-DTEND:20251116T124500Z
-LOCATION:link do zajęć
-DTSTART:20251116T103000Z
-SUMMARY:Podatki bezpośrednie II - podatki i opłaty samorządowe (wykład)
-UID:dbc34ee3-e472-418b-b75f-74c53beca9e1@dbc3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Dąbek
-DTEND:20251114T194500Z
-LOCATION:link do zajęć
-DTSTART:20251114T173000Z
-SUMMARY:Postępowanie administracyjne i sądowo-administracyjne (wykład)
-UID:152d2146-6f0e-4f42-a310-4acd29726688@152d.org
+UID:e242fec3-afe1-494e-9178-c91c69306db9@e242.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Jusyna Zając-Wysocka
@@ -172,110 +45,15 @@ DTEND:20251220T143000Z
 LOCATION:Bud.gł. 8
 DTSTART:20251220T121500Z
 SUMMARY:Podatki bezpośrednie II - podatki i opłaty samorządowe (ćwiczenia)
-UID:8ee1a2ba-7f14-40e7-bf7a-88c52ccce7a5@8ee1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Karolina Gwiżdż
-DTEND:20251213T170000Z
-LOCATION:Paw.S sala 3
-DTSTART:20251213T144500Z
-SUMMARY:Podatki pośrednie II - akcyza\, podatek od gier (ćwiczenia)
-UID:e35c845d-4a10-41ef-8bab-d85f6053c7c9@e35c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Jusyna Zając-Wysocka
-DTEND:20260111T124500Z
-LOCATION:Bud.gł. 9
-DTSTART:20260111T103000Z
-SUMMARY:Podatki bezpośrednie II - podatki i opłaty samorządowe (ćwiczenia)
-UID:17fdd2b9-04fb-43d1-b44b-f9685ffd2932@17fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Podsiadło
-DTEND:20251024T160000Z
-LOCATION:link do zajęć
-DTSTART:20251024T134500Z
-SUMMARY:Uwarunkowania Podatkowe w działalności gospodarczej (wykład do wyboru)
-UID:6573af5e-0ea6-4737-ab55-2cde47b9512e@6573.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Jusyna Zając-Wysocka
-DTEND:20260110T170000Z
-LOCATION:Bud.gł. 8
-DTSTART:20260110T144500Z
-SUMMARY:Podatki bezpośrednie II - podatki i opłaty samorządowe (ćwiczenia)
-UID:9c372d4c-fd78-476c-b61b-030c69d5fd6d@9c37.org
+UID:57ee68ef-14a0-4dfa-b7f6-b75cffbdb7f6@57ee.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Paweł Dąbek
-DTEND:20251115T170000Z
-LOCATION:Bibl. 441
-DTSTART:20251115T144500Z
+DTEND:20251025T081500Z
+LOCATION:Bibl. 443
+DTSTART:20251025T060000Z
 SUMMARY:Postępowanie administracyjne i sądowo-administracyjne (ćwiczenia)
-UID:499571fc-ba6e-4262-b1cf-166b8997c8f7@4995.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Krzysztof Surówka
-DTEND:20251018T133000Z
-LOCATION:link do zajęć
-DTSTART:20251018T111500Z
-SUMMARY:Podatki bezpośrednie II - podatki i opłaty samorządowe (wykład)
-UID:dff63ca2-585e-4846-b3a5-eb0d13332a35@dff6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Witold Furman
-DTEND:20251116T100000Z
-LOCATION:link do zajęć
-DTSTART:20251116T074500Z
-SUMMARY:Podatki i rachunkowość w organizacjach pozarządowych (wykład do wyboru)
-UID:3d833934-1f1c-42d5-b880-33b9b25c8ac7@3d83.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Jusyna Zając-Wysocka
-DTEND:20251115T114500Z
-LOCATION:Paw.E sala J
-DTSTART:20251115T093000Z
-SUMMARY:Podatki bezpośrednie II - podatki i opłaty samorządowe (ćwiczenia)
-UID:e2eecb88-58c3-48c3-b2eb-7266ed2d8b3b@e2ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Knawa
-DTEND:20251018T104500Z
-LOCATION:link do zajęć
-DTSTART:20251018T083000Z
-SUMMARY:Podatki pośrednie II - akcyza\, podatek od gier (wykład)
-UID:ff7a3557-0342-4855-a26f-027270e1fb99@ff7a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Dąbek
-DTEND:20251026T124500Z
-LOCATION:link do zajęć
-DTSTART:20251026T103000Z
-SUMMARY:Postępowanie administracyjne i sądowo-administracyjne (wykład)
-UID:c4a9a4a4-6bcc-4302-b118-ed020e95b35e@c4a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251016T123000Z
-DTSTART:20251016T093000Z
-SUMMARY: (rezerwacja)
-UID:267d1bf5-6d86-480e-b448-5e5d239c3404@267d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Karolina Gwiżdż
-DTEND:20251025T133000Z
-LOCATION:Paw.C sala A
-DTSTART:20251025T111500Z
-SUMMARY:Podatki pośrednie II - akcyza\, podatek od gier (ćwiczenia)
-UID:c043e047-7264-428d-a9c3-367a97a7809a@c043.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Dąbek
-DTEND:20260110T143000Z
-LOCATION:Bibl. 441
-DTSTART:20260110T121500Z
-SUMMARY:Postępowanie administracyjne i sądowo-administracyjne (ćwiczenia)
-UID:65644fcf-b535-421e-82b1-b8cdf69b7eb6@6564.org
+UID:03c98f34-a58b-46f0-b89d-77fe30061693@03c9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Katarzyna Knawa
@@ -283,6 +61,228 @@ DTEND:20251004T104500Z
 LOCATION:link do zajęć
 DTSTART:20251004T083000Z
 SUMMARY:Podatki pośrednie II - akcyza\, podatek od gier (wykład)
-UID:45a5cd0a-b706-409b-b2be-8701b36cc493@45a5.org
+UID:7190c972-2d6e-4505-842f-85d7886335d5@7190.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jusyna Zając-Wysocka
+DTEND:20251115T114500Z
+LOCATION:Paw.E sala J
+DTSTART:20251115T093000Z
+SUMMARY:Podatki bezpośrednie II - podatki i opłaty samorządowe (ćwiczenia)
+UID:8baf62b2-56e0-438d-a79b-b0f4a224f1fd@8baf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Gwiżdż
+DTEND:20251220T091500Z
+LOCATION:Bibl. 443
+DTSTART:20251220T070000Z
+SUMMARY:Podatki pośrednie II - akcyza\, podatek od gier (ćwiczenia)
+UID:9f9ed608-fc88-4a0a-864c-673059eafdff@9f9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Gwiżdż
+DTEND:20251025T133000Z
+LOCATION:Paw.C sala A
+DTSTART:20251025T111500Z
+SUMMARY:Podatki pośrednie II - akcyza\, podatek od gier (ćwiczenia)
+UID:449594b3-43f9-4f37-a8f4-9a33c3fbebab@4495.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jusyna Zając-Wysocka
+DTEND:20251213T194500Z
+DTSTART:20251213T173000Z
+SUMMARY:Podatki bezpośrednie II - podatki i opłaty samorządowe (Przeniesienie zajęć)
+UID:ac65a6b8-e9c9-47a3-b8a6-6e9c0454cc42@ac65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20251123T100000Z
+LOCATION:link do zajęć
+DTSTART:20251123T074500Z
+SUMMARY:Uwarunkowania Podatkowe w działalności gospodarczej (wykład do wyboru)
+UID:5ace9f7b-ba96-4b8f-a919-90d54d28cb13@5ace.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Krzysztof Surówka
+DTEND:20251018T133000Z
+LOCATION:link do zajęć
+DTSTART:20251018T111500Z
+SUMMARY:Podatki bezpośrednie II - podatki i opłaty samorządowe (wykład)
+UID:963fde98-8ac1-40f7-a245-41398910a556@963f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Gwiżdż
+DTEND:20251213T114500Z
+LOCATION:Bibl. 443
+DTSTART:20251213T093000Z
+SUMMARY:Podatki pośrednie II - akcyza\, podatek od gier (ćwiczenia)
+UID:fafc0880-47ad-4676-8ca8-fe0f1d40eb46@fafc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Knawa
+DTEND:20251114T170000Z
+LOCATION:link do zajęć
+DTSTART:20251114T144500Z
+SUMMARY:Podatki pośrednie II - akcyza\, podatek od gier (wykład)
+UID:2cf11492-7cb7-4560-b829-a77d8964615c@2cf1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Gwiżdż
+DTEND:20260110T114500Z
+LOCATION:Bibl. 443
+DTSTART:20260110T093000Z
+SUMMARY:Podatki pośrednie II - akcyza\, podatek od gier (ćwiczenia)
+UID:fd2127a5-6197-44e7-a70d-f9727043e5e2@fd21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Dąbek
+DTEND:20251114T194500Z
+LOCATION:link do zajęć
+DTSTART:20251114T173000Z
+SUMMARY:Postępowanie administracyjne i sądowo-administracyjne (wykład)
+UID:5aadb9bb-5ff1-4ac0-bbab-243d5bc482d6@5aad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jusyna Zając-Wysocka
+DTEND:20251221T124500Z
+LOCATION:Bud.gł. 8
+DTSTART:20251221T103000Z
+SUMMARY:Podatki bezpośrednie II - podatki i opłaty samorządowe (ćwiczenia)
+UID:482c0a25-6561-4619-af06-1993d93ff52e@482c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Dąbek
+DTEND:20260110T143000Z
+LOCATION:Bibl. 441
+DTSTART:20260110T121500Z
+SUMMARY:Postępowanie administracyjne i sądowo-administracyjne (ćwiczenia)
+UID:949f7244-4a69-4e5c-9e38-cb9bfbd47735@949f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Krzysztof Surówka
+DTEND:20251116T124500Z
+LOCATION:link do zajęć
+DTSTART:20251116T103000Z
+SUMMARY:Podatki bezpośrednie II - podatki i opłaty samorządowe (wykład)
+UID:bb716ff0-35ae-4fe5-a3d8-0c2c69597d61@bb71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Dąbek
+DTEND:20251220T114500Z
+LOCATION:Bibl. 441
+DTSTART:20251220T093000Z
+SUMMARY:Postępowanie administracyjne i sądowo-administracyjne (ćwiczenia)
+UID:d98af8bc-7ded-405a-bc68-3e83c98d156f@d98a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Krzysztof Surówka
+DTEND:20251005T090000Z
+LOCATION:link do zajęć
+DTSTART:20251005T064500Z
+SUMMARY:Podatki bezpośrednie II - podatki i opłaty samorządowe (wykład)
+UID:21f6101a-17b6-4a70-9165-a0628a923991@21f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jusyna Zając-Wysocka
+DTEND:20260110T170000Z
+LOCATION:Bud.gł. 8
+DTSTART:20260110T144500Z
+SUMMARY:Podatki bezpośrednie II - podatki i opłaty samorządowe (ćwiczenia)
+UID:91982166-2ff1-4087-ade4-65da9e52d029@9198.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Gwiżdż
+DTEND:20251129T143000Z
+LOCATION:Paw.C sala A
+DTSTART:20251129T121500Z
+SUMMARY:Podatki pośrednie II - akcyza\, podatek od gier (ćwiczenia)
+UID:8c1adeee-ce57-43c6-b87f-f225dec5fa0f@8c1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Dąbek
+DTEND:20251213T143000Z
+LOCATION:Bibl. 441
+DTSTART:20251213T121500Z
+SUMMARY:Postępowanie administracyjne i sądowo-administracyjne (ćwiczenia)
+UID:53ed59f9-6523-45c5-88a4-25521bd502a6@53ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jusyna Zając-Wysocka
+DTEND:20260111T124500Z
+LOCATION:Bud.gł. 9
+DTSTART:20260111T103000Z
+SUMMARY:Podatki bezpośrednie II - podatki i opłaty samorządowe (ćwiczenia)
+UID:3933509d-ddf2-4580-83f5-31495dceb180@3933.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Knawa
+DTEND:20251018T104500Z
+LOCATION:link do zajęć
+DTSTART:20251018T083000Z
+SUMMARY:Podatki pośrednie II - akcyza\, podatek od gier (wykład)
+UID:3a7c7381-a771-476f-9507-c2dc85190dfb@3a7c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Dąbek
+DTEND:20251115T170000Z
+LOCATION:Bibl. 441
+DTSTART:20251115T144500Z
+SUMMARY:Postępowanie administracyjne i sądowo-administracyjne (ćwiczenia)
+UID:84a95965-626a-42dd-91c3-5bdbf405b64a@84a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Witold Furman
+DTEND:20251116T100000Z
+LOCATION:link do zajęć
+DTSTART:20251116T074500Z
+SUMMARY:Podatki i rachunkowość w organizacjach pozarządowych (wykład do wyboru)
+UID:bc0fcf07-cbdd-4680-93e3-39e20db14b43@bc0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jusyna Zając-Wysocka
+DTEND:20251214T124500Z
+LOCATION:Bud.gł. 8
+DTSTART:20251214T103000Z
+SUMMARY:Podatki bezpośrednie II - podatki i opłaty samorządowe (ćwiczenia)
+UID:6975a22c-68c1-43f4-bec2-17eeb45d2fbc@6975.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Dąbek
+DTEND:20251026T124500Z
+LOCATION:link do zajęć
+DTSTART:20251026T103000Z
+SUMMARY:Postępowanie administracyjne i sądowo-administracyjne (wykład)
+UID:5f2b818c-8c05-4c3e-afc1-207abc71e786@5f2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20251024T160000Z
+LOCATION:link do zajęć
+DTSTART:20251024T134500Z
+SUMMARY:Uwarunkowania Podatkowe w działalności gospodarczej (wykład do wyboru)
+UID:165dedcb-bf07-4aea-bf0b-a7fa3953faa4@165d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Witold Furman
+DTEND:20251024T184500Z
+DTSTART:20251024T163000Z
+SUMMARY:Podatki i rachunkowość w organizacjach pozarządowych (Przeniesienie zajęć)
+UID:3a37c802-f19e-4b91-ad85-fa46623dce58@3a37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Witold Furman
+DTEND:20251005T114500Z
+LOCATION:link do zajęć
+DTSTART:20251005T093000Z
+SUMMARY:Podatki i rachunkowość w organizacjach pozarządowych (wykład do wyboru)
+UID:971bc19d-69b3-4a98-8b4e-b909c9a790b6@971b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Gwiżdż
+DTEND:20251213T170000Z
+LOCATION:Paw.S sala 3
+DTSTART:20251213T144500Z
+SUMMARY:Podatki pośrednie II - akcyza\, podatek od gier (ćwiczenia)
+UID:b58d5719-71a4-4d64-bcdc-739efe58adf4@b58d.org
 END:VEVENT
 END:VCALENDAR
