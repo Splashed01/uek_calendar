@@ -2,12 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
-DTEND:20260121T163000Z
-LOCATION:Paw.F CJ 311
-DTSTART:20260121T154500Z
-SUMMARY:Rewizja finansowa (ćwiczenia)
-UID:875f518c-ec6d-4496-897f-7226c5ea6fef@875f.org
+DESCRIPTION:Instructor: dr Joanna Rutkowska
+DTEND:20251106T153000Z
+LOCATION:Paw.U sala N
+DTSTART:20251106T140000Z
+SUMMARY:Analiza sprawozdań finansowych (ćwiczenia)
+UID:70eb472b-11d1-48db-93ca-dfdce7488097@70eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251016T123000Z
+DTSTART:20251016T093000Z
+SUMMARY: (rezerwacja)
+UID:42f866c7-7db6-49c7-b3ef-69002f04c239@42f8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Joanna Rutkowska
@@ -15,61 +22,7 @@ DTEND:20251002T110000Z
 LOCATION:Paw.A 014 lab. Win8.1 Office21
 DTSTART:20251002T093000Z
 SUMMARY:Analiza sprawozdań finansowych (ćwiczenia)
-UID:c0394b3e-cfc9-4411-887b-7b3b25d2a307@c039.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Chłapek
-DTEND:20251020T110000Z
-LOCATION:link do zajęć
-DTSTART:20251020T093000Z
-SUMMARY:Konsolidacja sprawozdań finansowych (wykład)
-UID:1b345b6f-5a5f-4ef5-ba4f-dd724cf2bed9@1b34.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Rutkowska
-DTEND:20251127T153000Z
-LOCATION:Paw.C sala F
-DTSTART:20251127T140000Z
-SUMMARY:Analiza sprawozdań finansowych (ćwiczenia)
-UID:837d85c2-90c8-4d44-8cbb-6e2c67678abc@837d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Mazurczak-Mąka
-DTEND:20251126T120000Z
-LOCATION:link do zajęć
-DTSTART:20251126T103000Z
-SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (wykład)
-UID:32605362-22f6-428f-ab81-b23a69a4c368@3260.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Andrzejewski
-DTEND:20251210T134500Z
-LOCATION:link do zajęć
-DTSTART:20251210T130000Z
-SUMMARY:Rewizja finansowa (wykład)
-UID:ad5ff1b6-827e-4157-a6e7-038d99f0e19a@ad5f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Chłapek
-DTEND:20251013T110000Z
-DTSTART:20251013T093000Z
-SUMMARY:Konsolidacja sprawozdań finansowych (Przeniesienie zajęć)
-UID:6a55092e-010f-4618-92fb-09fb5004d28b@6a55.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251217T134500Z
-DTSTART:20251217T121500Z
-SUMMARY: (rezerwacja)
-UID:a80a8aff-c056-4d75-857c-cd3bc48a81bb@a80a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Rutkowska
-DTEND:20251013T124500Z
-LOCATION:link do zajęć
-DTSTART:20251013T111500Z
-SUMMARY:Analiza sprawozdań finansowych (wykład)
-UID:509c5258-d0dc-487a-b18b-34fdb9bf2ff4@509c.org
+UID:bcdd9208-98cd-4e42-a95a-d8b53bd99812@bcdd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Katarzyna Chłapek
@@ -77,260 +30,7 @@ DTEND:20251027T083000Z
 LOCATION:link do zajęć
 DTSTART:20251027T070000Z
 SUMMARY:Konsolidacja sprawozdań finansowych (wykład)
-UID:3f9ce138-6f1a-47d1-ae57-c9fa820230d2@3f9c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Mazurczak-Mąka
-DTEND:20251029T120000Z
-LOCATION:link do zajęć
-DTSTART:20251029T103000Z
-SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (wykład)
-UID:779db8fc-9977-4cfe-a85d-d034754e4a8e@779d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Mazurczak-Mąka
-DTEND:20251106T134500Z
-LOCATION:Paw.F 107
-DTSTART:20251106T121500Z
-SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (ćwiczenia)
-UID:ec8a52b0-6cf1-46cd-97b4-ade89db1447f@ec8a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Mazurczak-Mąka
-DTEND:20260115T134500Z
-LOCATION:Platforma Moodle
-DTSTART:20260115T121500Z
-SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (Ćwiczenia e-learningowe)
-UID:25824ffa-9734-4e2a-90be-028cd5ca1fd5@2582.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Rutkowska
-DTEND:20251030T120000Z
-DTSTART:20251030T103000Z
-SUMMARY:Analiza sprawozdań finansowych (Przeniesienie zajęć)
-UID:1780d197-6da8-484f-ad4b-c5e581e9d74f@1780.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Rutkowska
-DTEND:20251030T153000Z
-LOCATION:Paw.F 109
-DTSTART:20251030T140000Z
-SUMMARY:Analiza sprawozdań finansowych (ćwiczenia)
-UID:7e8d1493-409d-4fe1-a09d-eb011b676bbd@7e8d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
-DTEND:20251002T124500Z
-LOCATION:Paw.F 515
-DTSTART:20251002T111500Z
-SUMMARY:Rewizja finansowa (ćwiczenia)
-UID:a740057a-5863-49af-8307-e2ba80656eac@a740.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
-DTEND:20251001T091500Z
-DTSTART:20251001T074500Z
-SUMMARY:Zarządzanie finansami przedsiębiorstw w ujęciu międzynarodowym ACCA (wykład do wyboru)
-UID:88151078-525b-4e68-b342-1e7268cff427@8815.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
-DTEND:20251029T101500Z
-LOCATION:link do zajęć
-DTSTART:20251029T084500Z
-SUMMARY:Zarządzanie finansami przedsiębiorstw w ujęciu międzynarodowym ACCA (wykład do wyboru)
-UID:ac7f36e6-b2e6-4060-a006-fa57948cba85@ac7f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Rutkowska
-DTEND:20251106T153000Z
-LOCATION:Paw.U sala N
-DTSTART:20251106T140000Z
-SUMMARY:Analiza sprawozdań finansowych (ćwiczenia)
-UID:7eb5da34-fe61-45cf-b84b-bda389c01584@7eb5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Mazurczak-Mąka
-DTEND:20260122T171500Z
-LOCATION:Platforma Moodle
-DTSTART:20260122T154500Z
-SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (Ćwiczenia e-learningowe)
-UID:19691cbf-e1aa-4f01-acd4-1ded4a609074@1969.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
-DTEND:20251112T101500Z
-LOCATION:link do zajęć
-DTSTART:20251112T084500Z
-SUMMARY:Zarządzanie finansami przedsiębiorstw w ujęciu międzynarodowym ACCA (wykład do wyboru)
-UID:7976c91c-5450-4ee4-833f-6511cd99fca2@7976.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Chłapek
-DTEND:20260113T134500Z
-LOCATION:Paw.F 102
-DTSTART:20260113T121500Z
-SUMMARY:Konsolidacja sprawozdań finansowych (ćwiczenia)
-UID:3a2eb2da-6209-4304-b872-921c3d3ada7e@3a2e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251016T123000Z
-DTSTART:20251016T093000Z
-SUMMARY: (rezerwacja)
-UID:3060c3a0-7ee1-4924-882c-c504c56101dd@3060.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Andrzejewski
-DTEND:20251105T134500Z
-LOCATION:link do zajęć
-DTSTART:20251105T121500Z
-SUMMARY:Rewizja finansowa (wykład)
-UID:f77cf511-f2f3-4e14-bed5-2a961d496c0b@f77c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Chłapek
-DTEND:20251027T120000Z
-LOCATION:link do zajęć
-DTSTART:20251027T103000Z
-SUMMARY:Konsolidacja sprawozdań finansowych (wykład)
-UID:4ee61cf4-4fd0-46c3-9504-d441e2eaca8a@4ee6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Rutkowska
-DTEND:20251020T124500Z
-LOCATION:link do zajęć
-DTSTART:20251020T111500Z
-SUMMARY:Analiza sprawozdań finansowych (wykład)
-UID:a2557795-86a6-4dab-9f40-021891aa55c6@a255.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Chłapek
-DTEND:20251117T120000Z
-LOCATION:link do zajęć
-DTSTART:20251117T103000Z
-SUMMARY:Konsolidacja sprawozdań finansowych (wykład)
-UID:a94d7c7c-2536-414e-9911-e13a374c124d@a94d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Rutkowska
-DTEND:20251113T153000Z
-LOCATION:Paw.S sala 3
-DTSTART:20251113T140000Z
-SUMMARY:Analiza sprawozdań finansowych (ćwiczenia)
-UID:6c3c69a1-0a49-4a42-bac3-b5e18ba21ce1@6c3c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Mazurczak-Mąka
-DTEND:20251120T134500Z
-LOCATION:Paw.F 107
-DTSTART:20251120T121500Z
-SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (ćwiczenia)
-UID:e68ba240-5e93-4d7b-8d04-1873725af9e0@e68b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Chłapek
-DTEND:20251118T134500Z
-LOCATION:Paw.F 102
-DTSTART:20251118T121500Z
-SUMMARY:Konsolidacja sprawozdań finansowych (ćwiczenia)
-UID:729111aa-4b45-4935-8d00-2f1ac8e433f5@7291.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
-DTEND:20251127T134500Z
-LOCATION:Paw.F 515
-DTSTART:20251127T121500Z
-SUMMARY:Rewizja finansowa (ćwiczenia)
-UID:0743f3ae-e5f7-49ab-944d-ae1448a37b31@0743.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Chłapek
-DTEND:20251021T124500Z
-LOCATION:Paw.F 102
-DTSTART:20251021T111500Z
-SUMMARY:Konsolidacja sprawozdań finansowych (ćwiczenia)
-UID:abdde277-007b-4919-943a-9e4a5feec801@abdd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
-DTEND:20251211T134500Z
-LOCATION:Paw.F 515
-DTSTART:20251211T121500Z
-SUMMARY:Rewizja finansowa (ćwiczenia)
-UID:a3134c7a-9e6e-4311-9af1-91de30e5bd93@a313.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Andrzejewski
-DTEND:20251022T124500Z
-LOCATION:link do zajęć
-DTSTART:20251022T111500Z
-SUMMARY:Rewizja finansowa (wykład)
-UID:31f1a9c1-e5a9-4c13-9389-139ba164f072@31f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Mazurczak-Mąka
-DTEND:20251204T134500Z
-LOCATION:Paw.F 107
-DTSTART:20251204T121500Z
-SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (ćwiczenia)
-UID:6851c1e3-bb70-462b-8059-b8dcfbb53e07@6851.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Chłapek
-DTEND:20251202T134500Z
-LOCATION:Paw.F 102
-DTSTART:20251202T121500Z
-SUMMARY:Konsolidacja sprawozdań finansowych (ćwiczenia)
-UID:0c3f49d2-3aa9-4e7e-a251-1e2608497e5b@0c3f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Rutkowska
-DTEND:20251103T134500Z
-LOCATION:link do zajęć
-DTSTART:20251103T121500Z
-SUMMARY:Analiza sprawozdań finansowych (wykład)
-UID:634f3c24-54a8-4f4d-ab06-3ce0af45b5a0@634f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Andrzejewski
-DTEND:20251015T124500Z
-LOCATION:link do zajęć
-DTSTART:20251015T111500Z
-SUMMARY:Rewizja finansowa (wykład)
-UID:a6069245-a7b3-4702-8af4-e6f7e717d96c@a606.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Rutkowska
-DTEND:20251120T153000Z
-LOCATION:Paw.C sala F
-DTSTART:20251120T140000Z
-SUMMARY:Analiza sprawozdań finansowych (ćwiczenia)
-UID:4cb06c28-eb33-4849-af5b-f09a44308446@4cb0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Rutkowska
-DTEND:20251204T153000Z
-LOCATION:Paw.U sala N
-DTSTART:20251204T140000Z
-SUMMARY:Analiza sprawozdań finansowych (ćwiczenia)
-UID:4e853264-10b9-4305-89c1-1137e84eb8b4@4e85.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Mazurczak-Mąka
-DTEND:20251218T134500Z
-LOCATION:Platforma Moodle
-DTSTART:20251218T121500Z
-SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (Ćwiczenia e-learningowe)
-UID:147a78c4-9615-4906-b470-11e274c9ef86@147a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Mazurczak-Mąka
-DTEND:20251008T101500Z
-LOCATION:link do zajęć
-DTSTART:20251008T093000Z
-SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (wykład)
-UID:d2575eda-b201-4ff8-93de-ac29176007a0@d257.org
+UID:9518210e-9242-4b12-b287-76a275f43385@9518.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Anna Mazurczak-Mąka
@@ -338,135 +38,7 @@ DTEND:20251009T120000Z
 LOCATION:Paw.F 107
 DTSTART:20251009T111500Z
 SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (ćwiczenia)
-UID:d18baeef-0a96-482e-8621-7dd9fe1da017@d18b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Mazurczak-Mąka
-DTEND:20251105T120000Z
-LOCATION:Platforma Moodle
-DTSTART:20251105T103000Z
-SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (wykład e-learningowy)
-UID:f96865df-1235-47e6-bbc3-ab4a958beeda@f968.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
-DTEND:20251113T134500Z
-LOCATION:Paw.F 515
-DTSTART:20251113T121500Z
-SUMMARY:Rewizja finansowa (ćwiczenia)
-UID:43651f94-a125-40ce-a2da-6a370112a1f7@4365.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Rutkowska
-DTEND:20251124T134500Z
-LOCATION:link do zajęć
-DTSTART:20251124T121500Z
-SUMMARY:Analiza sprawozdań finansowych (wykład)
-UID:ca8ad45a-bc32-4a5c-87ca-5a0213d5e8d4@ca8a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
-DTEND:20260108T134500Z
-LOCATION:Paw.F 515
-DTSTART:20260108T121500Z
-SUMMARY:Rewizja finansowa (ćwiczenia)
-UID:85f17fc3-99f3-4c77-aad6-b3ae8a0748ec@85f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Rutkowska
-DTEND:20251208T130000Z
-LOCATION:link do zajęć
-DTSTART:20251208T121500Z
-SUMMARY:Analiza sprawozdań finansowych (wykład)
-UID:4c22751d-a64c-4951-8e47-6fe40cc57deb@4c22.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
-DTEND:20260122T134500Z
-LOCATION:Paw.F 515
-DTSTART:20260122T121500Z
-SUMMARY:Rewizja finansowa (ćwiczenia)
-UID:851b5e7c-4949-4874-a540-52efe2b90db7@851b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Andrzejewski
-DTEND:20251029T134500Z
-LOCATION:link do zajęć
-DTSTART:20251029T121500Z
-SUMMARY:Rewizja finansowa (wykład)
-UID:4afd9fba-055f-40de-ae30-43d9384afca1@4afd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Mazurczak-Mąka
-DTEND:20251022T110000Z
-LOCATION:Platforma Moodle
-DTSTART:20251022T093000Z
-SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (wykład e-learningowy)
-UID:16049691-4fdb-46d3-aeaf-895acac7bba4@1604.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Chłapek
-DTEND:20251124T120000Z
-LOCATION:link do zajęć
-DTSTART:20251124T103000Z
-SUMMARY:Konsolidacja sprawozdań finansowych (wykład)
-UID:ab89fdcd-f69f-417d-a7f7-7833993f1fa0@ab89.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Chłapek
-DTEND:20251103T120000Z
-LOCATION:link do zajęć
-DTSTART:20251103T103000Z
-SUMMARY:Konsolidacja sprawozdań finansowych (wykład)
-UID:227d63bf-0cb8-4d9d-9bc2-a2162b40c607@227d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Chłapek
-DTEND:20251201T120000Z
-LOCATION:link do zajęć
-DTSTART:20251201T103000Z
-SUMMARY:Konsolidacja sprawozdań finansowych (wykład)
-UID:9b63c494-a2cb-4dff-8147-dd80d479b4f7@9b63.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
-DTEND:20251119T093000Z
-LOCATION:link do zajęć
-DTSTART:20251119T084500Z
-SUMMARY:Zarządzanie finansami przedsiębiorstw w ujęciu międzynarodowym ACCA (wykład do wyboru)
-UID:14e34341-8ca8-4a21-af42-508cf381837c@14e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Mazurczak-Mąka
-DTEND:20251119T120000Z
-LOCATION:link do zajęć
-DTSTART:20251119T103000Z
-SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (wykład)
-UID:424a388c-9e2c-41f5-9362-a6943ee5ce48@424a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Chłapek
-DTEND:20260113T144500Z
-LOCATION:Rakowicka 16 sala -103
-DTSTART:20260113T140000Z
-SUMMARY:Konsolidacja sprawozdań finansowych (ćwiczenia)
-UID:7fcf07e4-dd0d-40c0-9b15-2a452a772912@7fcf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
-DTEND:20251030T134500Z
-LOCATION:Paw.F 515
-DTSTART:20251030T121500Z
-SUMMARY:Rewizja finansowa (ćwiczenia)
-UID:a45093c5-cd02-47a4-9417-dbf45e934a2c@a450.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Mazurczak-Mąka
-DTEND:20251023T124500Z
-LOCATION:Paw.F 107
-DTSTART:20251023T111500Z
-SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (ćwiczenia)
-UID:5aae6c48-0e43-4fb2-870b-41a19c3a8902@5aae.org
+UID:e959bcb9-e863-4853-9130-7e5efdaf2dbb@e959.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Andrzejewski
@@ -474,63 +46,23 @@ DTEND:20251126T134500Z
 LOCATION:link do zajęć
 DTSTART:20251126T121500Z
 SUMMARY:Rewizja finansowa (wykład)
-UID:52c0e049-2ef4-47c3-9490-073fac88d436@52c0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Chłapek
-DTEND:20251007T124500Z
-LOCATION:Paw.F 102
-DTSTART:20251007T111500Z
-SUMMARY:Konsolidacja sprawozdań finansowych (ćwiczenia)
-UID:a9aad68a-b2b4-42e0-b483-c6f8be97fc96@a9aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Chłapek
-DTEND:20251216T134500Z
-LOCATION:Paw.F 102
-DTSTART:20251216T121500Z
-SUMMARY:Konsolidacja sprawozdań finansowych (ćwiczenia)
-UID:3eff9e6a-c02e-4333-973a-2946f6a0783a@3eff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
-DTEND:20251022T091500Z
-LOCATION:link do zajęć
-DTSTART:20251022T074500Z
-SUMMARY:Zarządzanie finansami przedsiębiorstw w ujęciu międzynarodowym ACCA (wykład do wyboru)
-UID:fc015b31-d346-4b0a-9e4f-266854b314bb@fc01.org
+UID:8f05ee0c-3d73-484a-92be-c8e0feb882ad@8f05.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Anna Mazurczak-Mąka
-DTEND:20251015T110000Z
-LOCATION:link do zajęć
-DTSTART:20251015T093000Z
-SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (wykład)
-UID:e655b3b7-d2f7-47f2-ade1-c7a54b5f8bfa@e655.org
+DTEND:20260115T134500Z
+LOCATION:Platforma Moodle
+DTSTART:20260115T121500Z
+SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (Ćwiczenia e-learningowe)
+UID:b9839adc-d5b2-43d9-988d-eb0265095300@b983.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Rutkowska
-DTEND:20251211T144500Z
-LOCATION:Paw.F 107
-DTSTART:20251211T140000Z
-SUMMARY:Analiza sprawozdań finansowych (ćwiczenia)
-UID:3825cde0-b22e-4aca-a862-30466dadf17d@3825.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
-DTEND:20251105T101500Z
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Andrzejewski
+DTEND:20251022T124500Z
 LOCATION:link do zajęć
-DTSTART:20251105T084500Z
-SUMMARY:Zarządzanie finansami przedsiębiorstw w ujęciu międzynarodowym ACCA (wykład do wyboru)
-UID:a86a997a-a124-4ff9-abac-fd3543a929cf@a86a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Rutkowska
-DTEND:20251117T134500Z
-LOCATION:link do zajęć
-DTSTART:20251117T121500Z
-SUMMARY:Analiza sprawozdań finansowych (wykład)
-UID:5a524354-1eed-4475-bfc4-7c7bb354a665@5a52.org
+DTSTART:20251022T111500Z
+SUMMARY:Rewizja finansowa (wykład)
+UID:ec35f3ce-c0ee-4c75-b758-4c634971adb2@ec35.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Andrzejewski
@@ -538,47 +70,7 @@ DTEND:20251119T134500Z
 LOCATION:link do zajęć
 DTSTART:20251119T121500Z
 SUMMARY:Rewizja finansowa (wykład)
-UID:fb28dd66-40cf-42d4-9bef-777a5f801695@fb28.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Andrzejewski
-DTEND:20251203T134500Z
-LOCATION:link do zajęć
-DTSTART:20251203T121500Z
-SUMMARY:Rewizja finansowa (wykład)
-UID:59915bce-97b1-4617-afa3-d1e15c58d1fa@5991.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Rutkowska
-DTEND:20251201T134500Z
-LOCATION:link do zajęć
-DTSTART:20251201T121500Z
-SUMMARY:Analiza sprawozdań finansowych (wykład)
-UID:72d2b0eb-2b7c-4bfb-84a8-7d6c77e87a7d@72d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Chłapek
-DTEND:20251208T111500Z
-LOCATION:link do zajęć
-DTSTART:20251208T103000Z
-SUMMARY:Konsolidacja sprawozdań finansowych (wykład)
-UID:d332e074-7568-46cb-9035-6df6ea15e01a@d332.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Rutkowska
-DTEND:20251027T134500Z
-LOCATION:link do zajęć
-DTSTART:20251027T121500Z
-SUMMARY:Analiza sprawozdań finansowych (wykład)
-UID:037e7d8d-6616-4a8f-a9d4-d2e52d8b3a46@037e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Mazurczak-Mąka
-DTEND:20251112T120000Z
-LOCATION:link do zajęć
-DTSTART:20251112T103000Z
-SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (wykład)
-UID:4ef10a6f-d77e-404d-b15d-981b6ae6050a@4ef1.org
+UID:80d0c94b-1bd1-4bab-9f90-134436344430@80d0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
@@ -586,15 +78,172 @@ DTEND:20251015T091500Z
 LOCATION:link do zajęć
 DTSTART:20251015T074500Z
 SUMMARY:Zarządzanie finansami przedsiębiorstw w ujęciu międzynarodowym ACCA (wykład do wyboru)
-UID:b8b7da61-ba17-4620-9d56-175428356144@b8b7.org
+UID:e0b951c3-b59c-43a5-a43f-8c32eee55729@e0b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Mazurczak-Mąka
+DTEND:20251105T120000Z
+LOCATION:Platforma Moodle
+DTSTART:20251105T103000Z
+SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (wykład e-learningowy)
+UID:9012b2f0-41c2-405f-a789-ad50986ceeb6@9012.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20251119T093000Z
+LOCATION:link do zajęć
+DTSTART:20251119T084500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstw w ujęciu międzynarodowym ACCA (wykład do wyboru)
+UID:ba53d628-a525-4227-9e53-f0e4d27bb77c@ba53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Mazurczak-Mąka
+DTEND:20251022T110000Z
+LOCATION:Platforma Moodle
+DTSTART:20251022T093000Z
+SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (wykład e-learningowy)
+UID:3c79204d-5340-4b95-8537-586370730533@3c79.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Katarzyna Chłapek
-DTEND:20251104T134500Z
+DTEND:20251007T124500Z
 LOCATION:Paw.F 102
-DTSTART:20251104T121500Z
+DTSTART:20251007T111500Z
 SUMMARY:Konsolidacja sprawozdań finansowych (ćwiczenia)
-UID:01c6b1d9-0875-4c39-aef8-9d4d537b768a@01c6.org
+UID:74d68563-2f96-4dc4-8202-eadf240a0af7@74d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska
+DTEND:20251120T153000Z
+LOCATION:Paw.C sala F
+DTSTART:20251120T140000Z
+SUMMARY:Analiza sprawozdań finansowych (ćwiczenia)
+UID:1120c46c-c5ca-4c6f-a2a5-05fb8870d8c7@1120.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Mazurczak-Mąka
+DTEND:20251112T120000Z
+LOCATION:link do zajęć
+DTSTART:20251112T103000Z
+SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (wykład)
+UID:721e1878-7fb0-4926-9bd0-9d2f49aae839@721e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Chłapek
+DTEND:20251013T110000Z
+DTSTART:20251013T093000Z
+SUMMARY:Konsolidacja sprawozdań finansowych (Przeniesienie zajęć)
+UID:63447e86-c431-4233-b3ab-6b52954fcda5@6344.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251217T134500Z
+DTSTART:20251217T121500Z
+SUMMARY: (rezerwacja)
+UID:4aeedefd-7add-42ed-be8f-28eec051d4d8@4aee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Chłapek
+DTEND:20260113T134500Z
+LOCATION:Paw.F 102
+DTSTART:20260113T121500Z
+SUMMARY:Konsolidacja sprawozdań finansowych (ćwiczenia)
+UID:7ab548ea-1ecc-464d-a3d3-63be7b35b9ec@7ab5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska
+DTEND:20251112T134500Z
+LOCATION:link do zajęć
+DTSTART:20251112T121500Z
+SUMMARY:Analiza sprawozdań finansowych (wykład)
+UID:9307fb80-1d8b-4780-aeb5-49090c664513@9307.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Chłapek
+DTEND:20251124T120000Z
+LOCATION:link do zajęć
+DTSTART:20251124T103000Z
+SUMMARY:Konsolidacja sprawozdań finansowych (wykład)
+UID:f0bedf62-7762-4b7e-9efd-1c1b6373e8fc@f0be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Chłapek
+DTEND:20251216T134500Z
+LOCATION:Paw.F 102
+DTSTART:20251216T121500Z
+SUMMARY:Konsolidacja sprawozdań finansowych (ćwiczenia)
+UID:972d7689-72f5-439e-bb06-247cde28ac0c@972d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska
+DTEND:20251201T134500Z
+LOCATION:link do zajęć
+DTSTART:20251201T121500Z
+SUMMARY:Analiza sprawozdań finansowych (wykład)
+UID:d81d8a2a-0abf-4af3-909a-bbd93be08894@d81d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Mazurczak-Mąka
+DTEND:20251023T124500Z
+LOCATION:Paw.F 107
+DTSTART:20251023T111500Z
+SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (ćwiczenia)
+UID:e4e96633-ec69-4939-b26e-25e33bb5e99a@e4e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Andrzejewski
+DTEND:20251105T134500Z
+LOCATION:link do zajęć
+DTSTART:20251105T121500Z
+SUMMARY:Rewizja finansowa (wykład)
+UID:4cd27399-743c-4c78-8c53-ad8b629d4fc2@4cd2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Chłapek
+DTEND:20251020T110000Z
+LOCATION:link do zajęć
+DTSTART:20251020T093000Z
+SUMMARY:Konsolidacja sprawozdań finansowych (wykład)
+UID:f489e877-9296-4fe4-9cbb-4faa82c28fe7@f489.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20251127T134500Z
+LOCATION:Paw.F 515
+DTSTART:20251127T121500Z
+SUMMARY:Rewizja finansowa (ćwiczenia)
+UID:78295dc9-3202-42df-be26-0414dd530eaf@7829.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20251112T101500Z
+LOCATION:link do zajęć
+DTSTART:20251112T084500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstw w ujęciu międzynarodowym ACCA (wykład do wyboru)
+UID:02458405-8f39-45f0-923d-bec62587a455@0245.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska
+DTEND:20251030T120000Z
+DTSTART:20251030T103000Z
+SUMMARY:Analiza sprawozdań finansowych (Przeniesienie zajęć)
+UID:f27f486b-d7a0-464b-8f44-c29b10c7cc32@f27f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska
+DTEND:20251013T124500Z
+LOCATION:link do zajęć
+DTSTART:20251013T111500Z
+SUMMARY:Analiza sprawozdań finansowych (wykład)
+UID:fd097136-3fc5-4a8b-832b-7cfbe36c0ba3@fd09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20260121T163000Z
+LOCATION:Paw.F CJ 311
+DTSTART:20260121T154500Z
+SUMMARY:Rewizja finansowa (ćwiczenia)
+UID:b892602c-2e2d-4352-96f9-b98228c6a36b@b892.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
@@ -602,6 +251,364 @@ DTEND:20251008T091500Z
 LOCATION:link do zajęć
 DTSTART:20251008T074500Z
 SUMMARY:Zarządzanie finansami przedsiębiorstw w ujęciu międzynarodowym ACCA (wykład do wyboru)
-UID:f7e27a9a-7aa1-4aa2-9931-dd13481f9c4a@f7e2.org
+UID:7db6ef96-1325-444d-a4fc-fa2287ad1bbd@7db6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20251022T091500Z
+LOCATION:link do zajęć
+DTSTART:20251022T074500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstw w ujęciu międzynarodowym ACCA (wykład do wyboru)
+UID:51f9af4d-5e7a-40a5-990b-0863303ff032@51f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20251105T101500Z
+LOCATION:link do zajęć
+DTSTART:20251105T084500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstw w ujęciu międzynarodowym ACCA (wykład do wyboru)
+UID:aec2c394-1cae-42ee-b24b-0a77ae7593f2@aec2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Mazurczak-Mąka
+DTEND:20251204T134500Z
+LOCATION:Paw.F 107
+DTSTART:20251204T121500Z
+SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (ćwiczenia)
+UID:93901345-2a63-41a9-8e8a-11e94edf1705@9390.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Mazurczak-Mąka
+DTEND:20260122T171500Z
+LOCATION:Platforma Moodle
+DTSTART:20260122T154500Z
+SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (Ćwiczenia e-learningowe)
+UID:2fa05b68-2d99-43f7-98ef-8db92ce45ab2@2fa0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20251211T134500Z
+LOCATION:Paw.F 515
+DTSTART:20251211T121500Z
+SUMMARY:Rewizja finansowa (ćwiczenia)
+UID:47b85c0a-a1a2-46e5-af36-8cc4e4a3a45b@47b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Chłapek
+DTEND:20251103T120000Z
+LOCATION:link do zajęć
+DTSTART:20251103T103000Z
+SUMMARY:Konsolidacja sprawozdań finansowych (wykład)
+UID:3b769d4d-6e75-4886-be4e-4b213ef9ac56@3b76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska
+DTEND:20251020T124500Z
+LOCATION:link do zajęć
+DTSTART:20251020T111500Z
+SUMMARY:Analiza sprawozdań finansowych (wykład)
+UID:6dbcb497-9509-4aa0-a174-cf148df88ecd@6dbc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska
+DTEND:20251103T134500Z
+DTSTART:20251103T121500Z
+SUMMARY:Analiza sprawozdań finansowych (Przeniesienie zajęć)
+UID:fe26527b-b178-4761-9583-97be368d2926@fe26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Andrzejewski
+DTEND:20251029T134500Z
+LOCATION:link do zajęć
+DTSTART:20251029T121500Z
+SUMMARY:Rewizja finansowa (wykład)
+UID:b88dcf33-b47e-4a14-8270-3ee8ead96c16@b88d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Mazurczak-Mąka
+DTEND:20251218T134500Z
+LOCATION:Platforma Moodle
+DTSTART:20251218T121500Z
+SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (Ćwiczenia e-learningowe)
+UID:09cc471b-af72-484f-966e-a63f92696850@09cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Chłapek
+DTEND:20251202T134500Z
+LOCATION:Paw.F 102
+DTSTART:20251202T121500Z
+SUMMARY:Konsolidacja sprawozdań finansowych (ćwiczenia)
+UID:ea78822e-d545-40cd-b7d6-41cb19864f8a@ea78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska
+DTEND:20251030T153000Z
+LOCATION:Paw.F 109
+DTSTART:20251030T140000Z
+SUMMARY:Analiza sprawozdań finansowych (ćwiczenia)
+UID:dd0161b3-afd4-466d-b6c9-a3a77a5a849e@dd01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Chłapek
+DTEND:20260113T144500Z
+LOCATION:Rakowicka 16 sala -103
+DTSTART:20260113T140000Z
+SUMMARY:Konsolidacja sprawozdań finansowych (ćwiczenia)
+UID:e529dbbe-920b-4f0b-8df4-2c2ea9f035b1@e529.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20251030T134500Z
+LOCATION:Paw.F 515
+DTSTART:20251030T121500Z
+SUMMARY:Rewizja finansowa (ćwiczenia)
+UID:b3bc198c-ed34-4183-a99c-fe7e2d50e1b4@b3bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20251001T091500Z
+DTSTART:20251001T074500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstw w ujęciu międzynarodowym ACCA (wykład do wyboru)
+UID:f351799f-a015-42e2-92a2-6a5460c70300@f351.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Chłapek
+DTEND:20251118T134500Z
+LOCATION:Paw.F 102
+DTSTART:20251118T121500Z
+SUMMARY:Konsolidacja sprawozdań finansowych (ćwiczenia)
+UID:23225a66-d52b-4a8a-b3bb-e82f7719fbc7@2322.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Mazurczak-Mąka
+DTEND:20251015T110000Z
+LOCATION:link do zajęć
+DTSTART:20251015T093000Z
+SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (wykład)
+UID:00d7ea1e-73da-4c86-ac12-bd074c4583c8@00d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska
+DTEND:20251127T153000Z
+LOCATION:Paw.C sala F
+DTSTART:20251127T140000Z
+SUMMARY:Analiza sprawozdań finansowych (ćwiczenia)
+UID:23359729-9445-40f4-813a-481a67ffcda6@2335.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska
+DTEND:20251027T134500Z
+LOCATION:link do zajęć
+DTSTART:20251027T121500Z
+SUMMARY:Analiza sprawozdań finansowych (wykład)
+UID:8b49fca0-ec20-4795-ad32-8076f4b5a537@8b49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20251029T101500Z
+LOCATION:link do zajęć
+DTSTART:20251029T084500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstw w ujęciu międzynarodowym ACCA (wykład do wyboru)
+UID:dbbdab86-b427-4ad2-818e-1758a6be0af8@dbbd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Mazurczak-Mąka
+DTEND:20251120T134500Z
+LOCATION:Paw.F 107
+DTSTART:20251120T121500Z
+SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (ćwiczenia)
+UID:41bad83f-4685-4ec4-ab28-2e19cb0b736a@41ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Chłapek
+DTEND:20251027T120000Z
+LOCATION:link do zajęć
+DTSTART:20251027T103000Z
+SUMMARY:Konsolidacja sprawozdań finansowych (wykład)
+UID:38a77586-fdab-499a-99b2-ebe0d358846e@38a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20251002T124500Z
+LOCATION:Paw.F 515
+DTSTART:20251002T111500Z
+SUMMARY:Rewizja finansowa (ćwiczenia)
+UID:bcca7669-11b1-4258-8f74-67736db50248@bcca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska
+DTEND:20251204T153000Z
+LOCATION:Paw.U sala N
+DTSTART:20251204T140000Z
+SUMMARY:Analiza sprawozdań finansowych (ćwiczenia)
+UID:d620919b-972f-4a81-a7c5-d1f61e4d6d2d@d620.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Andrzejewski
+DTEND:20251015T124500Z
+LOCATION:link do zajęć
+DTSTART:20251015T111500Z
+SUMMARY:Rewizja finansowa (wykład)
+UID:e809962b-c1f5-43b1-ad59-2774d36d1d63@e809.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Mazurczak-Mąka
+DTEND:20251008T101500Z
+LOCATION:link do zajęć
+DTSTART:20251008T093000Z
+SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (wykład)
+UID:1589b209-514e-4525-b675-5d70a05e6d48@1589.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20260122T134500Z
+LOCATION:Paw.F 515
+DTSTART:20260122T121500Z
+SUMMARY:Rewizja finansowa (ćwiczenia)
+UID:558bdf4b-8832-4d27-af7d-ddf601ba5bcd@558b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Andrzejewski
+DTEND:20251210T134500Z
+LOCATION:link do zajęć
+DTSTART:20251210T130000Z
+SUMMARY:Rewizja finansowa (wykład)
+UID:ead9262a-7ac9-4bad-b03f-50fa46667741@ead9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Mazurczak-Mąka
+DTEND:20251119T120000Z
+LOCATION:link do zajęć
+DTSTART:20251119T103000Z
+SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (wykład)
+UID:d6bede4e-bc3a-475d-956a-1765c7cce0fe@d6be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska
+DTEND:20251117T134500Z
+LOCATION:link do zajęć
+DTSTART:20251117T121500Z
+SUMMARY:Analiza sprawozdań finansowych (wykład)
+UID:21940f52-414f-4052-844a-3903b2d3f17a@2194.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Chłapek
+DTEND:20251117T120000Z
+LOCATION:link do zajęć
+DTSTART:20251117T103000Z
+SUMMARY:Konsolidacja sprawozdań finansowych (wykład)
+UID:4d2aeec2-769b-4128-b633-a27bb6cb9367@4d2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska
+DTEND:20251208T130000Z
+LOCATION:link do zajęć
+DTSTART:20251208T121500Z
+SUMMARY:Analiza sprawozdań finansowych (wykład)
+UID:6b49a3e0-e54a-4fc7-94db-21b92cab9e1f@6b49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska
+DTEND:20251211T144500Z
+LOCATION:Paw.F 107
+DTSTART:20251211T140000Z
+SUMMARY:Analiza sprawozdań finansowych (ćwiczenia)
+UID:a944ae66-e48e-41ba-80c1-07dc46c848f7@a944.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Chłapek
+DTEND:20251021T124500Z
+LOCATION:Paw.F 102
+DTSTART:20251021T111500Z
+SUMMARY:Konsolidacja sprawozdań finansowych (ćwiczenia)
+UID:8da802fc-e2d8-4e73-b37b-4dccf7b9eabe@8da8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Andrzejewski
+DTEND:20251203T134500Z
+LOCATION:link do zajęć
+DTSTART:20251203T121500Z
+SUMMARY:Rewizja finansowa (wykład)
+UID:ae7c0282-d096-4f88-8c13-6b55c273c802@ae7c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska
+DTEND:20251124T134500Z
+LOCATION:link do zajęć
+DTSTART:20251124T121500Z
+SUMMARY:Analiza sprawozdań finansowych (wykład)
+UID:a72d0368-d47f-4230-a1ce-a922a14ff9cc@a72d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska
+DTEND:20251113T153000Z
+LOCATION:Paw.S sala 3
+DTSTART:20251113T140000Z
+SUMMARY:Analiza sprawozdań finansowych (ćwiczenia)
+UID:09213de6-b35c-426c-abea-5243c983ae5d@0921.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Chłapek
+DTEND:20251208T111500Z
+LOCATION:link do zajęć
+DTSTART:20251208T103000Z
+SUMMARY:Konsolidacja sprawozdań finansowych (wykład)
+UID:15c21b51-cc4c-44f1-8bc8-d62301ab1615@15c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Mazurczak-Mąka
+DTEND:20251029T120000Z
+LOCATION:link do zajęć
+DTSTART:20251029T103000Z
+SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (wykład)
+UID:2b351d2f-aa6f-4dee-984b-3e011b16af46@2b35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20251113T134500Z
+LOCATION:Paw.F 515
+DTSTART:20251113T121500Z
+SUMMARY:Rewizja finansowa (ćwiczenia)
+UID:dbb4eb84-50ae-4d55-9c6f-72e58a4303c3@dbb4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Mazurczak-Mąka
+DTEND:20251106T134500Z
+LOCATION:Paw.F 107
+DTSTART:20251106T121500Z
+SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (ćwiczenia)
+UID:b3329a85-cde5-492f-9b4e-e4451fab6a4e@b332.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Chłapek
+DTEND:20251201T120000Z
+LOCATION:link do zajęć
+DTSTART:20251201T103000Z
+SUMMARY:Konsolidacja sprawozdań finansowych (wykład)
+UID:dd2cf6b7-5efb-496b-915a-5705e168792b@dd2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Mazurczak-Mąka
+DTEND:20251126T120000Z
+LOCATION:link do zajęć
+DTSTART:20251126T103000Z
+SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (wykład)
+UID:f39c3e76-fb13-4747-85cc-025255a6f368@f39c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Chłapek
+DTEND:20251104T134500Z
+LOCATION:Paw.F 102
+DTSTART:20251104T121500Z
+SUMMARY:Konsolidacja sprawozdań finansowych (ćwiczenia)
+UID:c3906a2e-2f44-46e9-a1c2-81d8e21a4add@c390.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20260108T134500Z
+LOCATION:Paw.F 515
+DTSTART:20260108T121500Z
+SUMMARY:Rewizja finansowa (ćwiczenia)
+UID:81bb9475-7953-4341-a627-ae2cc8ec8490@81bb.org
 END:VEVENT
 END:VCALENDAR
