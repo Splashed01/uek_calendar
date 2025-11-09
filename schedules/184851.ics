@@ -2,43 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
-DTEND:20251128T120000Z
-LOCATION:Paw.S sala 4
-DTSTART:20251128T103000Z
-SUMMARY:Filozofia (wykład do wyboru)
-UID:d8856fc6-d67c-4a7b-87bf-58f9152b949e@d885.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20260123T101500Z
-LOCATION:Paw.C sala E
-DTSTART:20260123T093000Z
-SUMMARY:Analiza Statystyczna w Finansach (wykład do wyboru)
-UID:f2b894ed-4cb9-4b4f-a4a3-cb63eda5f306@f2b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Pawlak
-DTEND:20251208T083000Z
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
+DTEND:20251201T134500Z
 LOCATION:Paw.S sala 9
-DTSTART:20251208T070000Z
-SUMMARY:Psychologia (wykład do wyboru)
-UID:f0963065-83ab-4d1d-a85d-5d95a309c160@f096.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
-DTEND:20251030T171500Z
-DTSTART:20251030T154500Z
-SUMMARY:Socjologia (Przeniesienie zajęć)
-UID:5aa46fb5-0106-487e-a092-ec150f72c3f5@5aa4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20251003T091500Z
-LOCATION:Paw.C sala E
-DTSTART:20251003T074500Z
-SUMMARY:Analiza Statystyczna w Finansach (wykład do wyboru)
-UID:1cbb778f-cc0c-4a89-a29a-21da8ba85b01@1cbb.org
+DTSTART:20251201T121500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
+UID:8834ec4f-8e00-4990-9858-263b22f6517f@8834.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Paweł Zieniuk
@@ -46,15 +15,7 @@ DTEND:20251117T120000Z
 LOCATION:Paw.S sala 9
 DTSTART:20251117T103000Z
 SUMMARY:Rachunkowość organizacji pozarządowych (wykład)
-UID:f1eaf605-a64c-4821-8f73-c9ade4b82cdd@f1ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
-DTEND:20251217T120000Z
-LOCATION:Paw.F 107
-DTSTART:20251217T103000Z
-SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
-UID:0b6e0fb3-ecab-4187-b26d-9c702eb11743@0b6e.org
+UID:f8c93270-d884-4163-91b4-1045f14aca78@f8c9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Piotr Miodunka
@@ -62,552 +23,7 @@ DTEND:20251008T180000Z
 LOCATION:Paw.S sala 9
 DTSTART:20251008T163000Z
 SUMMARY:Historia gospodarcza (wykład do wyboru)
-UID:e846f006-6f44-4d54-8dc2-74ba18b5d4c6@e846.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Piotr Schroeder
-DTEND:20251008T143000Z
-LOCATION:Bud.gł. 3
-DTSTART:20251008T130000Z
-SUMMARY:Rachunkowość organizacji pozarządowych (ćwiczenia)
-UID:78889282-ecc9-49a7-a762-6cc210adcfd6@7888.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
-DTEND:20251024T124500Z
-DTSTART:20251024T111500Z
-SUMMARY:Jednostkowe sprawozdania finansowe (Przeniesienie zajęć)
-UID:268290cc-a7b5-4764-92bf-33c44531bf7c@2682.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20251212T101500Z
-LOCATION:Paw.C sala E
-DTSTART:20251212T084500Z
-SUMMARY:Analiza Statystyczna w Finansach (wykład do wyboru)
-UID:9077a6ae-50b2-4bad-ac10-3d1814d8bb90@9077.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Pawlak
-DTEND:20251215T101500Z
-LOCATION:Paw.S sala 9
-DTSTART:20251215T084500Z
-SUMMARY:Psychologia (wykład do wyboru)
-UID:68b5e4e4-55ea-4d43-9ca9-f340f3bf3ed7@68b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Pawlak
-DTEND:20251201T101500Z
-LOCATION:Paw.S sala 9
-DTSTART:20251201T084500Z
-SUMMARY:Psychologia (wykład do wyboru)
-UID:5c826029-6d0d-4b00-a8c3-ba4f9d848e47@5c82.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
-DTEND:20251204T171500Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20251204T154500Z
-SUMMARY:Socjologia (wykład do wyboru)
-UID:eb38dd8a-d12c-4fa2-a07f-fbc184815e80@eb38.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20251203T171500Z
-LOCATION:Paw.F 615
-DTSTART:20251203T154500Z
-SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
-UID:3125be3f-de6b-438d-9801-bccf4ab447bf@3125.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
-DTEND:20260108T171500Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20260108T154500Z
-SUMMARY:Socjologia (wykład do wyboru)
-UID:2d2765b5-116c-42fd-aea3-cbcb50e09d69@2d27.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Jonas
-DTEND:20251104T153000Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20251104T140000Z
-SUMMARY:Rachunkowość mikro i małych przedsiębiorstw (wykład)
-UID:ded90d34-7359-4113-b30d-fe0c35fb9e86@ded9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20260114T190000Z
-LOCATION:Paw.S sala 9
-DTSTART:20260114T173000Z
-SUMMARY:Historia gospodarcza (wykład do wyboru)
-UID:f418a4ba-e353-4238-8e5f-40b840982684@f418.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20251203T190000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251203T173000Z
-SUMMARY:Historia gospodarcza (wykład do wyboru)
-UID:8e2981d7-cc73-4bb5-8de2-9b4339f27ece@8e29.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
-DTEND:20251027T134500Z
-LOCATION:Paw.S sala 9
-DTSTART:20251027T121500Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
-UID:7feb7a24-0659-4d50-a8c3-74ab978dc001@7feb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20251112T171500Z
-LOCATION:Paw.F 615
-DTSTART:20251112T154500Z
-SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
-UID:81f47c1e-0489-4d5d-8e55-503b6d5f9691@81f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
-DTEND:20251201T190000Z
-LOCATION:Paw.C sala E
-DTSTART:20251201T173000Z
-SUMMARY:Socjologia (wykład do wyboru)
-UID:aba3578a-d5d6-4428-90f1-95fe530c011c@aba3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
-DTEND:20251217T101500Z
-LOCATION:Paw.S sala 9
-DTSTART:20251217T084500Z
-SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
-UID:d2f2e3db-a09d-4d2e-ab5b-cf4e5ed02e17@d2f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Pawlak
-DTEND:20251124T101500Z
-LOCATION:Paw.S sala 9
-DTSTART:20251124T084500Z
-SUMMARY:Psychologia (wykład do wyboru)
-UID:5c7dcfa9-0a3b-4765-937b-164e8fe5390d@5c7d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
-DTEND:20251112T101500Z
-LOCATION:Paw.S sala 9
-DTSTART:20251112T084500Z
-SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
-UID:4e81bb5a-2927-4fcc-ab26-1c7b37776359@4e81.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20251217T190000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251217T173000Z
-SUMMARY:Historia gospodarcza (wykład do wyboru)
-UID:8a3f70f5-1ef5-4b0e-9153-48403d63465a@8a3f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20260121T171500Z
-LOCATION:Paw.F 615
-DTSTART:20260121T154500Z
-SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
-UID:5391731a-5279-471a-949d-f87257993ec4@5391.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20251029T171500Z
-LOCATION:Paw.F 615
-DTSTART:20251029T154500Z
-SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
-UID:0d89ec21-d193-455c-8499-015b103a6b26@0d89.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20251001T161500Z
-LOCATION:Paw.F 615
-DTSTART:20251001T144500Z
-SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
-UID:bb35b0b8-56cd-43b3-ab5d-3d37232e3d20@bb35.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
-DTEND:20251015T110000Z
-DTSTART:20251015T093000Z
-SUMMARY:Jednostkowe sprawozdania finansowe (Przeniesienie zajęć)
-UID:994f8f77-28e6-4a03-bbdc-8ebe0e12eff0@994f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
-DTEND:20251215T163000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251215T154500Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
-UID:f46bc9d0-a2cc-4413-9cf3-9c80e6dc3b9e@f46b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Pawlak
-DTEND:20260126T161500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21\, Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20260126T140000Z
-SUMMARY:Psychologia (egzamin)
-UID:79109cdd-74be-48f9-accb-bccfdca1f461@7910.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
-DTEND:20251029T101500Z
-LOCATION:Paw.S sala 9
-DTSTART:20251029T084500Z
-SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
-UID:ef790d43-65c9-4928-a1e7-bb747fdef10c@ef79.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
-DTEND:20251001T091500Z
-LOCATION:Paw.S sala 9
-DTSTART:20251001T074500Z
-SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
-UID:e31eae90-b920-4ed0-875f-46a2ae7d04f6@e31e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
-DTEND:20251127T171500Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20251127T154500Z
-SUMMARY:Socjologia (wykład do wyboru)
-UID:566f0c61-19e6-4086-a736-922de9df1840@566f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20251208T190000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251208T173000Z
-SUMMARY:Historia gospodarcza (wykład do wyboru)
-UID:f58bdd95-607c-4e9d-b0c7-7aa3a17d9c37@f58b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
-DTEND:20251216T171500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20251216T154500Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
-UID:629a72ca-8632-423e-a9bd-7fd0698f28ca@629a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Mokrzycka-Kogut
-DTEND:20251120T101500Z
-LOCATION:Paw.F 107
-DTSTART:20251120T084500Z
-SUMMARY:Rachunkowość mikro i małych przedsiębiorstw (ćwiczenia)
-UID:8eba8c78-4abf-46d4-92e7-0eb33650b86f@8eba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20251126T190000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251126T173000Z
-SUMMARY:Historia gospodarcza (wykład do wyboru)
-UID:4642d338-9012-4c71-ac66-d375f52b58fe@4642.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
-DTEND:20251219T120000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251219T103000Z
-SUMMARY:Filozofia (wykład do wyboru)
-UID:8a7aee32-5184-446d-aaae-e890de1bf818@8a7a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Zieniuk
-DTEND:20251201T120000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251201T103000Z
-SUMMARY:Rachunkowość organizacji pozarządowych (wykład)
-UID:0ca80925-7070-4472-8b55-d043bfd6996d@0ca8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
-DTEND:20251106T171500Z
-DTSTART:20251106T154500Z
-SUMMARY:Socjologia (Przeniesienie zajęć)
-UID:9c3769b3-3564-4a0c-88ab-a56990e3d2ad@9c37.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
-DTEND:20260114T134500Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20260114T121500Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
-UID:c1ff3fba-fa0d-4c09-963e-919f3a8cf594@c1ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
-DTEND:20260122T171500Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20260122T154500Z
-SUMMARY:Socjologia (wykład do wyboru)
-UID:4af49c76-4629-4b20-8399-657115504d5c@4af4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Pawlak
-DTEND:20251020T091500Z
-LOCATION:Paw.S sala 9
-DTSTART:20251020T074500Z
-SUMMARY:Psychologia (wykład do wyboru)
-UID:4b7b85fe-2f17-4bf9-8696-c5364505a0b9@4b7b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20251126T171500Z
-LOCATION:Paw.F 615
-DTSTART:20251126T154500Z
-SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
-UID:d2a74a0f-7c38-410a-8cca-f0d665e6f2f1@d2a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Jonas
-DTEND:20251202T153000Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20251202T140000Z
-SUMMARY:Rachunkowość mikro i małych przedsiębiorstw (wykład)
-UID:02fe3b87-53a6-4889-ac20-643516548408@02fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Piotr Schroeder  dr Paweł Zieniuk
-DTEND:20260120T180000Z
-LOCATION:Paw.S sala 9
-DTSTART:20260120T163000Z
-SUMMARY:Rachunkowość organizacji pozarządowych (kolokwium)
-UID:5db419b5-aee3-43c4-b284-23d0c48ff268@5db4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
-DTEND:20251114T120000Z
-LOCATION:Bud.gł. Stara Aula
-DTSTART:20251114T103000Z
-SUMMARY:Filozofia (wykład do wyboru)
-UID:3de6f19b-8edf-4a88-860e-1d631b70fe8b@3de6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
-DTEND:20251008T091500Z
-DTSTART:20251008T074500Z
-SUMMARY:Jednostkowe sprawozdania finansowe (Przeniesienie zajęć)
-UID:e4e8ae91-e899-4975-944e-1fe4f5f6c812@e4e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
-DTEND:20251218T171500Z
-DTSTART:20251218T154500Z
-SUMMARY:Socjologia (Przeniesienie zajęć)
-UID:f64fc3b3-1c8c-4a89-8686-8a1ac5a05d9a@f64f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
-DTEND:20251015T091500Z
-DTSTART:20251015T074500Z
-SUMMARY:Jednostkowe sprawozdania finansowe (Przeniesienie zajęć)
-UID:9e8340a9-008c-4496-b7c6-c5a0b8f429fd@9e83.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
-DTEND:20251210T101500Z
-LOCATION:Paw.S sala 9
-DTSTART:20251210T084500Z
-SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
-UID:3e7183b9-4621-4a08-b2e7-5100ee78b809@3e71.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
-DTEND:20251212T120000Z
-LOCATION:Bud.gł. Stara Aula
-DTSTART:20251212T103000Z
-SUMMARY:Filozofia (wykład do wyboru)
-UID:dfc958ea-60c3-4da5-b0a3-027634ad7a20@dfc9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
-DTEND:20251215T194500Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20251215T173000Z
-SUMMARY:Socjologia (wykład do wyboru)
-UID:7263a9db-f7f7-480b-a3a2-f873dcda2415@7263.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Zieniuk
-DTEND:20251020T110000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251020T093000Z
-SUMMARY:Rachunkowość organizacji pozarządowych (wykład)
-UID:370cfe50-ad9b-4a7d-b307-bfaeeabee052@370c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Pawlak
-DTEND:20251027T101500Z
-LOCATION:Paw.S sala 9
-DTSTART:20251027T084500Z
-SUMMARY:Psychologia (wykład do wyboru)
-UID:5b00a1e1-c71c-48d0-b415-a799117bed9a@5b00.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Piotr Schroeder
-DTEND:20251119T153000Z
-LOCATION:Bud.gł. 3
-DTSTART:20251119T140000Z
-SUMMARY:Rachunkowość organizacji pozarządowych (ćwiczenia)
-UID:00410480-cb86-4246-a4a9-6808fe13e523@0041.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
-DTEND:20251205T120000Z
-LOCATION:Bud.gł. Stara Aula
-DTSTART:20251205T103000Z
-SUMMARY:Filozofia (wykład do wyboru)
-UID:dc158cfb-bc9a-4dbf-8ee2-2f7010d16752@dc15.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
-DTEND:20251013T124500Z
-LOCATION:Paw.S sala 9
-DTSTART:20251013T111500Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
-UID:4f0e54be-3bb9-4d09-a7bc-ba6e29e78428@4f0e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
-DTEND:20260123T120000Z
-LOCATION:Paw.S sala 9
-DTSTART:20260123T103000Z
-SUMMARY:Filozofia (wykład do wyboru)
-UID:393873b8-1c8b-4416-9605-ce8dc0ffd5b0@3938.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20251210T171500Z
-LOCATION:Paw.F 615
-DTSTART:20251210T154500Z
-SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
-UID:ab33d3d6-015e-4c77-bf25-f0f69bd7dd93@ab33.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
-DTEND:20251001T110000Z
-LOCATION:Paw.F 107
-DTSTART:20251001T093000Z
-SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
-UID:311a4ffb-3e8a-4321-8751-f38f4864c2b9@311a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Gabriela Strojna
-DTEND:20251008T124500Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20251008T111500Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
-UID:e6b0c54e-90e2-4ff6-b716-80859224a05a@e6b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20251128T101500Z
-LOCATION:Paw.C sala E
-DTSTART:20251128T084500Z
-SUMMARY:Analiza Statystyczna w Finansach (wykład do wyboru)
-UID:367336d7-f138-4941-b390-5d8c73872a47@3673.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
-DTEND:20251009T161500Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20251009T144500Z
-SUMMARY:Socjologia (wykład do wyboru)
-UID:f67d5b1b-b6fd-44ae-af10-3ec23fd0d79f@f67d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Pawlak
-DTEND:20251208T101500Z
-LOCATION:Paw.S sala 9
-DTSTART:20251208T084500Z
-SUMMARY:Psychologia (wykład do wyboru)
-UID:2f8f74dd-5429-4004-8cb5-7b972229cfc6@2f8f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20260107T171500Z
-LOCATION:Paw.F 615
-DTSTART:20260107T154500Z
-SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
-UID:22c99b2d-6393-48fc-ab29-90461bedcd4b@22c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20251114T101500Z
-LOCATION:Paw.C sala E
-DTSTART:20251114T084500Z
-SUMMARY:Analiza Statystyczna w Finansach (wykład do wyboru)
-UID:22b0d89d-da32-4edb-9811-c18eadbf6636@22b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
-DTEND:20251103T153000Z
-DTSTART:20251103T140000Z
-SUMMARY:Socjologia (Przeniesienie zajęć)
-UID:bd577a72-ec64-4c2e-8cfb-089c8f5cc03a@bd57.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Jonas
-DTEND:20260113T153000Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20260113T140000Z
-SUMMARY:Rachunkowość mikro i małych przedsiębiorstw (wykład)
-UID:91bcd6bb-4b89-4b39-b70a-27658292f5be@91bc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Piotr Schroeder
-DTEND:20251105T153000Z
-LOCATION:Bud.gł. 3
-DTSTART:20251105T140000Z
-SUMMARY:Rachunkowość organizacji pozarządowych (ćwiczenia)
-UID:e393b8a8-1c29-4655-ab62-062e5fcec5a5@e393.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
-DTEND:20251024T110000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251024T093000Z
-SUMMARY:Filozofia (wykład do wyboru)
-UID:d03cc06d-202c-4121-a28b-a5611b2e1c1a@d03c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Jonas
-DTEND:20260120T153000Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20260120T144500Z
-SUMMARY:Rachunkowość mikro i małych przedsiębiorstw (wykład)
-UID:0755a944-2980-438c-9f40-ad4070ea6b69@0755.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
-DTEND:20251017T143000Z
-LOCATION:Paw.F 715
-DTSTART:20251017T130000Z
-SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
-UID:0319a524-b67c-4e78-93be-4881bcfbae7a@0319.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
-DTEND:20251107T120000Z
-LOCATION:Bud.gł. Stara Aula
-DTSTART:20251107T103000Z
-SUMMARY:Filozofia (wykład do wyboru)
-UID:eaedbb9f-781b-4c95-91c5-1ecfdf59c154@eaed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
-DTEND:20251113T171500Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20251113T154500Z
-SUMMARY:Socjologia (wykład do wyboru)
-UID:0cfe41a5-2455-49d8-888c-4c7cc7885b83@0cfe.org
+UID:6705b6b3-1e30-47fe-a0c7-cc8ae74ea8a7@6705.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
@@ -615,166 +31,23 @@ DTEND:20251031T120000Z
 LOCATION:link do zajęć
 DTSTART:20251031T103000Z
 SUMMARY:Filozofia (wykład do wyboru)
-UID:b05d7229-eb8c-447c-b9ab-25bfbf67fdb3@b05d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
-DTEND:20251211T171500Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20251211T154500Z
-SUMMARY:Socjologia (wykład do wyboru)
-UID:7acd48fd-9c46-422b-ab54-548fca50fe12@7acd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20260121T190000Z
-LOCATION:Paw.S sala 9
-DTSTART:20260121T173000Z
-SUMMARY:Historia gospodarcza (wykład do wyboru)
-UID:39bfce98-5089-44f1-9688-ea5b9bd690f3@39bf.org
+UID:5e109b49-a852-4b89-8d76-99bda443f360@5e10.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20251119T171500Z
+DTEND:20251203T171500Z
 LOCATION:Paw.F 615
-DTSTART:20251119T154500Z
+DTSTART:20251203T154500Z
 SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
-UID:925f7721-ff7f-4744-9b32-e5b9d5e07f84@925f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
-DTEND:20251210T134500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251210T121500Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
-UID:0135e281-5c29-47c7-acf3-1e651f9a39d9@0135.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Mokrzycka-Kogut
-DTEND:20251218T101500Z
-LOCATION:Paw.F 107
-DTSTART:20251218T084500Z
-SUMMARY:Rachunkowość mikro i małych przedsiębiorstw (ćwiczenia)
-UID:7ad03042-12b3-474c-b51d-391be1971317@7ad0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
-DTEND:20251105T101500Z
-DTSTART:20251105T084500Z
-SUMMARY:Jednostkowe sprawozdania finansowe (Przeniesienie zajęć)
-UID:c96b86b4-6680-4cdc-bfca-5cf9f47db1d4@c96b.org
+UID:031474d5-ba89-461b-8ef3-5c61ab98ba16@0314.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
-DTEND:20251117T153000Z
-LOCATION:Paw.C sala E
-DTSTART:20251117T140000Z
-SUMMARY:Socjologia (wykład do wyboru)
-UID:89d99d2b-6e62-483b-b7c1-425438f8f2fd@89d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Zieniuk
-DTEND:20251027T120000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251027T103000Z
-SUMMARY:Rachunkowość organizacji pozarządowych (wykład)
-UID:ce0c249a-c607-4dd1-ad9a-61565d3c118d@ce0c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
-DTEND:20260121T101500Z
-LOCATION:Paw.S sala 9
-DTSTART:20260121T084500Z
-SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
-UID:f6d0e13b-57a4-43bd-a1ec-8b3392f7c65d@f6d0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Mokrzycka-Kogut
-DTEND:20251204T101500Z
-LOCATION:Paw.F 107
-DTSTART:20251204T084500Z
-SUMMARY:Rachunkowość mikro i małych przedsiębiorstw (ćwiczenia)
-UID:2d168ba9-2983-425d-b0dc-72292eae4cbb@2d16.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Piotr Schroeder
-DTEND:20251209T190000Z
-LOCATION:Paw.F 515
-DTSTART:20251209T173000Z
-SUMMARY:Rachunkowość organizacji pozarządowych (ćwiczenia)
-UID:00ef741b-1464-4ca9-9f79-2cd0186ed4b6@00ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20251217T171500Z
-LOCATION:Paw.F 615
-DTSTART:20251217T154500Z
-SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
-UID:32726b20-aa7b-47ca-8863-cb720b2e1423@3272.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
-DTEND:20260115T171500Z
+DTEND:20260108T171500Z
 LOCATION:Paw.C  Nowa Aula
-DTSTART:20260115T154500Z
+DTSTART:20260108T154500Z
 SUMMARY:Socjologia (wykład do wyboru)
-UID:68e557f9-6515-4ac6-95e5-657667d9f8ab@68e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
-DTEND:20251208T134500Z
-LOCATION:Paw.S sala 9
-DTSTART:20251208T121500Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
-UID:c740698c-0520-40b8-8dbe-18e4ee0aebbe@c740.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
-DTEND:20251022T073000Z
-LOCATION:Paw.S sala 3
-DTSTART:20251022T060000Z
-SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
-UID:7d05f937-8b0e-4b1b-9613-03e093af691a@7d05.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
-DTEND:20260116T120000Z
-LOCATION:Paw.S sala 9
-DTSTART:20260116T103000Z
-SUMMARY:Filozofia (wykład do wyboru)
-UID:cb4b8dce-7174-4cc4-a4c9-3bd0397531e4@cb4b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
-DTEND:20260114T120000Z
-LOCATION:Paw.F 107
-DTSTART:20260114T103000Z
-SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
-UID:cb9e4e7c-536b-4dc8-96fb-66c433d48c68@cb9e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
-DTEND:20260121T120000Z
-LOCATION:Paw.F 107
-DTSTART:20260121T103000Z
-SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
-UID:a944051d-f8fe-4a76-a749-40c63f52782e@a944.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
-DTEND:20251001T124500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251001T111500Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
-UID:d50b5d32-2bca-42e5-b5f6-49b589fa5e26@d50b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Piotr Schroeder
-DTEND:20260121T153000Z
-LOCATION:Bud.gł. 3
-DTSTART:20260121T144500Z
-SUMMARY:Rachunkowość organizacji pozarządowych (ćwiczenia)
-UID:73c31516-2952-4de8-a8a6-e9849ec301a9@73c3.org
+UID:051e0a91-a240-441f-b53f-f9ba306810e2@051e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Justyna Pawlak
@@ -782,378 +55,7 @@ DTEND:20251124T083000Z
 LOCATION:Paw.S sala 9
 DTSTART:20251124T070000Z
 SUMMARY:Psychologia (wykład do wyboru)
-UID:d955c9ad-98c1-43d1-8788-5bae4d81e2bb@d955.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
-DTEND:20260109T120000Z
-LOCATION:Paw.S sala 9
-DTSTART:20260109T103000Z
-SUMMARY:Filozofia (wykład do wyboru)
-UID:a4b34807-587e-41bc-a5fb-66b6e66d95d7@a4b3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
-DTEND:20251002T161500Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20251002T144500Z
-SUMMARY:Socjologia (wykład do wyboru)
-UID:f50d0689-10dc-46a2-ab2c-4b01d544ecd8@f50d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
-DTEND:20251203T134500Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20251203T121500Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
-UID:b45c84c1-04cf-4b61-aa52-7a6ae96085ef@b45c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
-DTEND:20251010T110000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251010T093000Z
-SUMMARY:Filozofia (wykład do wyboru)
-UID:84b6de91-2d1b-40de-b754-0a1d9b17fa96@84b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
-DTEND:20251126T120000Z
-LOCATION:Paw.F 107
-DTSTART:20251126T103000Z
-SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
-UID:be459cff-756c-4de3-b755-3bbc083ddcd0@be45.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251016T123000Z
-DTSTART:20251016T093000Z
-SUMMARY: (rezerwacja)
-UID:3635d905-c0d5-4bfe-89d9-d378ec123b04@3635.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Piotr Schroeder
-DTEND:20260114T153000Z
-LOCATION:Bud.gł. 3
-DTSTART:20260114T140000Z
-SUMMARY:Rachunkowość organizacji pozarządowych (ćwiczenia)
-UID:99057b30-298b-4c5f-b542-42bc81ce67d2@9905.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Jonas
-DTEND:20251216T153000Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20251216T140000Z
-SUMMARY:Rachunkowość mikro i małych przedsiębiorstw (wykład)
-UID:2c0c9ebb-1fa5-43da-ac24-1e8a751c8133@2c0c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Pawlak
-DTEND:20251013T091500Z
-LOCATION:Paw.S sala 9
-DTSTART:20251013T074500Z
-SUMMARY:Psychologia (wykład do wyboru)
-UID:21b57350-b59b-4878-a9a4-25b69fcf879a@21b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
-DTEND:20260121T134500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260121T121500Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
-UID:038f606a-ddaf-4ae9-8bbb-4ea60d09e3e0@038f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
-DTEND:20251105T120000Z
-DTSTART:20251105T103000Z
-SUMMARY:Jednostkowe sprawozdania finansowe (Przeniesienie zajęć)
-UID:a6fb3e2e-aaab-4969-9b98-ec585481d83a@a6fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20251015T161500Z
-LOCATION:Paw.F 615
-DTSTART:20251015T144500Z
-SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
-UID:8c0ec0ef-048d-4666-a2bd-94c90e97c735@8c0e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251217T134500Z
-DTSTART:20251217T121500Z
-SUMMARY: (rezerwacja)
-UID:214d33c7-68b7-407b-9cd4-97892a74627d@214d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
-DTEND:20251003T110000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251003T093000Z
-SUMMARY:Filozofia (wykład do wyboru)
-UID:845d57ff-01b4-48cf-9774-5ffaf66d2d53@845d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20251022T180000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251022T163000Z
-SUMMARY:Historia gospodarcza (wykład do wyboru)
-UID:23190e34-3f4f-403d-b8be-566d6a4dcc0f@2319.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Mokrzycka-Kogut
-DTEND:20251106T101500Z
-LOCATION:Paw.F 107
-DTSTART:20251106T084500Z
-SUMMARY:Rachunkowość mikro i małych przedsiębiorstw (ćwiczenia)
-UID:84da7ceb-da39-4e78-acbc-97768a5566cc@84da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
-DTEND:20260107T134500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260107T121500Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
-UID:46ea15b2-4696-4f0e-8260-3cdc074c2c72@46ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Gabriela Strojna
-DTEND:20251015T124500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251015T111500Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
-UID:b890f590-6432-4076-a820-b323da84adc4@b890.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20251015T180000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251015T163000Z
-SUMMARY:Historia gospodarcza (wykład do wyboru)
-UID:c1b284ab-6087-4df2-abfc-845749e36fee@c1b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
-DTEND:20251017T110000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251017T093000Z
-SUMMARY:Filozofia (wykład do wyboru)
-UID:8bc0723d-2ef5-4f69-889b-540974d6f778@8bc0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Pawlak
-DTEND:20251103T101500Z
-LOCATION:Paw.S sala 9
-DTSTART:20251103T084500Z
-SUMMARY:Psychologia (wykład do wyboru)
-UID:8cea1d5d-6970-471c-b324-4e2676c24aa1@8cea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
-DTEND:20251022T110000Z
-LOCATION:Paw.F 107
-DTSTART:20251022T093000Z
-SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
-UID:a42deac8-580f-4ae6-b84e-a5f15df8431c@a42d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
-DTEND:20251126T134500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251126T121500Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
-UID:c43cb523-9afc-4c03-bf03-1e9f34176609@c43c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
-DTEND:20251112T134500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251112T121500Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
-UID:c19c8e0d-c2cd-46e7-a742-6241e594cf88@c19c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
-DTEND:20251201T134500Z
-LOCATION:Paw.S sala 9
-DTSTART:20251201T121500Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
-UID:7842d354-1b7b-4916-8226-efac92cb4d13@7842.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Mokrzycka-Kogut
-DTEND:20251023T091500Z
-LOCATION:Paw.F 107
-DTSTART:20251023T074500Z
-SUMMARY:Rachunkowość mikro i małych przedsiębiorstw (ćwiczenia)
-UID:1c2b4b35-ae6c-405b-85ec-ecfd846d8b87@1c2b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Zieniuk
-DTEND:20251124T120000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251124T103000Z
-SUMMARY:Rachunkowość organizacji pozarządowych (wykład)
-UID:7ee695f8-4ed4-45e9-ba10-03ee130aae0b@7ee6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
-DTEND:20260114T101500Z
-LOCATION:Paw.S sala 9
-DTSTART:20260114T084500Z
-SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
-UID:22f81712-f66d-444b-8680-46db14f69760@22f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
-DTEND:20251119T101500Z
-LOCATION:Paw.S sala 9
-DTSTART:20251119T084500Z
-SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
-UID:9c165974-0196-49c9-bb1c-4f0e4fd3b690@9c16.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Zieniuk
-DTEND:20251013T110000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251013T093000Z
-SUMMARY:Rachunkowość organizacji pozarządowych (wykład)
-UID:1c729242-5bd0-4645-9c5d-ee0d8fc6c17f@1c72.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20260107T190000Z
-LOCATION:Paw.S sala 9
-DTSTART:20260107T173000Z
-SUMMARY:Historia gospodarcza (wykład do wyboru)
-UID:6e32d54b-b896-4386-8170-bbf2bc2abb9f@6e32.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
-DTEND:20251020T143000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251020T130000Z
-SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
-UID:038bcbd9-6365-45b4-8366-a88f6bdaaf42@038b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Zieniuk
-DTEND:20251103T120000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251103T103000Z
-SUMMARY:Rachunkowość organizacji pozarządowych (wykład)
-UID:37cdb6ef-c06d-4559-9833-864a2a7e5c29@37cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
-DTEND:20251022T091500Z
-LOCATION:Paw.S sala 9
-DTSTART:20251022T074500Z
-SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
-UID:c3ee9b54-9204-48d5-b28c-0179e050500b@c3ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Zieniuk
-DTEND:20251208T120000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251208T111500Z
-SUMMARY:Rachunkowość organizacji pozarządowych (wykład)
-UID:da0c236f-f8d9-4f6e-ab31-369da0974af5@da0c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Piotr Schroeder
-DTEND:20251022T143000Z
-DTSTART:20251022T130000Z
-SUMMARY:Rachunkowość organizacji pozarządowych (Przeniesienie zajęć)
-UID:93c7c403-3dc7-4615-87f1-0f8d6a463b21@93c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
-DTEND:20260107T120000Z
-LOCATION:Paw.F 107
-DTSTART:20260107T103000Z
-SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
-UID:78b610cf-5862-4ec1-a374-2bf37fe6ea9e@78b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
-DTEND:20251117T134500Z
-LOCATION:Paw.S sala 9
-DTSTART:20251117T121500Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
-UID:bc7ac0a9-28ff-45fb-b771-37dad7c18855@bc7a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20251031T101500Z
-LOCATION:link do zajęć
-DTSTART:20251031T084500Z
-SUMMARY:Analiza Statystyczna w Finansach (wykład do wyboru)
-UID:11f393a5-8895-44d6-a918-aefdd35b35ea@11f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
-DTEND:20251112T120000Z
-LOCATION:Paw.F 107
-DTSTART:20251112T103000Z
-SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
-UID:30a2c53a-f30a-45da-8deb-b0bda760d977@30a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20251031T083000Z
-LOCATION:link do zajęć
-DTSTART:20251031T070000Z
-SUMMARY:Analiza Statystyczna w Finansach (wykład do wyboru)
-UID:d3b34d2d-118c-4e57-a43c-90b6b20b7a8c@d3b3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
-DTEND:20251008T110000Z
-DTSTART:20251008T093000Z
-SUMMARY:Jednostkowe sprawozdania finansowe (Przeniesienie zajęć)
-UID:02f36f25-1527-4e64-907d-9651d16e2032@02f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Gabriela Strojna
-DTEND:20251022T124500Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20251022T111500Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
-UID:b87b3dc2-e18c-4650-8e0f-3c5796b17794@b87b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20251119T190000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251119T173000Z
-SUMMARY:Historia gospodarcza (wykład do wyboru)
-UID:4e891810-474a-47f5-8b5f-d7f03f822c7d@4e89.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20260114T171500Z
-LOCATION:Paw.F 615
-DTSTART:20260114T154500Z
-SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
-UID:f3e931a5-776b-4313-acf9-b98e1f2b0800@f3e9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
-DTEND:20251210T120000Z
-LOCATION:Paw.F 107
-DTSTART:20251210T103000Z
-SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
-UID:8f517ead-72d7-40c8-b4d1-ec2f35cf07f2@8f51.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20251008T161500Z
-LOCATION:Paw.F 615
-DTSTART:20251008T144500Z
-SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
-UID:db7f3f3f-8950-4fda-964f-b6fb10ba0be9@db7f.org
+UID:579b88dd-6304-4bed-b033-fa1a55fab24e@579b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Piotr Miodunka
@@ -1161,87 +63,30 @@ DTEND:20251210T190000Z
 LOCATION:Paw.S sala 9
 DTSTART:20251210T173000Z
 SUMMARY:Historia gospodarcza (wykład do wyboru)
-UID:6bac9812-f554-49b5-8dcf-53377f79082c@6bac.org
+UID:24300028-1ad7-4c1c-8a39-9d7037a0762d@2430.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
-DTEND:20251203T101500Z
+DTEND:20251105T120000Z
+DTSTART:20251105T103000Z
+SUMMARY:Jednostkowe sprawozdania finansowe (Przeniesienie zajęć)
+UID:0bbb5b6f-11e2-4d7a-9a4c-444049c78dcb@0bbb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20260114T101500Z
 LOCATION:Paw.S sala 9
-DTSTART:20251203T084500Z
+DTSTART:20260114T084500Z
 SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
-UID:b212bd0d-af06-45be-96b7-d4271e7539a3@b212.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
-DTEND:20251017T073000Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20251017T060000Z
-SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
-UID:f58e8c19-fa81-4c3a-bcf2-7ec7bb380e97@f58e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20251105T171500Z
-LOCATION:Paw.F 615
-DTSTART:20251105T154500Z
-SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
-UID:5653386e-c3fd-467f-9095-d688d9310498@5653.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
-DTEND:20260107T101500Z
-LOCATION:Paw.S sala 9
-DTSTART:20260107T084500Z
-SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
-UID:c255533b-d18f-4dde-b582-5bf7183f9dd7@c255.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
-DTEND:20251029T120000Z
-LOCATION:Paw.F 107
-DTSTART:20251029T103000Z
-SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
-UID:49e04ca5-3380-4ee0-99c3-6b427448a090@49e0.org
+UID:2cbdb053-5c28-4d94-b0d6-d75a9a89539d@2cbd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20251001T180000Z
+DTEND:20251015T180000Z
 LOCATION:Paw.S sala 9
-DTSTART:20251001T163000Z
+DTSTART:20251015T163000Z
 SUMMARY:Historia gospodarcza (wykład do wyboru)
-UID:b8da2969-d301-436a-b46f-bb9ee99a980f@b8da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
-DTEND:20251020T124500Z
-LOCATION:Paw.S sala 9
-DTSTART:20251020T111500Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
-UID:4040f1d8-7e3f-4ee0-8526-7b0a9249c9bf@4040.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Jonas
-DTEND:20251118T153000Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20251118T140000Z
-SUMMARY:Rachunkowość mikro i małych przedsiębiorstw (wykład)
-UID:d30f83e5-a24b-4d50-94ed-96cbab2ed89c@d30f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Gabriela Strojna
-DTEND:20251029T134500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251029T121500Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
-UID:06439d19-d88f-4963-a826-cffc555f3d0f@0643.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Gabriela Strojna
-DTEND:20251105T134500Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20251105T121500Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
-UID:5923b4de-afdd-4444-be2a-2c3e42a72835@5923.org
+UID:9754c642-5c97-4d95-a477-d95281bd35ff@9754.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
@@ -1249,70 +94,53 @@ DTEND:20251119T120000Z
 LOCATION:Paw.F 107
 DTSTART:20251119T103000Z
 SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
-UID:08909b31-e614-42a3-8a5c-090534978f3e@0890.org
+UID:76b94dc2-0ece-446d-b1b6-2dbe1e0a01a2@76b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20251024T110000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251024T093000Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:19a84e77-d2a6-4834-b435-da938cd4510f@19a8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
-DTEND:20251103T134500Z
-DTSTART:20251103T121500Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (Przeniesienie zajęć)
-UID:5b414a06-b03f-4054-8f72-9c9c9aef952b@5b41.org
+DTEND:20251208T134500Z
+LOCATION:Paw.S sala 9
+DTSTART:20251208T121500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
+UID:b4932836-a41b-461b-844c-d2b0d21c49d9@b493.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20251008T110000Z
+DTSTART:20251008T093000Z
+SUMMARY:Jednostkowe sprawozdania finansowe (Przeniesienie zajęć)
+UID:7a2d0081-e08d-4b24-97be-c6a6fab5beaf@7a2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
+DTEND:20251103T153000Z
+DTSTART:20251103T140000Z
+SUMMARY:Socjologia (Przeniesienie zajęć)
+UID:8bd15a21-f5ee-45cc-8050-f4964050cd8a@8bd1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
-DTEND:20251119T134500Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20251119T121500Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
-UID:aff45bfd-c970-4408-aad6-68981797f86c@aff4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Pawlak
-DTEND:20251222T101500Z
+DTEND:20251020T124500Z
 LOCATION:Paw.S sala 9
-DTSTART:20251222T084500Z
-SUMMARY:Psychologia (wykład do wyboru)
-UID:81e40423-b18b-4382-bd48-968ac34b1527@81e4.org
+DTSTART:20251020T111500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
+UID:b86b5b0f-1c0e-48d4-bdb1-376d6dbd2b13@b86b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Jonas
-DTEND:20251021T143000Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20251021T130000Z
-SUMMARY:Rachunkowość mikro i małych przedsiębiorstw (wykład)
-UID:9c8fb9e6-be15-46dd-9285-8d405586d40d@9c8f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20260109T101500Z
-LOCATION:Paw.C sala E
-DTSTART:20260109T084500Z
-SUMMARY:Analiza Statystyczna w Finansach (wykład do wyboru)
-UID:801bc77c-72ee-4980-a3e0-49d3eab4e2d4@801b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20251029T190000Z
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20260109T120000Z
 LOCATION:Paw.S sala 9
-DTSTART:20251029T173000Z
-SUMMARY:Historia gospodarcza (wykład do wyboru)
-UID:cb6f19cf-76af-46e6-ba98-600165b99f08@cb6f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Pawlak
-DTEND:20251117T101500Z
-LOCATION:Paw.S sala 9
-DTSTART:20251117T084500Z
-SUMMARY:Psychologia (wykład do wyboru)
-UID:78dad3de-b96c-4cdc-aeac-ed754d31e6ac@78da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Jonas
-DTEND:20251007T143000Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20251007T130000Z
-SUMMARY:Rachunkowość mikro i małych przedsiębiorstw (wykład)
-UID:508fa3f8-3cfd-4e1f-b4de-cb63b2e3bc01@508f.org
+DTSTART:20260109T103000Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:ce3e8695-658a-4ef3-bdc2-76705221ffc4@ce3e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Piotr Schroeder
@@ -1320,102 +148,38 @@ DTEND:20251217T153000Z
 LOCATION:Bud.gł. 3
 DTSTART:20251217T140000Z
 SUMMARY:Rachunkowość organizacji pozarządowych (ćwiczenia)
-UID:e39b9a5b-c2d9-4343-b836-7e6f781580aa@e39b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20251022T161500Z
-LOCATION:Paw.F 615
-DTSTART:20251022T144500Z
-SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
-UID:fd18a39e-4615-4f66-bcbb-f9033aa5ec27@fd18.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20251112T190000Z
-DTSTART:20251112T173000Z
-SUMMARY:Historia gospodarcza (Przeniesienie zajęć)
-UID:a54c0ed0-2d98-413d-aba7-e02505ff695e@a54c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
-DTEND:20260112T143000Z
-LOCATION:Bud.gł. Stara Aula
-DTSTART:20260112T121500Z
-SUMMARY:Socjologia (wykład do wyboru)
-UID:0fabfe71-2abe-4389-9185-71e83498db0b@0fab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
-DTEND:20251120T171500Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20251120T154500Z
-SUMMARY:Socjologia (wykład do wyboru)
-UID:c512bf95-9b1c-449c-844a-350f2912b8fb@c512.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
-DTEND:20251203T120000Z
-LOCATION:Paw.F 107
-DTSTART:20251203T103000Z
-SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
-UID:c5ffd3ac-61d5-4e9e-828f-d4de1eef2233@c5ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
-DTEND:20251126T101500Z
-LOCATION:Paw.S sala 9
-DTSTART:20251126T084500Z
-SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
-UID:62616b60-d055-450e-a951-709b340ed4a9@6261.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
-DTEND:20251124T134500Z
-LOCATION:Paw.S sala 9
-DTSTART:20251124T121500Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
-UID:f0763e1d-34cb-4f63-8611-7ff7573adbdd@f076.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Pawlak
-DTEND:20251027T083000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251027T070000Z
-SUMMARY:Psychologia (wykład do wyboru)
-UID:676d8d96-a4de-4818-96bc-f43f059f1363@676d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20251105T190000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251105T173000Z
-SUMMARY:Historia gospodarcza (wykład do wyboru)
-UID:7b50b894-b7df-4e0a-a1fa-f6909785bde6@7b50.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Mokrzycka-Kogut
-DTEND:20260115T101500Z
-LOCATION:Paw.F 107
-DTSTART:20260115T084500Z
-SUMMARY:Rachunkowość mikro i małych przedsiębiorstw (ćwiczenia)
-UID:bfedefaa-58d3-4bb0-aa16-30b35c9fbbab@bfed.org
+UID:7c439a1a-42c8-4cf4-9265-918e22792181@7c43.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
-DTEND:20251121T120000Z
-LOCATION:Bud.gł. Stara Aula
-DTSTART:20251121T103000Z
+DTEND:20260116T120000Z
+LOCATION:Paw.S sala 9
+DTSTART:20260116T103000Z
 SUMMARY:Filozofia (wykład do wyboru)
-UID:8f1f8fe5-aa63-4357-9242-782b95b8b312@8f1f.org
+UID:a6232932-3a11-445a-9344-97ec79d59093@a623.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Pawlak
-DTEND:20260119T101500Z
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20251022T180000Z
 LOCATION:Paw.S sala 9
-DTSTART:20260119T084500Z
-SUMMARY:Psychologia (wykład do wyboru)
-UID:0d0e3dcc-0643-44cc-aed2-f6b8bcd1f2f0@0d0e.org
+DTSTART:20251022T163000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:a53e537d-330b-4064-a2e3-52a87ca415c0@a53e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
+DTEND:20251106T171500Z
+DTSTART:20251106T154500Z
+SUMMARY:Socjologia (Przeniesienie zajęć)
+UID:5c9d29e0-48d6-40ee-853e-861f9a6c7df5@5c9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20260107T190000Z
+LOCATION:Paw.S sala 9
+DTSTART:20260107T173000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:222096fe-309e-4ead-a098-a2c3dc8068a6@2220.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Justyna Pawlak
@@ -1423,7 +187,466 @@ DTEND:20260112T101500Z
 LOCATION:Paw.S sala 9
 DTSTART:20260112T084500Z
 SUMMARY:Psychologia (wykład do wyboru)
-UID:cb501484-b63b-4d0b-9f7f-da79d954343b@cb50.org
+UID:1469a836-c15d-4222-ae3f-b6ac787b735c@1469.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20251119T171500Z
+LOCATION:Paw.F 615
+DTSTART:20251119T154500Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:fb8ff998-eb43-4031-821b-28dbd263c512@fb8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
+DTEND:20251117T134500Z
+LOCATION:Paw.S sala 9
+DTSTART:20251117T121500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
+UID:5e289a30-8e2c-42e5-845e-282b7d93343b@5e28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20251029T101500Z
+LOCATION:Paw.S sala 9
+DTSTART:20251029T084500Z
+SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
+UID:36c99c70-a821-4225-b004-f22e5223213a@36c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
+DTEND:20251204T171500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20251204T154500Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:fd27cb6c-74ad-475f-a68c-79e5d2ec477b@fd27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20251217T101500Z
+LOCATION:Paw.S sala 9
+DTSTART:20251217T084500Z
+SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
+UID:bec124fb-8a81-41f2-8f6d-3caa43ba7ca6@bec1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20251114T120000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20251114T103000Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:6ec35f61-1a01-49dc-b064-0ceeb4cd9829@6ec3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20251119T190000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251119T173000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:4b4c1142-69e4-44f4-9a6f-57af319670f6@4b4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
+DTEND:20251216T171500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20251216T154500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:a14b310a-6521-4fa3-a401-6f10737d7ef8@a14b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
+DTEND:20251203T134500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20251203T121500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:cf688bda-96f7-410a-97c2-b01c370c0941@cf68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20251203T101500Z
+LOCATION:Paw.S sala 9
+DTSTART:20251203T084500Z
+SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
+UID:30a50d01-4b42-4852-821b-c959b2e41bfe@30a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Pawlak
+DTEND:20251208T083000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251208T070000Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:950a2845-9e03-4c5d-a7d2-12359ba01cd5@950a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
+DTEND:20260114T134500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20260114T121500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:0541c231-259d-4fda-9472-0396bf47dcbf@0541.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
+DTEND:20260122T171500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20260122T154500Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:65d916a0-0d01-4f48-8100-3ae3fc7a2bc0@65d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20260121T101500Z
+LOCATION:Paw.S sala 9
+DTSTART:20260121T084500Z
+SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
+UID:1117139d-d0f0-4003-a89a-7c4a15b1072b@1117.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20251128T120000Z
+LOCATION:Paw.S sala 4
+DTSTART:20251128T103000Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:4292344f-90aa-4e93-9935-c80b7e7b9972@4292.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Pawlak
+DTEND:20251124T101500Z
+LOCATION:Paw.S sala 9
+DTSTART:20251124T084500Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:8745d99b-d4e3-4b25-85af-a07c74de89cc@8745.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Pawlak
+DTEND:20251103T101500Z
+LOCATION:Paw.S sala 9
+DTSTART:20251103T084500Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:679a9f92-1c67-409a-b5d2-28f4101aaa2b@679a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Mokrzycka-Kogut
+DTEND:20260115T101500Z
+LOCATION:Paw.F 107
+DTSTART:20260115T084500Z
+SUMMARY:Rachunkowość mikro i małych przedsiębiorstw (ćwiczenia)
+UID:ed2a62b6-74a1-482a-adea-17ba7270d730@ed2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Piotr Schroeder
+DTEND:20260114T153000Z
+LOCATION:Bud.gł. 3
+DTSTART:20260114T140000Z
+SUMMARY:Rachunkowość organizacji pozarządowych (ćwiczenia)
+UID:7dea8f85-3c91-48e0-a8c2-d4751661f867@7dea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20251017T073000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20251017T060000Z
+SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
+UID:16f58a90-d167-4fa6-8d4a-6ab96e75e50e@16f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Pawlak
+DTEND:20251020T091500Z
+LOCATION:Paw.S sala 9
+DTSTART:20251020T074500Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:b2d34f2b-b7a6-4273-8bb0-af1294e3dad0@b2d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Gabriela Strojna
+DTEND:20251022T124500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20251022T111500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:b7d3bb4e-2f94-4ab5-8be0-63c4dd22d5b2@b7d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Jonas
+DTEND:20260113T153000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20260113T140000Z
+SUMMARY:Rachunkowość mikro i małych przedsiębiorstw (wykład)
+UID:551ed9fb-1a94-4e5a-84d2-ce3497dccc6c@551e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Gabriela Strojna
+DTEND:20251105T134500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20251105T121500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:1ee222dc-8675-4903-8e02-4ece708e66b3@1ee2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20251001T091500Z
+LOCATION:Paw.S sala 9
+DTSTART:20251001T074500Z
+SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
+UID:8896f481-c3f2-4d1c-a867-98858c35d362@8896.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Zieniuk
+DTEND:20251103T120000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251103T103000Z
+SUMMARY:Rachunkowość organizacji pozarządowych (wykład)
+UID:dbde2285-c686-4e3b-9cd1-409020417d7d@dbde.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
+DTEND:20251103T134500Z
+DTSTART:20251103T121500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (Przeniesienie zajęć)
+UID:b5dbecfa-d24f-42de-a961-99e1d9bd59a7@b5db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Zieniuk
+DTEND:20251013T110000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251013T093000Z
+SUMMARY:Rachunkowość organizacji pozarządowych (wykład)
+UID:01e996e8-6790-4d87-9cc2-c4a3a2ae3b1a@01e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20251022T110000Z
+LOCATION:Paw.F 107
+DTSTART:20251022T093000Z
+SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
+UID:7d71b4c2-d934-4644-a41b-898e4550dbb1@7d71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20251029T120000Z
+LOCATION:Paw.F 107
+DTSTART:20251029T103000Z
+SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
+UID:491ca67e-ee5d-4423-a86a-8bdf58c4bb63@491c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20251112T171500Z
+LOCATION:Paw.F 615
+DTSTART:20251112T154500Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:dabc2f36-d1fa-4b58-9999-cf6d8d9288ab@dabc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
+DTEND:20260115T171500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20260115T154500Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:72af3549-ee2d-45fc-9dfa-2e887082193d@72af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
+DTEND:20251113T171500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20251113T154500Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:a634f86d-4df4-4a0c-91ca-fd51d5bf3fa5@a634.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Piotr Schroeder
+DTEND:20251022T143000Z
+DTSTART:20251022T130000Z
+SUMMARY:Rachunkowość organizacji pozarządowych (Przeniesienie zajęć)
+UID:ba7b4142-0025-4f11-8088-068cd540e4e9@ba7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Zieniuk
+DTEND:20251208T120000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251208T111500Z
+SUMMARY:Rachunkowość organizacji pozarządowych (wykład)
+UID:9b813b98-1aba-4ada-9e54-841a0a088164@9b81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20260121T120000Z
+LOCATION:Paw.F 107
+DTSTART:20260121T103000Z
+SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
+UID:49eea098-4a2e-41d6-82a9-275ed5a0043d@49ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
+DTEND:20251009T161500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20251009T144500Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:91a27823-e1e7-49a1-b7d3-99f0a52ef65b@91a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
+DTEND:20251211T171500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20251211T154500Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:62010a84-9675-41bb-ac41-9b3ea934626b@6201.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20251210T101500Z
+LOCATION:Paw.S sala 9
+DTSTART:20251210T084500Z
+SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
+UID:2d116dcf-5841-4a2f-a863-56c98eb53c70@2d11.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20260114T190000Z
+LOCATION:Paw.S sala 9
+DTSTART:20260114T173000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:40a670f1-0c55-4b30-929a-fd310c5e92e3@40a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20251031T083000Z
+LOCATION:link do zajęć
+DTSTART:20251031T070000Z
+SUMMARY:Analiza Statystyczna w Finansach (wykład do wyboru)
+UID:0f59cc14-dd65-4070-9b24-1212a37aaef9@0f59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20251205T120000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20251205T103000Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:0e427d90-afe7-48b3-92a3-3ba86b0bdf95@0e42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20251001T180000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251001T163000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:5d129a90-5ba4-41c1-90a7-c97fcf56dab5@5d12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20251219T120000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251219T103000Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:c5e4391f-c51b-4e28-9db9-30e10b9d9ddf@c5e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
+DTEND:20251124T134500Z
+LOCATION:Paw.S sala 9
+DTSTART:20251124T121500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
+UID:f3d0e3f5-2265-4c0f-8cfb-3d1ea317469e@f3d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Pawlak
+DTEND:20260126T161500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21\, Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20260126T140000Z
+SUMMARY:Psychologia (egzamin)
+UID:ac6d7577-8741-4542-8427-59508c5c3dd5@ac6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
+DTEND:20251119T134500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20251119T121500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:f7c67a95-9979-4cad-8ed5-72ec2aeddb11@f7c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Pawlak
+DTEND:20260119T101500Z
+LOCATION:Paw.S sala 9
+DTSTART:20260119T084500Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:e1e17601-dc3d-44e8-ad83-e39caa8651e0@e1e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20251203T190000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251203T173000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:e39516bc-1cfe-454d-bd39-084a79b36280@e395.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
+DTEND:20251218T171500Z
+DTSTART:20251218T154500Z
+SUMMARY:Socjologia (Przeniesienie zajęć)
+UID:08bc50de-8257-4ad0-afd0-d7d448477212@08bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
+DTEND:20251027T134500Z
+LOCATION:Paw.S sala 9
+DTSTART:20251027T121500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
+UID:5edbfa45-e6f6-4c18-b70d-b102eb827f09@5edb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20251008T091500Z
+DTSTART:20251008T074500Z
+SUMMARY:Jednostkowe sprawozdania finansowe (Przeniesienie zajęć)
+UID:87d1aa39-0fc4-43df-bc1a-58550283bb12@87d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20251015T161500Z
+LOCATION:Paw.F 615
+DTSTART:20251015T144500Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:6317878d-6f7d-4140-8f6d-08f80b9b9fab@6317.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Gabriela Strojna
+DTEND:20251008T124500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20251008T111500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:2c467af0-48dc-4d14-bd25-4cdf631d74f9@2c46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20251015T091500Z
+DTSTART:20251015T074500Z
+SUMMARY:Jednostkowe sprawozdania finansowe (Przeniesienie zajęć)
+UID:9406db98-ce0f-41f4-b0c4-a5352b81cc04@9406.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20251022T073000Z
+LOCATION:Paw.S sala 3
+DTSTART:20251022T060000Z
+SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
+UID:a9a0625a-c8d9-4bb1-a280-1a02ef751abe@a9a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
+DTEND:20260112T143000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20260112T121500Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:696f9ea0-14f4-4af2-9619-0d9d5005c1ac@696f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Mokrzycka-Kogut
+DTEND:20251120T101500Z
+LOCATION:Paw.F 107
+DTSTART:20251120T084500Z
+SUMMARY:Rachunkowość mikro i małych przedsiębiorstw (ćwiczenia)
+UID:2eca0ae0-78e7-4a88-ad3f-e1dfa634d2bf@2eca.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Piotr Schroeder
@@ -1431,7 +654,55 @@ DTEND:20251203T153000Z
 LOCATION:Bud.gł. 3
 DTSTART:20251203T140000Z
 SUMMARY:Rachunkowość organizacji pozarządowych (ćwiczenia)
-UID:d1cb48d0-86ec-4d47-955e-e76ebf908f1b@d1cb.org
+UID:097059cf-c31f-44f1-af1a-236d1fb09467@0970.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Pawlak
+DTEND:20251215T101500Z
+LOCATION:Paw.S sala 9
+DTSTART:20251215T084500Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:661c0e87-939e-40f9-94b2-f85e5b3f766d@661c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20260107T101500Z
+LOCATION:Paw.S sala 9
+DTSTART:20260107T084500Z
+SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
+UID:0e1c2794-6265-43a8-8216-38093c1b0538@0e1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20260114T171500Z
+LOCATION:Paw.F 615
+DTSTART:20260114T154500Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:c34dff7c-0a16-4d09-8865-d518baaf5794@c34d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Pawlak
+DTEND:20251222T101500Z
+LOCATION:Paw.S sala 9
+DTSTART:20251222T084500Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:b08b8eb7-aeaf-4dbb-890d-d2f64bdcf5b8@b08b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20260123T120000Z
+LOCATION:Paw.S sala 9
+DTSTART:20260123T103000Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:c723c90b-2190-4c66-be01-8295f92254f4@c723.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20251008T161500Z
+LOCATION:Paw.F 615
+DTSTART:20251008T144500Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:bda97453-4008-4045-92e4-fc659f273e28@bda9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Katarzyna Mokrzycka-Kogut
@@ -1439,6 +710,735 @@ DTEND:20251215T124500Z
 LOCATION:Paw.S sala 7
 DTSTART:20251215T103000Z
 SUMMARY:Rachunkowość mikro i małych przedsiębiorstw (ćwiczenia)
-UID:286f64d7-45f7-44e9-9276-ee7f6239b225@286f.org
+UID:010b066c-be44-43fe-9d94-95dc95bc4c07@010b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20251121T120000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20251121T103000Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:d9c83f9a-e2e9-4eda-a32f-c8b99ad49282@d9c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20260107T120000Z
+LOCATION:Paw.F 107
+DTSTART:20260107T103000Z
+SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
+UID:4f83c7e9-f7d5-452a-89b4-da351429cd08@4f83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Jonas
+DTEND:20251202T153000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20251202T140000Z
+SUMMARY:Rachunkowość mikro i małych przedsiębiorstw (wykład)
+UID:c4cd25ef-3968-415f-8b77-667705411fcf@c4cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20251119T101500Z
+LOCATION:Paw.S sala 9
+DTSTART:20251119T084500Z
+SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
+UID:77f59c5a-6104-4730-9b9c-807bfd55f048@77f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Zieniuk
+DTEND:20251201T120000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251201T103000Z
+SUMMARY:Rachunkowość organizacji pozarządowych (wykład)
+UID:efa455de-8edd-4c7b-af86-4d5131d575a9@efa4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
+DTEND:20251127T171500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20251127T154500Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:57b27b17-8b08-4623-853a-1977f2fee4c8@57b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Piotr Schroeder
+DTEND:20251008T143000Z
+LOCATION:Bud.gł. 3
+DTSTART:20251008T130000Z
+SUMMARY:Rachunkowość organizacji pozarządowych (ćwiczenia)
+UID:427a0f79-cbe0-4218-b519-173f39b954bc@427a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20251029T190000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251029T173000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:52589a47-44d6-4570-9e11-4162e1631e51@5258.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20251112T101500Z
+LOCATION:Paw.S sala 9
+DTSTART:20251112T084500Z
+SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
+UID:91a1fc34-017f-45e3-ae00-e5a9f5babd3f@91a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Pawlak
+DTEND:20251027T101500Z
+LOCATION:Paw.S sala 9
+DTSTART:20251027T084500Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:889d1a6b-de54-4313-bdb6-24f791360bd5@889d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20251107T120000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20251107T103000Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:251bfc1e-e310-440f-b51c-a865dee2760f@251b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Gabriela Strojna
+DTEND:20251015T124500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251015T111500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:15454d40-c427-47db-8804-fbec26177e86@1545.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Gabriela Strojna
+DTEND:20251029T134500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251029T121500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:535b64a8-2e79-4e7c-bad0-cfb4a7aa762f@535b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Jonas
+DTEND:20251118T153000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20251118T140000Z
+SUMMARY:Rachunkowość mikro i małych przedsiębiorstw (wykład)
+UID:8c1ba462-aed6-4e7f-8560-6eebea26d3ce@8c1b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20251022T091500Z
+LOCATION:Paw.S sala 9
+DTSTART:20251022T074500Z
+SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
+UID:0efcfb44-0e5e-4781-be0b-9e115cf6cae1@0efc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
+DTEND:20251120T171500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20251120T154500Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:67e3e7f5-8585-4fef-8e74-3ab392d1ee27@67e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20260114T120000Z
+LOCATION:Paw.F 107
+DTSTART:20260114T103000Z
+SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
+UID:0b2569b2-0ab8-4245-826c-b9a42fc81a91@0b25.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20251015T110000Z
+DTSTART:20251015T093000Z
+SUMMARY:Jednostkowe sprawozdania finansowe (Przeniesienie zajęć)
+UID:dca15b26-be2b-4031-9649-1ead1d00eca5@dca1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20251126T171500Z
+LOCATION:Paw.F 615
+DTSTART:20251126T154500Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:db1f8ab2-8e19-4ee3-8f9b-4d8bbf766a96@db1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20251010T110000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251010T093000Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:5f1b7922-c357-4b2a-9307-107dee2ab803@5f1b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20251020T143000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251020T130000Z
+SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
+UID:a2fb0c58-db36-425a-a301-aea4cda7af8e@a2fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
+DTEND:20251013T124500Z
+LOCATION:Paw.S sala 9
+DTSTART:20251013T111500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
+UID:23c340ee-48f9-4957-8f8f-25f1571ea159@23c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20251003T091500Z
+LOCATION:Paw.C sala E
+DTSTART:20251003T074500Z
+SUMMARY:Analiza Statystyczna w Finansach (wykład do wyboru)
+UID:c0c445e4-c878-4d5c-83e2-d109b130abad@c0c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20251105T101500Z
+DTSTART:20251105T084500Z
+SUMMARY:Jednostkowe sprawozdania finansowe (Przeniesienie zajęć)
+UID:66275fe1-e04b-4a00-bdf6-30faa070df9d@6627.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Mokrzycka-Kogut
+DTEND:20251023T091500Z
+LOCATION:Paw.F 107
+DTSTART:20251023T074500Z
+SUMMARY:Rachunkowość mikro i małych przedsiębiorstw (ćwiczenia)
+UID:487a6aa0-d1f5-42ef-8030-c8511b0c95ae@487a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
+DTEND:20251112T134500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251112T121500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:5760d160-3a1e-4ae4-82a5-f89542a9eb26@5760.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20251217T171500Z
+LOCATION:Paw.F 615
+DTSTART:20251217T154500Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:f1e52768-1d8b-449a-89e6-15e060672572@f1e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20260121T171500Z
+LOCATION:Paw.F 615
+DTSTART:20260121T154500Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:80a9b95e-f5e6-4616-90da-a58927b42f84@80a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20260121T190000Z
+LOCATION:Paw.S sala 9
+DTSTART:20260121T173000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:7f79841c-1d51-4237-a2ff-ade6f0f753e1@7f79.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251217T134500Z
+DTSTART:20251217T121500Z
+SUMMARY: (rezerwacja)
+UID:af077b7e-751c-4b02-968d-345d8b002b17@af07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20251128T101500Z
+LOCATION:Paw.C sala E
+DTSTART:20251128T084500Z
+SUMMARY:Analiza Statystyczna w Finansach (wykład do wyboru)
+UID:25f62622-4d8c-4396-ab95-40ea44de6bb7@25f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Piotr Schroeder
+DTEND:20260121T153000Z
+LOCATION:Bud.gł. 3
+DTSTART:20260121T144500Z
+SUMMARY:Rachunkowość organizacji pozarządowych (ćwiczenia)
+UID:f7bae974-05bd-42a0-ab3d-b4df88e08949@f7ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20260123T101500Z
+LOCATION:Paw.C sala E
+DTSTART:20260123T093000Z
+SUMMARY:Analiza Statystyczna w Finansach (wykład do wyboru)
+UID:f10bc6e5-a94e-4c5c-807e-b3ae314fcb90@f10b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20251031T101500Z
+LOCATION:link do zajęć
+DTSTART:20251031T084500Z
+SUMMARY:Analiza Statystyczna w Finansach (wykład do wyboru)
+UID:e4a714cb-1897-4b26-92ed-de2b58fdcb54@e4a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20251001T110000Z
+LOCATION:Paw.F 107
+DTSTART:20251001T093000Z
+SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
+UID:68d0bb22-7719-4ef4-8db4-bd484c74e59a@68d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Zieniuk
+DTEND:20251027T120000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251027T103000Z
+SUMMARY:Rachunkowość organizacji pozarządowych (wykład)
+UID:826d7337-31e3-4dc6-9500-343ae486a528@826d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20251208T190000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251208T173000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:157dd418-fe89-436d-a363-c24b148b8f2c@157d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20251105T171500Z
+LOCATION:Paw.F 615
+DTSTART:20251105T154500Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:cdaea969-2f28-413c-868e-19b5a549ebf6@cdae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20251210T171500Z
+LOCATION:Paw.F 615
+DTSTART:20251210T154500Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:05677a46-2864-483a-978b-b7fa3dbe967a@0567.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Pawlak
+DTEND:20251201T101500Z
+LOCATION:Paw.S sala 9
+DTSTART:20251201T084500Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:08bf29e3-6d02-4401-91ed-35bf2777d9a7@08bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20251112T190000Z
+DTSTART:20251112T173000Z
+SUMMARY:Historia gospodarcza (Przeniesienie zajęć)
+UID:8c5744a8-5ff8-4b3c-8e51-84e8039de2a8@8c57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Mokrzycka-Kogut
+DTEND:20251204T101500Z
+LOCATION:Paw.F 107
+DTSTART:20251204T084500Z
+SUMMARY:Rachunkowość mikro i małych przedsiębiorstw (ćwiczenia)
+UID:0aea3013-423b-4cd3-b4e5-53529cb06c6c@0aea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
+DTEND:20260121T134500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260121T121500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:f5f5438f-ccee-4964-ab65-db2713db2b02@f5f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20251112T120000Z
+LOCATION:Paw.F 107
+DTSTART:20251112T103000Z
+SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
+UID:f6e41b4a-e1ee-49c2-862a-864e60b3bfd5@f6e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Jonas
+DTEND:20251007T143000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20251007T130000Z
+SUMMARY:Rachunkowość mikro i małych przedsiębiorstw (wykład)
+UID:f7081948-40d9-497b-86b9-50cf0941dc11@f708.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
+DTEND:20251210T134500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251210T121500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:6f22dbf7-5260-49d9-8caa-b5b77b2c21b4@6f22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
+DTEND:20251215T163000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251215T154500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
+UID:860ccab2-906c-465c-9e40-ce9e88831bd5@860c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20251212T120000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20251212T103000Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:a4fab277-5021-4595-b3c1-88413c5af821@a4fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Pawlak
+DTEND:20251013T091500Z
+LOCATION:Paw.S sala 9
+DTSTART:20251013T074500Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:86afd276-b75c-471e-ac8a-98210318842f@86af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20251114T101500Z
+LOCATION:Paw.C sala E
+DTSTART:20251114T084500Z
+SUMMARY:Analiza Statystyczna w Finansach (wykład do wyboru)
+UID:4a9f3e4e-a138-4683-bea8-7dc82175bb3a@4a9f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
+DTEND:20260107T134500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260107T121500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:808cb914-d8a5-4db4-8bf8-bc8c75ebadc5@808c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20251126T190000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251126T173000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:eefd0182-620b-4347-b868-08758401fb65@eefd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
+DTEND:20251002T161500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20251002T144500Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:229674f7-c105-469b-a305-0e36cd0bf412@2296.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251016T123000Z
+DTSTART:20251016T093000Z
+SUMMARY: (rezerwacja)
+UID:0849c338-9971-4868-988c-eafe3672a5ed@0849.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Jonas
+DTEND:20251216T153000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20251216T140000Z
+SUMMARY:Rachunkowość mikro i małych przedsiębiorstw (wykład)
+UID:ee9eaac8-1f3a-449c-a78c-53626309a7df@ee9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
+DTEND:20251201T190000Z
+LOCATION:Paw.C sala E
+DTSTART:20251201T173000Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:27cf33f4-32d5-4104-96cc-9249e948edb7@27cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20251017T143000Z
+LOCATION:Paw.F 715
+DTSTART:20251017T130000Z
+SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
+UID:eb035988-9b56-4eb4-9c44-e2cf40ca082b@eb03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
+DTEND:20251126T134500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251126T121500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:9d615555-b5e1-4778-9c94-5e87576dd908@9d61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Piotr Schroeder
+DTEND:20251105T153000Z
+LOCATION:Bud.gł. 3
+DTSTART:20251105T140000Z
+SUMMARY:Rachunkowość organizacji pozarządowych (ćwiczenia)
+UID:602ec97c-a550-4b99-9b09-926203fa2009@602e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Jonas
+DTEND:20251021T143000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20251021T130000Z
+SUMMARY:Rachunkowość mikro i małych przedsiębiorstw (wykład)
+UID:3df09439-eea8-4b87-9495-6e2e4954f37b@3df0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20251203T120000Z
+LOCATION:Paw.F 107
+DTSTART:20251203T103000Z
+SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
+UID:cb99b43c-72eb-4f8d-857a-2e44acd3ffe1@cb99.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
+DTEND:20251117T153000Z
+LOCATION:Paw.C sala E
+DTSTART:20251117T140000Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:0c2a8518-6614-4cc6-8625-38fd2743f8e7@0c2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Pawlak
+DTEND:20251027T083000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251027T070000Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:8d6c6a34-c2df-40a0-900b-71484698146a@8d6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Piotr Schroeder
+DTEND:20251119T153000Z
+LOCATION:Bud.gł. 3
+DTSTART:20251119T140000Z
+SUMMARY:Rachunkowość organizacji pozarządowych (ćwiczenia)
+UID:5503c189-d575-4b64-ad14-df6f8cd9538c@5503.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
+DTEND:20251215T194500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20251215T173000Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:8deba363-6b23-49ad-b1cb-d10d4b024d3f@8deb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20251024T124500Z
+DTSTART:20251024T111500Z
+SUMMARY:Jednostkowe sprawozdania finansowe (Przeniesienie zajęć)
+UID:6a7dc5f0-9003-47a9-aa23-4ee5acb60c62@6a7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20251029T171500Z
+LOCATION:Paw.F 615
+DTSTART:20251029T154500Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:98285e2d-cbda-4f15-85f2-1ef9553b1cd6@9828.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20251022T161500Z
+LOCATION:Paw.F 615
+DTSTART:20251022T144500Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:867183b6-2df0-4b1d-ae00-655e553613a3@8671.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20251210T120000Z
+LOCATION:Paw.F 107
+DTSTART:20251210T103000Z
+SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
+UID:472117f7-012e-4a7f-a881-7869c8f60a96@4721.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20251126T101500Z
+LOCATION:Paw.S sala 9
+DTSTART:20251126T084500Z
+SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
+UID:549bf4bf-b11a-43b3-bf28-80c7e30d5783@549b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20251126T120000Z
+LOCATION:Paw.F 107
+DTSTART:20251126T103000Z
+SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
+UID:6210d754-caa9-48bc-bbe9-7b6a42568f22@6210.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Piotr Schroeder
+DTEND:20251209T190000Z
+LOCATION:Paw.F 515
+DTSTART:20251209T173000Z
+SUMMARY:Rachunkowość organizacji pozarządowych (ćwiczenia)
+UID:1a0151c5-7d17-4564-9fc7-94031f223d91@1a01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20251105T190000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251105T173000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:b6c4f8eb-5c93-4c13-a50e-e9b8555ca330@b6c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20260109T101500Z
+LOCATION:Paw.C sala E
+DTSTART:20260109T084500Z
+SUMMARY:Analiza Statystyczna w Finansach (wykład do wyboru)
+UID:f48d5ee6-4016-4acc-97e2-eaf1b9d07841@f48d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20251003T110000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251003T093000Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:1670441d-b78c-4928-a6b7-6bf7c1da8633@1670.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20251217T120000Z
+LOCATION:Paw.F 107
+DTSTART:20251217T103000Z
+SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
+UID:373a3768-1151-44b0-8d4c-239162b61a8a@373a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Jonas
+DTEND:20260120T153000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20260120T144500Z
+SUMMARY:Rachunkowość mikro i małych przedsiębiorstw (wykład)
+UID:e780445b-4d88-4e1b-ae4a-a046023400fc@e780.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
+DTEND:20251030T171500Z
+DTSTART:20251030T154500Z
+SUMMARY:Socjologia (Przeniesienie zajęć)
+UID:e7920512-42e4-4115-9dfb-d19b84d88c57@e792.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Mokrzycka-Kogut
+DTEND:20251218T101500Z
+LOCATION:Paw.F 107
+DTSTART:20251218T084500Z
+SUMMARY:Rachunkowość mikro i małych przedsiębiorstw (ćwiczenia)
+UID:91233d4d-d4af-46f1-8091-14681fb874af@9123.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Jonas
+DTEND:20251104T153000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20251104T140000Z
+SUMMARY:Rachunkowość mikro i małych przedsiębiorstw (wykład)
+UID:ac598015-5c19-4d65-bf82-6346b1eefb58@ac59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Lityński
+DTEND:20251001T124500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251001T111500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:a59aa29a-e984-4414-aaeb-0d43ba3a5ddc@a59a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Zieniuk
+DTEND:20251124T120000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251124T103000Z
+SUMMARY:Rachunkowość organizacji pozarządowych (wykład)
+UID:6d927f37-f7ad-44fe-be3d-b55b2370d0d9@6d92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Mokrzycka-Kogut
+DTEND:20251106T101500Z
+LOCATION:Paw.F 107
+DTSTART:20251106T084500Z
+SUMMARY:Rachunkowość mikro i małych przedsiębiorstw (ćwiczenia)
+UID:eda557a3-934e-4b0c-afe1-c9befd5499ec@eda5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20251217T190000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251217T173000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:77fed021-6a9f-4d09-9a25-2012398fc6d7@77fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20251001T161500Z
+LOCATION:Paw.F 615
+DTSTART:20251001T144500Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:4c5ad783-d8c7-4f75-b9e8-823e8b91e798@4c5a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20251017T110000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251017T093000Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:b44f935f-cc28-40a7-947c-a112947fe1fb@b44f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Zieniuk
+DTEND:20251020T110000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251020T093000Z
+SUMMARY:Rachunkowość organizacji pozarządowych (wykład)
+UID:9151ebb3-e201-4fa9-a2bd-1487563bf92c@9151.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Pawlak
+DTEND:20251208T101500Z
+LOCATION:Paw.S sala 9
+DTSTART:20251208T084500Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:fa93931c-44df-4df3-9d64-4068164aac37@fa93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Pawlak
+DTEND:20251117T101500Z
+LOCATION:Paw.S sala 9
+DTSTART:20251117T084500Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:f4f8ed71-f181-4307-937b-dcbfcc67bc8a@f4f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20260107T171500Z
+LOCATION:Paw.F 615
+DTSTART:20260107T154500Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:f29c5c1e-ccd9-4e7e-a8f9-07e11853465e@f29c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Piotr Schroeder  dr Paweł Zieniuk
+DTEND:20260120T180000Z
+LOCATION:Paw.S sala 9
+DTSTART:20260120T163000Z
+SUMMARY:Rachunkowość organizacji pozarządowych (kolokwium)
+UID:81d1d5a1-bbf3-480f-9a25-e9acae03fd2f@81d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20251212T101500Z
+LOCATION:Paw.C sala E
+DTSTART:20251212T084500Z
+SUMMARY:Analiza Statystyczna w Finansach (wykład do wyboru)
+UID:bc3b02e0-67a1-4961-8c80-597f7e72bdcd@bc3b.org
 END:VEVENT
 END:VCALENDAR
