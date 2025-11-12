@@ -2,44 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Dawid Doliński
-DTEND:20251130T091500Z
-LOCATION:Paw.S sala 11
-DTSTART:20251130T070000Z
-SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
-UID:c41e93da-b3f0-4560-a21b-7171efdde323@c41e.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marta Szklarska
-DTEND:20251221T151500Z
-LOCATION:Paw.F 717
-DTSTART:20251221T121500Z
-SUMMARY:Matematyka (ćwiczenia)
-UID:340513f6-d998-4d0f-979c-531c7b0230d4@3405.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Dawid Doliński
-DTEND:20260124T091500Z
-LOCATION:Paw.S sala 11
-DTSTART:20260124T070000Z
-SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
-UID:0f21d636-fce8-4fdb-9796-e3dd57709c4c@0f21.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Dawid Doliński
-DTEND:20260110T133000Z
-LOCATION:Paw.S sala 11
-DTSTART:20260110T111500Z
-SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
-UID:9ab3d628-c563-44f8-826a-50d32e28c7a6@9ab3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
-DTEND:20251212T193000Z
-LOCATION:Sienk. 4 pr. przem. 3
-DTSTART:20251212T163000Z
-SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
-UID:bef11c12-05c4-4442-bd05-9d37674ba6f4@bef1.org
+DTEND:20260131T110000Z
+LOCATION:Paw.S sala 8
+DTSTART:20260131T084500Z
+SUMMARY: (egzamin)
+UID:01de65b7-d7b5-4f39-8e20-bfd854abe5ce@01de.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marta Szklarska
@@ -47,7 +15,14 @@ DTEND:20251026T091500Z
 LOCATION:Paw.F 107
 DTSTART:20251026T070000Z
 SUMMARY:Matematyka (ćwiczenia)
-UID:c9fb8850-d82d-4a43-89b9-32b9ffd6fc35@c9fb.org
+UID:9cc25f2c-d22c-4ec2-ad54-7fa3c1ec7eae@9cc2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20251005T114500Z
+DTSTART:20251005T093000Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:7b9af02d-12d9-4d4a-89ca-862284bf6c54@7b9a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marta Szklarska
@@ -55,85 +30,7 @@ DTEND:20260111T091500Z
 LOCATION:Paw.F 614
 DTSTART:20260111T070000Z
 SUMMARY:Matematyka (ćwiczenia)
-UID:ba6dd62f-a97d-483f-9635-08f9c4758c29@ba6d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
-DTEND:20251221T091500Z
-LOCATION:Paw.U sala K
-DTSTART:20251221T070000Z
-SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (ćwiczenia)
-UID:7f061c13-14f6-4e10-92b4-83b5eb1e54dd@7f06.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marta Szklarska
-DTEND:20251004T090000Z
-DTSTART:20251004T064500Z
-SUMMARY:Matematyka (wykład)
-UID:ebea6287-6903-4cf5-88a1-8901c3e93583@ebea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
-DTEND:20251206T100000Z
-LOCATION:link do zajęć
-DTSTART:20251206T074500Z
-SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (wykład)
-UID:1c6a7f95-8945-4f6e-860b-1dde8da20a3d@1c6a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
-DTEND:20251205T170000Z
-LOCATION:link do zajęć
-DTSTART:20251205T144500Z
-SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (wykład)
-UID:bd2183dc-5481-4d21-999b-fcca865acd02@bd21.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Dawid Doliński
-DTEND:20251019T081500Z
-LOCATION:Paw.S sala 11
-DTSTART:20251019T060000Z
-SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
-UID:5f3a6615-5d82-43a5-b61d-7d63379fe213@5f3a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
-DTEND:20251129T170000Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20251129T144500Z
-SUMMARY:Technologie cyfrowe (ćwiczenia)
-UID:383ed943-46d5-45e9-a98e-559aad15fd4e@383e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
-DTEND:20251213T141500Z
-LOCATION:Sienk. 4 pr. przem. 4
-DTSTART:20251213T111500Z
-SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
-UID:cfc61c70-64dc-468c-bc18-df0f5dcd3a6f@cfc6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marta Szklarska
-DTEND:20251205T194500Z
-LOCATION:link do zajęć
-DTSTART:20251205T173000Z
-SUMMARY:Matematyka (wykład)
-UID:c719b110-17e8-4b46-aa70-1f8b860ece2d@c719.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20251005T114500Z
-DTSTART:20251005T093000Z
-SUMMARY:Procesy i techniki produkcyjne (wykład)
-UID:97203efb-78cc-4a39-9383-bf927110a2b0@9720.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
-DTEND:20251115T123000Z
-LOCATION:Sienk. 4 pr. przem. 4
-DTSTART:20251115T093000Z
-SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
-UID:213afd3e-48b0-45a5-bd5c-852093560201@213a.org
+UID:34dd2e2c-4b93-4d05-8f06-dab7f40b6069@34dd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
@@ -141,155 +38,7 @@ DTEND:20251115T091500Z
 LOCATION:Bibl. 443
 DTSTART:20251115T070000Z
 SUMMARY:Ergonomia i BHP (konwersatorium)
-UID:3c1a9513-c3e7-406c-a97b-e35a58a4789e@3c1a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
-DTEND:20260110T170000Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20260110T144500Z
-SUMMARY:Technologie cyfrowe (ćwiczenia)
-UID:fefbe983-f0a4-4276-8223-68027d8520d4@fefb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
-DTEND:20251207T091500Z
-LOCATION:Paw.U sala K
-DTSTART:20251207T070000Z
-SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (ćwiczenia)
-UID:8664f618-51a9-40b3-a7d3-a281728fde2b@8664.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Dawid Doliński
-DTEND:20251214T091500Z
-LOCATION:Paw.S sala 11
-DTSTART:20251214T070000Z
-SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
-UID:40858c45-5b4f-40d4-b6dc-db19f52b11b6@4085.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251016T123000Z
-DTSTART:20251016T093000Z
-SUMMARY: (rezerwacja)
-UID:62ae5012-b079-44e0-ac70-eb6af8b7d035@62ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
-DTEND:20251019T133000Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20251019T111500Z
-SUMMARY:Technologie cyfrowe (ćwiczenia)
-UID:e82c27d8-0e99-4e56-814a-a244ffa8d00c@e82c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
-DTEND:20251018T090000Z
-LOCATION:Sienk. 4 pr. przem. 4
-DTSTART:20251018T060000Z
-SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
-UID:a6215703-64c4-476e-81de-279e35d920a0@a621.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20251114T194500Z
-LOCATION:link do zajęć
-DTSTART:20251114T173000Z
-SUMMARY:Procesy i techniki produkcyjne (wykład)
-UID:acde746b-191a-49cd-894d-5011f2cd59bb@acde.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Dawid Doliński
-DTEND:20251121T194500Z
-LOCATION:Paw.S sala 11
-DTSTART:20251121T173000Z
-SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
-UID:915fc6c3-cf60-4b3f-a8e8-c418ca40546e@915f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
-DTEND:20260123T184500Z
-LOCATION:Sienk. 4 pr. przem. 3
-DTSTART:20260123T154500Z
-SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
-UID:6532ad88-49a7-4013-bd61-cb0514f059dd@6532.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
-DTEND:20251115T184500Z
-LOCATION:Sienk. 4 pr. przem. 3
-DTSTART:20251115T154500Z
-SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
-UID:1fcb2028-57f9-4540-9b59-cdf60b7b55a1@1fcb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
-DTEND:20251116T143000Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20251116T121500Z
-SUMMARY:Technologie cyfrowe (ćwiczenia)
-UID:25463832-a2aa-43a9-b13d-b65a9ef569ed@2546.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251217T134500Z
-DTSTART:20251217T121500Z
-SUMMARY: (rezerwacja)
-UID:84c52b80-cb82-4a82-b6f4-8dc480eb0291@84c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marta Szklarska
-DTEND:20260131T110000Z
-LOCATION:Paw.S sala 8
-DTSTART:20260131T084500Z
-SUMMARY: (egzamin)
-UID:ccdee697-e0c0-48b1-b739-3a32e3e8b85e@ccde.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
-DTEND:20251005T090000Z
-DTSTART:20251005T064500Z
-SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (wykład)
-UID:3a360560-0039-4263-ac97-c51904124260@3a36.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
-DTEND:20251220T114500Z
-LOCATION:Paw.U sala M
-DTSTART:20251220T093000Z
-SUMMARY:Ergonomia i BHP (konwersatorium)
-UID:c360f1f4-2461-4b25-b2d2-bf65ee10b23b@c360.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Renata Salerno-Kochan
-DTEND:20251004T114500Z
-DTSTART:20251004T093000Z
-SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (wykład)
-UID:4f0bddee-6721-4fb9-9732-b2561bfda216@4f0b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
-DTEND:20251129T104500Z
-LOCATION:Sienk. 4 pr. przem. 3
-DTSTART:20251129T070000Z
-SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
-UID:b2da385b-8177-49aa-ba9f-5b2eea0773e2@b2da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
-DTEND:20251122T100000Z
-LOCATION:link do zajęć
-DTSTART:20251122T074500Z
-SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (wykład)
-UID:d26d3668-4c58-4bb4-a869-4953454decae@d26d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marta Szklarska
-DTEND:20251123T091500Z
-LOCATION:Paw.F 106
-DTSTART:20251123T070000Z
-SUMMARY:Matematyka (ćwiczenia)
-UID:e1778e91-348f-4e93-86b7-c03d81c2df1a@e177.org
+UID:700e7beb-cf15-4d90-8dea-2446b34c1db9@700e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
@@ -297,103 +46,31 @@ DTEND:20251122T124500Z
 LOCATION:link do zajęć
 DTSTART:20251122T103000Z
 SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (wykład)
-UID:a81a1d7c-3417-4a23-ab56-31667b86971c@a81a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Renata Salerno-Kochan
-DTEND:20251025T114500Z
-LOCATION:link do zajęć
-DTSTART:20251025T093000Z
-SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (wykład)
-UID:f803a9c5-1f11-48c2-9171-ed77e4d956e5@f803.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20251024T184500Z
-LOCATION:link do zajęć
-DTSTART:20251024T163000Z
-SUMMARY:Procesy i techniki produkcyjne (wykład)
-UID:069fe4b3-8115-4799-b139-beef73351012@069f.org
+UID:dd3f4a6c-7c18-4837-b5b9-a653d13fef5d@dd3f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marta Szklarska
-DTEND:20251220T091500Z
-LOCATION:Paw.F 106
-DTSTART:20251220T070000Z
+DTEND:20251221T151500Z
+LOCATION:Paw.F 717
+DTSTART:20251221T121500Z
 SUMMARY:Matematyka (ćwiczenia)
-UID:f2774ecd-6be9-47ab-be19-906f955f3c80@f277.org
+UID:c4936427-c708-4f20-b9a3-a5db120dcc32@c493.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Dawid Doliński
+DTEND:20260124T091500Z
+LOCATION:Paw.S sala 11
+DTSTART:20260124T070000Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:4f91dffa-f6f1-436e-ac22-93efe0a52530@4f91.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
-DTEND:20251213T170000Z
+DTEND:20251129T170000Z
 LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20251213T144500Z
+DTSTART:20251129T144500Z
 SUMMARY:Technologie cyfrowe (ćwiczenia)
-UID:916f68c3-bdb2-4928-bdfe-73ac29e20ab1@916f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
-DTEND:20260111T151500Z
-LOCATION:Paw.U sala P (KatRozOrg)
-DTSTART:20260111T121500Z
-SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (ćwiczenia)
-UID:7e48e308-5647-4217-9bd6-36f567d4fadb@7e48.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marta Szklarska
-DTEND:20251114T170000Z
-LOCATION:link do zajęć
-DTSTART:20251114T144500Z
-SUMMARY:Matematyka (wykład)
-UID:937d73bb-0393-4773-8127-24f24ca60355@937d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
-DTEND:20251207T170000Z
-LOCATION:Sienk. 4 pr. przem. 4
-DTSTART:20251207T140000Z
-SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
-UID:5867a358-ccf7-4d25-a5cb-0362adcc2200@5867.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
-DTEND:20260124T114500Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20260124T093000Z
-SUMMARY:Technologie cyfrowe (ćwiczenia)
-UID:42680553-8702-4a4f-bab8-3fa2776aaaf1@4268.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marta Szklarska
-DTEND:20251207T134500Z
-LOCATION:Paw.F 107
-DTSTART:20251207T121500Z
-SUMMARY:Matematyka (ćwiczenia)
-UID:36a69d5c-606b-4370-af7b-33ead2b4224b@36a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marta Szklarska
-DTEND:20251116T091500Z
-LOCATION:Paw.F 107
-DTSTART:20251116T070000Z
-SUMMARY:Matematyka (ćwiczenia)
-UID:9963fb6c-3b6b-4be9-a9fe-4cc59811bfc5@9963.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
-DTEND:20251123T151500Z
-LOCATION:Paw.U sala K
-DTSTART:20251123T121500Z
-SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (ćwiczenia)
-UID:1c7517e4-4fc2-458b-b120-255944c95e2a@1c75.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
-DTEND:20251220T151500Z
-LOCATION:Paw.U sala K
-DTSTART:20251220T121500Z
-SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (ćwiczenia)
-UID:e9ed68e0-537b-41b6-83b8-39095d7af74f@e9ed.org
+UID:735575b8-48fe-4e34-8a91-4c95c6e7d998@7355.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marta Szklarska
@@ -401,7 +78,211 @@ DTEND:20260125T143000Z
 LOCATION:Paw.F 614
 DTSTART:20260125T121500Z
 SUMMARY:Matematyka (ćwiczenia)
-UID:6e62d65c-83b5-48cf-92b4-fcedafee8ba5@6e62.org
+UID:22976b16-c215-42aa-9368-b2e434aef233@2297.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
+DTEND:20260111T151500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20260111T121500Z
+SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (ćwiczenia)
+UID:b475f51c-3757-4ceb-9e67-821b2299600d@b475.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Dawid Doliński
+DTEND:20251019T081500Z
+LOCATION:Paw.S sala 11
+DTSTART:20251019T060000Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:6f4fb820-6f92-46e9-a9fc-0e38fba4e0f5@6f4f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Salerno-Kochan
+DTEND:20251004T114500Z
+DTSTART:20251004T093000Z
+SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (wykład)
+UID:15d0c2ab-5d51-41b0-a73c-52ef2d5534b3@15d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
+DTEND:20251115T123000Z
+LOCATION:Sienk. 4 pr. przem. 4
+DTSTART:20251115T093000Z
+SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
+UID:6ed413aa-cf0b-419a-b35f-e48946c7bc66@6ed4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
+DTEND:20251205T170000Z
+LOCATION:link do zajęć
+DTSTART:20251205T144500Z
+SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (wykład)
+UID:c9fdce80-8a93-4c3c-934a-9a034fe71bba@c9fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251217T134500Z
+DTSTART:20251217T121500Z
+SUMMARY: (rezerwacja)
+UID:6421fd12-df84-4b5b-b37a-d3b20296285d@6421.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20260110T170000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20260110T144500Z
+SUMMARY:Technologie cyfrowe (ćwiczenia)
+UID:87a395af-17e3-429c-b63a-d2355f083ac0@87a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20260124T114500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20260124T093000Z
+SUMMARY:Technologie cyfrowe (ćwiczenia)
+UID:62d0ac18-a5a5-45ac-97b2-8253619be2ba@62d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
+DTEND:20251122T100000Z
+LOCATION:link do zajęć
+DTSTART:20251122T074500Z
+SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (wykład)
+UID:ac53ac9d-78df-4c71-b5c9-89e31e279ae1@ac53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Salerno-Kochan
+DTEND:20251025T114500Z
+LOCATION:link do zajęć
+DTSTART:20251025T093000Z
+SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (wykład)
+UID:9e71b126-49d9-4787-b7a1-20cddde0afd5@9e71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20251116T143000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20251116T121500Z
+SUMMARY:Technologie cyfrowe (ćwiczenia)
+UID:2cd7996d-709a-40a7-9015-55cf2655df03@2cd7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Szklarska
+DTEND:20251220T091500Z
+LOCATION:Paw.F 106
+DTSTART:20251220T070000Z
+SUMMARY:Matematyka (ćwiczenia)
+UID:f8b113eb-7a9a-4bce-b607-0511ef879af5@f8b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Dawid Doliński
+DTEND:20251130T091500Z
+LOCATION:Paw.S sala 11
+DTSTART:20251130T070000Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:3b02b310-d427-4a33-bf34-78600454bbce@3b02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20251114T194500Z
+LOCATION:link do zajęć
+DTSTART:20251114T173000Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:e743eb83-8fad-444a-b841-bb78ca21761f@e743.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20251220T114500Z
+LOCATION:Paw.U sala M
+DTSTART:20251220T093000Z
+SUMMARY:Ergonomia i BHP (konwersatorium)
+UID:d3f9c9f5-adc9-442a-b341-081064b01b46@d3f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20251213T170000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20251213T144500Z
+SUMMARY:Technologie cyfrowe (ćwiczenia)
+UID:7ece415c-7520-40fe-97d0-61449e7c90e6@7ece.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Szklarska
+DTEND:20251123T091500Z
+LOCATION:Paw.F 106
+DTSTART:20251123T070000Z
+SUMMARY:Matematyka (ćwiczenia)
+UID:e011bd6f-4a9d-4850-9860-e3bd2c78d8a5@e011.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
+DTEND:20251129T104500Z
+LOCATION:Sienk. 4 pr. przem. 3
+DTSTART:20251129T070000Z
+SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
+UID:14f52580-9be9-4417-a603-217a58cd877e@14f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Szklarska
+DTEND:20251207T134500Z
+LOCATION:Paw.F 107
+DTSTART:20251207T121500Z
+SUMMARY:Matematyka (ćwiczenia)
+UID:6b941d82-a5c4-4931-9df2-8588ab970aa6@6b94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Dawid Doliński
+DTEND:20251214T091500Z
+LOCATION:Paw.S sala 11
+DTSTART:20251214T070000Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:cc99a92a-f209-4ce5-94d3-410b9ff864ff@cc99.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Szklarska
+DTEND:20251004T090000Z
+DTSTART:20251004T064500Z
+SUMMARY:Matematyka (wykład)
+UID:a13d96df-68e0-4765-8d5a-9df136a8d84c@a13d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
+DTEND:20251115T184500Z
+LOCATION:Sienk. 4 pr. przem. 3
+DTSTART:20251115T154500Z
+SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
+UID:e10af80f-31b7-4651-afb1-3e0c6b639529@e10a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
+DTEND:20260123T184500Z
+LOCATION:Sienk. 4 pr. przem. 3
+DTSTART:20260123T154500Z
+SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
+UID:cc7183c4-1434-428b-8c97-aaf391c279a2@cc71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
+DTEND:20251221T091500Z
+LOCATION:Paw.U sala K
+DTSTART:20251221T070000Z
+SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (ćwiczenia)
+UID:9a9e85e1-17a6-4e58-8b9d-5ed7ca5c2fbd@9a9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Szklarska
+DTEND:20251205T194500Z
+LOCATION:link do zajęć
+DTSTART:20251205T173000Z
+SUMMARY:Matematyka (wykład)
+UID:fa9c2516-0268-4f21-92e3-9f1c460f6d4e@fa9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251016T123000Z
+DTSTART:20251016T093000Z
+SUMMARY: (rezerwacja)
+UID:ecb5292a-dcf5-4bde-bc0c-5ba8b0ec864d@ecb5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marta Szklarska
@@ -409,7 +290,46 @@ DTEND:20260124T143000Z
 LOCATION:Paw.F 106
 DTSTART:20260124T121500Z
 SUMMARY:Matematyka (ćwiczenia)
-UID:9c48edee-0f2b-4b06-b3d6-ed3dad7a227b@9c48.org
+UID:13c5414c-df08-4f66-bc14-6551fa776614@13c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
+DTEND:20251206T100000Z
+LOCATION:link do zajęć
+DTSTART:20251206T074500Z
+SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (wykład)
+UID:63d14298-e394-4c0f-91b6-923786e9591d@63d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
+DTEND:20251207T091500Z
+LOCATION:Paw.U sala K
+DTSTART:20251207T070000Z
+SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (ćwiczenia)
+UID:2eed11bc-730c-47e0-8718-7ea6279bf126@2eed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Dawid Doliński
+DTEND:20251121T194500Z
+LOCATION:Paw.S sala 11
+DTSTART:20251121T173000Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:89be0129-5a64-4daa-b6f9-9295909e1fae@89be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20251019T133000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20251019T111500Z
+SUMMARY:Technologie cyfrowe (ćwiczenia)
+UID:6da715b0-2150-4aa6-a966-1bac50849452@6da7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
+DTEND:20251005T090000Z
+DTSTART:20251005T064500Z
+SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (wykład)
+UID:54e420b6-1931-4c81-ace5-b566623153c7@54e4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
@@ -417,6 +337,86 @@ DTEND:20251130T143000Z
 LOCATION:Paw.U sala O
 DTSTART:20251130T121500Z
 SUMMARY:Ergonomia i BHP (konwersatorium)
-UID:f208b795-d2fe-4349-887f-39e1da7bb0a7@f208.org
+UID:d5fbc95d-c5d7-43e8-b2cc-34709f3371e6@d5fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
+DTEND:20251212T193000Z
+LOCATION:Sienk. 4 pr. przem. 3
+DTSTART:20251212T163000Z
+SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
+UID:f86d4df2-fcc7-4eed-aab7-765acbde8c05@f86d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
+DTEND:20251213T141500Z
+LOCATION:Sienk. 4 pr. przem. 4
+DTSTART:20251213T111500Z
+SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
+UID:4656176f-d08d-4f85-b61e-3b7ba22b33ec@4656.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
+DTEND:20251018T090000Z
+LOCATION:Sienk. 4 pr. przem. 4
+DTSTART:20251018T060000Z
+SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
+UID:a44d3e0b-0704-43ec-8bbf-d6d53c715371@a44d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
+DTEND:20251123T151500Z
+LOCATION:Paw.U sala K
+DTSTART:20251123T121500Z
+SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (ćwiczenia)
+UID:1ee27f3e-ff19-4eae-8884-76bac44b2c85@1ee2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Szklarska
+DTEND:20251116T091500Z
+LOCATION:Paw.F 107
+DTSTART:20251116T070000Z
+SUMMARY:Matematyka (ćwiczenia)
+UID:9780f49a-8e38-4d1c-a566-4ee157c03b28@9780.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20251024T184500Z
+LOCATION:link do zajęć
+DTSTART:20251024T163000Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:42d6a198-3035-439a-9f9e-5108502075e3@42d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Szklarska
+DTEND:20251114T170000Z
+LOCATION:link do zajęć
+DTSTART:20251114T144500Z
+SUMMARY:Matematyka (wykład)
+UID:dd877c1d-9dec-4fea-b5d7-599c1a8ff9a9@dd87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
+DTEND:20251220T151500Z
+LOCATION:Paw.U sala K
+DTSTART:20251220T121500Z
+SUMMARY:Gospodarka magazynowa  i zarządzanie zakupami (ćwiczenia)
+UID:6695f3b1-a118-4fbb-a516-d9c5e9a93c36@6695.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Dawid Doliński
+DTEND:20260110T133000Z
+LOCATION:Paw.S sala 11
+DTSTART:20260110T111500Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:2c96e3d7-8eb3-44a4-80d0-c9ade4167411@2c96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
+DTEND:20251207T170000Z
+LOCATION:Sienk. 4 pr. przem. 4
+DTSTART:20251207T140000Z
+SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
+UID:7d62e2ec-60a0-47cf-96c4-2a317d1de606@7d62.org
 END:VEVENT
 END:VCALENDAR
