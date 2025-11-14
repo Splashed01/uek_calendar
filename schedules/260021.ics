@@ -2,27 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Elżbieta Bielak
-DTEND:20251114T170000Z
-LOCATION:link do zajęć
-DTSTART:20251114T144500Z
-SUMMARY:Jakość wyrobów przemysłowych w transporcie (wykład)
-UID:bc0b8482-3234-4c0b-ba1e-b3eafebf8573@bc0b.org
+DESCRIPTION:Instructor: dr inż. Artur Budzyński
+DTEND:20251128T170000Z
+LOCATION:Bud.gł. 4
+DTSTART:20251128T144500Z
+SUMMARY:Giełdy transportowe (ćwiczenia)
+UID:26a7fc28-4c61-47b4-a552-86e734c293d3@26a7.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Lipecki
-DTEND:20251221T114500Z
-LOCATION:link do zajęć
-DTSTART:20251221T093000Z
-SUMMARY:Work Life Balance (wykład do wyboru)
-UID:b98d1d82-8389-439c-b280-47ce84e9169c@b98d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bogdan Rogoda
-DTEND:20251010T160000Z
-DTSTART:20251010T134500Z
-SUMMARY:Podstawy własnego biznesu (wykład do wyboru)
-UID:acf38821-5368-46fc-a214-728ed513a6a3@acf3.org
+DESCRIPTION:Instructor: mgr inż. Małgorzata Kucia
+DTEND:20251025T133000Z
+DTSTART:20251025T111500Z
+SUMMARY:Transport ładunków niebezpiecznych (Przeniesienie zajęć)
+UID:14fe37ee-6307-406b-b516-a2127e796df7@14fe.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Paweł Nowicki
@@ -30,357 +22,7 @@ DTEND:20251130T114500Z
 LOCATION:Paw.B 053 (KSB)
 DTSTART:20251130T093000Z
 SUMMARY:Metody i systemy zarządzania jakością w transporcie i spedycji (konwersatorium)
-UID:84819cd6-ed03-44e9-9674-2fc8d6f713cc@8481.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
-DTEND:20251122T143000Z
-LOCATION:link do zajęć
-DTSTART:20251122T121500Z
-SUMMARY:Twórcze rozwiązywanie problemów w biznesie (wykład do wyboru)
-UID:836dc095-dae2-411f-80d1-3dd7d1694e9e@836d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marek Jabłoński
-DTEND:20251122T091500Z
-LOCATION:link do zajęć
-DTSTART:20251122T070000Z
-SUMMARY:Zarządzanie procesami biznesowymi (wykład do wyboru)
-UID:ffa61a27-8e6e-4177-9109-9e0bd1c5bda1@ffa6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
-DTEND:20251024T160000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20251024T134500Z
-SUMMARY:Informatyczne narzędzia działalności transportowo-spedycyjnej (ćwiczenia)
-UID:fc033153-ee43-41dd-9984-361b76f6f425@fc03.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
-DTEND:20251012T104500Z
-DTSTART:20251012T083000Z
-SUMMARY:Zarządzanie projektem w TSL (wykład do wyboru)
-UID:6ac48c4f-0ca8-460f-b4a8-01b739f826e5@6ac4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
-DTEND:20251221T091500Z
-LOCATION:link do zajęć
-DTSTART:20251221T070000Z
-SUMMARY:Zarządzanie projektem w TSL (wykład do wyboru)
-UID:13b38d26-ca38-489c-908e-faefb64015b9@13b3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Budzyński
-DTEND:20251220T170000Z
-LOCATION:Paw.B 053 (KSB)
-DTSTART:20251220T144500Z
-SUMMARY:Giełdy transportowe (ćwiczenia)
-UID:f026ff08-12a9-48ee-9e77-76887ec5c0b5@f026.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Małgorzata Kucia
-DTEND:20251025T081500Z
-LOCATION:Paw.F 516
-DTSTART:20251025T060000Z
-SUMMARY:Transport ładunków niebezpiecznych (konwersatorium)
-UID:1cf40cd8-1d9c-4e27-a80a-18bf40160f11@1cf4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
-DTEND:20251123T114500Z
-LOCATION:Paw.A 301b
-DTSTART:20251123T093000Z
-SUMMARY:Informatyczne narzędzia działalności transportowo-spedycyjnej (ćwiczenia)
-UID:6efd791e-6e26-4d2d-b3c7-0978d51e485e@6efd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Elżbieta Bielak
-DTEND:20251205T194500Z
-LOCATION:link do zajęć
-DTSTART:20251205T173000Z
-SUMMARY:Jakość wyrobów przemysłowych w transporcie (wykład)
-UID:5b0701cd-fc9c-4566-8f51-ee076cbd11a2@5b07.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
-DTEND:20260109T194500Z
-LOCATION:Paw.A 122 lab. Win10\, Office21
-DTSTART:20260109T173000Z
-SUMMARY:Informatyczne narzędzia działalności transportowo-spedycyjnej (ćwiczenia)
-UID:4becee87-7dd5-46cf-95fd-6718f42a331a@4bec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Arkadiusz Wróżek
-DTEND:20251219T194500Z
-LOCATION:link do zajęć
-DTSTART:20251219T173000Z
-SUMMARY:Międzynarodowy rynek przewozów lotniczych (wykład do wyboru)
-UID:66cf6c9d-cc92-4f3a-be3b-8143a71064c7@66cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Wojciech Kolasa
-DTEND:20251026T091500Z
-LOCATION:link do zajęć
-DTSTART:20251026T070000Z
-SUMMARY:Logistyka a rozwój współczesnych gospodarek (wykład do wyboru)
-UID:ff220e14-4fab-41a5-86a4-3576b5404511@ff22.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Paweł Nowicki
-DTEND:20251116T114500Z
-DTSTART:20251116T093000Z
-SUMMARY:Metody i systemy zarządzania jakością w transporcie i spedycji (Przeniesienie zajęć)
-UID:73827cbd-0a65-49fd-91e5-29c5f60a124e@7382.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Lipecki
-DTEND:20251115T091500Z
-DTSTART:20251115T070000Z
-SUMMARY:Work Life Balance (Przeniesienie zajęć)
-UID:17cf6765-9758-4a1d-a996-c71a322cab51@17cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Anna Jędraczka
-DTEND:20260124T111500Z
-LOCATION:Sienk. 4 pr. przem. 1
-DTSTART:20260124T103000Z
-SUMMARY:Jakość wyrobów przemysłowych w transporcie (laboratorium)
-UID:ea6b400c-c4ae-49d0-a8bf-9f9d5a3cb115@ea6b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
-DTEND:20251026T143000Z
-LOCATION:link do zajęć
-DTSTART:20251026T121500Z
-SUMMARY:Twórcze rozwiązywanie problemów w biznesie (wykład do wyboru)
-UID:6fa0b8c8-ca4b-4cca-bfbd-69482111d4ca@6fa0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Budzyński
-DTEND:20251130T091500Z
-LOCATION:Paw.F 413
-DTSTART:20251130T070000Z
-SUMMARY:Giełdy transportowe (ćwiczenia)
-UID:5ed46104-7665-4016-801c-a90b8ed9b3ac@5ed4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Lipecki
-DTEND:20251012T081500Z
-DTSTART:20251012T060000Z
-SUMMARY:Work Life Balance (wykład do wyboru)
-UID:e3acba72-fb37-4341-954a-311d7630d99c@e3ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
-DTEND:20251018T104500Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20251018T083000Z
-SUMMARY:Informatyczne narzędzia działalności transportowo-spedycyjnej (ćwiczenia)
-UID:f1542f1f-e509-41da-bce0-c28757f1a7c1@f154.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Elżbieta Bielak
-DTEND:20251214T111500Z
-LOCATION:Sienk. 4 pr. przem. 4
-DTSTART:20251214T103000Z
-SUMMARY:Jakość wyrobów przemysłowych w transporcie (laboratorium)
-UID:00e027e3-9189-4c4c-83c6-911e89622c92@00e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251217T134500Z
-DTSTART:20251217T121500Z
-SUMMARY: (rezerwacja)
-UID:5dd52ef6-476b-428d-b9ae-a06c30b8bf49@5dd5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Anna Jędraczka
-DTEND:20251219T170000Z
-LOCATION:link do zajęć
-DTSTART:20251219T144500Z
-SUMMARY:Jakość wyrobów przemysłowych w transporcie (wykład)
-UID:36400348-78ce-4ea7-9b59-07278473bec3@3640.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Elżbieta Bielak
-DTEND:20251206T133000Z
-LOCATION:Sienk. 4 pr. przem. 4
-DTSTART:20251206T103000Z
-SUMMARY:Jakość wyrobów przemysłowych w transporcie (laboratorium)
-UID:798686c6-0e58-41f3-8d82-fdc8b9e3b2c6@7986.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Paweł Nowicki
-DTEND:20251213T091500Z
-LOCATION:Paw.B 351
-DTSTART:20251213T070000Z
-SUMMARY:Metody i systemy zarządzania jakością w transporcie i spedycji (konwersatorium)
-UID:f461fe27-a42d-4435-be8a-45b257306d84@f461.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
-DTEND:20251116T091500Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20251116T070000Z
-SUMMARY:Informatyczne narzędzia działalności transportowo-spedycyjnej (ćwiczenia)
-UID:541b02ac-be85-417e-b10a-bb5d089fa8b5@541b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251016T123000Z
-DTSTART:20251016T093000Z
-SUMMARY: (rezerwacja)
-UID:192ca4ff-0de7-46ac-ba61-209b9177850c@192c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Wojciech Kolasa
-DTEND:20260131T091500Z
-LOCATION:Paw.B 151
-DTSTART:20260131T074500Z
-SUMMARY:Logistyka a rozwój współczesnych gospodarek (egzamin)
-UID:dd1e75f6-0de5-4007-9956-7b6c26c823f5@dd1e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Małgorzata Kucia
-DTEND:20251207T091500Z
-LOCATION:Paw.F 107
-DTSTART:20251207T070000Z
-SUMMARY:Transport ładunków niebezpiecznych (konwersatorium)
-UID:ba6c0924-62bd-4a1e-8fdc-791df7725ec4@ba6c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
-DTEND:20251115T114500Z
-LOCATION:link do zajęć
-DTSTART:20251115T093000Z
-SUMMARY:Zarządzanie projektem w TSL (wykład do wyboru)
-UID:424097c6-3357-4ea9-83e5-92c952d2baff@4240.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marek Jabłoński
-DTEND:20251011T104500Z
-DTSTART:20251011T083000Z
-SUMMARY:Zarządzanie procesami biznesowymi (wykład do wyboru)
-UID:467b5a62-6e0a-4f81-933f-ef7913c361cc@467b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Lipecki
-DTEND:20251221T170000Z
-LOCATION:link do zajęć
-DTSTART:20251221T144500Z
-SUMMARY:Work Life Balance (wykład do wyboru)
-UID:8b255cea-8c09-4935-8492-616d540de07c@8b25.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
-DTEND:20251011T133000Z
-DTSTART:20251011T111500Z
-SUMMARY:Twórcze rozwiązywanie problemów w biznesie (wykład do wyboru)
-UID:83910973-3591-44d0-9079-33de7942e93c@8391.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Wojciech Kolasa
-DTEND:20251122T114500Z
-LOCATION:link do zajęć
-DTSTART:20251122T093000Z
-SUMMARY:Logistyka a rozwój współczesnych gospodarek (wykład do wyboru)
-UID:a18e9a96-a0b4-4c46-a942-844a3e30ce87@a18e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Małgorzata Kucia
-DTEND:20251018T081500Z
-LOCATION:Paw.F 717
-DTSTART:20251018T060000Z
-SUMMARY:Transport ładunków niebezpiecznych (konwersatorium)
-UID:00c2cfa4-5932-4cce-9ad2-badbf777cf57@00c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Budzyński
-DTEND:20251128T170000Z
-LOCATION:Bud.gł. 4
-DTSTART:20251128T144500Z
-SUMMARY:Giełdy transportowe (ćwiczenia)
-UID:2c80dc66-808e-464f-a24e-21a310f3fcfa@2c80.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Małgorzata Kucia
-DTEND:20251220T143000Z
-LOCATION:Paw.S sala 2
-DTSTART:20251220T121500Z
-SUMMARY:Transport ładunków niebezpiecznych (konwersatorium)
-UID:cc1b3041-3e99-4349-8328-3933ae34d39f@cc1b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Arkadiusz Wróżek
-DTEND:20251114T194500Z
-LOCATION:link do zajęć
-DTSTART:20251114T173000Z
-SUMMARY:Międzynarodowy rynek przewozów lotniczych (wykład do wyboru)
-UID:9f6060d8-6c75-4ae2-b366-4c77ca2305d7@9f60.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bogdan Rogoda
-DTEND:20251115T143000Z
-LOCATION:link do zajęć
-DTSTART:20251115T121500Z
-SUMMARY:Podstawy własnego biznesu (wykład do wyboru)
-UID:3094a85c-64fe-455d-bc66-fe8181f48753@3094.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Małgorzata Kucia
-DTEND:20251025T133000Z
-DTSTART:20251025T111500Z
-SUMMARY:Transport ładunków niebezpiecznych (Przeniesienie zajęć)
-UID:c8b8fb37-df51-432a-931d-31056b294932@c8b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Małgorzata Kucia
-DTEND:20251123T091500Z
-LOCATION:Paw.F 104
-DTSTART:20251123T070000Z
-SUMMARY:Transport ładunków niebezpiecznych (konwersatorium)
-UID:273bdb56-86ee-448c-aea4-a4b027846463@273b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Paweł Nowicki
-DTEND:20251207T143000Z
-LOCATION:Paw.F 106
-DTSTART:20251207T121500Z
-SUMMARY:Metody i systemy zarządzania jakością w transporcie i spedycji (konwersatorium)
-UID:b7b06e9e-4439-4379-972f-0f2fdedb2756@b7b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Budzyński
-DTEND:20260110T170000Z
-LOCATION:Paw.B 053 (KSB)
-DTSTART:20260110T144500Z
-SUMMARY:Giełdy transportowe (ćwiczenia)
-UID:28f06cec-6a61-487a-a1f0-3a206a7ad9d9@28f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
-DTEND:20251207T114500Z
-LOCATION:Paw.A 122 lab. Win10\, Office21
-DTSTART:20251207T093000Z
-SUMMARY:Informatyczne narzędzia działalności transportowo-spedycyjnej (ćwiczenia)
-UID:e870de55-049b-4fe0-80aa-2446f1aa841c@e870.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Małgorzata Kucia
-DTEND:20260110T143000Z
-LOCATION:Bibl. 440
-DTSTART:20260110T121500Z
-SUMMARY:Transport ładunków niebezpiecznych (konwersatorium)
-UID:b889b5f9-5a12-4b8f-aa4d-2a732a1c0129@b889.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Paweł Nowicki
-DTEND:20251121T170000Z
-DTSTART:20251121T144500Z
-SUMMARY:Metody i systemy zarządzania jakością w transporcie i spedycji (Przeniesienie zajęć)
-UID:388698e0-aaa7-411e-84e8-fd0db2392d3d@3886.org
+UID:f2fea932-6bcd-48bf-a8ac-628dceef70a0@f2fe.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Artur Budzyński
@@ -388,7 +30,15 @@ DTEND:20251213T170000Z
 LOCATION:Paw.F 104
 DTSTART:20251213T144500Z
 SUMMARY:Giełdy transportowe (ćwiczenia)
-UID:92d6fec6-4a20-4caa-a660-786c16538ae9@92d6.org
+UID:31085e3d-7bc5-462c-8f3c-7eece903a0e6@3108.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20251221T091500Z
+LOCATION:link do zajęć
+DTSTART:20251221T070000Z
+SUMMARY:Zarządzanie projektem w TSL (wykład do wyboru)
+UID:2cb59e9f-7d5a-4e6e-a35d-3fd869d813c4@2cb5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Paweł Nowicki
@@ -396,30 +46,7 @@ DTEND:20251024T184500Z
 LOCATION:Paw.C sala A
 DTSTART:20251024T163000Z
 SUMMARY:Metody i systemy zarządzania jakością w transporcie i spedycji (konwersatorium)
-UID:41f70139-ab72-46ef-b487-5ccf2e2a9cc3@41f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Arkadiusz Wróżek
-DTEND:20251010T184500Z
-DTSTART:20251010T163000Z
-SUMMARY:Międzynarodowy rynek przewozów lotniczych (wykład do wyboru)
-UID:cd52a10d-071a-4315-8fd0-ab115a627a57@cd52.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Paweł Nowicki
-DTEND:20251018T133000Z
-LOCATION:Paw.C sala C
-DTSTART:20251018T111500Z
-SUMMARY:Metody i systemy zarządzania jakością w transporcie i spedycji (konwersatorium)
-UID:867ac7cb-8d95-406a-ac10-5d5d016ce052@867a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Elżbieta Bielak
-DTEND:20251129T133000Z
-LOCATION:Sienk. 4 pr. przem. 4
-DTSTART:20251129T103000Z
-SUMMARY:Jakość wyrobów przemysłowych w transporcie (laboratorium)
-UID:6658cafc-a521-4e09-b700-bbcf23782d88@6658.org
+UID:291a6185-126b-4613-a81f-637f4d8e3b68@291a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Paweł Nowicki
@@ -427,15 +54,294 @@ DTEND:20251128T194500Z
 LOCATION:Bud.gł. 8
 DTSTART:20251128T173000Z
 SUMMARY:Metody i systemy zarządzania jakością w transporcie i spedycji (konwersatorium)
-UID:2428c9e2-fdad-428c-ad52-ec4707411512@2428.org
+UID:664fc7e9-7d9d-42ef-b1cc-f50ae5552817@664f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Lipecki
+DTEND:20251115T091500Z
+DTSTART:20251115T070000Z
+SUMMARY:Work Life Balance (Przeniesienie zajęć)
+UID:58f3ace5-7562-47ef-b724-92d574af28d5@58f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
+DTEND:20251123T114500Z
+LOCATION:Paw.A 301b
+DTSTART:20251123T093000Z
+SUMMARY:Informatyczne narzędzia działalności transportowo-spedycyjnej (ćwiczenia)
+UID:c9a9bdd2-0b53-4009-9b8b-387df523e997@c9a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Nowicki
+DTEND:20251121T170000Z
+DTSTART:20251121T144500Z
+SUMMARY:Metody i systemy zarządzania jakością w transporcie i spedycji (Przeniesienie zajęć)
+UID:bdf24a03-b0b6-4db9-9ca5-ac29ec080380@bdf2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Marek Jabłoński
-DTEND:20251026T114500Z
+DTEND:20251122T091500Z
 LOCATION:link do zajęć
-DTSTART:20251026T093000Z
+DTSTART:20251122T070000Z
 SUMMARY:Zarządzanie procesami biznesowymi (wykład do wyboru)
-UID:b1c949cc-8ec9-43b7-a8e5-b0a927b5836a@b1c9.org
+UID:f2199576-94d9-43d0-832b-983d126d80d2@f219.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Elżbieta Bielak
+DTEND:20251214T111500Z
+LOCATION:Sienk. 4 pr. przem. 4
+DTSTART:20251214T103000Z
+SUMMARY:Jakość wyrobów przemysłowych w transporcie (laboratorium)
+UID:a6b215d3-f65e-4310-a1b5-d185849282eb@a6b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Lipecki
+DTEND:20251221T170000Z
+LOCATION:link do zajęć
+DTSTART:20251221T144500Z
+SUMMARY:Work Life Balance (wykład do wyboru)
+UID:255b9c46-4fe3-49e0-80cb-82cfc44c5a1f@255b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20251011T133000Z
+DTSTART:20251011T111500Z
+SUMMARY:Twórcze rozwiązywanie problemów w biznesie (wykład do wyboru)
+UID:c3d2b4cd-8f11-4c08-a112-e97ebda82517@c3d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Małgorzata Kucia
+DTEND:20251018T081500Z
+LOCATION:Paw.F 717
+DTSTART:20251018T060000Z
+SUMMARY:Transport ładunków niebezpiecznych (konwersatorium)
+UID:13e23350-c05a-4d79-824a-5bc2e9592e0d@13e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marek Jabłoński
+DTEND:20251011T104500Z
+DTSTART:20251011T083000Z
+SUMMARY:Zarządzanie procesami biznesowymi (wykład do wyboru)
+UID:9fa95148-41e0-4623-8db6-ca183d79de46@9fa9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20251115T114500Z
+LOCATION:link do zajęć
+DTSTART:20251115T093000Z
+SUMMARY:Zarządzanie projektem w TSL (wykład do wyboru)
+UID:a3435999-c202-4f5e-8b81-e3dca4e849f8@a343.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
+DTEND:20260109T194500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20260109T173000Z
+SUMMARY:Informatyczne narzędzia działalności transportowo-spedycyjnej (ćwiczenia)
+UID:39f6a6bd-9f4b-4bf9-9f82-015009036d25@39f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Anna Jędraczka
+DTEND:20251219T170000Z
+LOCATION:link do zajęć
+DTSTART:20251219T144500Z
+SUMMARY:Jakość wyrobów przemysłowych w transporcie (wykład)
+UID:b5abd824-9ce5-471e-91ed-7a2826f4cc99@b5ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Kolasa
+DTEND:20251122T114500Z
+LOCATION:link do zajęć
+DTSTART:20251122T093000Z
+SUMMARY:Logistyka a rozwój współczesnych gospodarek (wykład do wyboru)
+UID:0d6ceaff-5f4c-45a6-b73a-448b56e837b0@0d6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Małgorzata Kucia
+DTEND:20251220T143000Z
+LOCATION:Paw.S sala 2
+DTSTART:20251220T121500Z
+SUMMARY:Transport ładunków niebezpiecznych (konwersatorium)
+UID:23913ded-31f8-40e8-b98c-086ff2f00809@2391.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Nowicki
+DTEND:20251213T091500Z
+LOCATION:Paw.B 351
+DTSTART:20251213T070000Z
+SUMMARY:Metody i systemy zarządzania jakością w transporcie i spedycji (konwersatorium)
+UID:57072cbb-a455-4613-986f-cd956f3af224@5707.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Elżbieta Bielak
+DTEND:20251114T170000Z
+LOCATION:link do zajęć
+DTSTART:20251114T144500Z
+SUMMARY:Jakość wyrobów przemysłowych w transporcie (wykład)
+UID:6a7041d1-652c-4d58-b877-6aac34a6f028@6a70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogdan Rogoda
+DTEND:20251115T143000Z
+LOCATION:link do zajęć
+DTSTART:20251115T121500Z
+SUMMARY:Podstawy własnego biznesu (wykład do wyboru)
+UID:f25f6077-e917-4560-8ef8-ea87f3c472f5@f25f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Nowicki
+DTEND:20251116T114500Z
+DTSTART:20251116T093000Z
+SUMMARY:Metody i systemy zarządzania jakością w transporcie i spedycji (Przeniesienie zajęć)
+UID:84ea29eb-be20-40a7-bbcf-7c946f08da1f@84ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Lipecki
+DTEND:20251221T114500Z
+LOCATION:link do zajęć
+DTSTART:20251221T093000Z
+SUMMARY:Work Life Balance (wykład do wyboru)
+UID:87563b8c-1be4-46ba-8dd3-776ed26f8058@8756.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20251012T104500Z
+DTSTART:20251012T083000Z
+SUMMARY:Zarządzanie projektem w TSL (wykład do wyboru)
+UID:877cc697-ec8e-41c7-bd44-d3afb0669dbe@877c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
+DTEND:20251024T160000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20251024T134500Z
+SUMMARY:Informatyczne narzędzia działalności transportowo-spedycyjnej (ćwiczenia)
+UID:718dbfd9-71a6-4cf6-8c65-fbabede79654@718d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
+DTEND:20251207T114500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20251207T093000Z
+SUMMARY:Informatyczne narzędzia działalności transportowo-spedycyjnej (ćwiczenia)
+UID:818d1c38-dc60-4354-90fd-627becdfcfae@818d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Elżbieta Bielak
+DTEND:20251206T133000Z
+LOCATION:Sienk. 4 pr. przem. 4
+DTSTART:20251206T103000Z
+SUMMARY:Jakość wyrobów przemysłowych w transporcie (laboratorium)
+UID:b44a423d-3363-4fef-8594-3967636b25e0@b44a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Elżbieta Bielak
+DTEND:20251205T194500Z
+LOCATION:link do zajęć
+DTSTART:20251205T173000Z
+SUMMARY:Jakość wyrobów przemysłowych w transporcie (wykład)
+UID:2c932f5d-edb5-4076-8f5d-41e94c233ade@2c93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Arkadiusz Wróżek
+DTEND:20251219T194500Z
+LOCATION:link do zajęć
+DTSTART:20251219T173000Z
+SUMMARY:Międzynarodowy rynek przewozów lotniczych (wykład do wyboru)
+UID:3175c88b-f2d1-4cdb-84d1-de40b5b6411e@3175.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Małgorzata Kucia
+DTEND:20251123T091500Z
+LOCATION:Paw.F 104
+DTSTART:20251123T070000Z
+SUMMARY:Transport ładunków niebezpiecznych (konwersatorium)
+UID:b1b942bb-bd15-452d-91e4-f2af90a30130@b1b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogdan Rogoda
+DTEND:20251010T160000Z
+DTSTART:20251010T134500Z
+SUMMARY:Podstawy własnego biznesu (wykład do wyboru)
+UID:ff0cdfde-630b-41cc-9b8a-0cd44ec49c57@ff0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Małgorzata Kucia
+DTEND:20260110T143000Z
+LOCATION:Bibl. 440
+DTSTART:20260110T121500Z
+SUMMARY:Transport ładunków niebezpiecznych (konwersatorium)
+UID:5775567f-e8b3-4aac-8293-9110e9ac6254@5775.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Elżbieta Bielak
+DTEND:20251129T133000Z
+LOCATION:Sienk. 4 pr. przem. 4
+DTSTART:20251129T103000Z
+SUMMARY:Jakość wyrobów przemysłowych w transporcie (laboratorium)
+UID:76487a9d-7755-4102-a964-8948236c8a97@7648.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Małgorzata Kucia
+DTEND:20251207T091500Z
+LOCATION:Paw.F 107
+DTSTART:20251207T070000Z
+SUMMARY:Transport ładunków niebezpiecznych (konwersatorium)
+UID:926d1f3c-ff6d-4bc6-810e-9fb031b24d9b@926d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Arkadiusz Wróżek
+DTEND:20251114T194500Z
+LOCATION:link do zajęć
+DTSTART:20251114T173000Z
+SUMMARY:Międzynarodowy rynek przewozów lotniczych (wykład do wyboru)
+UID:c46e4224-d483-49cb-926b-0c13de070ce7@c46e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Lipecki
+DTEND:20251012T081500Z
+DTSTART:20251012T060000Z
+SUMMARY:Work Life Balance (wykład do wyboru)
+UID:d0e5622c-69c0-4710-9dd6-e7263562e670@d0e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Kolasa
+DTEND:20260131T091500Z
+LOCATION:Paw.B 151
+DTSTART:20260131T074500Z
+SUMMARY:Logistyka a rozwój współczesnych gospodarek (egzamin)
+UID:06f2c317-3748-4a44-89a1-5afae056dec2@06f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251217T134500Z
+DTSTART:20251217T121500Z
+SUMMARY: (rezerwacja)
+UID:aeb773f7-3a01-4a7e-bd2d-f12a5f82764d@aeb7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Budzyński
+DTEND:20260110T170000Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20260110T144500Z
+SUMMARY:Giełdy transportowe (ćwiczenia)
+UID:4f82c869-2722-4e60-bb0e-59324e8cef3a@4f82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Budzyński
+DTEND:20251220T170000Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20251220T144500Z
+SUMMARY:Giełdy transportowe (ćwiczenia)
+UID:f2462fec-2262-4c26-bad8-fe6c8fd66c31@f246.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Anna Jędraczka
+DTEND:20260124T111500Z
+LOCATION:Sienk. 4 pr. przem. 1
+DTSTART:20260124T103000Z
+SUMMARY:Jakość wyrobów przemysłowych w transporcie (laboratorium)
+UID:11744ffe-af75-4a13-bdac-72dfea3a5abc@1174.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Wojciech Kolasa
@@ -443,7 +349,46 @@ DTEND:20251221T143000Z
 LOCATION:link do zajęć
 DTSTART:20251221T121500Z
 SUMMARY:Logistyka a rozwój współczesnych gospodarek (wykład do wyboru)
-UID:d26dc293-2e75-4925-aba6-f7c3198a79b2@d26d.org
+UID:0061ed6a-3fed-42b3-a9ae-0e90b6e29737@0061.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Nowicki
+DTEND:20251207T143000Z
+LOCATION:Paw.F 106
+DTSTART:20251207T121500Z
+SUMMARY:Metody i systemy zarządzania jakością w transporcie i spedycji (konwersatorium)
+UID:a6946549-9502-42de-852e-56c9fc873f6d@a694.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20251026T143000Z
+LOCATION:link do zajęć
+DTSTART:20251026T121500Z
+SUMMARY:Twórcze rozwiązywanie problemów w biznesie (wykład do wyboru)
+UID:89fe7687-2f2f-4c50-ac2b-e7ed845a0153@89fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
+DTEND:20251116T091500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20251116T070000Z
+SUMMARY:Informatyczne narzędzia działalności transportowo-spedycyjnej (ćwiczenia)
+UID:ad17ae2c-36a5-4cfc-85b0-d45f87665f90@ad17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Arkadiusz Wróżek
+DTEND:20251010T184500Z
+DTSTART:20251010T163000Z
+SUMMARY:Międzynarodowy rynek przewozów lotniczych (wykład do wyboru)
+UID:e98dc403-85ce-4b8d-9766-b806fdd59386@e98d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Kolasa
+DTEND:20251026T091500Z
+LOCATION:link do zajęć
+DTSTART:20251026T070000Z
+SUMMARY:Logistyka a rozwój współczesnych gospodarek (wykład do wyboru)
+UID:a9516cd5-904a-4415-b2e4-2ee1b9b65d0b@a951.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Bogdan Rogoda
@@ -451,7 +396,38 @@ DTEND:20251212T194500Z
 LOCATION:link do zajęć
 DTSTART:20251212T173000Z
 SUMMARY:Podstawy własnego biznesu (wykład do wyboru)
-UID:76607931-154c-47c3-8d78-078e4d51c7c9@7660.org
+UID:add00196-9afd-4493-a3b0-d6e95e6d63c4@add0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20251122T143000Z
+LOCATION:link do zajęć
+DTSTART:20251122T121500Z
+SUMMARY:Twórcze rozwiązywanie problemów w biznesie (wykład do wyboru)
+UID:16dee42f-6887-4803-b691-0682ba8a69a9@16de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251016T123000Z
+DTSTART:20251016T093000Z
+SUMMARY: (rezerwacja)
+UID:0b8fa81b-1c77-4d45-8343-70cdaf2a12e3@0b8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Małgorzata Kucia
+DTEND:20251025T081500Z
+LOCATION:Paw.F 516
+DTSTART:20251025T060000Z
+SUMMARY:Transport ładunków niebezpiecznych (konwersatorium)
+UID:e378aedb-0031-4df6-8494-3e4d061e21bd@e378.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Budzyński
+DTEND:20251130T091500Z
+LOCATION:Paw.F 413
+DTSTART:20251130T070000Z
+SUMMARY:Giełdy transportowe (ćwiczenia)
+UID:25f3f396-4573-4d25-b7df-2bfbaa1e927a@25f3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Anna Jędraczka
@@ -459,7 +435,23 @@ DTEND:20260111T100000Z
 LOCATION:Sienk. 4 pr. przem. 1
 DTSTART:20260111T070000Z
 SUMMARY:Jakość wyrobów przemysłowych w transporcie (laboratorium)
-UID:efb7ad61-e5f7-467b-b3af-b4a8c2f7a4ef@efb7.org
+UID:91b1499f-c94d-4697-acc1-8418beeb21c5@91b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Nowicki
+DTEND:20251018T133000Z
+LOCATION:Paw.C sala C
+DTSTART:20251018T111500Z
+SUMMARY:Metody i systemy zarządzania jakością w transporcie i spedycji (konwersatorium)
+UID:459ac1bb-2814-482c-a4f3-532af38f2fc1@459a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marek Jabłoński
+DTEND:20251026T114500Z
+LOCATION:link do zajęć
+DTSTART:20251026T093000Z
+SUMMARY:Zarządzanie procesami biznesowymi (wykład do wyboru)
+UID:0b123ab3-78e8-4cab-b124-277995ba2d70@0b12.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Artur Budzyński
@@ -467,7 +459,7 @@ DTEND:20260124T143000Z
 LOCATION:Paw.B 053 (KSB)
 DTSTART:20260124T121500Z
 SUMMARY:Giełdy transportowe (ćwiczenia)
-UID:f9aaeb3b-f9b4-4389-9575-381c00e217fb@f9aa.org
+UID:1565a63a-6809-4481-887b-5a4a7cfd6cb8@1565.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Anna Jędraczka
@@ -475,6 +467,14 @@ DTEND:20251214T100000Z
 LOCATION:Sienk. 4 pr. przem. 1
 DTSTART:20251214T070000Z
 SUMMARY:Jakość wyrobów przemysłowych w transporcie (laboratorium)
-UID:54f1cd21-cf00-4f02-8571-19c2565118d2@54f1.org
+UID:64a004c1-ffbf-4fa3-9720-a47e0c4f2a13@64a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
+DTEND:20251018T104500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20251018T083000Z
+SUMMARY:Informatyczne narzędzia działalności transportowo-spedycyjnej (ćwiczenia)
+UID:5f2e6902-8806-4fa1-acd9-1d71ac2b67fa@5f2e.org
 END:VEVENT
 END:VCALENDAR
