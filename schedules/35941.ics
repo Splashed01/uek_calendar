@@ -2,36 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Rojek
-DTEND:20251220T130000Z
+DESCRIPTION:Instructor: dr Alicja Szczygieł
+DTEND:20251004T150000Z
 LOCATION:Paw.G - 2
-DTSTART:20251220T074500Z
-SUMMARY:Analiza finansowa\, Analiza finansowa przedsiębiorstwa (Studia podyplomowe)
-UID:fe7c8fb0-860f-4890-9059-1e6c006e9dbf@fe7c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Żak
-DTEND:20251003T143000Z
-LOCATION:Paw.G 12
-DTSTART:20251003T134500Z
-SUMMARY:Zajęcia organizacyjne (Studia podyplomowe)
-UID:e4302777-59f9-4dda-9361-b19da08fbce1@e430.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Thompson
-DTEND:20251004T103000Z
-LOCATION:Paw.G - 2
-DTSTART:20251004T064500Z
-SUMMARY:Marka osobista (Studia podyplomowe)
-UID:7f55115c-c1cc-4a34-bdc1-75739e6d1f15@7f55.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Jakub Kamiński
-DTEND:20251018T124500Z
-LOCATION:Paw.G 12
-DTSTART:20251018T064500Z
-SUMMARY:Zarządzanie projektami (Studia podyplomowe)
-UID:f7891aff-c65c-461e-8cff-a4ebfa6d1c6e@f789.org
+DTSTART:20251004T111500Z
+SUMMARY:Techniki negocjacji (Studia podyplomowe)
+UID:5822b379-bb5e-4229-a88d-4af5ceba4e58@5822.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Agnieszka Flis
@@ -39,15 +15,31 @@ DTEND:20260110T123000Z
 LOCATION:Paw.G 11
 DTSTART:20260110T084500Z
 SUMMARY:Audyt personalny\, restrukturyzacja zatrudnienia (Studia podyplomowe)
-UID:6c8c78ab-fd1d-42de-8439-1e260579367a@6c8c.org
+UID:df19738a-acfc-4195-aef6-7eca5a477050@df19.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Alicja Szczygieł
+DESCRIPTION:Instructor: dr Anna Thompson
 DTEND:20251004T103000Z
-LOCATION:Paw.G - 1
+LOCATION:Paw.G - 2
 DTSTART:20251004T064500Z
-SUMMARY:Techniki negocjacji (Studia podyplomowe)
-UID:b6e15300-b0c5-4628-ba33-a34077103a9e@b6e1.org
+SUMMARY:Marka osobista (Studia podyplomowe)
+UID:a77d9d3b-3366-41f7-b35e-62ff72f19bd3@a77d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Żak
+DTEND:20251003T143000Z
+LOCATION:Paw.G 12
+DTSTART:20251003T134500Z
+SUMMARY:Zajęcia organizacyjne (Studia podyplomowe)
+UID:c2562ee5-6670-4cdf-be37-09fb46401bc1@c256.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jakub Kamiński
+DTEND:20251018T124500Z
+LOCATION:Paw.G 12
+DTSTART:20251018T064500Z
+SUMMARY:Zarządzanie projektami (Studia podyplomowe)
+UID:31a80ac8-3efe-49cb-baea-60e147526de9@31a8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: Prof. UJ dr hab. Jarosław Flis
@@ -55,87 +47,7 @@ DTEND:20251122T121500Z
 LOCATION:Paw.G 11
 DTSTART:20251122T074500Z
 SUMMARY:Systemy motywowania pracowników (Studia podyplomowe)
-UID:c0f2ead0-51ed-4898-a1d7-d1fd3e13d7cb@c0f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Alicja Szczygieł
-DTEND:20251004T150000Z
-LOCATION:Paw.G - 2
-DTSTART:20251004T111500Z
-SUMMARY:Techniki negocjacji (Studia podyplomowe)
-UID:b95a0a49-edd3-437b-83e2-e6e286d5958c@b95a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Misiołek
-DTEND:20251205T193000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251205T154500Z
-SUMMARY:Zarządzanie rozwojem organizacji (Studia podyplomowe)
-UID:be391761-2b0d-4317-a8cb-bc9fa0bf5174@be39.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Gnela
-DTEND:20251107T193000Z
-LOCATION:Paw.G 11
-DTSTART:20251107T154500Z
-SUMMARY:Prawo gospodarcze (Studia podyplomowe)
-UID:77ecfb0c-5e9f-40f4-a0b0-2410030065cd@77ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Kafel
-DTEND:20251121T193000Z
-LOCATION:Paw.G 11
-DTSTART:20251121T154500Z
-SUMMARY:Nowoczesne metody i narzędzia zarządzania (Studia podyplomowe)
-UID:cc010ff6-2d78-4ce9-8fed-0d65cbbac580@cc01.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Szymon Konarski
-DTEND:20260109T193000Z
-LOCATION:Paw.G 11
-DTSTART:20260109T154500Z
-SUMMARY:Społeczna Odpowiedzialność Biznesu (Studia podyplomowe)
-UID:75daf50d-0cf5-4ea9-aaba-372672068f95@75da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Rojek
-DTEND:20251219T193000Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20251219T154500Z
-SUMMARY:Analiza finansowa przedsiębiorstwa (Studia podyplomowe)
-UID:077364ff-8b67-473f-a14e-0138e346a6e0@0773.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Markiewicz
-DTEND:20260124T143000Z
-LOCATION:Paw.G - 2
-DTSTART:20260124T070000Z
-SUMMARY:Przywództwo (Studia podyplomowe)
-UID:2d2a7c42-5c98-48d8-8118-ebd6e14b1921@2d2a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Thompson
-DTEND:20251004T150000Z
-LOCATION:Paw.G - 1
-DTSTART:20251004T111500Z
-SUMMARY:Marka osobista (Studia podyplomowe)
-UID:2cf244ce-143a-4e0e-ae19-fabe9e1e9092@2cf2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Alicja Szczygieł
-DTEND:20251003T183000Z
-LOCATION:Paw.G 12
-DTSTART:20251003T144500Z
-SUMMARY:Techniki negocjacji (Studia podyplomowe)
-UID:08e54219-aaea-4b93-b727-74d0544c365c@08e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Gnela
-DTEND:20251108T130000Z
-LOCATION:Paw.G 11
-DTSTART:20251108T074500Z
-SUMMARY:Prawo gospodarcze (Studia podyplomowe)
-UID:1cbe069e-f564-40bc-b968-c32dcd1773f8@1cbe.org
+UID:a90c76c7-6549-45a5-8837-791c392e3aca@a90c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Piotr Markiewicz
@@ -143,15 +55,31 @@ DTEND:20260123T193000Z
 LOCATION:Paw.G - 2
 DTSTART:20260123T154500Z
 SUMMARY:Analiza sektorowa (Studia podyplomowe)
-UID:bcc74148-eb84-4971-a8d8-9484f94d56a6@bcc7.org
+UID:8da91c3d-865e-4ef0-b8cb-c613ac4fb600@8da9.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Halina Łyszczarz
-DTEND:20251017T183000Z
+DESCRIPTION:Instructor: dr Alicja Szczygieł
+DTEND:20251003T183000Z
 LOCATION:Paw.G 12
-DTSTART:20251017T144500Z
-SUMMARY:Podstawy organizacji  i  zarządzania (Studia podyplomowe)
-UID:6b999753-9a14-4af7-aaa5-ee9f7c5b5700@6b99.org
+DTSTART:20251003T144500Z
+SUMMARY:Techniki negocjacji (Studia podyplomowe)
+UID:f7f4ee27-974f-4ac9-ab2a-439100ef64d1@f7f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Markiewicz
+DTEND:20260124T143000Z
+LOCATION:Paw.G - 2
+DTSTART:20260124T070000Z
+SUMMARY:Przywództwo (Studia podyplomowe)
+UID:01d446d4-e3c6-4b45-b4e7-7f2bc201e638@01d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Kafel
+DTEND:20251121T193000Z
+LOCATION:Paw.G 11
+DTSTART:20251121T154500Z
+SUMMARY:Nowoczesne metody i narzędzia zarządzania (Studia podyplomowe)
+UID:9542cd2c-4b89-4f25-b696-49fb3a9f8b9f@9542.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Krzysztof Misiołek
@@ -159,7 +87,79 @@ DTEND:20251206T130000Z
 LOCATION:Paw.G 11
 DTSTART:20251206T074500Z
 SUMMARY:Zarządzanie rozwojem przedsiębiorstwa (Studia podyplomowe)
-UID:70a4b670-f393-4698-bb4e-b572dc56a87b@70a4.org
+UID:4d902f0c-acd7-476c-9d31-b2d54fbe7faf@4d90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Gnela
+DTEND:20251108T130000Z
+LOCATION:Paw.G 11
+DTSTART:20251108T074500Z
+SUMMARY:Prawo gospodarcze (Studia podyplomowe)
+UID:0dd8f3d2-f98f-46d7-9f10-04732c9fe48b@0dd8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Alicja Szczygieł
+DTEND:20251004T103000Z
+LOCATION:Paw.G - 1
+DTSTART:20251004T064500Z
+SUMMARY:Techniki negocjacji (Studia podyplomowe)
+UID:e12b89f4-72b5-4ec4-8928-86c04512f834@e12b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Thompson
+DTEND:20251004T150000Z
+LOCATION:Paw.G - 1
+DTSTART:20251004T111500Z
+SUMMARY:Marka osobista (Studia podyplomowe)
+UID:080d1829-c6bd-4a70-9a5b-a1c090688a8d@080d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Gnela
+DTEND:20251107T193000Z
+LOCATION:Paw.G 11
+DTSTART:20251107T154500Z
+SUMMARY:Prawo gospodarcze (Studia podyplomowe)
+UID:71ec4b50-a1fe-46de-a387-fd7eb9d1ee6d@71ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Misiołek
+DTEND:20251205T193000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251205T154500Z
+SUMMARY:Zarządzanie rozwojem organizacji (Studia podyplomowe)
+UID:d8c0b043-576f-4edc-8828-c3ff1a9fa962@d8c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Rojek
+DTEND:20251219T193000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20251219T154500Z
+SUMMARY:Analiza finansowa przedsiębiorstwa (Studia podyplomowe)
+UID:04b3eed4-6a0e-4b01-b7fc-598ba3583f6d@04b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Łyszczarz
+DTEND:20251017T183000Z
+LOCATION:Paw.G 12
+DTSTART:20251017T144500Z
+SUMMARY:Podstawy organizacji  i  zarządzania (Studia podyplomowe)
+UID:871c3b1d-efed-4da5-9944-449ff068a006@871c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Rojek
+DTEND:20251220T130000Z
+LOCATION:Paw.G - 2
+DTSTART:20251220T074500Z
+SUMMARY:Analiza finansowa\, Analiza finansowa przedsiębiorstwa (Studia podyplomowe)
+UID:a7fa69d6-f6df-4ec6-98f8-64f2ced8ade1@a7fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Szymon Konarski
+DTEND:20260109T193000Z
+LOCATION:Paw.G 11
+DTSTART:20260109T154500Z
+SUMMARY:Społeczna Odpowiedzialność Biznesu (Studia podyplomowe)
+UID:4b7e5de5-7bda-42bb-b0e9-f58d42bdd4f3@4b7e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Agnieszka Żak
@@ -167,6 +167,6 @@ DTEND:20260110T083000Z
 LOCATION:Paw.G 11
 DTSTART:20260110T074500Z
 SUMMARY:Egzamin semestralny (Studia podyplomowe)
-UID:e3851132-6677-4beb-8b5d-c5bce7f917a6@e385.org
+UID:e10334c3-48cd-4024-93e1-0fb2fe3596d4@e103.org
 END:VEVENT
 END:VCALENDAR

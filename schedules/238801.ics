@@ -2,11 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251016T123000Z
-DTSTART:20251016T093000Z
-SUMMARY: (rezerwacja)
-UID:0467d0f6-6a0f-4662-8e35-7ba133eb2490@0467.org
+DESCRIPTION:Instructor: dr Marek Dziura
+DTEND:20251123T143000Z
+LOCATION:Bibl. 440
+DTSTART:20251123T121500Z
+SUMMARY:Zarządzanie grupami kapitałowymi (ćwiczenia)
+UID:f4d2d48b-697e-4dc7-a293-010e8d566fc7@f4d2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
@@ -14,119 +15,7 @@ DTEND:20251121T170000Z
 LOCATION:link do zajęć
 DTSTART:20251121T144500Z
 SUMMARY:Ekonometria i badania operacyjne (wykład)
-UID:ba7e8be2-c979-4590-9ca0-122883f37330@ba7e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Dariusz Wędzki
-DTEND:20251214T114500Z
-LOCATION:Paw.S sala 5
-DTSTART:20251214T093000Z
-SUMMARY:Rachunek kosztów w zarządzaniu (ćwiczenia)
-UID:01eb2a88-58bb-415c-92bf-ef58eb57ad95@01eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Dariusz Wędzki
-DTEND:20260109T194500Z
-LOCATION:Paw.U sala O
-DTSTART:20260109T173000Z
-SUMMARY:Rachunek kosztów w zarządzaniu (ćwiczenia)
-UID:fb493943-851a-4c78-8fbe-84c977bdc739@fb49.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Lipieta
-DTEND:20251019T081500Z
-LOCATION:link do zajęć
-DTSTART:20251019T060000Z
-SUMMARY:Statystyka matematyczna (wykład)
-UID:de8e308d-b2af-4d60-89f1-37684f6bcf44@de8e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Dziura
-DTEND:20260118T091500Z
-LOCATION:Paw.F 111
-DTSTART:20260118T070000Z
-SUMMARY:Zarządzanie grupami kapitałowymi (ćwiczenia)
-UID:4213c86f-ad36-426d-9940-cfcf78054dff@4213.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
-DTEND:20251128T194500Z
-LOCATION:Paw.S sala 1
-DTSTART:20251128T173000Z
-SUMMARY:Zaawansowana rachunkowość finansowa (ćwiczenia)
-UID:6a4d4172-f2fe-45fd-a32a-ddc630cd3453@6a4d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Dariusz Wędzki
-DTEND:20251213T170000Z
-LOCATION:Paw.B 451
-DTSTART:20251213T144500Z
-SUMMARY:Rachunek kosztów w zarządzaniu (ćwiczenia)
-UID:84f783e5-238f-4657-a0e1-356c10d343b4@84f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
-DTEND:20251018T081500Z
-LOCATION:link do zajęć
-DTSTART:20251018T060000Z
-SUMMARY:Zaawansowana rachunkowość finansowa (wykład)
-UID:9bc98afd-f817-4722-a065-9ff75bd4ed8d@9bc9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Lipieta
-DTEND:20251116T100000Z
-LOCATION:link do zajęć
-DTSTART:20251116T074500Z
-SUMMARY:Statystyka matematyczna (wykład)
-UID:dfa1df64-40d0-412e-8c83-b56894db52f2@dfa1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Lipieta
-DTEND:20251212T170000Z
-LOCATION:Paw.B 053 (KSB)\, Labolatorium Mobilne
-DTSTART:20251212T144500Z
-SUMMARY:Statystyka matematyczna (ćwiczenia)
-UID:cd64da92-c213-4794-9a75-24abb106e43c@cd64.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
-DTEND:20251026T143000Z
-LOCATION:link do zajęć
-DTSTART:20251026T121500Z
-SUMMARY:Prawo pracy i ubezpieczeń społecznych (wykład)
-UID:28ccb546-c3b2-47fe-8b0d-f2d549880e48@28cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
-DTEND:20251129T114500Z
-LOCATION:Paw.B 251
-DTSTART:20251129T093000Z
-SUMMARY:Zaawansowana rachunkowość finansowa (ćwiczenia)
-UID:415d09e6-fcfc-4966-923a-b264acfe5089@415d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Dziura
-DTEND:20260109T170000Z
-LOCATION:Paw.S sala 2
-DTSTART:20260109T144500Z
-SUMMARY:Zarządzanie grupami kapitałowymi (ćwiczenia)
-UID:60ee7e0e-eada-45f9-a41f-9d56adda272a@60ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
-DTEND:20251114T194500Z
-LOCATION:link do zajęć
-DTSTART:20251114T173000Z
-SUMMARY:Zaawansowana rachunkowość finansowa (wykład)
-UID:fa31f02a-ec27-4603-9953-94fcfc86dddb@fa31.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
-DTEND:20260116T170000Z
-LOCATION:Paw.U sala M
-DTSTART:20260116T144500Z
-SUMMARY:Zaawansowana rachunkowość finansowa (ćwiczenia)
-UID:87c34e77-74c5-4c98-8ba0-c24b28f5187d@87c3.org
+UID:998b2d03-c8a5-4be1-8e5d-f0d656eb66ce@998b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
@@ -134,86 +23,15 @@ DTEND:20251214T143000Z
 LOCATION:Paw.C sala C
 DTSTART:20251214T121500Z
 SUMMARY:Zaawansowana rachunkowość finansowa (ćwiczenia)
-UID:4fd1440a-399a-497e-9967-c5a8fa834d2e@4fd1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Dziura
-DTEND:20251116T151500Z
-LOCATION:link do zajęć
-DTSTART:20251116T130000Z
-SUMMARY:Zarządzanie grupami kapitałowymi (wykład)
-UID:58fe810e-a5b9-49f6-8d38-740b72b421b4@58fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Dariusz Wędzki
-DTEND:20251017T160000Z
-LOCATION:link do zajęć
-DTSTART:20251017T134500Z
-SUMMARY:Rachunek kosztów w zarządzaniu (wykład)
-UID:274c020b-6137-4951-b029-6170eedd895b@274c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Lipieta
-DTEND:20251018T133000Z
-LOCATION:link do zajęć
-DTSTART:20251018T111500Z
-SUMMARY:Statystyka matematyczna (wykład)
-UID:eead71e5-cd0a-4460-b56c-5d6dd64c0d59@eead.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Dariusz Wędzki
-DTEND:20251026T114500Z
-LOCATION:link do zajęć
-DTSTART:20251026T093000Z
-SUMMARY:Rachunek kosztów w zarządzaniu (wykład)
-UID:676abb7a-6de0-490e-8400-96efe6976919@676a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251217T134500Z
-DTSTART:20251217T121500Z
-SUMMARY: (rezerwacja)
-UID:8921f1c4-007c-48ef-870b-656114a59955@8921.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Dziura
-DTEND:20251024T160000Z
-LOCATION:link do zajęć
-DTSTART:20251024T134500Z
-SUMMARY:Zarządzanie grupami kapitałowymi (wykład)
-UID:c4f3ca06-c2cd-4ffe-999b-6d1a7cde5add@c4f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Dziura
-DTEND:20251123T143000Z
-LOCATION:Bibl. 440
-DTSTART:20251123T121500Z
-SUMMARY:Zarządzanie grupami kapitałowymi (ćwiczenia)
-UID:d669f773-c0b8-4997-a3b2-dd481b77d1c6@d669.org
+UID:719d9291-807c-4f11-b606-6dd3458d8a67@719d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
-DTEND:20251024T184500Z
+DTEND:20251018T081500Z
 LOCATION:link do zajęć
-DTSTART:20251024T163000Z
+DTSTART:20251018T060000Z
 SUMMARY:Zaawansowana rachunkowość finansowa (wykład)
-UID:2609301e-a2f2-4e19-89ec-af560df996e5@2609.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
-DTEND:20251019T133000Z
-LOCATION:link do zajęć
-DTSTART:20251019T111500Z
-SUMMARY:Zaawansowana rachunkowość finansowa (wykład)
-UID:99d044e3-adde-46c2-9455-24f913aa3c86@99d0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Dziura
-DTEND:20251130T143000Z
-LOCATION:link do zajęć
-DTSTART:20251130T121500Z
-SUMMARY:Zarządzanie grupami kapitałowymi (wykład)
-UID:d9b3fa6c-a26f-4fef-8c0a-e1a29930c1f4@d9b3.org
+UID:573946a1-6e14-4285-b420-27f9d08b005c@5739.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. dr hab. Dariusz Wędzki
@@ -221,87 +39,7 @@ DTEND:20251129T170000Z
 LOCATION:Paw.F 715
 DTSTART:20251129T144500Z
 SUMMARY:Rachunek kosztów w zarządzaniu (ćwiczenia)
-UID:473fbdd2-5945-41a8-94b9-b5a245ac1c6e@473f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
-DTEND:20251122T143000Z
-LOCATION:Paw.C sala F
-DTSTART:20251122T121500Z
-SUMMARY:Zaawansowana rachunkowość finansowa (ćwiczenia)
-UID:9ae43fdc-3d2a-4e4b-9adc-35cf6e9fad42@9ae4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
-DTEND:20251017T184500Z
-LOCATION:link do zajęć
-DTSTART:20251017T163000Z
-SUMMARY:Prawo pracy i ubezpieczeń społecznych (wykład)
-UID:8b8e05b8-9135-427f-a370-706b5c65c960@8b8e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
-DTEND:20260111T143000Z
-LOCATION:Paw.S sala 6
-DTSTART:20260111T121500Z
-SUMMARY:Zaawansowana rachunkowość finansowa (ćwiczenia)
-UID:e3cb2222-4011-40ef-9491-f1208eeaea46@e3cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Dariusz Wędzki
-DTEND:20260116T194500Z
-LOCATION:Paw.F 102
-DTSTART:20260116T173000Z
-SUMMARY:Rachunek kosztów w zarządzaniu (ćwiczenia)
-UID:a0d82619-c493-4198-a124-504427e0ada3@a0d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
-DTEND:20251130T091500Z
-LOCATION:link do zajęć
-DTSTART:20251130T070000Z
-SUMMARY:Ekonometria i badania operacyjne (wykład)
-UID:335c3d3f-69db-4a9d-b322-0fc8135bee86@335c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Lipieta
-DTEND:20251128T170000Z
-LOCATION:208 paw.U (tylko Kat. Rach)
-DTSTART:20251128T144500Z
-SUMMARY:Statystyka matematyczna (ćwiczenia)
-UID:381db488-7a62-4bb9-be60-61b9aa2d2398@381d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Dariusz Wędzki
-DTEND:20260111T114500Z
-LOCATION:Paw.S sala 5
-DTSTART:20260111T093000Z
-SUMMARY:Rachunek kosztów w zarządzaniu (ćwiczenia)
-UID:2be4bcad-2ed3-402d-82d9-855b343dc6ec@2be4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
-DTEND:20251026T091500Z
-LOCATION:link do zajęć
-DTSTART:20251026T070000Z
-SUMMARY:Zaawansowana rachunkowość finansowa (wykład)
-UID:3b9bd33f-2736-4a08-b4fb-6b1d63e1d354@3b9b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
-DTEND:20251019T104500Z
-LOCATION:link do zajęć
-DTSTART:20251019T083000Z
-SUMMARY:Ekonometria i badania operacyjne (wykład)
-UID:3e11e778-d4bf-4635-9998-9a10690b84a0@3e11.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
-DTEND:20251130T114500Z
-LOCATION:link do zajęć
-DTSTART:20251130T093000Z
-SUMMARY:Zaawansowana rachunkowość finansowa (wykład)
-UID:162b8e6e-0053-49b9-a813-35592698baf6@162b.org
+UID:3feb1750-7cf0-47eb-a2cf-ef020ed7abc2@3feb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Artur Lipieta
@@ -309,7 +47,63 @@ DTEND:20260118T114500Z
 LOCATION:Paw.B 053 (KSB)\, Labolatorium Mobilne
 DTSTART:20260118T093000Z
 SUMMARY:Statystyka matematyczna (ćwiczenia)
-UID:97c1ba18-9437-4813-baed-0ef885572693@97c1.org
+UID:1da28915-c137-42ba-abd0-922a494f7179@1da2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
+DTEND:20251017T184500Z
+LOCATION:link do zajęć
+DTSTART:20251017T163000Z
+SUMMARY:Prawo pracy i ubezpieczeń społecznych (wykład)
+UID:e5c07f41-4368-4dfb-91d5-924062699fbf@e5c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Dariusz Wędzki
+DTEND:20251213T170000Z
+LOCATION:Paw.B 451
+DTSTART:20251213T144500Z
+SUMMARY:Rachunek kosztów w zarządzaniu (ćwiczenia)
+UID:4d78e0ac-fa7e-4081-a2c4-dc06d0d9144f@4d78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
+DTEND:20251024T184500Z
+LOCATION:link do zajęć
+DTSTART:20251024T163000Z
+SUMMARY:Zaawansowana rachunkowość finansowa (wykład)
+UID:04bc986a-8154-41dc-97e7-c2b06c6b671f@04bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Dariusz Wędzki
+DTEND:20251017T160000Z
+LOCATION:link do zajęć
+DTSTART:20251017T134500Z
+SUMMARY:Rachunek kosztów w zarządzaniu (wykład)
+UID:aec445e9-c5ad-4e80-8792-8eeed0d4388e@aec4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Dziura
+DTEND:20251130T143000Z
+LOCATION:link do zajęć
+DTSTART:20251130T121500Z
+SUMMARY:Zarządzanie grupami kapitałowymi (wykład)
+UID:fce3d17d-819a-452d-a1bb-8ae1f0b3fd50@fce3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Dziura
+DTEND:20251116T151500Z
+LOCATION:link do zajęć
+DTSTART:20251116T130000Z
+SUMMARY:Zarządzanie grupami kapitałowymi (wykład)
+UID:3043c6b5-2cdd-4380-8686-19bee5a35cc7@3043.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Dariusz Wędzki
+DTEND:20251214T114500Z
+LOCATION:Paw.S sala 5
+DTSTART:20251214T093000Z
+SUMMARY:Rachunek kosztów w zarządzaniu (ćwiczenia)
+UID:a2eb939f-ca58-44af-b55b-3c7643e9f830@a2eb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
@@ -317,7 +111,46 @@ DTEND:20251116T124500Z
 LOCATION:link do zajęć
 DTSTART:20251116T103000Z
 SUMMARY:Prawo pracy i ubezpieczeń społecznych (wykład)
-UID:d877517c-8f71-483f-963c-a54ac14ec0d0@d877.org
+UID:41e27d9f-0c36-4c1a-b386-541c5e42da31@41e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251217T134500Z
+DTSTART:20251217T121500Z
+SUMMARY: (rezerwacja)
+UID:36d85aa1-dfe1-4b9d-807a-ac36a1f95073@36d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Lipieta
+DTEND:20251019T081500Z
+LOCATION:link do zajęć
+DTSTART:20251019T060000Z
+SUMMARY:Statystyka matematyczna (wykład)
+UID:c9b610a1-9aab-4d3e-b600-1cd3874870cf@c9b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Lipieta
+DTEND:20251116T100000Z
+LOCATION:link do zajęć
+DTSTART:20251116T074500Z
+SUMMARY:Statystyka matematyczna (wykład)
+UID:e026a9d0-8d66-49e1-896f-c45e69d5554f@e026.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Dariusz Wędzki
+DTEND:20260109T194500Z
+LOCATION:Paw.U sala O
+DTSTART:20260109T173000Z
+SUMMARY:Rachunek kosztów w zarządzaniu (ćwiczenia)
+UID:821028f6-a228-4d51-9092-f4959274642d@8210.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20251019T104500Z
+LOCATION:link do zajęć
+DTSTART:20251019T083000Z
+SUMMARY:Ekonometria i badania operacyjne (wykład)
+UID:507d1557-e2d4-4c01-991b-b6cb48159497@507d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. dr hab. Dariusz Wędzki
@@ -325,6 +158,173 @@ DTEND:20251114T170000Z
 LOCATION:link do zajęć
 DTSTART:20251114T144500Z
 SUMMARY:Rachunek kosztów w zarządzaniu (wykład)
-UID:68416618-2f98-4cf0-9f10-a824eeef5465@6841.org
+UID:6c8aeb29-d2bb-497b-a3c2-b943fc9a54a8@6c8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
+DTEND:20251128T194500Z
+LOCATION:Paw.S sala 1
+DTSTART:20251128T173000Z
+SUMMARY:Zaawansowana rachunkowość finansowa (ćwiczenia)
+UID:f752c47b-7911-421a-98b8-aac7d30d2e9b@f752.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Dziura
+DTEND:20260109T170000Z
+LOCATION:Paw.S sala 2
+DTSTART:20260109T144500Z
+SUMMARY:Zarządzanie grupami kapitałowymi (ćwiczenia)
+UID:caa87b92-614a-496b-b762-fcf12147f598@caa8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Lipieta
+DTEND:20251018T133000Z
+LOCATION:link do zajęć
+DTSTART:20251018T111500Z
+SUMMARY:Statystyka matematyczna (wykład)
+UID:4cd344af-2c02-473d-931e-13cfb0d4ad04@4cd3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
+DTEND:20251026T091500Z
+LOCATION:link do zajęć
+DTSTART:20251026T070000Z
+SUMMARY:Zaawansowana rachunkowość finansowa (wykład)
+UID:827760f2-8305-43fc-ae6b-2c6e19831ad0@8277.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Dziura
+DTEND:20260118T091500Z
+LOCATION:Paw.F 111
+DTSTART:20260118T070000Z
+SUMMARY:Zarządzanie grupami kapitałowymi (ćwiczenia)
+UID:d5c7a0ca-2e19-4403-941b-8c795c2b3e20@d5c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
+DTEND:20251122T143000Z
+LOCATION:Paw.C sala F
+DTSTART:20251122T121500Z
+SUMMARY:Zaawansowana rachunkowość finansowa (ćwiczenia)
+UID:194898c7-92a6-4cef-8ade-43775923a8fd@1948.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Lipieta
+DTEND:20251128T170000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20251128T144500Z
+SUMMARY:Statystyka matematyczna (ćwiczenia)
+UID:e4814a2f-5c45-448a-9866-d1b3091b1039@e481.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
+DTEND:20251129T114500Z
+LOCATION:Paw.B 251
+DTSTART:20251129T093000Z
+SUMMARY:Zaawansowana rachunkowość finansowa (ćwiczenia)
+UID:2214b393-bc91-4b09-aafe-49d418e22b80@2214.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
+DTEND:20251019T133000Z
+LOCATION:link do zajęć
+DTSTART:20251019T111500Z
+SUMMARY:Zaawansowana rachunkowość finansowa (wykład)
+UID:257f2edc-f7ec-4eb3-b0cc-a6ec3c524970@257f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
+DTEND:20251114T194500Z
+LOCATION:link do zajęć
+DTSTART:20251114T173000Z
+SUMMARY:Zaawansowana rachunkowość finansowa (wykład)
+UID:52102337-c1a0-4df3-9e4f-03677fa91688@5210.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
+DTEND:20251026T143000Z
+LOCATION:link do zajęć
+DTSTART:20251026T121500Z
+SUMMARY:Prawo pracy i ubezpieczeń społecznych (wykład)
+UID:5eef468f-4aee-470f-a742-050244c6095b@5eef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Dariusz Wędzki
+DTEND:20251026T114500Z
+LOCATION:link do zajęć
+DTSTART:20251026T093000Z
+SUMMARY:Rachunek kosztów w zarządzaniu (wykład)
+UID:94ae4bac-d7f1-482c-a810-31f460aef251@94ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251016T123000Z
+DTSTART:20251016T093000Z
+SUMMARY: (rezerwacja)
+UID:5ce74d82-6d97-4843-89b5-38566c5c1569@5ce7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Lipieta
+DTEND:20251212T170000Z
+LOCATION:Paw.B 053 (KSB)\, Labolatorium Mobilne
+DTSTART:20251212T144500Z
+SUMMARY:Statystyka matematyczna (ćwiczenia)
+UID:91d4629e-9dcc-4518-977c-fdf0ada5b33d@91d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
+DTEND:20260111T143000Z
+LOCATION:Paw.S sala 6
+DTSTART:20260111T121500Z
+SUMMARY:Zaawansowana rachunkowość finansowa (ćwiczenia)
+UID:d343f77e-1c32-4127-a4c4-21cab8a0160f@d343.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
+DTEND:20251130T114500Z
+LOCATION:link do zajęć
+DTSTART:20251130T093000Z
+SUMMARY:Zaawansowana rachunkowość finansowa (wykład)
+UID:87b8d34e-b008-4b23-9ea3-76c0581bb9cb@87b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20251130T091500Z
+LOCATION:link do zajęć
+DTSTART:20251130T070000Z
+SUMMARY:Ekonometria i badania operacyjne (wykład)
+UID:f114fd89-7641-4767-8d04-4f1f4ae920bd@f114.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
+DTEND:20260116T170000Z
+LOCATION:Paw.U sala M
+DTSTART:20260116T144500Z
+SUMMARY:Zaawansowana rachunkowość finansowa (ćwiczenia)
+UID:0f2e3b00-c2c3-4da1-8629-ad39ecb87510@0f2e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Dariusz Wędzki
+DTEND:20260111T114500Z
+LOCATION:Paw.S sala 5
+DTSTART:20260111T093000Z
+SUMMARY:Rachunek kosztów w zarządzaniu (ćwiczenia)
+UID:6d766bae-0c5e-4dc1-bdd9-e0dc218f3fcc@6d76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Dariusz Wędzki
+DTEND:20260116T194500Z
+LOCATION:Paw.F 102
+DTSTART:20260116T173000Z
+SUMMARY:Rachunek kosztów w zarządzaniu (ćwiczenia)
+UID:79631833-eaeb-4f62-85da-12577b5bf40a@7963.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Dziura
+DTEND:20251024T160000Z
+LOCATION:link do zajęć
+DTSTART:20251024T134500Z
+SUMMARY:Zarządzanie grupami kapitałowymi (wykład)
+UID:afc89e7d-5cf3-4749-916e-d5907b27c18f@afc8.org
 END:VEVENT
 END:VCALENDAR
