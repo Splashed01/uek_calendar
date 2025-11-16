@@ -2,11 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251016T123000Z
-DTSTART:20251016T093000Z
-SUMMARY: (rezerwacja)
-UID:da1aa8b9-5b6c-491b-9a45-f7cb5a4173d6@da1a.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20251116T114500Z
+LOCATION:link do zajęć
+DTSTART:20251116T093000Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:b387a234-9713-4704-862d-ec123c2e0a4d@b387.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20251003T184500Z
+DTSTART:20251003T163000Z
+SUMMARY:Metody oceny projektów gospodarczych (Przeniesienie zajęć)
+UID:4d755819-bbde-48ac-af57-a2455c06ab9d@4d75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20251123T114500Z
+LOCATION:link do zajęć
+DTSTART:20251123T093000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:0d3ca487-992e-47b7-97c7-15a5d1e7d284@0d3c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
@@ -14,406 +30,14 @@ DTEND:20251130T143000Z
 LOCATION:link do zajęć
 DTSTART:20251130T121500Z
 SUMMARY:Metody oceny projektów gospodarczych (wykład do wyboru)
-UID:f2186d51-cf19-4b44-bd27-6b7bc62f97ab@f218.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20251212T170000Z
-LOCATION:link do zajęć
-DTSTART:20251212T144500Z
-SUMMARY:Historia gospodarcza (wykład do wyboru)
-UID:722b23db-d1c1-40ae-8299-e6ba18061f3b@722b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Mokrzycka-Kogut
-DTEND:20251207T143000Z
-LOCATION:Paw.B 151
-DTSTART:20251207T121500Z
-SUMMARY:Rachunkowość mikro i małych przedsiębiorstw (ćwiczenia)
-UID:31a20ce1-6eff-420f-9aec-a77149cec4e0@31a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariusz Makowski
-DTEND:20251019T081500Z
-LOCATION:link do zajęć
-DTSTART:20251019T060000Z
-SUMMARY:Psychologia (wykład do wyboru)
-UID:91c5a37a-517f-4135-8cb7-97606dea2105@91c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Podsiadło
-DTEND:20251212T194500Z
-LOCATION:link do zajęć
-DTSTART:20251212T173000Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
-UID:80a9c847-064a-4f0e-b107-221a7fcba50c@80a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20260109T194500Z
-LOCATION:link do zajęć
-DTSTART:20260109T173000Z
-SUMMARY:Historia gospodarcza (wykład do wyboru)
-UID:56e59b09-8d37-4708-881c-838fca0f77f3@56e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Podsiadło
-DTEND:20251220T114500Z
-LOCATION:Paw.A 013 lab. Win10\, Office21
-DTSTART:20251220T093000Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
-UID:abdb2806-229f-41ac-95be-617a356937f6@abdb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Zieniuk
-DTEND:20251123T170000Z
-LOCATION:link do zajęć
-DTSTART:20251123T144500Z
-SUMMARY:Rachunkowość organizacji pozarządowych (wykład)
-UID:9fd71a98-a77d-4df8-9e23-8636d3cc28a2@9fd7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Podsiadło
-DTEND:20251012T104500Z
-LOCATION:Paw.A 013 lab. Win10\, Office21
-DTSTART:20251012T083000Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
-UID:727d5295-d4a7-4cc6-995c-665d98b49ad4@727d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Biśta
-DTEND:20251025T133000Z
-LOCATION:Paw.F 616
-DTSTART:20251025T111500Z
-SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
-UID:99dc7708-f6c4-4f26-8665-f5080b2b60d3@99dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
-DTEND:20251212T170000Z
-LOCATION:link do zajęć
-DTSTART:20251212T144500Z
-SUMMARY:Filozofia (wykład do wyboru)
-UID:839e1017-0346-4260-976b-5e8a67c95b8c@839e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20251212T194500Z
-LOCATION:link do zajęć
-DTSTART:20251212T173000Z
-SUMMARY:Metody oceny projektów gospodarczych (wykład do wyboru)
-UID:26991923-f4c7-413c-affc-21044946c599@2699.org
+UID:76ff01d1-51c8-4a36-86be-d18f24905db4@76ff.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: 
 DTEND:20251217T134500Z
 DTSTART:20251217T121500Z
 SUMMARY: (rezerwacja)
-UID:ca159597-f503-4924-98f5-556e45165b25@ca15.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
-DTEND:20251004T104500Z
-DTSTART:20251004T083000Z
-SUMMARY:Filozofia (wykład do wyboru)
-UID:68413a31-b1d0-44b1-ab23-51251eae0ee4@6841.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Babuśka
-DTEND:20251017T160000Z
-LOCATION:link do zajęć
-DTSTART:20251017T134500Z
-SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
-UID:b1d6318d-81a4-431b-9690-f49f02a6bbf7@b1d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Podsiadło
-DTEND:20251122T091500Z
-LOCATION:Paw.A 013 lab. Win10\, Office21
-DTSTART:20251122T070000Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
-UID:74c0b93a-6721-4af3-af9b-8eea78aa88d1@74c0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ksymena Rosiek
-DTEND:20251207T114500Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20251207T093000Z
-SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
-UID:beebf904-5de7-4128-9847-88dcb19c1234@beeb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ksymena Rosiek
-DTEND:20251221T114500Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20251221T093000Z
-SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
-UID:f445beff-f8bf-4000-a67a-ede748787fcf@f445.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariusz Makowski
-DTEND:20251219T194500Z
-LOCATION:link do zajęć
-DTSTART:20251219T173000Z
-SUMMARY:Psychologia (wykład do wyboru)
-UID:c253e3f3-926d-4070-8d98-49f895f4da7c@c253.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ksymena Rosiek
-DTEND:20251011T104500Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20251011T083000Z
-SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
-UID:f8672187-c64f-483b-b9ce-0031f42ae0e2@f867.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Zieniuk
-DTEND:20251004T133000Z
-DTSTART:20251004T111500Z
-SUMMARY:Rachunkowość organizacji pozarządowych (Przeniesienie zajęć)
-UID:234fb68f-4dbb-469d-9cbd-f37e3606ab60@234f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Babuśka
-DTEND:20251010T184500Z
-DTSTART:20251010T163000Z
-SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
-UID:c0d81c77-db25-4d87-a5cd-c6614dc39a39@c0d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Jonas
-DTEND:20251024T184500Z
-LOCATION:link do zajęć
-DTSTART:20251024T163000Z
-SUMMARY:Rachunkowość mikro i małych przedsiębiorstw (wykład)
-UID:ee96363d-b5cd-4898-b08c-a92726b21369@ee96.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Biśta
-DTEND:20260117T143000Z
-LOCATION:Paw.F 616
-DTSTART:20260117T121500Z
-SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
-UID:c19f4955-bc50-4f0d-a9dd-6a7d403d2db0@c19f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Piotr Schroeder
-DTEND:20251221T143000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251221T121500Z
-SUMMARY:Rachunkowość organizacji pozarządowych (ćwiczenia)
-UID:4c3f6b2e-d107-48d3-95b4-907ba8da19ca@4c3f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Jonas
-DTEND:20251123T143000Z
-LOCATION:link do zajęć
-DTSTART:20251123T121500Z
-SUMMARY:Rachunkowość mikro i małych przedsiębiorstw (wykład)
-UID:d6b381eb-7e9b-4ea1-a1ff-8ecf68a3567e@d6b3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Piotr Schroeder
-DTEND:20251026T143000Z
-DTSTART:20251026T121500Z
-SUMMARY:Rachunkowość organizacji pozarządowych (Przeniesienie zajęć)
-UID:04222a48-f1ed-411d-b048-c14e12521aeb@0422.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Babuśka
-DTEND:20260124T110000Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20260124T084500Z
-SUMMARY: (egzamin)
-UID:76c7282c-90ce-4dd5-83fe-7c046cd494d9@76c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Podsiadło
-DTEND:20251206T114500Z
-LOCATION:Paw.A 013 lab. Win10\, Office21
-DTSTART:20251206T093000Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
-UID:8017f0a5-3eb4-46e9-85b7-66573af94606@8017.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20251004T104500Z
-DTSTART:20251004T083000Z
-SUMMARY:Historia gospodarcza (wykład do wyboru)
-UID:12888c13-dbc4-47e2-85fb-a6a0741a7bc6@1288.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Zieniuk
-DTEND:20251116T143000Z
-LOCATION:link do zajęć
-DTSTART:20251116T121500Z
-SUMMARY:Rachunkowość organizacji pozarządowych (wykład)
-UID:cf90a1d3-b7fe-4a35-9e17-8ac668a7216b@cf90.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20251114T194500Z
-LOCATION:link do zajęć
-DTSTART:20251114T173000Z
-SUMMARY:Metody oceny projektów gospodarczych (wykład do wyboru)
-UID:1427d926-9b82-4034-8992-53c21450e4b7@1427.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariusz Makowski
-DTEND:20260109T170000Z
-LOCATION:link do zajęć
-DTSTART:20260109T144500Z
-SUMMARY:Psychologia (wykład do wyboru)
-UID:67a3c359-0fe2-4640-b43e-fc1d2e2b79fd@67a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Babuśka
-DTEND:20251116T091500Z
-LOCATION:link do zajęć
-DTSTART:20251116T070000Z
-SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
-UID:71090166-50bb-4449-94a9-986fe4515e36@7109.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Mokrzycka-Kogut
-DTEND:20251018T081500Z
-LOCATION:Paw.F 413
-DTSTART:20251018T060000Z
-SUMMARY:Rachunkowość mikro i małych przedsiębiorstw (ćwiczenia)
-UID:b78708ad-0186-4670-b82f-e9d1115c4943@b787.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
-DTEND:20251019T104500Z
-LOCATION:link do zajęć
-DTSTART:20251019T083000Z
-SUMMARY:Filozofia (wykład do wyboru)
-UID:cd38a870-e9f2-4eb4-816c-55b17e0109c4@cd38.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Podsiadło
-DTEND:20251026T091500Z
-LOCATION:Paw.A 013 lab. Win10\, Office21
-DTSTART:20251026T070000Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
-UID:57a40106-6d66-4f47-b61f-662fe4bd3087@57a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
-DTEND:20251116T114500Z
-LOCATION:link do zajęć
-DTSTART:20251116T093000Z
-SUMMARY:Filozofia (wykład do wyboru)
-UID:65e69144-34c0-4719-8409-7b9807170175@65e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ksymena Rosiek
-DTEND:20251121T170000Z
-LOCATION:309  paw. U (tylko KatHZ)
-DTSTART:20251121T144500Z
-SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
-UID:8ee231a7-2945-4fd6-bafb-d0682d441063@8ee2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20251116T114500Z
-LOCATION:link do zajęć
-DTSTART:20251116T093000Z
-SUMMARY:Historia gospodarcza (wykład do wyboru)
-UID:676d4434-1e62-4629-9b15-49fe75e5acde@676d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Biśta
-DTEND:20251206T143000Z
-LOCATION:Paw.F 516
-DTSTART:20251206T121500Z
-SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
-UID:179da534-0c16-45ee-adf6-e6116b4d302e@179d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Jonas
-DTEND:20251206T161500Z
-LOCATION:Paw.S sala 9
-DTSTART:20251206T144500Z
-SUMMARY: (rezerwacja)
-UID:2093a6c2-755a-4b91-87f5-1f278660acfe@2093.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Zieniuk
-DTEND:20251019T133000Z
-LOCATION:link do zajęć
-DTSTART:20251019T111500Z
-SUMMARY:Rachunkowość organizacji pozarządowych (wykład)
-UID:543cbeca-7396-4fdb-ba76-758378b28200@543c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Jonas
-DTEND:20251010T160000Z
-DTSTART:20251010T134500Z
-SUMMARY:Rachunkowość mikro i małych przedsiębiorstw (wykład)
-UID:6c6e5f0f-3259-4cc6-9d95-134de1db0de7@6c6e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Podsiadło
-DTEND:20251003T184500Z
-DTSTART:20251003T163000Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
-UID:8f39653c-e3d3-4e98-8f33-a13123839489@8f39.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Babuśka
-DTEND:20260111T114500Z
-LOCATION:link do zajęć
-DTSTART:20260111T093000Z
-SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
-UID:92f1db58-3b3d-4985-816c-778cb7402d55@92f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20251003T184500Z
-DTSTART:20251003T163000Z
-SUMMARY:Metody oceny projektów gospodarczych (Przeniesienie zajęć)
-UID:284cf02f-a898-4e9c-9ebd-ffb9c8c6eb3f@284c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariusz Makowski
-DTEND:20251114T170000Z
-LOCATION:link do zajęć
-DTSTART:20251114T144500Z
-SUMMARY:Psychologia (wykład do wyboru)
-UID:39307950-a5c8-4fb4-ba4a-84f3c2cc61a4@3930.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Podsiadło
-DTEND:20260118T091500Z
-LOCATION:Paw.A 013 lab. Win10\, Office21
-DTSTART:20260118T070000Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
-UID:b6d373bd-0a6e-4402-9d2b-c9db007d6d1e@b6d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
-DTEND:20260109T194500Z
-LOCATION:link do zajęć
-DTSTART:20260109T173000Z
-SUMMARY:Filozofia (wykład do wyboru)
-UID:d46dcc69-0701-44b0-9d16-7aa83cdf0657@d46d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Podsiadło
-DTEND:20251114T194500Z
-LOCATION:link do zajęć
-DTSTART:20251114T173000Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
-UID:83c1dc4e-95ee-4b23-99b4-2a33e713f3f5@83c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20251123T114500Z
-LOCATION:link do zajęć
-DTSTART:20251123T093000Z
-SUMMARY:Historia gospodarcza (wykład do wyboru)
-UID:1323e397-212d-406c-8082-b0e49fe6b2f4@1323.org
+UID:3aabdb12-8111-42a8-933e-e1e6e90bf918@3aab.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Anna Biśta
@@ -421,23 +45,7 @@ DTEND:20251122T143000Z
 LOCATION:Paw.F 616
 DTSTART:20251122T121500Z
 SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
-UID:b8c3fbca-5e36-458f-8e81-0e110946348c@b8c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Piotr Schroeder
-DTEND:20251121T194500Z
-LOCATION:Paw.F 413
-DTSTART:20251121T173000Z
-SUMMARY:Rachunkowość organizacji pozarządowych (ćwiczenia)
-UID:dec6b764-72aa-465d-800b-c9a53a46fe22@dec6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Mokrzycka-Kogut
-DTEND:20251115T114500Z
-LOCATION:Paw.B 151
-DTSTART:20251115T093000Z
-SUMMARY:Rachunkowość mikro i małych przedsiębiorstw (ćwiczenia)
-UID:15eb0118-4aaa-4ed6-aa9c-11697f9e7223@15eb.org
+UID:f1d9d9bf-7ff1-46c7-af3a-5ad5de0dd76d@f1d9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Ewa Babuśka
@@ -445,69 +53,31 @@ DTEND:20251214T114500Z
 LOCATION:link do zajęć
 DTSTART:20251214T093000Z
 SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
-UID:8c1f2209-a9d1-44bc-baf1-eab3f5a5df99@8c1f.org
+UID:d2050e5c-01ab-41db-b846-5862d6f01de7@d205.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariusz Makowski
-DTEND:20251004T160000Z
-DTSTART:20251004T134500Z
-SUMMARY:Psychologia (wykład do wyboru)
-UID:0fc72142-5fdb-4288-a94c-0a48321b7838@0fc7.org
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20251212T194500Z
+LOCATION:link do zajęć
+DTSTART:20251212T173000Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
+UID:b483fb31-2a69-4c76-9de7-f808c55818f7@b483.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Ewa Babuśka
-DTEND:20251205T170000Z
+DTEND:20251116T091500Z
 LOCATION:link do zajęć
-DTSTART:20251205T144500Z
+DTSTART:20251116T070000Z
 SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
-UID:66f93646-9da5-4f46-b88a-1182ba462c7a@66f9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
-DTEND:20251123T114500Z
-LOCATION:link do zajęć
-DTSTART:20251123T093000Z
-SUMMARY:Filozofia (wykład do wyboru)
-UID:d5366809-4649-4017-a6e3-17dcb1334528@d536.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ksymena Rosiek
-DTEND:20251115T091500Z
-DTSTART:20251115T070000Z
-SUMMARY:Metody oceny projektów gospodarczych (Przeniesienie zajęć)
-UID:f1c13b81-614c-48d6-bc8b-2661ded7de71@f1c1.org
+UID:8edd3d7c-0e79-4420-9810-8971c2878b20@8edd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Piotr Schroeder
-DTEND:20251207T170000Z
-LOCATION:Paw.F 415
-DTSTART:20251207T144500Z
+DTEND:20251121T194500Z
+LOCATION:Paw.F 413
+DTSTART:20251121T173000Z
 SUMMARY:Rachunkowość organizacji pozarządowych (ćwiczenia)
-UID:14b4b9b7-3f96-4bd6-9766-2abe7000a0ad@14b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20251019T104500Z
-LOCATION:link do zajęć
-DTSTART:20251019T083000Z
-SUMMARY:Historia gospodarcza (wykład do wyboru)
-UID:4b1f7291-6d3a-407a-9694-71630460e68e@4b1f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Biśta
-DTEND:20251115T143000Z
-LOCATION:Paw.F 616
-DTSTART:20251115T121500Z
-SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
-UID:9f846f3b-4822-4e6f-b169-31d913e251ad@9f84.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariusz Makowski
-DTEND:20251123T091500Z
-LOCATION:link do zajęć
-DTSTART:20251123T070000Z
-SUMMARY:Psychologia (wykład do wyboru)
-UID:447e38b3-9db8-4931-ad7a-5effcdf22fe6@447e.org
+UID:12046749-9d52-4084-aaad-64b41d0282aa@1204.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Ksymena Rosiek
@@ -515,7 +85,359 @@ DTEND:20260117T091500Z
 LOCATION:Paw.A 201 lab. Win10\, Office21
 DTSTART:20260117T070000Z
 SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
-UID:9cee7599-d22e-4cdc-bd29-76b7505d7d9b@9cee.org
+UID:7888e9f2-7d14-479a-8bfe-bfedf7592c5b@7888.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Makowski
+DTEND:20251114T170000Z
+LOCATION:link do zajęć
+DTSTART:20251114T144500Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:232010be-22e8-4ca6-8377-dd24e5f7cf21@2320.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20251019T104500Z
+LOCATION:link do zajęć
+DTSTART:20251019T083000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:7d1e3517-31a5-445b-a569-d2994d717a7c@7d1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20251004T104500Z
+DTSTART:20251004T083000Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:00608db5-6da1-4075-91be-3466595ce93c@0060.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Makowski
+DTEND:20251219T194500Z
+LOCATION:link do zajęć
+DTSTART:20251219T173000Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:bd7a0460-de5e-49dd-9f89-1eecac6d6563@bd7a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Babuśka
+DTEND:20260111T114500Z
+LOCATION:link do zajęć
+DTSTART:20260111T093000Z
+SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
+UID:2af879b6-6020-45a2-866d-75d3f500fa7d@2af8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Jonas
+DTEND:20251206T161500Z
+LOCATION:Paw.S sala 9
+DTSTART:20251206T144500Z
+SUMMARY: (rezerwacja)
+UID:5dc71b8b-147d-4996-96bb-82124ced11b3@5dc7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Piotr Schroeder
+DTEND:20251221T143000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251221T121500Z
+SUMMARY:Rachunkowość organizacji pozarządowych (ćwiczenia)
+UID:86ec7510-1e56-4285-ae02-9baf145ed08a@86ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Makowski
+DTEND:20251019T081500Z
+LOCATION:link do zajęć
+DTSTART:20251019T060000Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:fb08230c-1180-449d-8915-2f11d5f2d30a@fb08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Mokrzycka-Kogut
+DTEND:20251115T114500Z
+LOCATION:Paw.B 151
+DTSTART:20251115T093000Z
+SUMMARY:Rachunkowość mikro i małych przedsiębiorstw (ćwiczenia)
+UID:c668ae36-7306-4f4f-b957-b0aafa9d1e8a@c668.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Makowski
+DTEND:20251123T091500Z
+LOCATION:link do zajęć
+DTSTART:20251123T070000Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:b729e714-f9e8-40b9-89fe-7c232c4ad589@b729.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Makowski
+DTEND:20260109T170000Z
+LOCATION:link do zajęć
+DTSTART:20260109T144500Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:67f9950c-09a2-4d7f-a535-9dd7423372f5@67f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Babuśka
+DTEND:20260124T110000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20260124T084500Z
+SUMMARY: (egzamin)
+UID:50ac242c-0b2f-46ea-9cb3-66c8df7a251b@50ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Makowski
+DTEND:20251004T160000Z
+DTSTART:20251004T134500Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:510b66bf-86c9-4737-8ea7-6dab1b8cb7c5@510b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Mokrzycka-Kogut
+DTEND:20251018T081500Z
+LOCATION:Paw.F 413
+DTSTART:20251018T060000Z
+SUMMARY:Rachunkowość mikro i małych przedsiębiorstw (ćwiczenia)
+UID:7e76a85f-452a-4299-923d-8f6e0f1e1be0@7e76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Zieniuk
+DTEND:20251116T143000Z
+LOCATION:link do zajęć
+DTSTART:20251116T121500Z
+SUMMARY:Rachunkowość organizacji pozarządowych (wykład)
+UID:88b95c56-cda0-4097-bbaf-faffa432efed@88b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ksymena Rosiek
+DTEND:20251121T170000Z
+LOCATION:309  paw. U (tylko KatHZ)
+DTSTART:20251121T144500Z
+SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
+UID:9e1fad4b-921f-4a9a-ad4a-8059bc1e0e9a@9e1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20251114T194500Z
+LOCATION:link do zajęć
+DTSTART:20251114T173000Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
+UID:efc1451b-11fc-454d-9390-da09c4581256@efc1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Piotr Schroeder
+DTEND:20251207T170000Z
+LOCATION:Paw.F 415
+DTSTART:20251207T144500Z
+SUMMARY:Rachunkowość organizacji pozarządowych (ćwiczenia)
+UID:d340a872-973c-46ec-8880-f192437afab5@d340.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ksymena Rosiek
+DTEND:20251115T091500Z
+DTSTART:20251115T070000Z
+SUMMARY:Metody oceny projektów gospodarczych (Przeniesienie zajęć)
+UID:97942f1f-03d4-4428-b663-aa6269c58a20@9794.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20260109T194500Z
+LOCATION:link do zajęć
+DTSTART:20260109T173000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:8d6973d2-3e57-4727-8cd7-32f839ffd705@8d69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20260109T194500Z
+LOCATION:link do zajęć
+DTSTART:20260109T173000Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:54c0a330-e4d8-4a62-acd8-c4884a3cd0cb@54c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ksymena Rosiek
+DTEND:20251011T104500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20251011T083000Z
+SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
+UID:939f445e-ad1e-4dba-86b9-a90ed9e1a2da@939f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Biśta
+DTEND:20260117T143000Z
+LOCATION:Paw.F 616
+DTSTART:20260117T121500Z
+SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
+UID:7f002721-a2c1-43c9-8952-906ee093e62f@7f00.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Babuśka
+DTEND:20251017T160000Z
+LOCATION:link do zajęć
+DTSTART:20251017T134500Z
+SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
+UID:728c3adc-7731-44ca-86f2-abc2221883ab@728c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20260118T091500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20260118T070000Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:afa29978-4178-4486-b7cb-ec1c5cb19607@afa2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20251206T114500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20251206T093000Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:c13564d5-0524-467e-ad39-970030350ae1@c135.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20251116T114500Z
+LOCATION:link do zajęć
+DTSTART:20251116T093000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:d64c03c9-14ef-47d8-923b-51e4e3c129d1@d64c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Mokrzycka-Kogut
+DTEND:20251207T143000Z
+LOCATION:Paw.B 151
+DTSTART:20251207T121500Z
+SUMMARY:Rachunkowość mikro i małych przedsiębiorstw (ćwiczenia)
+UID:396500c3-9f28-405e-8481-86e515f63d9f@3965.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20251026T091500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20251026T070000Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:51a49ee9-8227-4ac5-9b1c-051bf21606de@51a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Biśta
+DTEND:20251206T143000Z
+LOCATION:Paw.F 516
+DTSTART:20251206T121500Z
+SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
+UID:5eef146a-bdf0-491f-95ff-1033884e2fc8@5eef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Babuśka
+DTEND:20251010T184500Z
+DTSTART:20251010T163000Z
+SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
+UID:0195ab72-357d-4323-8a22-c09f58b0278d@0195.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20251012T104500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20251012T083000Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:880d8701-3e12-4d78-b542-d67e08a30e2d@880d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Jonas
+DTEND:20251024T184500Z
+LOCATION:link do zajęć
+DTSTART:20251024T163000Z
+SUMMARY:Rachunkowość mikro i małych przedsiębiorstw (wykład)
+UID:70883066-8d40-4517-8da3-3f178cb3ab64@7088.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20251122T091500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20251122T070000Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:bc480e77-683a-4831-80b0-3c40acc1f5ec@bc48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Jonas
+DTEND:20251010T160000Z
+DTSTART:20251010T134500Z
+SUMMARY:Rachunkowość mikro i małych przedsiębiorstw (wykład)
+UID:029913e2-5b5d-4fc5-91bf-91a134a48203@0299.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251016T123000Z
+DTSTART:20251016T093000Z
+SUMMARY: (rezerwacja)
+UID:e6b0aed5-45ab-48b7-ae2a-b980f66c9962@e6b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20251004T104500Z
+DTSTART:20251004T083000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:a4afb9e0-3293-4410-abe7-31187c50c096@a4af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20251123T114500Z
+LOCATION:link do zajęć
+DTSTART:20251123T093000Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:9e379654-9833-41b1-9372-51545981a2b8@9e37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20251220T114500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20251220T093000Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:04b2d7be-a52c-419a-93e8-0f3deb90fd3e@04b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20251212T170000Z
+LOCATION:link do zajęć
+DTSTART:20251212T144500Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:7d86c833-f137-4d0e-b3be-24cf11d37859@7d86.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Biśta
+DTEND:20251025T133000Z
+LOCATION:Paw.F 616
+DTSTART:20251025T111500Z
+SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
+UID:a18c7bbc-2849-4246-bb78-ec0dd4724094@a18c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20251114T194500Z
+LOCATION:link do zajęć
+DTSTART:20251114T173000Z
+SUMMARY:Metody oceny projektów gospodarczych (wykład do wyboru)
+UID:dcc7c759-36a9-4766-a3a3-03f3d63a6471@dcc7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Jonas
+DTEND:20251123T143000Z
+LOCATION:link do zajęć
+DTSTART:20251123T121500Z
+SUMMARY:Rachunkowość mikro i małych przedsiębiorstw (wykład)
+UID:c18b55b1-1ea0-4946-9127-7eb9c9ea01e0@c18b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20251212T170000Z
+LOCATION:link do zajęć
+DTSTART:20251212T144500Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:a5d5a1ce-3533-4768-bb69-a4cba91ffaea@a5d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Piotr Schroeder
+DTEND:20251026T143000Z
+DTSTART:20251026T121500Z
+SUMMARY:Rachunkowość organizacji pozarządowych (Przeniesienie zajęć)
+UID:188be1cc-c5c3-4c6f-b799-2ef7c1f21918@188b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Ksymena Rosiek
@@ -523,7 +445,22 @@ DTEND:20251025T081500Z
 LOCATION:Paw.A 201 lab. Win10\, Office21
 DTSTART:20251025T060000Z
 SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
-UID:610597f2-cab4-4742-8689-3cc3962a61ad@6105.org
+UID:4ff2b4c0-428f-47cb-8172-05fad0606b8b@4ff2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Biśta
+DTEND:20251115T143000Z
+LOCATION:Paw.F 616
+DTSTART:20251115T121500Z
+SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
+UID:fce31776-ea72-41ee-90d0-c4812124264e@fce3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20251003T184500Z
+DTSTART:20251003T163000Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
+UID:430156f6-6c9c-4981-81c0-58d73e8bc567@4301.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Anna Biśta
@@ -531,6 +468,69 @@ DTEND:20251220T091500Z
 LOCATION:Paw.F 616
 DTSTART:20251220T070000Z
 SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
-UID:2975a647-667d-4699-a478-5b6bfba6d885@2975.org
+UID:22bf3ba2-1a97-41fc-bc0b-197b3984e845@22bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Zieniuk
+DTEND:20251004T133000Z
+DTSTART:20251004T111500Z
+SUMMARY:Rachunkowość organizacji pozarządowych (Przeniesienie zajęć)
+UID:31db9834-7d1a-45d8-9370-750037a7dbb1@31db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Babuśka
+DTEND:20251205T170000Z
+LOCATION:link do zajęć
+DTSTART:20251205T144500Z
+SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
+UID:889acda4-4e3c-44f9-901d-55b4b3824904@889a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ksymena Rosiek
+DTEND:20251221T114500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20251221T093000Z
+SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
+UID:116c5040-372a-4db7-8017-6e917b0f5a24@116c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Zieniuk
+DTEND:20251123T170000Z
+LOCATION:link do zajęć
+DTSTART:20251123T144500Z
+SUMMARY:Rachunkowość organizacji pozarządowych (wykład)
+UID:2bafe131-94c2-4422-bd59-afe280230182@2baf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Zieniuk
+DTEND:20251019T133000Z
+LOCATION:link do zajęć
+DTSTART:20251019T111500Z
+SUMMARY:Rachunkowość organizacji pozarządowych (wykład)
+UID:52e1bc1c-e318-4e7e-bdfc-83e48c8b3bb1@52e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20251019T104500Z
+LOCATION:link do zajęć
+DTSTART:20251019T083000Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:d7537dd6-e984-47f0-9e3b-174ae65c2908@d753.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ksymena Rosiek
+DTEND:20251207T114500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20251207T093000Z
+SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
+UID:425053a2-4528-44e9-90df-c5466f2c9ef0@4250.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20251212T194500Z
+LOCATION:link do zajęć
+DTSTART:20251212T173000Z
+SUMMARY:Metody oceny projektów gospodarczych (wykład do wyboru)
+UID:90d941f3-597e-4523-b667-ef534892e7c0@90d9.org
 END:VEVENT
 END:VCALENDAR
