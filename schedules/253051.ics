@@ -2,20 +2,28 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Christian Friedl
+DTEND:20260117T134500Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20260117T074500Z
+SUMMARY:Corporate Entrepreneurship (Studia podyplomowe)
+UID:678dceaf-ad58-402f-8e0d-00bf599fa622@678d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Ivan Yakunin
+DTEND:20251128T191500Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20251128T144500Z
+SUMMARY:Organization Design and New Business Models (Studia podyplomowe)
+UID:5e496ca7-861a-473d-ae49-0ab6c52de709@5e49.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Adam Rogalewicz
 DTEND:20251011T124500Z
 LOCATION:Paw.G 13 SENACKA
 DTSTART:20251011T064500Z
 SUMMARY:Data Driven Innovation (Studia podyplomowe)
-UID:49f106c4-6eae-4670-a880-3991d82b6a49@49f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kamila Pilch
-DTEND:20251010T181500Z
-LOCATION:Paw.G 13 SENACKA
-DTSTART:20251010T134500Z
-SUMMARY:Research Skills and Data Analysis (Studia podyplomowe)
-UID:5ada87a7-3a42-4230-843c-75b0e7dd5f1d@5ada.org
+UID:c28971e7-6758-4e21-8fef-732619f0cffe@c289.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. Eurico Nobre
@@ -23,79 +31,23 @@ DTEND:20251024T183000Z
 LOCATION:Paw.G 12
 DTSTART:20251024T153000Z
 SUMMARY:Customer centricity in the digital age (Studia podyplomowe)
-UID:7dd17af4-b2e9-48d7-b93e-5eb6eba591a4@7dd1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Philippe de Brouwer
-DTEND:20251130T104500Z
-LOCATION:Paw.G 12
-DTSTART:20251130T074500Z
-SUMMARY:Managerial Accounting (Studia podyplomowe)
-UID:bbc0061c-a687-4082-864e-2b76302afa8e@bbc0.org
+UID:4b9bafaa-5dc8-40f4-9c3e-3eff37609724@4b9b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Vincent Dutot
 DTEND:20251116T134500Z
-LOCATION:Paw.G 12
+LOCATION:Paw.G 13 SENACKA
 DTSTART:20251116T074500Z
 SUMMARY:Innovation Technology Transformation (Studia podyplomowe)
-UID:d52d46f7-080b-4e1e-aa63-6a20527e26f6@d52d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Ivan Yakunin
-DTEND:20251128T191500Z
-LOCATION:Paw.G 12
-DTSTART:20251128T144500Z
-SUMMARY:Organization Design and New Business Models (Studia podyplomowe)
-UID:e63c4bc1-9c8d-49bc-8244-f2af8bd6ad0e@e63c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Marek Ćwiklicki
-DTEND:20251010T181500Z
-LOCATION:Paw.G 13 SENACKA
-DTSTART:20251010T134500Z
-SUMMARY:Research Skills and Data Analysis (Studia podyplomowe)
-UID:e74fb1d9-38e9-4c05-be93-22e35f638533@e74f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Ivan Yakunin
-DTEND:20251129T134500Z
-LOCATION:Paw.G 12
-DTSTART:20251129T074500Z
-SUMMARY:Organization Design and New Business Models (Studia podyplomowe)
-UID:e884af9e-da3e-41ae-bf17-1e3b0acb9680@e884.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Vincent Dutot
-DTEND:20251114T191500Z
-LOCATION:Paw.G 12
-DTSTART:20251114T144500Z
-SUMMARY:Innovation Technology Transformation (Studia podyplomowe)
-UID:88eb3d54-11f5-458c-922a-d85352dd7aa9@88eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. Eurico Nobre
-DTEND:20251026T134500Z
-LOCATION:Paw.G 12
-DTSTART:20251026T074500Z
-SUMMARY:Customer centricity in the digital age (Studia podyplomowe)
-UID:25c7e71b-20c7-4cbc-bfb6-ae56051299c2@25c7.org
+UID:69a9abb1-86c2-4159-ac17-951df4a71a6f@69a9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Christian Friedl
 DTEND:20260118T134500Z
-LOCATION:Paw.G 12
+LOCATION:Paw.G 13 SENACKA
 DTSTART:20260118T074500Z
 SUMMARY:Corporate Entrepreneurship (Studia podyplomowe)
-UID:2d8c4c54-9ff8-47f3-adfd-4bf13706bff7@2d8c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Adam Rogalewicz
-DTEND:20251012T124500Z
-LOCATION:Paw.G 13 SENACKA
-DTSTART:20251012T064500Z
-SUMMARY:Data Driven Innovation (Studia podyplomowe)
-UID:0ee62ec3-d390-4a80-aaa7-76b701a55465@0ee6.org
+UID:b4366099-911c-4887-9daa-d87ff99343fb@b436.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Vincent Dutot
@@ -103,7 +55,55 @@ DTEND:20251115T134500Z
 LOCATION:Paw.G 12
 DTSTART:20251115T074500Z
 SUMMARY:Innovation Technology Transformation (Studia podyplomowe)
-UID:6e1ae518-d241-4b1e-9188-309fbfd4c7ab@6e1a.org
+UID:9fc85d23-8a15-4206-8c5b-506d547b2974@9fc8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marek Ćwiklicki
+DTEND:20251010T181500Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20251010T134500Z
+SUMMARY:Research Skills and Data Analysis (Studia podyplomowe)
+UID:18b6b1c9-fcb7-40f9-b4be-1c0465c50c88@18b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Ivan Yakunin
+DTEND:20251129T134500Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20251129T074500Z
+SUMMARY:Organization Design and New Business Models (Studia podyplomowe)
+UID:b957470e-7741-41b7-a93e-5ead127e4305@b957.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Philippe de Brouwer
+DTEND:20251130T104500Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20251130T074500Z
+SUMMARY:Managerial Accounting (Studia podyplomowe)
+UID:ec3606b5-6130-449a-942a-e5aa368fc2ca@ec36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. Eurico Nobre
+DTEND:20251026T134500Z
+LOCATION:Paw.G 12
+DTSTART:20251026T074500Z
+SUMMARY:Customer centricity in the digital age (Studia podyplomowe)
+UID:9dca38bb-b075-42c2-b99d-e13770540e1a@9dca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Vincent Dutot
+DTEND:20251114T191500Z
+LOCATION:Paw.G 12
+DTSTART:20251114T144500Z
+SUMMARY:Innovation Technology Transformation (Studia podyplomowe)
+UID:c0108c4c-5c0a-48ea-a40d-45bd7b2b84b1@c010.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamila Pilch
+DTEND:20251010T181500Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20251010T134500Z
+SUMMARY:Research Skills and Data Analysis (Studia podyplomowe)
+UID:cc698ca5-efba-44fa-99f2-5749036adefc@cc69.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. Eurico Nobre
@@ -111,14 +111,14 @@ DTEND:20251025T124500Z
 LOCATION:Paw.G 12
 DTSTART:20251025T064500Z
 SUMMARY:Customer centricity in the digital age (Studia podyplomowe)
-UID:b0c2aae6-fb02-45fc-88b7-105a85310476@b0c2.org
+UID:4b9260c3-1ca3-46d1-aaa0-4b317aa5b0d3@4b92.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Christian Friedl
-DTEND:20260117T134500Z
-LOCATION:Paw.G 12
-DTSTART:20260117T074500Z
-SUMMARY:Corporate Entrepreneurship (Studia podyplomowe)
-UID:cdf69e7e-561b-4c0e-a25c-2c30bb83b1f4@cdf6.org
+DESCRIPTION:Instructor: mgr Adam Rogalewicz
+DTEND:20251012T124500Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20251012T064500Z
+SUMMARY:Data Driven Innovation (Studia podyplomowe)
+UID:558e2650-b32c-4f95-805e-525f25013960@558e.org
 END:VEVENT
 END:VCALENDAR
