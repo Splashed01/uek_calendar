@@ -2,12 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Maria Sierpińska
+DTEND:20260213T193000Z
+LOCATION:Paw.G - 1
+DTSTART:20260213T154500Z
+SUMMARY:Krótkoterminowe decyzje finansowe (Studia podyplomowe)
+UID:35bfd1e6-386e-4c05-9488-9fdd8fa33f14@35bf.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
 DTEND:20251206T130000Z
 LOCATION:Paw.B 059 (KSB)
 DTSTART:20251206T074500Z
 SUMMARY:Budżetowanie (Studia podyplomowe)
-UID:0852d3bd-b9aa-4852-a316-c72837c27d01@0852.org
+UID:36f6fd3d-3520-49e5-92dd-9ff848118e24@36f6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Wojciech Szymla
@@ -15,78 +23,7 @@ DTEND:20251010T153000Z
 LOCATION:Paw.G  9
 DTSTART:20251010T144500Z
 SUMMARY: (Studia podyplomowe)
-UID:f7fbc8d7-551a-44b8-8b38-941e69d20ed3@f7fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ireneusz Górowski
-DTEND:20251115T134500Z
-LOCATION:Paw.G - 2
-DTSTART:20251115T074500Z
-SUMMARY:Rachunkowość finansowa (Studia podyplomowe)
-UID:fcfee8bd-5911-4efd-a813-01f0d0252c8d@fcfe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
-DTEND:20251205T193000Z
-DTSTART:20251205T154500Z
-SUMMARY:Budżetowanie (Studia podyplomowe)
-UID:3696f846-610c-4a96-8413-6e716ac882f7@3696.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
-DTEND:20251025T111500Z
-LOCATION:Paw.B 057 (KSB)
-DTSTART:20251025T064500Z
-SUMMARY:Rachunek kosztów (Studia podyplomowe)
-UID:f53d2b6f-21f4-40cf-a79e-45c7d5ee6090@f53d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ireneusz Górowski
-DTEND:20251011T120000Z
-LOCATION:Paw.G  9
-DTSTART:20251011T064500Z
-SUMMARY:Rachunkowość finansowa (Studia podyplomowe)
-UID:26fa64ce-3bef-4baa-9bc5-256af8bcabc0@26fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Maria Sierpińska
-DTEND:20251010T183000Z
-LOCATION:Paw.G  9
-DTSTART:20251010T153000Z
-SUMMARY:Controlling operacyjny (Studia podyplomowe)
-UID:3c694ef0-2e00-41ef-a1f0-ef819ff8b957@3c69.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grzegorz Łukasiewicz
-DTEND:20260214T121500Z
-LOCATION:Paw.G - 1
-DTSTART:20260214T074500Z
-SUMMARY:Controlling personalny (Studia podyplomowe)
-UID:c7efa3c3-b0e1-4a40-859b-2de46782dc44@c7ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Konrad Kolegowicz
-DTEND:20260131T134500Z
-LOCATION:Paw.G  7
-DTSTART:20260131T074500Z
-SUMMARY:Controlling produkcji i logistyki (Studia podyplomowe)
-UID:53d6dd24-8b43-46b0-a00c-3f8a6b70d8cb@53d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
-DTEND:20251130T121500Z
-LOCATION:Paw.G  9
-DTSTART:20251130T074500Z
-SUMMARY:Rachunek kosztów (Studia podyplomowe)
-UID:27debe49-9378-493d-ac99-dda95a34e77a@27de.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Rojek
-DTEND:20260117T134500Z
-LOCATION:Paw.B 057 (KSB)
-DTSTART:20260117T074500Z
-SUMMARY:Analiza finansowa (Studia podyplomowe)
-UID:6eafbca2-7ae8-4699-a071-071924b170d0@6eaf.org
+UID:edf88aa0-3935-4919-b3fb-060329b56aaa@edf8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Tomasz Rojek
@@ -94,23 +31,23 @@ DTEND:20260130T193000Z
 LOCATION:Paw.G  7
 DTSTART:20260130T154500Z
 SUMMARY:Analiza finansowa (Studia podyplomowe)
-UID:7c88ba54-3b64-474a-a585-af2a229dc3b2@7c88.org
+UID:518f646e-fe5a-4a9c-b063-60b512ada808@518f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. dr hab. Maria Sierpińska
-DTEND:20260213T193000Z
-LOCATION:Paw.G - 1
-DTSTART:20260213T154500Z
-SUMMARY:Krótkoterminowe decyzje finansowe (Studia podyplomowe)
-UID:2a9365e8-c2f3-4ba7-8b1c-0aa27f8a7745@2a93.org
+DTEND:20251010T183000Z
+LOCATION:Paw.G  9
+DTSTART:20251010T153000Z
+SUMMARY:Controlling operacyjny (Studia podyplomowe)
+UID:1d91dda2-b511-44f1-be7a-f4eb53de2869@1d91.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Rojek
-DTEND:20260116T193000Z
+DESCRIPTION:Instructor: dr Ireneusz Górowski
+DTEND:20251115T134500Z
 LOCATION:Paw.G - 2
-DTSTART:20260116T154500Z
-SUMMARY:Analiza finansowa (Studia podyplomowe)
-UID:cf029dfb-d289-4b8b-b0b5-3a4e592d4481@cf02.org
+DTSTART:20251115T074500Z
+SUMMARY:Rachunkowość finansowa (Studia podyplomowe)
+UID:6fdce56c-1637-41a1-aa33-bac3459769d1@6fdc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. dr hab. Maria Sierpińska
@@ -118,15 +55,70 @@ DTEND:20251024T183000Z
 LOCATION:Paw.B 057 (KSB)
 DTSTART:20251024T144500Z
 SUMMARY:Controlling operacyjny (Studia podyplomowe)
-UID:894e7111-e83f-445e-a388-5c5f8b2c27ad@894e.org
+UID:d0face3d-394d-450e-868a-f0136c4e3c91@d0fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
+DTEND:20251205T193000Z
+DTSTART:20251205T154500Z
+SUMMARY:Budżetowanie (Studia podyplomowe)
+UID:3927beaf-662f-43a4-ba02-d1b275e2464a@3927.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
-DTEND:20251129T121500Z
+DTEND:20251130T121500Z
 LOCATION:Paw.G  9
-DTSTART:20251129T074500Z
+DTSTART:20251130T074500Z
 SUMMARY:Rachunek kosztów (Studia podyplomowe)
-UID:b24cf700-ce1f-40dc-b48d-4a11585e46e7@b24c.org
+UID:dcdf6aa4-3ed1-4091-8035-28522cfc541b@dcdf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Rojek
+DTEND:20260116T193000Z
+LOCATION:Paw.G - 2
+DTSTART:20260116T154500Z
+SUMMARY:Analiza finansowa (Studia podyplomowe)
+UID:d4098ffd-6c1b-4a36-8dd1-4f173bb3db09@d409.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Konrad Kolegowicz
+DTEND:20260131T134500Z
+LOCATION:Paw.G  7
+DTSTART:20260131T074500Z
+SUMMARY:Controlling produkcji i logistyki (Studia podyplomowe)
+UID:0becaaab-71d0-4921-a9b0-8d71a04ec69c@0bec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grzegorz Łukasiewicz
+DTEND:20260214T121500Z
+LOCATION:Paw.G - 1
+DTSTART:20260214T074500Z
+SUMMARY:Controlling personalny (Studia podyplomowe)
+UID:19d325c6-d01a-4cde-8ac0-ef064d95b0e0@19d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Rojek
+DTEND:20260117T134500Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20260117T074500Z
+SUMMARY:Analiza finansowa (Studia podyplomowe)
+UID:058b3d12-d117-414b-a21c-51af68d8fbcc@058b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
+DTEND:20251025T111500Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20251025T064500Z
+SUMMARY:Rachunek kosztów (Studia podyplomowe)
+UID:041b558b-f807-4ee7-807e-1cfc3eef6f72@041b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ireneusz Górowski
+DTEND:20251011T120000Z
+LOCATION:Paw.G  9
+DTSTART:20251011T064500Z
+SUMMARY:Rachunkowość finansowa (Studia podyplomowe)
+UID:a9905533-3db7-4d56-ac9d-b99e3e32074e@a990.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. dr hab. Maria Sierpińska
@@ -134,6 +126,14 @@ DTEND:20251114T193000Z
 LOCATION:Paw.G - 2
 DTSTART:20251114T163000Z
 SUMMARY:Controlling operacyjny (Studia podyplomowe)
-UID:8a42f97c-afff-4205-90bf-1f65e426c69f@8a42.org
+UID:48376faa-69cf-431d-b196-c01a112f0841@4837.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
+DTEND:20251129T121500Z
+LOCATION:Paw.G  9
+DTSTART:20251129T074500Z
+SUMMARY:Rachunek kosztów (Studia podyplomowe)
+UID:f85bea59-fda2-46d4-b095-413d61b1e13e@f85b.org
 END:VEVENT
 END:VCALENDAR
