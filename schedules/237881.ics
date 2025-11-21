@@ -2,12 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
-DTEND:20251130T151500Z
-LOCATION:Paw.U sala K
-DTSTART:20251130T130000Z
-SUMMARY:Rachunkowość instrumentów finansowych (ćwiczenia)
-UID:c92b545e-fd67-48e8-a901-deed3a6d8c08@c92b.org
+DESCRIPTION:Instructor: 
+DTEND:20251016T123000Z
+DTSTART:20251016T093000Z
+SUMMARY: (rezerwacja)
+UID:eb7cb09b-169f-4809-9da3-1b75132c4b6e@eb7c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
+DTEND:20251025T104500Z
+DTSTART:20251025T083000Z
+SUMMARY:Zaawansowana rachunkowość zarządcza (Przeniesienie zajęć)
+UID:035bac53-2c1f-476f-9bd6-8949fce28a20@035b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
@@ -15,102 +21,7 @@ DTEND:20251024T160000Z
 LOCATION:link do zajęć
 DTSTART:20251024T134500Z
 SUMMARY:Rachunkowość instrumentów finansowych (wykład)
-UID:c5b070e2-ceeb-4cb1-a281-7efacf5abd2c@c5b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Dariusz Wędzki
-DTEND:20251128T170000Z
-LOCATION:Paw.U sala M
-DTSTART:20251128T144500Z
-SUMMARY:Zaawansowana analiza sprawozdania finansowego (ćwiczenia)
-UID:ab399400-f2cd-4cd5-a6d9-ebb2707783c9@ab39.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jerzy Kuchmacz
-DTEND:20251213T114500Z
-LOCATION:Paw.C sala F
-DTSTART:20251213T093000Z
-SUMMARY:Rachunkowość podatkowa (ćwiczenia)
-UID:d901279d-6588-4db4-b956-90d49e1adeab@d901.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
-DTEND:20251214T151500Z
-LOCATION:Paw.U sala K
-DTSTART:20251214T130000Z
-SUMMARY:Rachunkowość instrumentów finansowych (ćwiczenia)
-UID:7677e00a-614d-4e06-976a-0a6b94253862@7677.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
-DTEND:20251025T133000Z
-LOCATION:link do zajęć
-DTSTART:20251025T111500Z
-SUMMARY:Zaawansowana rachunkowość zarządcza (wykład)
-UID:4f3f6b23-f4b3-4ddc-971d-d35332ce2762@4f3f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Katarzyna Szymczyk-Madej
-DTEND:20251005T100000Z
-LOCATION:Platforma Moodle
-DTSTART:20251005T083000Z
-SUMMARY:Informatyka w rachunkowości (Ćwiczenia e-learningowe)
-UID:44ea2c23-120c-4774-b6ff-96c50b392e89@44ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Dariusz Wędzki
-DTEND:20251213T143000Z
-LOCATION:Paw.U sala K
-DTSTART:20251213T121500Z
-SUMMARY:Zaawansowana analiza sprawozdania finansowego (ćwiczenia)
-UID:6a167b77-434c-4e16-b7e1-57890b72959b@6a16.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jerzy Kuchmacz
-DTEND:20251128T194500Z
-LOCATION:Paw.F 515
-DTSTART:20251128T173000Z
-SUMMARY:Rachunkowość podatkowa (ćwiczenia)
-UID:b124c89d-6eab-4f6e-a82b-f72352bcd40f@b124.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
-DTEND:20260110T170000Z
-LOCATION:Paw.C sala C
-DTSTART:20260110T144500Z
-SUMMARY:Zaawansowana rachunkowość zarządcza (ćwiczenia)
-UID:75975b6f-ff90-4dcb-a72c-8c6ab22ba131@7597.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Jędrzejczyk
-DTEND:20251114T170000Z
-DTSTART:20251114T144500Z
-SUMMARY:Teoria rachunkowości (Przeniesienie zajęć)
-UID:cb443958-fb51-4d17-801b-ee6917d6d7a9@cb44.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Jędrzejczyk
-DTEND:20251115T091500Z
-LOCATION:link do zajęć
-DTSTART:20251115T070000Z
-SUMMARY:Teoria rachunkowości (wykład)
-UID:25620445-aa12-4869-872c-7fd4bb78d3b4@2562.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Katarzyna Szymczyk-Madej
-DTEND:20251130T123000Z
-LOCATION:Platforma Moodle
-DTSTART:20251130T093000Z
-SUMMARY:Informatyka w rachunkowości (Ćwiczenia e-learningowe)
-UID:b8ce9d5d-68d1-4014-a43c-6a20895c5c3e@b8ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
-DTEND:20251130T180000Z
-LOCATION:Paw.U sala M
-DTSTART:20251130T154500Z
-SUMMARY:Zaawansowana rachunkowość zarządcza (ćwiczenia)
-UID:1c7a24dd-cf15-4de4-a788-383e26087e6d@1c7a.org
+UID:6b297cf2-1876-474a-9c59-4bdb2bb65328@6b29.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jerzy Kuchmacz
@@ -118,147 +29,14 @@ DTEND:20251024T184500Z
 LOCATION:link do zajęć
 DTSTART:20251024T163000Z
 SUMMARY:Rachunkowość podatkowa (wykład)
-UID:1b771f88-7206-40ce-87fb-76380b2dbd32@1b77.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Jędrzejczyk
-DTEND:20251025T081500Z
-LOCATION:link do zajęć
-DTSTART:20251025T060000Z
-SUMMARY:Teoria rachunkowości (wykład)
-UID:5b10ae7c-ec0e-4596-a5b3-73383ed1bfec@5b10.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Dariusz Wędzki
-DTEND:20251116T124500Z
-LOCATION:Paw.F 614
-DTSTART:20251116T103000Z
-SUMMARY:Zaawansowana analiza sprawozdania finansowego (ćwiczenia)
-UID:37719ab8-4425-421b-9f10-59793d4169e0@3771.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Katarzyna Szymczyk-Madej
-DTEND:20251116T160000Z
-LOCATION:Platforma Moodle
-DTSTART:20251116T130000Z
-SUMMARY:Informatyka w rachunkowości (Ćwiczenia e-learningowe)
-UID:2c9886d9-a575-49b5-8a75-17c2071fb586@2c98.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Katarzyna Szymczyk-Madej
-DTEND:20251214T123000Z
-LOCATION:Platforma Moodle
-DTSTART:20251214T093000Z
-SUMMARY:Informatyka w rachunkowości (Ćwiczenia e-learningowe)
-UID:0fbf2bf0-f0a5-4d95-978f-1dd2d385ddce@0fbf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Katarzyna Szymczyk-Madej
-DTEND:20251026T131500Z
-LOCATION:Platforma Moodle
-DTSTART:20251026T093000Z
-SUMMARY:Informatyka w rachunkowości (Ćwiczenia e-learningowe)
-UID:3c924612-99a9-4a11-8683-06193c62e27a@3c92.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
-DTEND:20260110T143000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20260110T121500Z
-SUMMARY:Rachunkowość instrumentów finansowych (ćwiczenia)
-UID:0de142b4-c16e-41fb-8813-dd29fa30c497@0de1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
-DTEND:20251003T160000Z
-DTSTART:20251003T134500Z
-SUMMARY:Rachunkowość instrumentów finansowych (wykład)
-UID:c49bb1fe-974f-45ab-9897-beb12de04ea3@c49b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Dariusz Wędzki
-DTEND:20251114T194500Z
-LOCATION:link do zajęć
-DTSTART:20251114T173000Z
-SUMMARY:Zaawansowana analiza sprawozdania finansowego (wykład)
-UID:15001b12-702b-486e-ae49-5def002b1f05@1500.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Katarzyna Szymczyk-Madej
-DTEND:20260109T170000Z
-LOCATION:208 paw.U (tylko Kat. Rach)
-DTSTART:20260109T144500Z
-SUMMARY:Informatyka w rachunkowości (ćwiczenia)
-UID:b7262ea1-d27c-4936-a260-6cd0a4fdfe43@b726.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Dariusz Wędzki
-DTEND:20251004T104500Z
-DTSTART:20251004T083000Z
-SUMMARY:Zaawansowana analiza sprawozdania finansowego (wykład)
-UID:0fbbea59-9c88-4162-a344-01718c40c907@0fbb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jerzy Kuchmacz
-DTEND:20251115T114500Z
-LOCATION:link do zajęć
-DTSTART:20251115T093000Z
-SUMMARY:Rachunkowość podatkowa (wykład)
-UID:42ecb214-ca29-4d85-b0db-ebe5afe6bdc4@42ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
-DTEND:20251214T180000Z
-LOCATION:Paw.U sala M
-DTSTART:20251214T154500Z
-SUMMARY:Zaawansowana rachunkowość zarządcza (ćwiczenia)
-UID:8cdd61d7-ec4d-49eb-8e1b-7d00824acd5f@8cdd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Katarzyna Szymczyk-Madej
-DTEND:20251129T131500Z
-LOCATION:208 paw.U (tylko Kat. Rach)
-DTSTART:20251129T093000Z
-SUMMARY:Informatyka w rachunkowości (ćwiczenia)
-UID:6ff937c9-83ee-4532-8a7d-b35255b7b228@6ff9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Katarzyna Szymczyk-Madej
-DTEND:20251212T170000Z
-LOCATION:208 paw.U (tylko Kat. Rach)
-DTSTART:20251212T144500Z
-SUMMARY:Informatyka w rachunkowości (ćwiczenia)
-UID:0a26eb87-df4e-415d-a944-682b8d2a6875@0a26.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jerzy Kuchmacz
-DTEND:20260110T114500Z
-LOCATION:Paw.S sala 8
-DTSTART:20260110T093000Z
-SUMMARY:Rachunkowość podatkowa (ćwiczenia)
-UID:f7cd48a7-1b13-4b41-ac44-9b3c4b8890b7@f7cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
-DTEND:20251025T104500Z
-DTSTART:20251025T083000Z
-SUMMARY:Zaawansowana rachunkowość zarządcza (Przeniesienie zajęć)
-UID:16d3855c-c0b2-4822-8203-58b6d59b0e9a@16d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Katarzyna Szymczyk-Madej
-DTEND:20251005T123000Z
-LOCATION:208 paw.U (tylko Kat. Rach)
-DTSTART:20251005T101500Z
-SUMMARY:Informatyka w rachunkowości (ćwiczenia)
-UID:5cf72866-8cf5-4f78-88df-7d6b8cb8f323@5cf7.org
+UID:980ad0d1-5525-4d91-a803-a363ab5d825e@980a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: 
 DTEND:20251217T134500Z
 DTSTART:20251217T121500Z
 SUMMARY: (rezerwacja)
-UID:47167202-f5e0-4fbe-8335-9636080f2eb8@4716.org
+UID:ea52fae1-f07d-405c-b9da-a942217eb4a0@ea52.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
@@ -266,14 +44,190 @@ DTEND:20251115T143000Z
 LOCATION:link do zajęć
 DTSTART:20251115T121500Z
 SUMMARY:Rachunkowość instrumentów finansowych (wykład)
-UID:4618bc46-875b-4fc5-bca9-e9b0fcb076ca@4618.org
+UID:ecf32bf4-ae5d-47fa-ba5b-53ec0e004068@ecf3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jerzy Kuchmacz
-DTEND:20251004T081500Z
-DTSTART:20251004T060000Z
+DTEND:20251115T114500Z
+LOCATION:link do zajęć
+DTSTART:20251115T093000Z
 SUMMARY:Rachunkowość podatkowa (wykład)
-UID:5818b2e3-5947-4b77-a64e-7b19fe2cbc6e@5818.org
+UID:5247317c-bc84-4428-bfc0-ec432eaac290@5247.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Dariusz Wędzki
+DTEND:20251116T124500Z
+LOCATION:Paw.F 614
+DTSTART:20251116T103000Z
+SUMMARY:Zaawansowana analiza sprawozdania finansowego (ćwiczenia)
+UID:fc78946e-208e-4d3c-8cf9-aa3f9e0fd1fa@fc78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Katarzyna Szymczyk-Madej
+DTEND:20251130T123000Z
+LOCATION:Platforma Moodle
+DTSTART:20251130T093000Z
+SUMMARY:Informatyka w rachunkowości (Ćwiczenia e-learningowe)
+UID:0789d795-a24a-4679-841f-200542789e44@0789.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
+DTEND:20251214T151500Z
+LOCATION:Paw.U sala K
+DTSTART:20251214T130000Z
+SUMMARY:Rachunkowość instrumentów finansowych (ćwiczenia)
+UID:2e67cf56-1220-44f7-9f54-64559de8e157@2e67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Dariusz Wędzki
+DTEND:20251213T143000Z
+LOCATION:Paw.U sala K
+DTSTART:20251213T121500Z
+SUMMARY:Zaawansowana analiza sprawozdania finansowego (ćwiczenia)
+UID:248b0584-8d7c-4559-b400-d276935380c3@248b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
+DTEND:20251025T133000Z
+LOCATION:link do zajęć
+DTSTART:20251025T111500Z
+SUMMARY:Zaawansowana rachunkowość zarządcza (wykład)
+UID:2d58cbb8-26b1-4a58-87d0-68eaed3dfec8@2d58.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
+DTEND:20251003T160000Z
+DTSTART:20251003T134500Z
+SUMMARY:Rachunkowość instrumentów finansowych (wykład)
+UID:f892dc84-ea06-4673-b5fa-8ca76ce48540@f892.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
+DTEND:20251214T180000Z
+LOCATION:Paw.U sala M
+DTSTART:20251214T154500Z
+SUMMARY:Zaawansowana rachunkowość zarządcza (ćwiczenia)
+UID:c30d7f98-cf91-4a7c-a64b-e579e081f893@c30d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Katarzyna Szymczyk-Madej
+DTEND:20251214T123000Z
+LOCATION:Platforma Moodle
+DTSTART:20251214T093000Z
+SUMMARY:Informatyka w rachunkowości (Ćwiczenia e-learningowe)
+UID:972a500e-0669-4270-8169-e576808e3564@972a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
+DTEND:20251130T180000Z
+LOCATION:Paw.U sala M
+DTSTART:20251130T154500Z
+SUMMARY:Zaawansowana rachunkowość zarządcza (ćwiczenia)
+UID:0aa505e3-3724-4da5-bc32-94f79956ac7f@0aa5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Katarzyna Szymczyk-Madej
+DTEND:20251129T131500Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20251129T093000Z
+SUMMARY:Informatyka w rachunkowości (ćwiczenia)
+UID:c938a860-3f5c-42b6-824c-83e1799a2a93@c938.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Jędrzejczyk
+DTEND:20251025T081500Z
+LOCATION:link do zajęć
+DTSTART:20251025T060000Z
+SUMMARY:Teoria rachunkowości (wykład)
+UID:38d766f2-026d-45ab-8180-e4c907cf5202@38d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20251128T194500Z
+LOCATION:Paw.F 515
+DTSTART:20251128T173000Z
+SUMMARY:Rachunkowość podatkowa (ćwiczenia)
+UID:23ce95d8-66ec-41e9-80a4-ccbeee374a19@23ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
+DTEND:20251130T151500Z
+LOCATION:Paw.U sala K
+DTSTART:20251130T130000Z
+SUMMARY:Rachunkowość instrumentów finansowych (ćwiczenia)
+UID:4d12e968-65d1-490a-867b-7bab3a0f2124@4d12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Katarzyna Szymczyk-Madej
+DTEND:20260109T170000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20260109T144500Z
+SUMMARY:Informatyka w rachunkowości (ćwiczenia)
+UID:5d0609c5-2419-4522-bab5-c1719a9c0c2d@5d06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Katarzyna Szymczyk-Madej
+DTEND:20251026T131500Z
+LOCATION:Platforma Moodle
+DTSTART:20251026T093000Z
+SUMMARY:Informatyka w rachunkowości (Ćwiczenia e-learningowe)
+UID:f756a54b-5ced-4b25-a7b9-b5659980351a@f756.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
+DTEND:20260110T170000Z
+LOCATION:Paw.C sala C
+DTSTART:20260110T144500Z
+SUMMARY:Zaawansowana rachunkowość zarządcza (ćwiczenia)
+UID:3db0b83b-8d6e-43c2-a1f5-060fda0b4dcd@3db0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Katarzyna Szymczyk-Madej
+DTEND:20251005T123000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20251005T101500Z
+SUMMARY:Informatyka w rachunkowości (ćwiczenia)
+UID:87174662-d343-4086-971c-9ded6492b687@8717.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Dariusz Wędzki
+DTEND:20251128T170000Z
+LOCATION:Paw.U sala M
+DTSTART:20251128T144500Z
+SUMMARY:Zaawansowana analiza sprawozdania finansowego (ćwiczenia)
+UID:0c83b486-368d-43c1-87c0-292ce3e2ec73@0c83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Jędrzejczyk
+DTEND:20251115T091500Z
+LOCATION:link do zajęć
+DTSTART:20251115T070000Z
+SUMMARY:Teoria rachunkowości (wykład)
+UID:62617631-6c4e-4ad3-9d4a-de80c4901b0d@6261.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Dariusz Wędzki
+DTEND:20251114T194500Z
+LOCATION:link do zajęć
+DTSTART:20251114T173000Z
+SUMMARY:Zaawansowana analiza sprawozdania finansowego (wykład)
+UID:820caed0-f9f0-483d-896b-d0c6b69ecced@820c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
+DTEND:20260110T143000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20260110T121500Z
+SUMMARY:Rachunkowość instrumentów finansowych (ćwiczenia)
+UID:b43305ba-9b54-407d-aaba-26f4462481f0@b433.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20260110T114500Z
+LOCATION:Paw.S sala 8
+DTSTART:20260110T093000Z
+SUMMARY:Rachunkowość podatkowa (ćwiczenia)
+UID:3f7fdc75-5b81-4cc4-ab05-e47875a04326@3f7f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Jędrzejczyk
@@ -281,21 +235,43 @@ DTEND:20260111T091500Z
 LOCATION:link do zajęć
 DTSTART:20260111T070000Z
 SUMMARY:Teoria rachunkowości (wykład)
-UID:4e803721-92a9-425c-b018-20b7575544cd@4e80.org
+UID:c3a383f5-2932-41ec-9441-c15730bafdff@c3a3.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251016T123000Z
-DTSTART:20251016T093000Z
-SUMMARY: (rezerwacja)
-UID:ecc336de-a593-4e07-ba95-062c8d03d47c@ecc3.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Jędrzejczyk
+DTEND:20251114T170000Z
+DTSTART:20251114T144500Z
+SUMMARY:Teoria rachunkowości (Przeniesienie zajęć)
+UID:d2bf2230-6ade-4bde-b270-cfbe35794a48@d2bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20251213T114500Z
+LOCATION:Paw.C sala F
+DTSTART:20251213T093000Z
+SUMMARY:Rachunkowość podatkowa (ćwiczenia)
+UID:dcea6758-42e8-43eb-9620-feec702b34dd@dcea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20251004T081500Z
+DTSTART:20251004T060000Z
+SUMMARY:Rachunkowość podatkowa (wykład)
+UID:1a42cdb1-8b3f-4b7c-9288-addb32399bbe@1a42.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. dr hab. Dariusz Wędzki
-DTEND:20251003T184500Z
-DTSTART:20251003T163000Z
+DTEND:20251004T104500Z
+DTSTART:20251004T083000Z
 SUMMARY:Zaawansowana analiza sprawozdania finansowego (wykład)
-UID:c759083d-d33e-4366-be51-11f8e517694f@c759.org
+UID:733adb0b-5a01-4d66-80cf-5a412df8b992@733a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
+DTEND:20251018T133000Z
+DTSTART:20251018T111500Z
+SUMMARY:Zaawansowana rachunkowość zarządcza (wykład)
+UID:1d441e1c-e016-4bfe-bdd6-12cb04d56e65@1d44.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jerzy Kuchmacz
@@ -303,15 +279,15 @@ DTEND:20251212T194500Z
 LOCATION:Paw.F 515
 DTSTART:20251212T173000Z
 SUMMARY:Rachunkowość podatkowa (ćwiczenia)
-UID:25dad80d-3318-4d81-ba34-397d6a840589@25da.org
+UID:590bc4bf-0f77-4d04-8d13-6fd556e7e82d@590b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
-DTEND:20251025T184500Z
-LOCATION:link do zajęć
-DTSTART:20251025T163000Z
-SUMMARY:Zaawansowana rachunkowość zarządcza (wykład)
-UID:3ebe8bfa-263f-4356-b3e8-ec966188d8e1@3ebe.org
+DESCRIPTION:Instructor: prof. UEK dr Katarzyna Szymczyk-Madej
+DTEND:20251005T100000Z
+LOCATION:Platforma Moodle
+DTSTART:20251005T083000Z
+SUMMARY:Informatyka w rachunkowości (Ćwiczenia e-learningowe)
+UID:0a25d025-b9d4-41e8-82a3-253533e3eb6e@0a25.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jerzy Kuchmacz
@@ -319,13 +295,37 @@ DTEND:20260109T194500Z
 LOCATION:Paw.F 416
 DTSTART:20260109T173000Z
 SUMMARY:Rachunkowość podatkowa (ćwiczenia)
-UID:31fd69b8-4778-4e7f-b9c3-a540e16b8242@31fd.org
+UID:31b8cb65-3b9c-4f28-a051-0bde17d8e2b0@31b8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
-DTEND:20251018T133000Z
-DTSTART:20251018T111500Z
+DTEND:20251025T184500Z
+LOCATION:link do zajęć
+DTSTART:20251025T163000Z
 SUMMARY:Zaawansowana rachunkowość zarządcza (wykład)
-UID:ae1301f1-95fb-4151-8ec5-4d33a10120b9@ae13.org
+UID:5739a085-47dd-44aa-9cb4-cc778340bbb7@5739.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Katarzyna Szymczyk-Madej
+DTEND:20251212T170000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20251212T144500Z
+SUMMARY:Informatyka w rachunkowości (ćwiczenia)
+UID:e05c01e5-4c9e-4faa-a44b-0a190476bccd@e05c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Katarzyna Szymczyk-Madej
+DTEND:20251116T160000Z
+LOCATION:Platforma Moodle
+DTSTART:20251116T130000Z
+SUMMARY:Informatyka w rachunkowości (Ćwiczenia e-learningowe)
+UID:17c3b4ee-882e-4c7e-9ee8-fc340f51812d@17c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Dariusz Wędzki
+DTEND:20251003T184500Z
+DTSTART:20251003T163000Z
+SUMMARY:Zaawansowana analiza sprawozdania finansowego (wykład)
+UID:aeb5bd0c-0890-400c-9686-8520fa37b5b9@aeb5.org
 END:VEVENT
 END:VCALENDAR
