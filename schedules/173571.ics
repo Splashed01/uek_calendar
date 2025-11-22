@@ -2,35 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Przemysław Szopa
-DTEND:20260110T124500Z
-LOCATION:Paw.Ustronie lab.fiz.1
-DTSTART:20260110T103000Z
-SUMMARY:Fizyka (laboratorium)
-UID:91a2c50b-d98e-42ff-b7c1-ecf84fd7d535@91a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20251012T104500Z
-DTSTART:20251012T074500Z
-SUMMARY:Procesy i techniki produkcyjne (wykład)
-UID:b7f3235c-fc33-410b-b92c-1be3a59c0999@b7f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Katarzyna Szczecina
-DTEND:20251025T114500Z
-LOCATION:Paw.E sala G (KSB)
-DTSTART:20251025T093000Z
-SUMMARY:Logistyka magazynowania (konwersatorium)
-UID:cb8653a5-8a0f-4ee3-b56a-2d0a3b75d213@cb86.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
-DTEND:20260117T100000Z
-LOCATION:Paw.U sala M
-DTSTART:20260117T074500Z
-SUMMARY:Towaroznawstwo (konwersatorium)
-UID:7671ddb1-37ba-4d86-b345-a6b7c4dfe39e@7671.org
+DESCRIPTION:Instructor: dr Halina Łyszczarz
+DTEND:20251214T100000Z
+LOCATION:Paw.U sala N
+DTSTART:20251214T074500Z
+SUMMARY:Transport i spedycja (konwersatorium)
+UID:8130c0a9-f2b4-44f4-952d-f0d2337b89e7@8130.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Fryderyk Falniowski
@@ -38,111 +15,15 @@ DTEND:20260123T170000Z
 LOCATION:Paw.S sala 6
 DTSTART:20260123T144500Z
 SUMMARY:Matematyka w naukach o zarządzaniu - powtarzanie przedmiotu (ćwiczenia)
-UID:b0aeeda1-c211-4411-a413-f0788da714f0@b0ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Katarzyna Szczecina
-DTEND:20251122T120000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251122T111500Z
-SUMMARY:Logistyka magazynowania (rezerwacja)
-UID:515acbbf-804b-4beb-9df5-2fb7c0adc8a3@515a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Teczke
-DTEND:20260111T100000Z
-LOCATION:Bibl. 443
-DTSTART:20260111T074500Z
-SUMMARY:Zarządzanie informacjami w logistyce (konwersatorium)
-UID:63314c6e-4b3e-475f-9cd1-10258574be64@6331.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Marcin Paprocki
-DTEND:20251011T090000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251011T064500Z
-SUMMARY:Grafika inżynierska (konwersatorium do wyboru)
-UID:ce5f1b71-3f95-4873-a161-dadd494cb8fc@ce5f.org
+UID:d9d4d919-27d2-439c-8b77-e24ec52d3c83@d9d4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Maciej Sarnek
-DTEND:20251129T161500Z
+DTEND:20251213T184500Z
 LOCATION:Paw.Ustronie lab.fiz.2
-DTSTART:20251129T140000Z
+DTSTART:20251213T163000Z
 SUMMARY:Fizyka (laboratorium)
-UID:a93ffea0-9d22-419e-b34f-ee1c19077f9e@a93f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20251213T124500Z
-LOCATION:Paw.S sala 11
-DTSTART:20251213T103000Z
-SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
-UID:4a27bc42-6f0e-4710-b331-156482ba161c@4a27.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20251116T114500Z
-LOCATION:link do zajęć
-DTSTART:20251116T084500Z
-SUMMARY:Procesy i techniki produkcyjne (wykład)
-UID:e9b906dc-8f84-4c33-9de1-ca36ee100726@e9b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Halina Łyszczarz
-DTEND:20260117T184500Z
-LOCATION:Paw.U sala N
-DTSTART:20260117T163000Z
-SUMMARY:Transport i spedycja (konwersatorium)
-UID:577e0415-01b3-4432-80e2-9d6487117a1f@577e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Przemysław Szopa
-DTEND:20251122T100000Z
-LOCATION:Paw.Ustronie lab.fiz.1
-DTSTART:20251122T074500Z
-SUMMARY:Fizyka (laboratorium)
-UID:0a010bd3-32db-4ded-9cb8-c5a717a576ae@0a01.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Katarzyna Szczecina
-DTEND:20251011T114500Z
-LOCATION:Paw.E sala G (KSB)
-DTSTART:20251011T093000Z
-SUMMARY:Logistyka magazynowania (konwersatorium)
-UID:e77bdeb9-b617-4ed7-9e14-cb124c6e69e8@e77b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Halina Łyszczarz
-DTEND:20251011T174500Z
-LOCATION:Paw.U sala O
-DTSTART:20251011T153000Z
-SUMMARY:Transport i spedycja (konwersatorium)
-UID:9ebb141e-b75a-4353-8d45-a69bc43bab90@9ebb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Fryderyk Falniowski
-DTEND:20251207T104500Z
-LOCATION:Paw.S sala 6
-DTSTART:20251207T074500Z
-SUMMARY:Matematyka w naukach o zarządzaniu - powtarzanie przedmiotu (ćwiczenia)
-UID:bfb6a608-9617-40fc-874b-4c3676612f5e@bfb6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Marcin Paprocki
-DTEND:20251026T124500Z
-LOCATION:Paw.U sala O
-DTSTART:20251026T103000Z
-SUMMARY:Grafika inżynierska (konwersatorium do wyboru)
-UID:de9b6320-6750-4588-9be8-1da0b3993d1f@de9b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Teczke
-DTEND:20251025T151500Z
-LOCATION:Paw.E sala G (KSB)
-DTSTART:20251025T130000Z
-SUMMARY:Zarządzanie informacjami w logistyce (konwersatorium)
-UID:806a8c7a-0172-4132-ae1c-e65e06f7a9c5@806a.org
+UID:cba962c2-52bf-42a6-86db-7fb921e5d937@cba9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Marcin Paprocki
@@ -150,246 +31,7 @@ DTEND:20251129T101500Z
 LOCATION:Paw.U sala N
 DTSTART:20251129T093000Z
 SUMMARY:Grafika inżynierska (konwersatorium do wyboru)
-UID:199d0ff8-9e7f-4cc8-9e5a-0a2c453727f8@199d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
-DTEND:20251214T124500Z
-LOCATION:Paw.U sala M
-DTSTART:20251214T103000Z
-SUMMARY:Towaroznawstwo (konwersatorium)
-UID:c78bdc96-9ab2-4439-88c9-d2b2118db4c4@c78b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Katarzyna Szczecina
-DTEND:20251129T184500Z
-LOCATION:Paw.E sala G (KSB)
-DTSTART:20251129T163000Z
-SUMMARY:Logistyka magazynowania (konwersatorium)
-UID:8d1c3af4-f3d8-4b2d-910b-6aded02c3e3e@8d1c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Sarnek
-DTEND:20260110T124500Z
-LOCATION:Paw.Ustronie lab.fiz.2
-DTSTART:20260110T103000Z
-SUMMARY:Fizyka (laboratorium)
-UID:8d58b56a-6f01-45f5-97b8-438f3430dc3d@8d58.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Teczke
-DTEND:20251122T161500Z
-LOCATION:Paw.E sala G (KSB)
-DTSTART:20251122T140000Z
-SUMMARY:Zarządzanie informacjami w logistyce (konwersatorium)
-UID:48076b38-17ca-434f-a28c-4863de3a5628@4807.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Katarzyna Szczecina
-DTEND:20251018T090000Z
-LOCATION:Paw.E sala G (KSB)
-DTSTART:20251018T064500Z
-SUMMARY:Logistyka magazynowania (konwersatorium)
-UID:a2b5e3b4-2f2c-440c-9bf4-bd8e71e2c3f1@a2b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
-DTEND:20251206T100000Z
-LOCATION:Paw.U sala M
-DTSTART:20251206T074500Z
-SUMMARY:Towaroznawstwo (konwersatorium)
-UID:f98be9d4-7922-4cd6-8b98-30dfb2cfd6b0@f98b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20251115T124500Z
-LOCATION:Paw.S sala 11
-DTSTART:20251115T103000Z
-SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
-UID:fba576b6-5f69-4b35-882e-da852e649025@fba5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20260110T184500Z
-LOCATION:Paw.S sala 11
-DTSTART:20260110T163000Z
-SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
-UID:cd229c16-9bfe-4f56-9842-40e3de768f9a@cd22.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Przemysław Szopa
-DTEND:20251213T184500Z
-LOCATION:Paw.Ustronie lab.fiz.1
-DTSTART:20251213T163000Z
-SUMMARY:Fizyka (laboratorium)
-UID:e1cd9f48-18e4-4463-b713-9a7679ddc13b@e1cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Fryderyk Falniowski
-DTEND:20260111T170000Z
-LOCATION:Paw.F 111
-DTSTART:20260111T140000Z
-SUMMARY:Matematyka w naukach o zarządzaniu - powtarzanie przedmiotu (ćwiczenia)
-UID:974850b4-c880-418c-9f8c-26e12da28d90@9748.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Marcin Paprocki
-DTEND:20251129T091500Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251129T074500Z
-SUMMARY:Grafika inżynierska (konwersatorium do wyboru)
-UID:e1b85879-4164-44cd-a1ae-12f6799f33e3@e1b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20251129T124500Z
-LOCATION:Paw.S sala 11
-DTSTART:20251129T103000Z
-SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
-UID:b021b22b-4ea7-4916-9961-8770cb0fa32a@b021.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Halina Łyszczarz
-DTEND:20251018T174500Z
-LOCATION:Paw.U sala O
-DTSTART:20251018T153000Z
-SUMMARY:Transport i spedycja (konwersatorium)
-UID:69416e05-9e79-44a0-a3ac-dc68ea5fd4de@6941.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Katarzyna Szczecina
-DTEND:20251116T170000Z
-LOCATION:link do zajęć
-DTSTART:20251116T144500Z
-SUMMARY:Logistyka magazynowania (konwersatorium zdalne)
-UID:19fa3e84-2fe5-498f-a170-0e994f921aaf@19fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Teczke
-DTEND:20251206T161500Z
-LOCATION:Paw.E sala G (KSB)
-DTSTART:20251206T140000Z
-SUMMARY:Zarządzanie informacjami w logistyce (konwersatorium)
-UID:96d086e0-7719-40ba-94f1-cc954a9a7eeb@96d0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Tomasz Schroeder
-DTEND:20260111T124500Z
-LOCATION:Paw.E sala G (KSB)
-DTSTART:20260111T103000Z
-SUMMARY:Rynek usług logistycznych (konwersatorium)
-UID:f1ca7763-059e-47da-9f0f-3d46e701c0eb@f1ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Halina Łyszczarz
-DTEND:20251206T184500Z
-LOCATION:Paw.U sala M
-DTSTART:20251206T163000Z
-SUMMARY:Transport i spedycja (konwersatorium)
-UID:156c5238-570e-40fa-b97a-b300a849052b@156c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Fryderyk Falniowski
-DTEND:20251219T184500Z
-LOCATION:link do zajęć
-DTSTART:20251219T154500Z
-SUMMARY:Matematyka w naukach o zarządzaniu - powtarzanie przedmiotu (wykład)
-UID:84f82c6d-4764-46cd-b02e-4cc7d7adb844@84f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251217T134500Z
-DTSTART:20251217T121500Z
-SUMMARY: (rezerwacja)
-UID:c21088dd-e2df-4547-9a39-8982bd499c3c@c210.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Sarnek
-DTEND:20260117T124500Z
-LOCATION:Paw.Ustronie lab.fiz.2
-DTSTART:20260117T103000Z
-SUMMARY:Fizyka (laboratorium)
-UID:3be1bcd3-a3ec-4b46-9a19-ce9177d2f373@3be1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Katarzyna Szczecina
-DTEND:20251213T100000Z
-LOCATION:Paw.E sala G (KSB)
-DTSTART:20251213T074500Z
-SUMMARY:Logistyka magazynowania (konwersatorium)
-UID:3a3002e2-7763-48f9-956d-653ee4ce1cab@3a30.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Fryderyk Falniowski
-DTEND:20251026T180000Z
-LOCATION:link do zajęć
-DTSTART:20251026T154500Z
-SUMMARY:Matematyka w naukach o zarządzaniu - powtarzanie przedmiotu (wykład)
-UID:cfe04502-e38a-43b6-a173-d306596bafdf@cfe0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
-DTEND:20260124T100000Z
-LOCATION:Paw.U sala O
-DTSTART:20260124T074500Z
-SUMMARY:Towaroznawstwo (konwersatorium)
-UID:fbbb2d7a-7982-46d4-928e-02ec6326f48f@fbbb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
-DTEND:20251122T184500Z
-LOCATION:Paw.U sala M
-DTSTART:20251122T163000Z
-SUMMARY:Towaroznawstwo (konwersatorium)
-UID:d49cd2fc-2659-4ac2-b859-0b683b92fa19@d49c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20251123T110000Z
-LOCATION:link do zajęć
-DTSTART:20251123T084500Z
-SUMMARY:Procesy i techniki produkcyjne (wykład)
-UID:d9485c58-1b45-4d7a-a7be-20c0485a16c6@d948.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Halina Łyszczarz
-DTEND:20251214T100000Z
-LOCATION:Paw.U sala N
-DTSTART:20251214T074500Z
-SUMMARY:Transport i spedycja (konwersatorium)
-UID:787dba06-4544-421c-ada7-0542f14cfdfb@787d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Marcin Paprocki
-DTEND:20260110T100000Z
-LOCATION:Paw.U sala O
-DTSTART:20260110T074500Z
-SUMMARY:Grafika inżynierska (konwersatorium do wyboru)
-UID:1d758bad-7025-4b4b-adcb-9571a3280de6@1d75.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Teczke
-DTEND:20251011T151500Z
-LOCATION:Paw.E sala G (KSB)
-DTSTART:20251011T130000Z
-SUMMARY:Zarządzanie informacjami w logistyce (konwersatorium)
-UID:9fa643da-5b68-4309-8f7a-2b95b813beea@9fa6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Sarnek
-DTEND:20251122T100000Z
-LOCATION:Paw.Ustronie lab.fiz.2
-DTSTART:20251122T074500Z
-SUMMARY:Fizyka (laboratorium)
-UID:48d6775d-1cc9-4967-9b44-106bf73e033c@48d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Przemysław Szopa
-DTEND:20251129T161500Z
-LOCATION:Paw.Ustronie lab.fiz.1
-DTSTART:20251129T140000Z
-SUMMARY:Fizyka (laboratorium)
-UID:50aa8c37-b83c-4bee-8935-4e5521fce280@50aa.org
+UID:d320736f-f9c2-4fd5-9847-db5852fd0a8d@d320.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Fryderyk Falniowski
@@ -397,117 +39,15 @@ DTEND:20251130T170000Z
 LOCATION:link do zajęć
 DTSTART:20251130T140000Z
 SUMMARY:Matematyka w naukach o zarządzaniu - powtarzanie przedmiotu (wykład)
-UID:7e9f3362-a2ee-4ffc-a06c-03eae352a8d0@7e9f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20251018T114500Z
-LOCATION:Paw.S sala 11
-DTSTART:20251018T093000Z
-SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
-UID:428fa639-fdf7-489d-bba7-1b72396d0c43@428f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Sarnek
-DTEND:20260124T124500Z
-LOCATION:Paw.Ustronie lab.fiz.2
-DTSTART:20260124T103000Z
-SUMMARY:Fizyka (laboratorium)
-UID:2fffdd23-33af-4ac3-a65d-849749042c21@2fff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Katarzyna Szczecina
-DTEND:20251115T100000Z
-LOCATION:Paw.E sala G (KSB)
-DTSTART:20251115T074500Z
-SUMMARY:Logistyka magazynowania (konwersatorium)
-UID:e250ca4c-e203-4bc9-a8b7-f3cd995a1abb@e250.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251016T123000Z
-DTSTART:20251016T093000Z
-SUMMARY: (rezerwacja)
-UID:80814480-1659-4d10-ba50-663dba5bd067@8081.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Sarnek
-DTEND:20251213T184500Z
-LOCATION:Paw.Ustronie lab.fiz.2
-DTSTART:20251213T163000Z
-SUMMARY:Fizyka (laboratorium)
-UID:a1ddb9c9-4e88-4298-b8b6-1993eba9e60a@a1dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Katarzyna Szczecina
-DTEND:20260110T161500Z
-LOCATION:Paw.E sala G (KSB)
-DTSTART:20260110T140000Z
-SUMMARY:Logistyka magazynowania (konwersatorium)
-UID:70d3e304-742a-4c12-82c1-aa36048f3af3@70d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Katarzyna Szczecina
-DTEND:20251206T124500Z
-DTSTART:20251206T103000Z
-SUMMARY:Logistyka magazynowania (Przeniesienie zajęć)
-UID:bc897727-77e2-4c6b-b495-37258dba0d8d@bc89.org
+UID:90965c63-4cd6-4e89-ba8d-c00874d93498@9096.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Tomasz Schroeder
-DTEND:20260124T151500Z
+DTEND:20260111T124500Z
 LOCATION:Paw.E sala G (KSB)
-DTSTART:20260124T130000Z
+DTSTART:20260111T103000Z
 SUMMARY:Rynek usług logistycznych (konwersatorium)
-UID:42b8021d-acf9-4467-9bbd-c3ff086bf52e@42b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20251130T110000Z
-LOCATION:link do zajęć
-DTSTART:20251130T084500Z
-SUMMARY:Procesy i techniki produkcyjne (wykład)
-UID:13eb3b96-3d77-4633-be0f-4fe7424870cf@13eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Teczke
-DTEND:20260117T161500Z
-LOCATION:Bibl. 443
-DTSTART:20260117T140000Z
-SUMMARY:Zarządzanie informacjami w logistyce (konwersatorium)
-UID:83899121-e00c-4445-ad7d-2ebc0badf226@8389.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Halina Łyszczarz
-DTEND:20251115T161500Z
-LOCATION:Paw.U sala M
-DTSTART:20251115T140000Z
-SUMMARY:Transport i spedycja (konwersatorium)
-UID:68e3afcd-30dc-4a2b-9cba-d05443c841a6@68e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Fryderyk Falniowski
-DTEND:20260118T104500Z
-LOCATION:link do zajęć
-DTSTART:20260118T074500Z
-SUMMARY:Matematyka w naukach o zarządzaniu - powtarzanie przedmiotu (wykład)
-UID:e8866d7f-1caa-46dd-9c9e-adf98535e615@e886.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Marcin Paprocki
-DTEND:20251115T184500Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251115T163000Z
-SUMMARY:Grafika inżynierska (konwersatorium do wyboru)
-UID:67d710ab-a7e5-4bb5-bdfb-58828f1d46ec@67d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Katarzyna Szczecina
-DTEND:20251122T124500Z
-LOCATION:Paw.E sala G (KSB)
-DTSTART:20251122T103000Z
-SUMMARY:Logistyka magazynowania (konwersatorium)
-UID:1da15f6e-d682-4519-bc59-38aa85c4b1c8@1da1.org
+UID:8c38b0f9-4e60-46ae-904a-b00e03fd5672@8c38.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Fryderyk Falniowski
@@ -515,38 +55,23 @@ DTEND:20251214T170000Z
 LOCATION:Paw.S sala 6
 DTSTART:20251214T140000Z
 SUMMARY:Matematyka w naukach o zarządzaniu - powtarzanie przedmiotu (ćwiczenia)
-UID:a3dfc3a8-7f55-4876-a921-b8755f2dec05@a3df.org
+UID:5e553f92-6643-4d81-83a5-888d2e2e7a9b@5e55.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
-DTEND:20251121T170000Z
-LOCATION:Paw.F 415
-DTSTART:20251121T144500Z
-SUMMARY:Towaroznawstwo (konwersatorium)
-UID:51063182-bd25-435c-b2a4-80f1f01a5e76@5106.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20251019T104500Z
-DTSTART:20251019T074500Z
-SUMMARY:Procesy i techniki produkcyjne (wykład)
-UID:9176d78b-9b1d-4d89-9f23-ab5fcee1abf2@9176.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Fryderyk Falniowski
-DTEND:20251123T143000Z
+DESCRIPTION:Instructor: mgr inż. Katarzyna Szczecina
+DTEND:20251116T170000Z
 LOCATION:link do zajęć
-DTSTART:20251123T121500Z
-SUMMARY:Matematyka w naukach o zarządzaniu - powtarzanie przedmiotu (wykład)
-UID:0da493f7-0a81-4953-8b9d-d979da73a8d8@0da4.org
+DTSTART:20251116T144500Z
+SUMMARY:Logistyka magazynowania (konwersatorium zdalne)
+UID:612996ff-fda9-46a0-ba5f-358bfadcfab4@6129.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Tomasz Schroeder
-DTEND:20251205T170000Z
+DESCRIPTION:Instructor: mgr inż. Katarzyna Szczecina
+DTEND:20251213T100000Z
 LOCATION:Paw.E sala G (KSB)
-DTSTART:20251205T144500Z
-SUMMARY:Rynek usług logistycznych (konwersatorium)
-UID:06997cff-5b3a-498f-9603-c371511a45d7@0699.org
+DTSTART:20251213T074500Z
+SUMMARY:Logistyka magazynowania (konwersatorium)
+UID:62035107-6628-4be8-8dff-e3de23dae599@6203.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Marcin Paprocki
@@ -554,46 +79,127 @@ DTEND:20251213T161500Z
 LOCATION:Paw.U sala L(prac.rys. tech.)
 DTSTART:20251213T144500Z
 SUMMARY:Grafika inżynierska (konwersatorium do wyboru)
-UID:f17272a2-a98e-4be7-ab08-e5c5358be731@f172.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Przemysław Szopa
-DTEND:20260117T124500Z
-LOCATION:Paw.Ustronie lab.fiz.1
-DTSTART:20260117T103000Z
-SUMMARY:Fizyka (laboratorium)
-UID:a909996f-1aa3-4b95-980c-4de3673b3f4c@a909.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Przemysław Szopa
-DTEND:20260124T124500Z
-LOCATION:Paw.Ustronie lab.fiz.1
-DTSTART:20260124T103000Z
-SUMMARY:Fizyka (laboratorium)
-UID:5f06cee3-679c-4ff6-a3de-7b66602c9d0b@5f06.org
+UID:bfa7d130-a3fa-464d-8141-96dd6fbaa424@bfa7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Marcin Paprocki
-DTEND:20251213T144500Z
+DTEND:20260110T100000Z
 LOCATION:Paw.U sala O
-DTSTART:20251213T140000Z
+DTSTART:20260110T074500Z
 SUMMARY:Grafika inżynierska (konwersatorium do wyboru)
-UID:e58a5659-fac9-4971-9318-330013bf8053@e58a.org
+UID:0591b73f-5345-4f2e-8d9f-4c450b8fba86@0591.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Fryderyk Falniowski
-DTEND:20251128T170000Z
-LOCATION:Paw.S sala 6
-DTSTART:20251128T144500Z
-SUMMARY:Matematyka w naukach o zarządzaniu - powtarzanie przedmiotu (ćwiczenia)
-UID:d011f956-6854-4ad3-b877-fbce9e19c1d2@d011.org
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20251213T124500Z
+LOCATION:Paw.S sala 11
+DTSTART:20251213T103000Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:ad42a6c9-063b-4c47-ba28-05f2c759cc17@ad42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Przemysław Szopa
+DTEND:20260110T124500Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20260110T103000Z
+SUMMARY:Fizyka (laboratorium)
+UID:720b5aeb-6a9b-4a9c-b41a-8c0933d9426d@720b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Łyszczarz
+DTEND:20251115T161500Z
+LOCATION:Paw.U sala M
+DTSTART:20251115T140000Z
+SUMMARY:Transport i spedycja (konwersatorium)
+UID:aa36a531-a2c4-4222-a7b7-6b679d2e200a@aa36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Katarzyna Szczecina
+DTEND:20251018T090000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20251018T064500Z
+SUMMARY:Logistyka magazynowania (konwersatorium)
+UID:2f67be6c-ced7-41b7-b47f-8bb458d71d2c@2f67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Katarzyna Szczecina
+DTEND:20251115T100000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20251115T074500Z
+SUMMARY:Logistyka magazynowania (konwersatorium)
+UID:eb4d3aaf-f45c-4fc5-b100-3aa3fdce6cf9@eb4d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
-DTEND:20251025T090000Z
-DTSTART:20251025T064500Z
-SUMMARY:Towaroznawstwo (Przeniesienie zajęć)
-UID:e1933305-f524-4554-a7be-aa3f4ad58b9c@e193.org
+DTEND:20251121T170000Z
+LOCATION:Paw.F 415
+DTSTART:20251121T144500Z
+SUMMARY:Towaroznawstwo (konwersatorium)
+UID:75d4cb48-013f-4657-b0ac-fc543c766296@75d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tomasz Schroeder
+DTEND:20251205T170000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20251205T144500Z
+SUMMARY:Rynek usług logistycznych (konwersatorium)
+UID:5984ae20-9617-4800-bc00-66c4a6480ee2@5984.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
+DTEND:20260124T100000Z
+LOCATION:Paw.U sala O
+DTSTART:20260124T074500Z
+SUMMARY:Towaroznawstwo (konwersatorium)
+UID:9d505684-ecb0-48db-8068-ba92add76c22@9d50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Katarzyna Szczecina
+DTEND:20251122T130000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20251122T121500Z
+SUMMARY:Logistyka magazynowania (konwersatorium)
+UID:67428dc5-1723-452e-822f-bab8e524916c@6742.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Przemysław Szopa
+DTEND:20251213T184500Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20251213T163000Z
+SUMMARY:Fizyka (laboratorium)
+UID:6a2147e4-d9f0-4592-b7d9-c8b466f1bb3f@6a21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Fryderyk Falniowski
+DTEND:20260111T170000Z
+LOCATION:Paw.F 111
+DTSTART:20260111T140000Z
+SUMMARY:Matematyka w naukach o zarządzaniu - powtarzanie przedmiotu (ćwiczenia)
+UID:a1a79627-4e77-4ce6-a9a2-465872f7eb2f@a1a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Przemysław Szopa
+DTEND:20251129T161500Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20251129T140000Z
+SUMMARY:Fizyka (laboratorium)
+UID:04eddc5b-01b4-482f-be12-a7e733259738@04ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Łyszczarz
+DTEND:20260117T184500Z
+LOCATION:Paw.U sala N
+DTSTART:20260117T163000Z
+SUMMARY:Transport i spedycja (konwersatorium)
+UID:9b2484d2-154a-4335-a850-ece970c03ef1@9b24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tomasz Schroeder
+DTEND:20260124T151500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20260124T130000Z
+SUMMARY:Rynek usług logistycznych (konwersatorium)
+UID:6d59c7c8-52a9-49a5-b67c-03ae110804a8@6d59.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Artur Jachimowski
@@ -601,6 +207,408 @@ DTEND:20251025T174500Z
 LOCATION:Paw.S sala 11
 DTSTART:20251025T153000Z
 SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
-UID:9107eb50-1f5c-4751-8fbd-76e4bb8020be@9107.org
+UID:e5c7ecb1-31b3-4816-88aa-f98a741c31b9@e5c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20251115T124500Z
+LOCATION:Paw.S sala 11
+DTSTART:20251115T103000Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:7aa821f5-1d7d-4f5e-b71a-ae074ca0868c@7aa8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Fryderyk Falniowski
+DTEND:20251219T184500Z
+LOCATION:link do zajęć
+DTSTART:20251219T154500Z
+SUMMARY:Matematyka w naukach o zarządzaniu - powtarzanie przedmiotu (wykład)
+UID:7751ba85-ad59-40cc-887a-2af20bb02830@7751.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20251012T104500Z
+DTSTART:20251012T074500Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:0adbedb5-5e4e-4a38-b513-c6c30344442c@0adb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Fryderyk Falniowski
+DTEND:20251026T180000Z
+LOCATION:link do zajęć
+DTSTART:20251026T154500Z
+SUMMARY:Matematyka w naukach o zarządzaniu - powtarzanie przedmiotu (wykład)
+UID:172220bc-a1fd-4037-adc6-f921a9bdbf0f@1722.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Fryderyk Falniowski
+DTEND:20251207T104500Z
+LOCATION:Paw.S sala 6
+DTSTART:20251207T074500Z
+SUMMARY:Matematyka w naukach o zarządzaniu - powtarzanie przedmiotu (ćwiczenia)
+UID:2c70166c-20d3-4e3c-a1cb-7dac92ab4b77@2c70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Katarzyna Szczecina
+DTEND:20251122T111500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20251122T103000Z
+SUMMARY:Logistyka magazynowania (konwersatorium)
+UID:bb64c7bc-39ea-4ac2-855c-14a19063e3e0@bb64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Sarnek
+DTEND:20251122T100000Z
+LOCATION:Paw.Ustronie lab.fiz.2
+DTSTART:20251122T074500Z
+SUMMARY:Fizyka (laboratorium)
+UID:d3e0500b-955b-4636-9cb8-6d5f45f1bb4d@d3e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20251129T124500Z
+LOCATION:Paw.S sala 11
+DTSTART:20251129T103000Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:cc391154-4739-4c67-af48-9558a830af8e@cc39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Łyszczarz
+DTEND:20251011T174500Z
+LOCATION:Paw.U sala O
+DTSTART:20251011T153000Z
+SUMMARY:Transport i spedycja (konwersatorium)
+UID:f43e25a5-96cb-42c5-8644-3267ce897f60@f43e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Przemysław Szopa
+DTEND:20251122T100000Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20251122T074500Z
+SUMMARY:Fizyka (laboratorium)
+UID:298c6c54-c761-4106-8095-1d8c088c4bf3@298c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20260110T184500Z
+LOCATION:Paw.S sala 11
+DTSTART:20260110T163000Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:c568d35e-5d59-4230-af3c-36aa6268e11b@c568.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Katarzyna Szczecina
+DTEND:20251206T124500Z
+DTSTART:20251206T103000Z
+SUMMARY:Logistyka magazynowania (Przeniesienie zajęć)
+UID:3758c124-c41d-48ef-8d58-66d3ca405661@3758.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Katarzyna Szczecina
+DTEND:20251122T120000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251122T111500Z
+SUMMARY:Logistyka magazynowania (konwersatorium)
+UID:526f291d-e890-4b05-8bbe-93a543201530@526f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Sarnek
+DTEND:20251129T161500Z
+LOCATION:Paw.Ustronie lab.fiz.2
+DTSTART:20251129T140000Z
+SUMMARY:Fizyka (laboratorium)
+UID:a46e0c9b-9513-48cc-9c72-d6eb50ecb2a5@a46e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
+DTEND:20251214T124500Z
+LOCATION:Paw.U sala M
+DTSTART:20251214T103000Z
+SUMMARY:Towaroznawstwo (konwersatorium)
+UID:f8cc7972-e1a6-43f2-bc5c-d047ee054207@f8cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Sarnek
+DTEND:20260124T124500Z
+LOCATION:Paw.Ustronie lab.fiz.2
+DTSTART:20260124T103000Z
+SUMMARY:Fizyka (laboratorium)
+UID:1076b541-274b-45a0-804e-bd03594647e6@1076.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20251213T144500Z
+LOCATION:Paw.U sala O
+DTSTART:20251213T140000Z
+SUMMARY:Grafika inżynierska (konwersatorium do wyboru)
+UID:d52db73c-ea0a-45e2-9b4b-34f980906a62@d52d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Teczke
+DTEND:20251206T161500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20251206T140000Z
+SUMMARY:Zarządzanie informacjami w logistyce (konwersatorium)
+UID:c338716f-e013-4ab8-a1f3-f80fe71acddb@c338.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20251019T104500Z
+DTSTART:20251019T074500Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:759208e6-e84d-49f8-b103-087777ee1057@7592.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20251116T114500Z
+LOCATION:link do zajęć
+DTSTART:20251116T084500Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:2b813a09-5a16-474b-aceb-00165e16c18c@2b81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Teczke
+DTEND:20260111T100000Z
+LOCATION:Bibl. 443
+DTSTART:20260111T074500Z
+SUMMARY:Zarządzanie informacjami w logistyce (konwersatorium)
+UID:58077e96-eab6-475b-8b8a-d23450e0a774@5807.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Przemysław Szopa
+DTEND:20260124T124500Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20260124T103000Z
+SUMMARY:Fizyka (laboratorium)
+UID:bd8c03e1-44ec-4ad7-bade-f8f913db2809@bd8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Teczke
+DTEND:20251011T151500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20251011T130000Z
+SUMMARY:Zarządzanie informacjami w logistyce (konwersatorium)
+UID:6f46d528-caae-4f37-857a-16147eaa6b72@6f46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Teczke
+DTEND:20251122T161500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20251122T140000Z
+SUMMARY:Zarządzanie informacjami w logistyce (konwersatorium)
+UID:a216c7c5-5f1a-49c3-b1e5-1d403fe6ab71@a216.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20251011T090000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20251011T064500Z
+SUMMARY:Grafika inżynierska (konwersatorium do wyboru)
+UID:beaafe2f-6186-4e5a-b43f-47bf792b88b2@beaa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Katarzyna Szczecina
+DTEND:20251129T184500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20251129T163000Z
+SUMMARY:Logistyka magazynowania (konwersatorium)
+UID:96d30116-21da-44b5-b327-8f56dcf2f5ad@96d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Łyszczarz
+DTEND:20251018T174500Z
+LOCATION:Paw.U sala O
+DTSTART:20251018T153000Z
+SUMMARY:Transport i spedycja (konwersatorium)
+UID:5df57e45-7b5c-482f-87cd-1a1d979c9151@5df5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Łyszczarz
+DTEND:20251206T184500Z
+LOCATION:Paw.U sala M
+DTSTART:20251206T163000Z
+SUMMARY:Transport i spedycja (konwersatorium)
+UID:3bd5fd08-3c73-48dc-a0f8-285c00db820b@3bd5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
+DTEND:20251122T184500Z
+LOCATION:Paw.U sala M
+DTSTART:20251122T163000Z
+SUMMARY:Towaroznawstwo (konwersatorium)
+UID:e84d9b75-7b83-4055-9c72-051617472f97@e84d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251217T134500Z
+DTSTART:20251217T121500Z
+SUMMARY: (rezerwacja)
+UID:0fdf1339-f93b-4659-a30e-f4434a6c660d@0fdf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
+DTEND:20260117T100000Z
+LOCATION:Paw.U sala M
+DTSTART:20260117T074500Z
+SUMMARY:Towaroznawstwo (konwersatorium)
+UID:4d5558d5-a9b0-4e87-bac0-eb518b536ece@4d55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20251123T110000Z
+LOCATION:link do zajęć
+DTSTART:20251123T084500Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:093ca6c5-59b3-4f62-b52b-ebf1208c2817@093c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Przemysław Szopa
+DTEND:20260117T124500Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20260117T103000Z
+SUMMARY:Fizyka (laboratorium)
+UID:bbed31d7-141d-431c-81b2-43003a97c118@bbed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Fryderyk Falniowski
+DTEND:20251128T170000Z
+LOCATION:Paw.S sala 6
+DTSTART:20251128T144500Z
+SUMMARY:Matematyka w naukach o zarządzaniu - powtarzanie przedmiotu (ćwiczenia)
+UID:7393db88-34e0-456e-ab0d-22104d62f506@7393.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20251026T124500Z
+LOCATION:Paw.U sala O
+DTSTART:20251026T103000Z
+SUMMARY:Grafika inżynierska (konwersatorium do wyboru)
+UID:79653153-5fca-4942-9f0a-0707cf7ea9f6@7965.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20251129T091500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20251129T074500Z
+SUMMARY:Grafika inżynierska (konwersatorium do wyboru)
+UID:64269b1b-089c-4f88-8962-05d41ea26acc@6426.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Fryderyk Falniowski
+DTEND:20251123T143000Z
+LOCATION:link do zajęć
+DTSTART:20251123T121500Z
+SUMMARY:Matematyka w naukach o zarządzaniu - powtarzanie przedmiotu (wykład)
+UID:c4a9692c-51dc-4590-b585-c692b3d8b2ed@c4a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Teczke
+DTEND:20260117T161500Z
+LOCATION:Bibl. 443
+DTSTART:20260117T140000Z
+SUMMARY:Zarządzanie informacjami w logistyce (konwersatorium)
+UID:a7468b63-1a1f-49ee-939f-6d0e0f563255@a746.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
+DTEND:20251025T090000Z
+DTSTART:20251025T064500Z
+SUMMARY:Towaroznawstwo (Przeniesienie zajęć)
+UID:853f4e1b-a739-47d6-aaa7-eb8bf26c1230@853f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Katarzyna Szczecina
+DTEND:20260110T161500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20260110T140000Z
+SUMMARY:Logistyka magazynowania (konwersatorium)
+UID:c01af8d7-7651-4cc2-b588-21cd38b589dd@c01a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Katarzyna Szczecina
+DTEND:20251011T114500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20251011T093000Z
+SUMMARY:Logistyka magazynowania (konwersatorium)
+UID:2d5a539e-8db0-4a83-ad9e-aa18e4b8ab6d@2d5a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Katarzyna Szczecina
+DTEND:20251025T114500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20251025T093000Z
+SUMMARY:Logistyka magazynowania (konwersatorium)
+UID:52e9e236-19b8-4db5-ad18-b2a405270455@52e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251016T123000Z
+DTSTART:20251016T093000Z
+SUMMARY: (rezerwacja)
+UID:852b2e08-5ff7-4303-9572-f20b5e1a1d63@852b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20251130T110000Z
+LOCATION:link do zajęć
+DTSTART:20251130T084500Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:fdfb510a-921c-4a59-8d6f-6d3424999799@fdfb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
+DTEND:20251206T100000Z
+LOCATION:Paw.U sala M
+DTSTART:20251206T074500Z
+SUMMARY:Towaroznawstwo (konwersatorium)
+UID:3a2b8449-a066-4aa5-a12c-fb302a2d344e@3a2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Sarnek
+DTEND:20260117T124500Z
+LOCATION:Paw.Ustronie lab.fiz.2
+DTSTART:20260117T103000Z
+SUMMARY:Fizyka (laboratorium)
+UID:adec7e81-6a21-4f77-99a1-3ff8d9f06b78@adec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20251115T184500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20251115T163000Z
+SUMMARY:Grafika inżynierska (konwersatorium do wyboru)
+UID:57d57d7c-ecbe-40c6-9774-e29672347e8e@57d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Teczke
+DTEND:20251025T151500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20251025T130000Z
+SUMMARY:Zarządzanie informacjami w logistyce (konwersatorium)
+UID:26585fc6-1f2b-4ea1-a1b7-c15dd397fc56@2658.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Fryderyk Falniowski
+DTEND:20260118T104500Z
+LOCATION:link do zajęć
+DTSTART:20260118T074500Z
+SUMMARY:Matematyka w naukach o zarządzaniu - powtarzanie przedmiotu (wykład)
+UID:64dc499e-0a43-47e7-a579-1d3b3f39b3bf@64dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Sarnek
+DTEND:20260110T124500Z
+LOCATION:Paw.Ustronie lab.fiz.2
+DTSTART:20260110T103000Z
+SUMMARY:Fizyka (laboratorium)
+UID:d3a2dcf5-d365-40e1-957a-ea3f42a208fc@d3a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20251018T114500Z
+LOCATION:Paw.S sala 11
+DTSTART:20251018T093000Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:904ed4cd-3821-4acf-a143-bb325adf9c84@904e.org
 END:VEVENT
 END:VCALENDAR

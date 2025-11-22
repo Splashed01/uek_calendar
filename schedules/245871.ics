@@ -2,43 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Monika Turek-Radwan
-DTEND:20260121T153000Z
-LOCATION:Paw.C sala D
-DTSTART:20260121T144500Z
-SUMMARY:Kontrola i audyt wewnętrzny (ćwiczenia)
-UID:915a9e84-1609-44e9-8a47-bbded22af5e4@915a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
-DTEND:20251106T083000Z
-LOCATION:link do zajęć
-DTSTART:20251106T070000Z
-SUMMARY:Teoria i zasady rachunkowości (wykład)
-UID:79e35596-19bd-45b2-9696-72000389bfc4@79e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
-DTEND:20251027T171500Z
-DTSTART:20251027T163000Z
-SUMMARY:Rynki i inwestycje finansowe (Przeniesienie zajęć)
-UID:ebe8b6f0-1568-49f0-b74b-dc206ca72934@ebe8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Andrzejewski
-DTEND:20251021T104500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20251021T083000Z
-SUMMARY:Technologie informacyjne i systemy komputerowe wykorzystywane w rachun (laboratorium)
-UID:deaa3998-134d-471f-a463-9a8e190bbb2b@deaa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
-DTEND:20251027T163000Z
-LOCATION:link do zajęć
-DTSTART:20251027T154500Z
-SUMMARY:Rynki i inwestycje finansowe (wykład)
-UID:952fee7c-f47a-48de-a291-1ad22d83ca7c@952f.org
+DESCRIPTION:Instructor: dr Michał Thlon
+DTEND:20260120T153000Z
+LOCATION:Platforma Moodle
+DTSTART:20260120T140000Z
+SUMMARY:Ekonomia (Ćwiczenia e-learningowe)
+UID:0b4c633e-1ec1-4a10-8dc0-f838efddaedc@0b4c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Andrzejewski
@@ -46,233 +15,7 @@ DTEND:20251126T194500Z
 LOCATION:Paw.A 118 lab. Win10\, Office21
 DTSTART:20251126T173000Z
 SUMMARY: (egzamin)
-UID:5233c81e-8cb9-41f5-84fb-8f4eb52ef4e3@5233.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Izabela Emerling
-DTEND:20251008T073000Z
-DTSTART:20251008T060000Z
-SUMMARY:Teoria i zasady rachunkowości (Przeniesienie zajęć)
-UID:b76666c7-e1b6-4ae9-b592-04d288c18012@b766.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Thlon
-DTEND:20251027T153000Z
-LOCATION:Platforma Moodle
-DTSTART:20251027T140000Z
-SUMMARY:Ekonomia (wykład e-learningowy)
-UID:0c9f37ae-ef47-41b0-89da-71c49976d8a7@0c9f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
-DTEND:20251027T153000Z
-LOCATION:link do zajęć
-DTSTART:20251027T140000Z
-SUMMARY:Teoria i zasady rachunkowości (wykład)
-UID:d0ddef10-a062-4a5a-82c1-f6fbc22767e7@d0dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
-DTEND:20260119T170000Z
-DTSTART:20260119T144500Z
-SUMMARY:Rynki i inwestycje finansowe (Przeniesienie zajęć)
-UID:e3e4606f-f8cc-4d15-a9f3-34dcf73a2c6c@e3e4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Thlon
-DTEND:20260120T200000Z
-LOCATION:Paw.F 102
-DTSTART:20260120T191500Z
-SUMMARY:Ekonomia (ćwiczenia)
-UID:75e4f13b-42c9-4e01-8bcb-af86beb77c00@75e4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
-DTEND:20251203T083000Z
-LOCATION:Paw.F 515
-DTSTART:20251203T070000Z
-SUMMARY:Teoria i zasady rachunkowości (ćwiczenia)
-UID:19672107-ae37-4ed5-859c-7d5c2ac102ac@1967.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
-DTEND:20251120T083000Z
-LOCATION:link do zajęć
-DTSTART:20251120T070000Z
-SUMMARY:Teoria i zasady rachunkowości (wykład)
-UID:c0d596bc-34d7-4043-a16b-8eb8cd7cca68@c0d5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Radosław Ślusarczyk
-DTEND:20251204T101500Z
-LOCATION:link do zajęć
-DTSTART:20251204T084500Z
-SUMMARY:Polityka pieniężna (wykład do wyboru)
-UID:7bbc6435-d570-467d-97e9-8140b8ba88cd@7bbc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Monika Turek-Radwan
-DTEND:20251009T143000Z
-LOCATION:Paw.S sala 6
-DTSTART:20251009T130000Z
-SUMMARY:Kontrola i audyt wewnętrzny (ćwiczenia)
-UID:c7d52344-d6cf-4734-b620-c71dc162f0eb@c7d5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Radosław Ślusarczyk
-DTEND:20251030T101500Z
-LOCATION:link do zajęć
-DTSTART:20251030T084500Z
-SUMMARY:Polityka pieniężna (wykład do wyboru)
-UID:d0c317ca-c230-46fd-a8f9-45c7ea22e5db@d0c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Andrzejewski
-DTEND:20251028T114500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20251028T093000Z
-SUMMARY:Technologie informacyjne i systemy komputerowe wykorzystywane w rachun (laboratorium)
-UID:b56d1283-20ae-4da7-a4e5-14ff85e7af23@b56d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Radosław Ślusarczyk
-DTEND:20251023T091500Z
-LOCATION:link do zajęć
-DTSTART:20251023T074500Z
-SUMMARY:Polityka pieniężna (wykład do wyboru)
-UID:f3cca4e4-97e1-4ed5-8851-1eeef8fb5505@f3cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Monika Turek-Radwan
-DTEND:20251218T153000Z
-LOCATION:Paw.S sala 6
-DTSTART:20251218T140000Z
-SUMMARY:Kontrola i audyt wewnętrzny (ćwiczenia)
-UID:fe4d0f6e-3ced-4d6b-832d-2b77470ea19c@fe4d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Thlon
-DTEND:20251013T143000Z
-DTSTART:20251013T130000Z
-SUMMARY:Ekonomia (wykład)
-UID:e8dfed40-81f2-4572-aeb5-5c2b9feff9a5@e8df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Nita-Światłowska
-DTEND:20251105T194500Z
-LOCATION:link do zajęć
-DTSTART:20251105T181500Z
-SUMMARY:Prawo karne skarbowe (wykład do wyboru)
-UID:f668fa98-96c6-4e1b-9c62-30acdc0f650e@f668.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
-DTEND:20251119T083000Z
-LOCATION:Paw.F 515
-DTSTART:20251119T070000Z
-SUMMARY:Teoria i zasady rachunkowości (ćwiczenia)
-UID:b8a968f9-6f57-445e-baac-c49297d133fc@b8a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
-DTEND:20251127T083000Z
-LOCATION:link do zajęć
-DTSTART:20251127T070000Z
-SUMMARY:Teoria i zasady rachunkowości (wykład)
-UID:31c7dbf4-1df4-4724-92a1-5547b8c3d1a9@31c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Thlon
-DTEND:20251103T153000Z
-LOCATION:link do zajęć
-DTSTART:20251103T140000Z
-SUMMARY:Ekonomia (wykład)
-UID:97c61847-90a5-47f2-9d0a-1b5f9b17d48b@97c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
-DTEND:20251023T073000Z
-LOCATION:link do zajęć
-DTSTART:20251023T060000Z
-SUMMARY:Teoria i zasady rachunkowości (wykład)
-UID:9773026f-a3b9-49a9-a82e-ce9577dff25a@9773.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Izabela Emerling
-DTEND:20251013T091500Z
-DTSTART:20251013T074500Z
-SUMMARY:Teoria i zasady rachunkowości (Przeniesienie zajęć)
-UID:34090047-02d0-449a-b60c-e6480fe55b3a@3409.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Thlon
-DTEND:20251209T153000Z
-LOCATION:Paw.F 102
-DTSTART:20251209T140000Z
-SUMMARY:Ekonomia (ćwiczenia)
-UID:fed95c35-a56b-4790-8880-3e55e7ffb0b6@fed9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Andrzejewski
-DTEND:20251118T114500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20251118T093000Z
-SUMMARY:Technologie informacyjne i systemy komputerowe wykorzystywane w rachun (laboratorium)
-UID:1af68d0a-9436-48a0-9a70-83b7d1af1301@1af6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Radosław Ślusarczyk
-DTEND:20251106T101500Z
-LOCATION:link do zajęć
-DTSTART:20251106T084500Z
-SUMMARY:Polityka pieniężna (wykład do wyboru)
-UID:38ab35dc-1e2e-4f39-85a1-586ad9ceca3e@38ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
-DTEND:20251124T133000Z
-LOCATION:link do zajęć
-DTSTART:20251124T111500Z
-SUMMARY:Rynki i inwestycje finansowe (wykład)
-UID:d845aa78-b4a7-4764-8478-08553a674a35@d845.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Jan Tatar
-DTEND:20251210T101500Z
-LOCATION:Paw.F 515
-DTSTART:20251210T084500Z
-SUMMARY:Zaawansowane zagadnienia matematyki finansowej (konwersatorium)
-UID:6648ae93-0dad-4388-98c4-bc0182a7b974@6648.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
-DTEND:20251013T161500Z
-DTSTART:20251013T144500Z
-SUMMARY:Rynki i inwestycje finansowe (wykład)
-UID:e28d1b2f-fa46-40b6-8f16-a510191793d3@e28d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Thlon
-DTEND:20251020T143000Z
-DTSTART:20251020T130000Z
-SUMMARY:Ekonomia (wykład)
-UID:f895c04b-df1f-4947-b364-fee66238a89b@f895.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Grabowska-Kaczmarczyk
-DTEND:20251030T120000Z
-LOCATION:link do zajęć
-DTSTART:20251030T103000Z
-SUMMARY:Kontrola i audyt wewnętrzny (wykład)
-UID:7058b244-1546-48a5-b493-7e04c5bb6c83@7058.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Thlon
-DTEND:20251201T153000Z
-LOCATION:Platforma Moodle
-DTSTART:20251201T140000Z
-SUMMARY:Ekonomia (wykład e-learningowy)
-UID:fa4a7ace-e751-4a48-b31f-43967d715e3a@fa4a.org
+UID:20c9a445-085a-47fb-968a-98c59da98783@20c9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr Jan Tatar
@@ -280,196 +23,7 @@ DTEND:20260121T101500Z
 LOCATION:Paw.F 515
 DTSTART:20260121T084500Z
 SUMMARY:Zaawansowane zagadnienia matematyki finansowej (konwersatorium)
-UID:d43f649e-51c9-45e2-b756-893da5c244a9@d43f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Thlon
-DTEND:20251125T153000Z
-LOCATION:Platforma Moodle
-DTSTART:20251125T140000Z
-SUMMARY:Ekonomia (Ćwiczenia e-learningowe)
-UID:e23948b3-5473-4441-af35-3d1b374d7d59@e239.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Nita-Światłowska
-DTEND:20251210T190000Z
-LOCATION:link do zajęć
-DTSTART:20251210T181500Z
-SUMMARY:Prawo karne skarbowe (wykład do wyboru)
-UID:41058e9b-6cad-471f-a592-29805f345581@4105.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251016T123000Z
-DTSTART:20251016T093000Z
-SUMMARY: (rezerwacja)
-UID:6d4f3756-d37b-45c5-969a-118735800397@6d4f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Grabowska-Kaczmarczyk
-DTEND:20251113T120000Z
-LOCATION:link do zajęć
-DTSTART:20251113T103000Z
-SUMMARY:Kontrola i audyt wewnętrzny (wykład)
-UID:51e7993a-2f97-487b-8fa3-90f9b09997e0@51e7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Grabowska-Kaczmarczyk
-DTEND:20251127T124500Z
-LOCATION:link do zajęć
-DTSTART:20251127T103000Z
-SUMMARY:Kontrola i audyt wewnętrzny (wykład)
-UID:5c9d32e5-fa20-4064-93be-2f0d27e90311@5c9d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Monika Turek-Radwan
-DTEND:20251120T153000Z
-LOCATION:Paw.S sala 6
-DTSTART:20251120T140000Z
-SUMMARY:Kontrola i audyt wewnętrzny (ćwiczenia)
-UID:ac506a0c-d839-47a4-954f-7a5bedd34a24@ac50.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Thlon
-DTEND:20251208T144500Z
-LOCATION:link do zajęć
-DTSTART:20251208T140000Z
-SUMMARY:Ekonomia (wykład)
-UID:83a4fbe7-fc61-4142-86b7-97edd5f7896a@83a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Monika Turek-Radwan
-DTEND:20251106T153000Z
-LOCATION:Paw.S sala 6
-DTSTART:20251106T140000Z
-SUMMARY:Kontrola i audyt wewnętrzny (ćwiczenia)
-UID:55cd376a-9ab1-4c0c-82d0-b8040b0ac425@55cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
-DTEND:20251022T073000Z
-LOCATION:Paw.F 515
-DTSTART:20251022T060000Z
-SUMMARY:Teoria i zasady rachunkowości (ćwiczenia)
-UID:a838e788-9796-4e91-8dcf-c84fd8451806@a838.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Grabowska-Kaczmarczyk
-DTEND:20260202T161500Z
-LOCATION:Paw.S sala 9
-DTSTART:20260202T140000Z
-SUMMARY:Kontrola i audyt wewnętrzny (egzamin)
-UID:35de0aab-5a02-43a1-8f4f-e052010412a5@35de.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
-DTEND:20251113T083000Z
-LOCATION:link do zajęć
-DTSTART:20251113T070000Z
-SUMMARY:Teoria i zasady rachunkowości (wykład)
-UID:c63c8343-7741-46e6-acc5-086edfc93ec3@c63c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Radosław Ślusarczyk
-DTEND:20251211T101500Z
-LOCATION:link do zajęć
-DTSTART:20251211T093000Z
-SUMMARY:Polityka pieniężna (wykład do wyboru)
-UID:a77441a1-994e-4379-8261-22b496e578ba@a774.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Radosław Ślusarczyk
-DTEND:20251113T101500Z
-LOCATION:link do zajęć
-DTSTART:20251113T084500Z
-SUMMARY:Polityka pieniężna (wykład do wyboru)
-UID:78dff4c9-809d-48ee-a8f8-4032972917b5@78df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
-DTEND:20251211T091500Z
-LOCATION:link do zajęć
-DTSTART:20251211T070000Z
-SUMMARY:Teoria i zasady rachunkowości (wykład)
-UID:c9200a4d-f1c3-46a6-8687-85195034768b@c920.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Radosław Ślusarczyk
-DTEND:20251127T101500Z
-LOCATION:link do zajęć
-DTSTART:20251127T084500Z
-SUMMARY:Polityka pieniężna (wykład do wyboru)
-UID:f0ca8da4-3059-4374-b7f0-bdf41bdece68@f0ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Izabela Emerling
-DTEND:20251103T101500Z
-DTSTART:20251103T084500Z
-SUMMARY:Teoria i zasady rachunkowości (Przeniesienie zajęć)
-UID:91e701ea-1c13-4047-ac73-8a5843c5ebf2@91e7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Nita-Światłowska
-DTEND:20251112T194500Z
-LOCATION:link do zajęć
-DTSTART:20251112T181500Z
-SUMMARY:Prawo karne skarbowe (wykład do wyboru)
-UID:3c2649da-f5f3-47af-80b8-970bc3f17b7c@3c26.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
-DTEND:20260114T083000Z
-LOCATION:Paw.F 515
-DTSTART:20260114T070000Z
-SUMMARY:Teoria i zasady rachunkowości (ćwiczenia)
-UID:5981a822-a6f9-43d3-874f-cfb3218abd9c@5981.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Jan Tatar
-DTEND:20251029T101500Z
-LOCATION:Paw.F 515
-DTSTART:20251029T084500Z
-SUMMARY:Zaawansowane zagadnienia matematyki finansowej (konwersatorium)
-UID:ce7d8e75-6604-4e47-a1df-58d0f6ed15a0@ce7d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Nita-Światłowska
-DTEND:20251126T194500Z
-LOCATION:link do zajęć
-DTSTART:20251126T181500Z
-SUMMARY:Prawo karne skarbowe (wykład do wyboru)
-UID:5fec8206-8a97-4979-b572-1e7bde2299b4@5fec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
-DTEND:20251222T170000Z
-DTSTART:20251222T144500Z
-SUMMARY:Rynki i inwestycje finansowe (Przeniesienie zajęć)
-UID:ec4abb62-6d27-4d6a-8a95-3338aff40085@ec4a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Jan Tatar
-DTEND:20260123T134500Z
-LOCATION:Paw.F 515
-DTSTART:20260123T130000Z
-SUMMARY:Zaawansowane zagadnienia matematyki finansowej (konwersatorium)
-UID:996a0aa9-ac03-497e-ac78-b002cd12190a@996a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Andrzejewski
-DTEND:20251104T114500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20251104T093000Z
-SUMMARY:Technologie informacyjne i systemy komputerowe wykorzystywane w rachun (laboratorium)
-UID:07f67378-a1d4-40fe-b41a-b8a5bf0780a6@07f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Monika Turek-Radwan
-DTEND:20260115T153000Z
-LOCATION:Paw.S sala 6
-DTSTART:20260115T140000Z
-SUMMARY:Kontrola i audyt wewnętrzny (ćwiczenia)
-UID:5c8568a5-a1ac-46fd-8a54-2d63b8daf628@5c85.org
+UID:a48859a5-a432-46ca-92f1-8af5f55235a9@a488.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
@@ -477,162 +31,7 @@ DTEND:20251105T083000Z
 LOCATION:Paw.F 515
 DTSTART:20251105T070000Z
 SUMMARY:Teoria i zasady rachunkowości (ćwiczenia)
-UID:5327855c-a827-4472-9d61-015ca677df4e@5327.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Thlon
-DTEND:20251117T153000Z
-LOCATION:Platforma Moodle
-DTSTART:20251117T140000Z
-SUMMARY:Ekonomia (wykład e-learningowy)
-UID:cf5971b0-278b-46e3-ada5-585f9a6a342a@cf59.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Andrzejewski
-DTEND:20251127T194500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21\, Paw.A 117 lab. Win10\, Office21\, Paw.A 118 lab. Win10\, Office21
-DTSTART:20251127T173000Z
-SUMMARY: (egzamin)
-UID:240a2252-a34b-4ea5-ac2b-cb9f75affd76@240a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
-DTEND:20251117T143000Z
-LOCATION:link do zajęć
-DTSTART:20251117T121500Z
-SUMMARY:Rynki i inwestycje finansowe (wykład)
-UID:33818a57-7a49-4f16-9d45-f7000a478cc4@3381.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
-DTEND:20251124T171500Z
-LOCATION:link do zajęć
-DTSTART:20251124T154500Z
-SUMMARY:Rynki i inwestycje finansowe (wykład)
-UID:52998af2-cd09-4aac-a562-2138ed1d2a3c@5299.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Radosław Ślusarczyk
-DTEND:20251215T101500Z
-LOCATION:Bud.gł. Stara Aula
-DTSTART:20251215T084500Z
-SUMMARY: (rezerwacja)
-UID:9e68a2cc-4d40-4939-82b1-9022880f8748@9e68.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Thlon
-DTEND:20251222T120000Z
-LOCATION:Paw.F 415
-DTSTART:20251222T103000Z
-SUMMARY:Ekonomia (ćwiczenia)
-UID:e3140242-1a44-492a-b8c0-eafaccb3a110@e314.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Nita-Światłowska
-DTEND:20251022T184500Z
-LOCATION:link do zajęć
-DTSTART:20251022T171500Z
-SUMMARY:Prawo karne skarbowe (wykład do wyboru)
-UID:be647b5f-9e83-4def-b5f6-36082e2491c3@be64.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Izabela Emerling
-DTEND:20251020T091500Z
-DTSTART:20251020T074500Z
-SUMMARY:Teoria i zasady rachunkowości (Przeniesienie zajęć)
-UID:323aa067-2f2c-4bf2-9a98-10139e152264@323a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Jan Tatar
-DTEND:20251015T091500Z
-LOCATION:Paw.F 515
-DTSTART:20251015T074500Z
-SUMMARY:Zaawansowane zagadnienia matematyki finansowej (konwersatorium)
-UID:5eb2692a-5ee7-495c-9f2b-639472deb5f2@5eb2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Radosław Ślusarczyk
-DTEND:20251120T101500Z
-LOCATION:link do zajęć
-DTSTART:20251120T084500Z
-SUMMARY:Polityka pieniężna (wykład do wyboru)
-UID:8e1c3a30-6352-446c-8f4e-a5d876386bda@8e1c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Grabowska-Kaczmarczyk
-DTEND:20251106T120000Z
-LOCATION:link do zajęć
-DTSTART:20251106T103000Z
-SUMMARY:Kontrola i audyt wewnętrzny (wykład)
-UID:73a71afa-fbaa-4eda-ac11-7f68e48bdf0a@73a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Grabowska-Kaczmarczyk
-DTEND:20251120T120000Z
-LOCATION:link do zajęć
-DTSTART:20251120T103000Z
-SUMMARY:Kontrola i audyt wewnętrzny (wykład)
-UID:085ac6be-b50f-40fd-ab84-725ef08aeaf7@085a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Grabowska-Kaczmarczyk
-DTEND:20251009T110000Z
-DTSTART:20251009T093000Z
-SUMMARY:Kontrola i audyt wewnętrzny (wykład)
-UID:fd6460f2-5496-451a-84e3-d723b249e1a2@fd64.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
-DTEND:20251217T083000Z
-LOCATION:Paw.F 515
-DTSTART:20251217T070000Z
-SUMMARY:Teoria i zasady rachunkowości (ćwiczenia)
-UID:56a14578-80df-4f0d-8a22-577c36150fd8@56a1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Izabela Emerling
-DTEND:20251027T101500Z
-DTSTART:20251027T084500Z
-SUMMARY:Teoria i zasady rachunkowości (Przeniesienie zajęć)
-UID:16e1801f-b109-451a-89da-17a3cdc9da8b@16e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Jan Tatar
-DTEND:20251112T101500Z
-LOCATION:Paw.F 515
-DTSTART:20251112T084500Z
-SUMMARY:Zaawansowane zagadnienia matematyki finansowej (konwersatorium)
-UID:bac7e55a-2eaf-48c8-b049-4d527c645138@bac7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251217T134500Z
-DTSTART:20251217T121500Z
-SUMMARY: (rezerwacja)
-UID:1df93c78-d137-47cb-a0e5-18baaf7d99d8@1df9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Monika Turek-Radwan
-DTEND:20251023T143000Z
-DTSTART:20251023T130000Z
-SUMMARY:Kontrola i audyt wewnętrzny (Przeniesienie zajęć)
-UID:f0ef3011-641a-4d65-a211-a97f12215b3f@f0ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Nita-Światłowska
-DTEND:20251119T194500Z
-LOCATION:link do zajęć
-DTSTART:20251119T181500Z
-SUMMARY:Prawo karne skarbowe (wykład do wyboru)
-UID:5f2eef36-e59e-4a89-aa80-50a8e914d75f@5f2e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Jan Tatar
-DTEND:20260130T100000Z
-LOCATION:Paw.S sala 9
-DTSTART:20260130T074500Z
-SUMMARY:Zaawansowane zagadnienia matematyki finansowej (egzamin)
-UID:d3409e83-35d2-4c60-9cb0-e41666ca51f1@d340.org
+UID:e5f737fa-294d-42ee-8326-4b944df6bbb5@e5f7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
@@ -640,119 +39,53 @@ DTEND:20251209T134500Z
 LOCATION:Bud.gł. Stara Aula
 DTSTART:20251209T121500Z
 SUMMARY:Teoria i zasady rachunkowości (ćwiczenia)
-UID:55bd97bb-3d8d-4f0f-9494-c0c9fd49b383@55bd.org
+UID:ba21091a-aa9d-4872-b571-29ccc61a0285@ba21.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Michał Thlon
-DTEND:20260120T153000Z
-LOCATION:Platforma Moodle
-DTSTART:20260120T140000Z
-SUMMARY:Ekonomia (Ćwiczenia e-learningowe)
-UID:b5aad8f0-caaf-4ca0-b757-2b9bd6560af5@b5aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Thlon
-DTEND:20251215T153000Z
-LOCATION:Platforma Moodle
-DTSTART:20251215T140000Z
-SUMMARY:Ekonomia (Ćwiczenia e-learningowe)
-UID:841bec9f-2d5e-43e4-b7e1-891481839c2b@841b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Monika Turek-Radwan
-DTEND:20260120T153000Z
-LOCATION:Platforma Moodle
-DTSTART:20260120T140000Z
-SUMMARY:Kontrola i audyt wewnętrzny (Ćwiczenia e-learningowe)
-UID:7830603c-cb05-45ea-979e-3ae0387ae471@7830.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Jan Tatar
-DTEND:20251126T101500Z
-LOCATION:Paw.F 515
-DTSTART:20251126T084500Z
-SUMMARY:Zaawansowane zagadnienia matematyki finansowej (konwersatorium)
-UID:01478376-9842-4799-bd11-5f3cac3a67a5@0147.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Nita-Światłowska
-DTEND:20251203T194500Z
+DTEND:20251103T153000Z
 LOCATION:link do zajęć
-DTSTART:20251203T181500Z
-SUMMARY:Prawo karne skarbowe (wykład do wyboru)
-UID:d2ccce74-afd5-4fec-a6cf-7ced28ef6e04@d2cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Thlon
-DTEND:20251124T153000Z
-LOCATION:link do zajęć
-DTSTART:20251124T140000Z
+DTSTART:20251103T140000Z
 SUMMARY:Ekonomia (wykład)
-UID:40979359-14d4-4f56-8ff5-335a0a9f8409@4097.org
+UID:df4dceac-32a9-481c-9018-21046dff3ff8@df4d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Monika Turek-Radwan
-DTEND:20251204T153000Z
-LOCATION:Platforma Moodle
-DTSTART:20251204T140000Z
-SUMMARY:Kontrola i audyt wewnętrzny (Ćwiczenia e-learningowe)
-UID:1c62bc8b-b216-4fe5-8923-c0d2c9a0a211@1c62.org
+DTEND:20251023T143000Z
+DTSTART:20251023T130000Z
+SUMMARY:Kontrola i audyt wewnętrzny (Przeniesienie zajęć)
+UID:801613f8-6e6d-46bc-b93e-22068d9172bf@8016.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
-DTEND:20251208T170000Z
-LOCATION:link do zajęć
-DTSTART:20251208T144500Z
-SUMMARY:Rynki i inwestycje finansowe (wykład)
-UID:e3953935-27fe-4e32-bcfb-ee4408df50db@e395.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Nita-Światłowska
-DTEND:20251029T194500Z
-LOCATION:link do zajęć
-DTSTART:20251029T181500Z
-SUMMARY:Prawo karne skarbowe (wykład do wyboru)
-UID:d05373c0-c4c1-4824-a55f-f9138ef9b89a@d053.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Andrzejewski
-DTEND:20251014T104500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20251014T083000Z
-SUMMARY:Technologie informacyjne i systemy komputerowe wykorzystywane w rachun (laboratorium)
-UID:d2768f3b-43d1-4f92-b550-3f60ec140285@d276.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Thlon
-DTEND:20251028T153000Z
-LOCATION:Paw.F 102
-DTSTART:20251028T140000Z
-SUMMARY:Ekonomia (ćwiczenia)
-UID:11d5f9fa-e884-4bfe-b6a9-45b394a8c6f8@11d5.org
+DESCRIPTION:Instructor: dr Izabela Emerling
+DTEND:20251027T101500Z
+DTSTART:20251027T084500Z
+SUMMARY:Teoria i zasady rachunkowości (Przeniesienie zajęć)
+UID:028d2df8-7bff-452b-972c-c32f6cca2f29@028d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr Jan Tatar
-DTEND:20260107T101500Z
+DTEND:20251210T101500Z
 LOCATION:Paw.F 515
-DTSTART:20260107T084500Z
+DTSTART:20251210T084500Z
 SUMMARY:Zaawansowane zagadnienia matematyki finansowej (konwersatorium)
-UID:7e38a17d-be24-4878-b49b-e0889db1ba9c@7e38.org
+UID:ebd00c41-4f09-4c39-86be-afd95d6dc220@ebd0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
-DTEND:20260122T120000Z
-LOCATION:Paw.F 106
-DTSTART:20260122T111500Z
-SUMMARY:Teoria i zasady rachunkowości (ćwiczenia)
-UID:0bab338d-bc77-4587-a2fe-2853250a873b@0bab.org
+DTEND:20251106T083000Z
+LOCATION:link do zajęć
+DTSTART:20251106T070000Z
+SUMMARY:Teoria i zasady rachunkowości (wykład)
+UID:9a032188-6390-4aae-98b1-51d5197dae3a@9a03.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
-DTEND:20251215T171500Z
+DTEND:20251117T143000Z
 LOCATION:link do zajęć
-DTSTART:20251215T163000Z
+DTSTART:20251117T121500Z
 SUMMARY:Rynki i inwestycje finansowe (wykład)
-UID:4e141f96-6d9a-4297-bca2-f436f79dd59c@4e14.org
+UID:1a76b682-7f4d-4616-a056-1cb6e8da28f0@1a76.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Ewa Grabowska-Kaczmarczyk
@@ -760,7 +93,180 @@ DTEND:20251023T110000Z
 LOCATION:link do zajęć
 DTSTART:20251023T093000Z
 SUMMARY:Kontrola i audyt wewnętrzny (wykład)
-UID:9ba24271-fd69-465a-b29a-a7f3344ab214@9ba2.org
+UID:59efcb0e-90d4-46f9-ae91-6df58d1d9fcc@59ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Grabowska-Kaczmarczyk
+DTEND:20251030T120000Z
+LOCATION:link do zajęć
+DTSTART:20251030T103000Z
+SUMMARY:Kontrola i audyt wewnętrzny (wykład)
+UID:35cba4db-8266-4fe5-91af-28516f05eccb@35cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
+DTEND:20260122T120000Z
+LOCATION:Paw.F 106
+DTSTART:20260122T111500Z
+SUMMARY:Teoria i zasady rachunkowości (ćwiczenia)
+UID:59e4cccb-f18d-49b1-8add-47568392914d@59e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Radosław Ślusarczyk
+DTEND:20251204T101500Z
+LOCATION:link do zajęć
+DTSTART:20251204T084500Z
+SUMMARY:Polityka pieniężna (wykład do wyboru)
+UID:6946e348-73ff-47c7-8273-fb2b8b2456f7@6946.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Turek-Radwan
+DTEND:20251120T153000Z
+LOCATION:Paw.S sala 6
+DTSTART:20251120T140000Z
+SUMMARY:Kontrola i audyt wewnętrzny (ćwiczenia)
+UID:5ea87756-945d-4df6-9902-801b9a8425ab@5ea8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Thlon
+DTEND:20251209T153000Z
+LOCATION:Paw.F 102
+DTSTART:20251209T140000Z
+SUMMARY:Ekonomia (ćwiczenia)
+UID:263bdb1b-b7eb-4b42-8f0c-cfe0157e0b85@263b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Izabela Emerling
+DTEND:20251103T101500Z
+DTSTART:20251103T084500Z
+SUMMARY:Teoria i zasady rachunkowości (Przeniesienie zajęć)
+UID:9dfcae52-e87c-4949-80c4-58b2811001fc@9dfc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Nita-Światłowska
+DTEND:20251203T194500Z
+LOCATION:link do zajęć
+DTSTART:20251203T181500Z
+SUMMARY:Prawo karne skarbowe (wykład do wyboru)
+UID:e5260777-dc5d-4dc2-a0c5-b899cb3ab860@e526.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Andrzejewski
+DTEND:20251127T194500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21\, Paw.A 117 lab. Win10\, Office21\, Paw.A 118 lab. Win10\, Office21
+DTSTART:20251127T173000Z
+SUMMARY: (egzamin)
+UID:ec6ff687-1490-4d26-8165-44cdd75dd71e@ec6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20251215T171500Z
+LOCATION:link do zajęć
+DTSTART:20251215T163000Z
+SUMMARY:Rynki i inwestycje finansowe (wykład)
+UID:eb1cd686-1761-4284-984d-b237a901e960@eb1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Thlon
+DTEND:20251222T120000Z
+LOCATION:Paw.F 415
+DTSTART:20251222T103000Z
+SUMMARY:Ekonomia (ćwiczenia)
+UID:0621a934-3d07-42cb-b4cc-ab0b0a812e70@0621.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Turek-Radwan
+DTEND:20251218T153000Z
+LOCATION:Paw.S sala 6
+DTSTART:20251218T140000Z
+SUMMARY:Kontrola i audyt wewnętrzny (ćwiczenia)
+UID:d31d18b0-9f48-420f-907a-5c48dabe3142@d31d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20251208T170000Z
+LOCATION:link do zajęć
+DTSTART:20251208T144500Z
+SUMMARY:Rynki i inwestycje finansowe (wykład)
+UID:313ceb7d-a329-4aa0-980b-7f084254a5dc@313c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Jan Tatar
+DTEND:20251029T101500Z
+LOCATION:Paw.F 515
+DTSTART:20251029T084500Z
+SUMMARY:Zaawansowane zagadnienia matematyki finansowej (konwersatorium)
+UID:634d7799-eeaa-4961-8765-4189f8af4cab@634d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Jan Tatar
+DTEND:20260123T134500Z
+LOCATION:Paw.F 515
+DTSTART:20260123T130000Z
+SUMMARY:Zaawansowane zagadnienia matematyki finansowej (konwersatorium)
+UID:3da6e43c-4909-410a-a7b4-8b0a8757ee96@3da6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Andrzejewski
+DTEND:20251021T104500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20251021T083000Z
+SUMMARY:Technologie informacyjne i systemy komputerowe wykorzystywane w rachun (laboratorium)
+UID:128f2e66-991c-4389-84ac-a053440f13fc@128f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Turek-Radwan
+DTEND:20251204T153000Z
+LOCATION:Platforma Moodle
+DTSTART:20251204T140000Z
+SUMMARY:Kontrola i audyt wewnętrzny (Ćwiczenia e-learningowe)
+UID:17cca1d2-a185-4722-a2e7-f38a52afcf4f@17cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
+DTEND:20251119T083000Z
+LOCATION:Paw.F 515
+DTSTART:20251119T070000Z
+SUMMARY:Teoria i zasady rachunkowości (ćwiczenia)
+UID:484124d7-6f27-46aa-8c22-f95f7a1f3af5@4841.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20251027T171500Z
+DTSTART:20251027T163000Z
+SUMMARY:Rynki i inwestycje finansowe (Przeniesienie zajęć)
+UID:e31bb71e-79ed-40da-b742-da0c01287267@e31b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Andrzejewski
+DTEND:20251118T114500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20251118T093000Z
+SUMMARY:Technologie informacyjne i systemy komputerowe wykorzystywane w rachun (laboratorium)
+UID:5cd28c2a-7a0f-49a7-aa2a-8e4628859873@5cd2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Thlon
+DTEND:20251020T143000Z
+DTSTART:20251020T130000Z
+SUMMARY:Ekonomia (wykład)
+UID:67f559b2-4342-426a-9f19-37ab69822206@67f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
+DTEND:20251127T083000Z
+LOCATION:link do zajęć
+DTSTART:20251127T070000Z
+SUMMARY:Teoria i zasady rachunkowości (wykład)
+UID:563d43f2-aac6-4e44-9abf-c5a74238be2d@563d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Thlon
+DTEND:20251201T153000Z
+LOCATION:Platforma Moodle
+DTSTART:20251201T140000Z
+SUMMARY:Ekonomia (wykład e-learningowy)
+UID:81bb7f36-bfc7-454d-a89f-a573e6ca89cd@81bb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Michał Thlon
@@ -768,6 +274,499 @@ DTEND:20251014T143000Z
 LOCATION:Paw.F 102
 DTSTART:20251014T130000Z
 SUMMARY:Ekonomia (ćwiczenia)
-UID:3bbdd6c6-d980-4425-b3e9-678cd9cd0c49@3bbd.org
+UID:3325e492-3b71-43aa-b9ab-95a1240de12c@3325.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
+DTEND:20251023T073000Z
+LOCATION:link do zajęć
+DTSTART:20251023T060000Z
+SUMMARY:Teoria i zasady rachunkowości (wykład)
+UID:5166d17c-90c8-4371-b989-6a4c81972110@5166.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
+DTEND:20251027T153000Z
+LOCATION:link do zajęć
+DTSTART:20251027T140000Z
+SUMMARY:Teoria i zasady rachunkowości (wykład)
+UID:3f315284-7301-4c5c-9373-41f5d15701b9@3f31.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Nita-Światłowska
+DTEND:20251210T190000Z
+LOCATION:link do zajęć
+DTSTART:20251210T181500Z
+SUMMARY:Prawo karne skarbowe (wykład do wyboru)
+UID:9b5e529f-1f94-4cbe-8484-907144e09aac@9b5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Radosław Ślusarczyk
+DTEND:20251120T101500Z
+LOCATION:link do zajęć
+DTSTART:20251120T084500Z
+SUMMARY:Polityka pieniężna (wykład do wyboru)
+UID:1ad059aa-ba3a-465e-9bb1-6f60abbf0628@1ad0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Radosław Ślusarczyk
+DTEND:20251215T101500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20251215T084500Z
+SUMMARY: (rezerwacja)
+UID:cfc6253a-348d-4ba3-b612-03b1e34b6d50@cfc6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Radosław Ślusarczyk
+DTEND:20251127T101500Z
+LOCATION:link do zajęć
+DTSTART:20251127T084500Z
+SUMMARY:Polityka pieniężna (wykład do wyboru)
+UID:d53ef0e3-9849-4635-af31-cfa9e913f972@d53e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251016T123000Z
+DTSTART:20251016T093000Z
+SUMMARY: (rezerwacja)
+UID:25a0edcd-1b95-4ff6-947a-e480647f374e@25a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Grabowska-Kaczmarczyk
+DTEND:20251113T120000Z
+LOCATION:link do zajęć
+DTSTART:20251113T103000Z
+SUMMARY:Kontrola i audyt wewnętrzny (wykład)
+UID:b91c6d1c-be2d-43b6-b8d7-53b1fea000cc@b91c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Jan Tatar
+DTEND:20251126T101500Z
+LOCATION:Paw.F 515
+DTSTART:20251126T084500Z
+SUMMARY:Zaawansowane zagadnienia matematyki finansowej (konwersatorium)
+UID:74c8b3be-7d88-402f-b474-d88240346310@74c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Thlon
+DTEND:20251208T144500Z
+LOCATION:link do zajęć
+DTSTART:20251208T140000Z
+SUMMARY:Ekonomia (wykład)
+UID:2fd5c88c-70f3-41fa-b77b-3eaccc56f43e@2fd5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Nita-Światłowska
+DTEND:20251119T194500Z
+LOCATION:link do zajęć
+DTSTART:20251119T181500Z
+SUMMARY:Prawo karne skarbowe (wykład do wyboru)
+UID:6f94d2b5-6314-4612-b7fd-3cba083e88ea@6f94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Izabela Emerling
+DTEND:20251013T091500Z
+DTSTART:20251013T074500Z
+SUMMARY:Teoria i zasady rachunkowości (Przeniesienie zajęć)
+UID:5b69a652-3bfa-4935-bf8b-1eedd0cb63c5@5b69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Thlon
+DTEND:20251215T153000Z
+LOCATION:Platforma Moodle
+DTSTART:20251215T140000Z
+SUMMARY:Ekonomia (Ćwiczenia e-learningowe)
+UID:c90df201-9ae4-49b8-a22e-e0e0646f6c35@c90d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20251124T171500Z
+LOCATION:link do zajęć
+DTSTART:20251124T154500Z
+SUMMARY:Rynki i inwestycje finansowe (wykład)
+UID:8894ec6e-d143-449d-b69b-39ab702cb1d8@8894.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Thlon
+DTEND:20251117T153000Z
+LOCATION:Platforma Moodle
+DTSTART:20251117T140000Z
+SUMMARY:Ekonomia (wykład e-learningowy)
+UID:ec979a0f-625f-4329-95ec-9db7c7fd7aaa@ec97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
+DTEND:20251203T083000Z
+LOCATION:Paw.F 515
+DTSTART:20251203T070000Z
+SUMMARY:Teoria i zasady rachunkowości (ćwiczenia)
+UID:ed9679b0-e349-4af5-8c34-73e48ace8ec5@ed96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Radosław Ślusarczyk
+DTEND:20251211T101500Z
+LOCATION:link do zajęć
+DTSTART:20251211T093000Z
+SUMMARY:Polityka pieniężna (wykład do wyboru)
+UID:9adf823e-d323-4a08-9ded-bbba384b3b4a@9adf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20251222T170000Z
+DTSTART:20251222T144500Z
+SUMMARY:Rynki i inwestycje finansowe (Przeniesienie zajęć)
+UID:db4924e6-5403-4515-8c4a-ccb5c8997182@db49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Grabowska-Kaczmarczyk
+DTEND:20251120T120000Z
+LOCATION:link do zajęć
+DTSTART:20251120T103000Z
+SUMMARY:Kontrola i audyt wewnętrzny (wykład)
+UID:5dd17c7a-32c1-4b3b-898d-a06302a9e2c0@5dd1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Thlon
+DTEND:20251125T153000Z
+LOCATION:Platforma Moodle
+DTSTART:20251125T140000Z
+SUMMARY:Ekonomia (Ćwiczenia e-learningowe)
+UID:ad3b40b9-59a2-4afe-a7d4-48be670991dd@ad3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
+DTEND:20251022T073000Z
+LOCATION:Paw.F 515
+DTSTART:20251022T060000Z
+SUMMARY:Teoria i zasady rachunkowości (ćwiczenia)
+UID:cf0c3982-2d74-41ce-9932-b7bbebc4e597@cf0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Grabowska-Kaczmarczyk
+DTEND:20251009T110000Z
+DTSTART:20251009T093000Z
+SUMMARY:Kontrola i audyt wewnętrzny (wykład)
+UID:58762db0-810b-4e7f-a284-05a929d62f43@5876.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20251027T163000Z
+LOCATION:link do zajęć
+DTSTART:20251027T154500Z
+SUMMARY:Rynki i inwestycje finansowe (wykład)
+UID:ac111dcf-8c72-482f-b7f5-ca306afc461d@ac11.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Radosław Ślusarczyk
+DTEND:20251030T101500Z
+LOCATION:link do zajęć
+DTSTART:20251030T084500Z
+SUMMARY:Polityka pieniężna (wykład do wyboru)
+UID:60230365-d588-4f78-8d36-46337ccdc123@6023.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
+DTEND:20251211T091500Z
+LOCATION:link do zajęć
+DTSTART:20251211T070000Z
+SUMMARY:Teoria i zasady rachunkowości (wykład)
+UID:9cffb3dd-b526-4cd5-9287-61fd945f94b9@9cff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
+DTEND:20251217T083000Z
+LOCATION:Paw.F 515
+DTSTART:20251217T070000Z
+SUMMARY:Teoria i zasady rachunkowości (ćwiczenia)
+UID:7c89b8b3-658d-4fca-9e7e-e467cd32aaad@7c89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20260119T170000Z
+DTSTART:20260119T144500Z
+SUMMARY:Rynki i inwestycje finansowe (Przeniesienie zajęć)
+UID:ab1151a9-5611-4807-91cc-9c9b5a4f43af@ab11.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Izabela Emerling
+DTEND:20251008T073000Z
+DTSTART:20251008T060000Z
+SUMMARY:Teoria i zasady rachunkowości (Przeniesienie zajęć)
+UID:db09dc30-1e49-467d-acf1-9889e8938d54@db09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Turek-Radwan
+DTEND:20260115T153000Z
+LOCATION:Paw.S sala 6
+DTSTART:20260115T140000Z
+SUMMARY:Kontrola i audyt wewnętrzny (ćwiczenia)
+UID:bc524798-c863-4ab0-87a3-cefaa72c7205@bc52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Jan Tatar
+DTEND:20260130T100000Z
+LOCATION:Paw.S sala 9
+DTSTART:20260130T074500Z
+SUMMARY:Zaawansowane zagadnienia matematyki finansowej (egzamin)
+UID:6ba6e3eb-6888-4d8b-86d1-12781a5663af@6ba6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Turek-Radwan
+DTEND:20251009T143000Z
+LOCATION:Paw.S sala 6
+DTSTART:20251009T130000Z
+SUMMARY:Kontrola i audyt wewnętrzny (ćwiczenia)
+UID:4298645c-3824-4fe7-abad-89cefed21528@4298.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20251124T133000Z
+LOCATION:link do zajęć
+DTSTART:20251124T111500Z
+SUMMARY:Rynki i inwestycje finansowe (wykład)
+UID:3dac5d6a-146e-4177-8788-6425602b0753@3dac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Turek-Radwan
+DTEND:20260120T153000Z
+LOCATION:Platforma Moodle
+DTSTART:20260120T140000Z
+SUMMARY:Kontrola i audyt wewnętrzny (Ćwiczenia e-learningowe)
+UID:99dc034b-1007-4373-a680-3b18e50eae11@99dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Jan Tatar
+DTEND:20260107T101500Z
+LOCATION:Paw.F 515
+DTSTART:20260107T084500Z
+SUMMARY:Zaawansowane zagadnienia matematyki finansowej (konwersatorium)
+UID:7f4534c4-ac22-4a8c-9121-58afc9da1c3b@7f45.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20251013T161500Z
+DTSTART:20251013T144500Z
+SUMMARY:Rynki i inwestycje finansowe (wykład)
+UID:ef557ca4-b675-41e2-ab63-0741d70fc36a@ef55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Radosław Ślusarczyk
+DTEND:20251106T101500Z
+LOCATION:link do zajęć
+DTSTART:20251106T084500Z
+SUMMARY:Polityka pieniężna (wykład do wyboru)
+UID:8092b0c2-4725-45fb-97b9-000e565b7fa6@8092.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Andrzejewski
+DTEND:20251104T114500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20251104T093000Z
+SUMMARY:Technologie informacyjne i systemy komputerowe wykorzystywane w rachun (laboratorium)
+UID:a28d354b-9b67-49a1-8fb4-026226f21cd0@a28d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Jan Tatar
+DTEND:20251015T091500Z
+LOCATION:Paw.F 515
+DTSTART:20251015T074500Z
+SUMMARY:Zaawansowane zagadnienia matematyki finansowej (konwersatorium)
+UID:9a602e51-829f-4d08-8e00-c4226a11c4ac@9a60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Thlon
+DTEND:20260120T200000Z
+LOCATION:Paw.F 102
+DTSTART:20260120T191500Z
+SUMMARY:Ekonomia (ćwiczenia)
+UID:1d18b736-a9c1-4fb6-86ad-f39a9a080640@1d18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Grabowska-Kaczmarczyk
+DTEND:20260202T161500Z
+LOCATION:Paw.S sala 9
+DTSTART:20260202T140000Z
+SUMMARY:Kontrola i audyt wewnętrzny (egzamin)
+UID:5396a790-8283-4f56-8177-f51c63cbdd4d@5396.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Thlon
+DTEND:20251027T153000Z
+LOCATION:Platforma Moodle
+DTSTART:20251027T140000Z
+SUMMARY:Ekonomia (wykład e-learningowy)
+UID:9f6d4aa3-4f15-431e-9be9-f3580362f9cf@9f6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Nita-Światłowska
+DTEND:20251126T194500Z
+LOCATION:link do zajęć
+DTSTART:20251126T181500Z
+SUMMARY:Prawo karne skarbowe (wykład do wyboru)
+UID:f53c3b7d-bdd6-4a83-85be-06e354a8eb5f@f53c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Thlon
+DTEND:20251028T153000Z
+LOCATION:Paw.F 102
+DTSTART:20251028T140000Z
+SUMMARY:Ekonomia (ćwiczenia)
+UID:258e371d-eeed-474e-bead-40c80a5cab78@258e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Nita-Światłowska
+DTEND:20251112T194500Z
+LOCATION:link do zajęć
+DTSTART:20251112T181500Z
+SUMMARY:Prawo karne skarbowe (wykład do wyboru)
+UID:46b3a441-2682-4c69-afdd-cf2378398e79@46b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Nita-Światłowska
+DTEND:20251105T194500Z
+LOCATION:link do zajęć
+DTSTART:20251105T181500Z
+SUMMARY:Prawo karne skarbowe (wykład do wyboru)
+UID:82090e81-cb76-462f-a56a-f4c6ecfdd240@8209.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Nita-Światłowska
+DTEND:20251022T184500Z
+DTSTART:20251022T171500Z
+SUMMARY:Prawo karne skarbowe (wykład do wyboru)
+UID:937b4296-350f-4c9c-ac01-d4a0977b98cf@937b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Andrzejewski
+DTEND:20251028T114500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20251028T093000Z
+SUMMARY:Technologie informacyjne i systemy komputerowe wykorzystywane w rachun (laboratorium)
+UID:aebc2796-da7c-459c-a4e6-828513021fd8@aebc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Nita-Światłowska
+DTEND:20251029T194500Z
+LOCATION:link do zajęć
+DTSTART:20251029T181500Z
+SUMMARY:Prawo karne skarbowe (wykład do wyboru)
+UID:2b236044-212c-4172-86c1-75810a95dae1@2b23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Thlon
+DTEND:20251124T153000Z
+LOCATION:link do zajęć
+DTSTART:20251124T140000Z
+SUMMARY:Ekonomia (wykład)
+UID:9a5d3da0-532d-451a-9372-c282ce3aaa52@9a5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Grabowska-Kaczmarczyk
+DTEND:20251106T120000Z
+LOCATION:link do zajęć
+DTSTART:20251106T103000Z
+SUMMARY:Kontrola i audyt wewnętrzny (wykład)
+UID:ad86c096-bd67-4941-a264-ab8eddbde2fd@ad86.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
+DTEND:20251113T083000Z
+LOCATION:link do zajęć
+DTSTART:20251113T070000Z
+SUMMARY:Teoria i zasady rachunkowości (wykład)
+UID:b3463708-67e0-4cf2-9c15-b4b672813bee@b346.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Andrzejewski
+DTEND:20251014T104500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20251014T083000Z
+SUMMARY:Technologie informacyjne i systemy komputerowe wykorzystywane w rachun (laboratorium)
+UID:564f5456-5657-41e6-8b88-7ffc24f195f7@564f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Radosław Ślusarczyk
+DTEND:20251113T101500Z
+LOCATION:link do zajęć
+DTSTART:20251113T084500Z
+SUMMARY:Polityka pieniężna (wykład do wyboru)
+UID:fa35b32d-765d-454e-8fd4-84bc79fd306c@fa35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
+DTEND:20260114T083000Z
+LOCATION:Paw.F 515
+DTSTART:20260114T070000Z
+SUMMARY:Teoria i zasady rachunkowości (ćwiczenia)
+UID:a0516fa0-3f47-4c61-8dae-08f2d10bfb33@a051.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Radosław Ślusarczyk
+DTEND:20251023T091500Z
+LOCATION:link do zajęć
+DTSTART:20251023T074500Z
+SUMMARY:Polityka pieniężna (wykład do wyboru)
+UID:d52b3751-fda5-46d5-b110-31d3b393deda@d52b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Grabowska-Kaczmarczyk
+DTEND:20251127T124500Z
+LOCATION:link do zajęć
+DTSTART:20251127T103000Z
+SUMMARY:Kontrola i audyt wewnętrzny (wykład)
+UID:25e400b9-0cfa-444c-87d0-11f206c905bd@25e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Turek-Radwan
+DTEND:20260121T153000Z
+LOCATION:Paw.C sala D
+DTSTART:20260121T144500Z
+SUMMARY:Kontrola i audyt wewnętrzny (ćwiczenia)
+UID:aa5bc0cd-8414-407a-a040-7a85a2563aaf@aa5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251217T134500Z
+DTSTART:20251217T121500Z
+SUMMARY: (rezerwacja)
+UID:8519682f-5ac3-4000-a0c8-b077392e9a16@8519.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Thlon
+DTEND:20251013T143000Z
+DTSTART:20251013T130000Z
+SUMMARY:Ekonomia (wykład)
+UID:19b71976-9023-41f6-8750-cbdea525b6c5@19b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
+DTEND:20251120T083000Z
+LOCATION:link do zajęć
+DTSTART:20251120T070000Z
+SUMMARY:Teoria i zasady rachunkowości (wykład)
+UID:1f12efe2-77a9-4a8f-854a-a8a6f4efa10d@1f12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Turek-Radwan
+DTEND:20251106T153000Z
+LOCATION:Paw.S sala 6
+DTSTART:20251106T140000Z
+SUMMARY:Kontrola i audyt wewnętrzny (ćwiczenia)
+UID:b477efef-ddc0-43da-b3e5-c6ea07b27ca8@b477.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Izabela Emerling
+DTEND:20251020T091500Z
+DTSTART:20251020T074500Z
+SUMMARY:Teoria i zasady rachunkowości (Przeniesienie zajęć)
+UID:5259d553-6132-4faa-b6b9-923d0b95ba41@5259.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Jan Tatar
+DTEND:20251112T101500Z
+LOCATION:Paw.F 515
+DTSTART:20251112T084500Z
+SUMMARY:Zaawansowane zagadnienia matematyki finansowej (konwersatorium)
+UID:312f8c12-4df7-4ca6-a086-74a270b41f61@312f.org
 END:VEVENT
 END:VCALENDAR
