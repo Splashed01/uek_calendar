@@ -2,50 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
-DTEND:20251207T091500Z
+DESCRIPTION:Instructor: dr inż. Irena Śliwińska
+DTEND:20251116T091500Z
 LOCATION:link do zajęć
-DTSTART:20251207T070000Z
-SUMMARY:Cyberbezpieczeństwo (wykład do wyboru)
-UID:45f5162b-ac1d-4435-8adf-03d2d7ed9cd7@45f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Kozień
-DTEND:20260111T114500Z
-DTSTART:20260111T093000Z
-SUMMARY:Projektowanie rozwoju organizacji (Przeniesienie zajęć)
-UID:f4b81fcc-e4b7-4753-b420-9a7f9026eae3@f4b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Borodako
-DTEND:20251026T114500Z
-DTSTART:20251026T093000Z
-SUMMARY:Zarządzanie projektami eventowymi (Przeniesienie zajęć)
-UID:695d6204-f14f-4eb6-a089-e4cb92849fcc@695d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Kozień
-DTEND:20251024T184500Z
-LOCATION:link do zajęć
-DTSTART:20251024T163000Z
-SUMMARY:Projektowanie rozwoju organizacji (wykład do wyboru)
-UID:f295c856-40c9-467f-a0b7-fcd09a242dc7@f295.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Ireneusz Rynduch
-DTEND:20251018T081500Z
-LOCATION:Paw.B 151
-DTSTART:20251018T060000Z
-SUMMARY:Kierowanie zespołem projektowym (ćwiczenia)
-UID:97ab2850-a31c-45d3-bd9a-2a8dd3e5bb81@97ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Lipecki
-DTEND:20251123T114500Z
-LOCATION:link do zajęć
-DTSTART:20251123T093000Z
-SUMMARY:Work Life Balance (wykład do wyboru)
-UID:d883bff8-0341-454f-ab5d-d7763edb42d2@d883.org
+DTSTART:20251116T070000Z
+SUMMARY:Badania rynku (wykład)
+UID:efaaa8ba-f147-42e7-92bc-586c06b9efa0@efaa.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
@@ -53,335 +15,14 @@ DTEND:20251123T091500Z
 LOCATION:link do zajęć
 DTSTART:20251123T070000Z
 SUMMARY:Budżetowanie w projekcie (wykład)
-UID:b7510703-af5a-4f57-a04d-6a44a50e3c7c@b751.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
-DTEND:20251130T114500Z
-LOCATION:link do zajęć
-DTSTART:20251130T093000Z
-SUMMARY:Zarządzanie zmianą w projektach (wykład do wyboru)
-UID:a609d6db-f0f9-4dfd-9b8c-a5246819c119@a609.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
-DTEND:20251205T170000Z
-LOCATION:link do zajęć
-DTSTART:20251205T144500Z
-SUMMARY:Budżetowanie w projekcie (wykład)
-UID:21875c93-34fc-4482-869e-505bff96eb2b@2187.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Irena Śliwińska
-DTEND:20251010T184500Z
-DTSTART:20251010T163000Z
-SUMMARY:Badania rynku (wykład)
-UID:689a4c6b-dc1f-498b-82a6-de3ea04332b4@689a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Rudnicki
-DTEND:20251206T114500Z
-LOCATION:208 paw.U (tylko Kat. Rach)
-DTSTART:20251206T093000Z
-SUMMARY:Zarządzanie projektami eventowymi (ćwiczenia)
-UID:9df8af31-1051-4587-ac25-80f3a8bed616@9df8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Woźniak
-DTEND:20260124T170000Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20260124T144500Z
-SUMMARY:Informatyczne wspomaganie zarządzania projektami (ćwiczenia)
-UID:551b538e-2a53-4f4a-ae35-988872d467e1@551b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Rudnicki
-DTEND:20251025T133000Z
-LOCATION:208 paw.U (tylko Kat. Rach)
-DTSTART:20251025T111500Z
-SUMMARY:Zarządzanie projektami eventowymi (ćwiczenia)
-UID:fb638c0d-de59-4de2-bc67-fab401d96060@fb63.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Ireneusz Rynduch
-DTEND:20251122T143000Z
-LOCATION:Paw.F 416
-DTSTART:20251122T121500Z
-SUMMARY:Kierowanie zespołem projektowym (ćwiczenia)
-UID:ebf8e9f4-0684-4998-b1e5-7a696645656b@ebf8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Irena Śliwińska
-DTEND:20251213T114500Z
-LOCATION:Paw.U sala P (KatRozOrg)
-DTSTART:20251213T093000Z
-SUMMARY:Badania rynku (ćwiczenia)
-UID:b0a79971-7c78-41e8-aada-940b371eb92a@b0a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251016T123000Z
-DTSTART:20251016T093000Z
-SUMMARY: (rezerwacja)
-UID:fa195915-5145-4640-b575-c474e7562e68@fa19.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Ireneusz Rynduch
-DTEND:20251025T104500Z
-LOCATION:Bud.gł. 9
-DTSTART:20251025T083000Z
-SUMMARY:Kierowanie zespołem projektowym (ćwiczenia)
-UID:46e7875f-f5c4-4dbf-8e59-7e16975e558e@46e7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Irena Śliwińska
-DTEND:20251116T091500Z
-LOCATION:link do zajęć
-DTSTART:20251116T070000Z
-SUMMARY:Badania rynku (wykład)
-UID:593ae392-3cdd-4948-b670-0462aaa9fe9f@593a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
-DTEND:20260109T194500Z
-LOCATION:link do zajęć
-DTSTART:20260109T173000Z
-SUMMARY:Cyberbezpieczeństwo (wykład do wyboru)
-UID:13be2e4d-6ce4-43d7-9f12-240ce3456a17@13be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Kozień
-DTEND:20251114T170000Z
-LOCATION:link do zajęć
-DTSTART:20251114T144500Z
-SUMMARY:Projektowanie rozwoju organizacji (wykład do wyboru)
-UID:3b3b2276-b2a8-4227-b8b4-b128d459f527@3b3b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Lipecki
-DTEND:20251214T143000Z
-LOCATION:link do zajęć
-DTSTART:20251214T121500Z
-SUMMARY:Work Life Balance (wykład do wyboru)
-UID:3b37bc6b-6ee4-49d8-8c41-a1c330f567d2@3b37.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Borodako
-DTEND:20260111T091500Z
-LOCATION:link do zajęć
-DTSTART:20260111T070000Z
-SUMMARY:Zarządzanie projektami eventowymi (wykład)
-UID:16384b01-ca37-4eb6-a9fc-47b4a27c86e2@1638.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Kozień
-DTEND:20251017T184500Z
-DTSTART:20251017T163000Z
-SUMMARY:Projektowanie rozwoju organizacji (wykład do wyboru)
-UID:3547c0b8-eb6d-4824-944d-41af819ec3b7@3547.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Irena Śliwińska
-DTEND:20260131T120000Z
-LOCATION:Paw.B 351
-DTSTART:20260131T103000Z
-SUMMARY:Badania rynku (egzamin)
-UID:58284431-2bdc-4074-83ea-f7a5a0fc64f3@5828.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
-DTEND:20251116T114500Z
-LOCATION:link do zajęć
-DTSTART:20251116T093000Z
-SUMMARY:Zarządzanie zmianą w projektach (wykład do wyboru)
-UID:6dd04ca1-25aa-4416-a8b1-2d5e083300e5@6dd0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Kozień
-DTEND:20251128T170000Z
-LOCATION:link do zajęć
-DTSTART:20251128T144500Z
-SUMMARY:Projektowanie rozwoju organizacji (wykład do wyboru)
-UID:0d13e8b9-7d11-46cb-8d37-f58a1b5bc6b5@0d13.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
-DTEND:20251019T081500Z
-DTSTART:20251019T060000Z
-SUMMARY:Budżetowanie w projekcie (wykład)
-UID:1a916f09-dae9-4e67-a0fa-b9018a7ebb91@1a91.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Irena Śliwińska
-DTEND:20251207T143000Z
-LOCATION:link do zajęć
-DTSTART:20251207T121500Z
-SUMMARY:Badania rynku (wykład)
-UID:f3097e7c-828c-4686-bee9-c7df63f8fa70@f309.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Kozień
-DTEND:20251214T091500Z
-LOCATION:link do zajęć
-DTSTART:20251214T070000Z
-SUMMARY:Projektowanie rozwoju organizacji (wykład do wyboru)
-UID:f75fe4b8-b6f3-4ae9-b8cd-8d25c4c8bcc6@f75f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
-DTEND:20251019T104500Z
-DTSTART:20251019T083000Z
-SUMMARY:Cyberbezpieczeństwo (wykład do wyboru)
-UID:cd1b364e-752c-45b9-a700-6577e5035fa5@cd1b.org
+UID:187d4eba-fbc4-47fd-b54a-6af0e8909756@187d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Krzysztof Lipecki
 DTEND:20251019T133000Z
 DTSTART:20251019T111500Z
 SUMMARY:Work Life Balance (wykład do wyboru)
-UID:7f422011-bda2-4016-891c-474b1c21b48e@7f42.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
-DTEND:20251116T143000Z
-LOCATION:link do zajęć
-DTSTART:20251116T121500Z
-SUMMARY:Cyberbezpieczeństwo (wykład do wyboru)
-UID:37f9ac7f-ce54-44e3-bc27-b7cbdd9966c9@37f9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
-DTEND:20251213T091500Z
-LOCATION:Paw.B 053 (KSB)
-DTSTART:20251213T070000Z
-SUMMARY:Budżetowanie w projekcie (ćwiczenia)
-UID:07eefd1d-af8e-4c4f-a0bf-5c5b30e9b443@07ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Irena Śliwińska
-DTEND:20251115T114500Z
-LOCATION:Paw.B 054 (KSB)
-DTSTART:20251115T093000Z
-SUMMARY:Badania rynku (ćwiczenia)
-UID:fa325990-12e5-44eb-8718-3621d55d86ef@fa32.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
-DTEND:20260109T170000Z
-LOCATION:link do zajęć
-DTSTART:20260109T144500Z
-SUMMARY:Zarządzanie zmianą w projektach (wykład do wyboru)
-UID:ee5302e5-707b-44fe-8abd-4f650ff78d64@ee53.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Borodako
-DTEND:20251121T170000Z
-LOCATION:link do zajęć
-DTSTART:20251121T144500Z
-SUMMARY:Zarządzanie projektami eventowymi (wykład)
-UID:54a7a629-e074-4346-99aa-657f1812821d@54a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
-DTEND:20251115T091500Z
-LOCATION:Paw.B 053 (KSB)
-DTSTART:20251115T070000Z
-SUMMARY:Budżetowanie w projekcie (ćwiczenia)
-UID:f308a58e-dd4e-4ef8-bf38-062c8f092e23@f308.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Woźniak
-DTEND:20251025T081500Z
-LOCATION:208 paw.U (tylko Kat. Rach)
-DTSTART:20251025T060000Z
-SUMMARY:Informatyczne wspomaganie zarządzania projektami (ćwiczenia)
-UID:53793398-f5a8-44fd-aadb-c63698115b70@5379.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Monika Knefel
-DTEND:20251121T194500Z
-LOCATION:link do zajęć
-DTSTART:20251121T173000Z
-SUMMARY:Kierowanie zespołem projektowym (wykład)
-UID:6362be12-9eb6-47f0-a7b3-1e20b9ee79d3@6362.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Monika Knefel
-DTEND:20251205T194500Z
-LOCATION:link do zajęć
-DTSTART:20251205T173000Z
-SUMMARY:Kierowanie zespołem projektowym (wykład)
-UID:692549e3-3301-45c5-ad3b-60f0a709aaa4@6925.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
-DTEND:20251214T114500Z
-LOCATION:link do zajęć
-DTSTART:20251214T093000Z
-SUMMARY:Zarządzanie zmianą w projektach (wykład do wyboru)
-UID:6f5c0304-87a0-4d2f-8538-d58b64f2341b@6f5c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Woźniak
-DTEND:20260117T091500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20260117T070000Z
-SUMMARY:Informatyczne wspomaganie zarządzania projektami (ćwiczenia)
-UID:fc2d7544-11fe-43e2-b916-1b2f0014e3b5@fc2d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Irena Śliwińska
-DTEND:20260124T114500Z
-LOCATION:Paw.F 102
-DTSTART:20260124T093000Z
-SUMMARY:Badania rynku (ćwiczenia)
-UID:7c4e649d-cacd-4f35-a32a-e06121c8af1c@7c4e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Kozień
-DTEND:20251010T160000Z
-DTSTART:20251010T134500Z
-SUMMARY:Projektowanie rozwoju organizacji (wykład do wyboru)
-UID:130489fa-e982-43aa-abd0-da915c212a73@1304.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
-DTEND:20251123T143000Z
-LOCATION:link do zajęć
-DTSTART:20251123T121500Z
-SUMMARY:Cyberbezpieczeństwo (wykład do wyboru)
-UID:fc0b923f-a286-4afc-a417-ac1e44dd4d74@fc0b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Lipecki
-DTEND:20251012T133000Z
-DTSTART:20251012T111500Z
-SUMMARY:Work Life Balance (wykład do wyboru)
-UID:f56ac6e4-5521-4a2d-bdae-61036d2c144c@f56a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Borodako
-DTEND:20260110T091500Z
-LOCATION:link do zajęć
-DTSTART:20260110T070000Z
-SUMMARY:Zarządzanie projektami eventowymi (wykład)
-UID:d28fadf0-8d82-4ad0-85d8-f203120b82ed@d28f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Lipecki
-DTEND:20260111T143000Z
-LOCATION:link do zajęć
-DTSTART:20260111T121500Z
-SUMMARY:Work Life Balance (wykład do wyboru)
-UID:ad0976fb-6031-4972-9989-0a8fc7bc73e4@ad09.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Lipecki
-DTEND:20251130T143000Z
-LOCATION:link do zajęć
-DTSTART:20251130T121500Z
-SUMMARY:Work Life Balance (wykład do wyboru)
-UID:21c26703-f8f7-4641-b19d-579cf7c680bc@21c2.org
+UID:c4a82f8e-ca62-4ffe-89f2-3e95a3167604@c4a8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Michał Rudnicki
@@ -389,44 +30,54 @@ DTEND:20260117T114500Z
 LOCATION:208 paw.U (tylko Kat. Rach)
 DTSTART:20260117T093000Z
 SUMMARY:Zarządzanie projektami eventowymi (ćwiczenia)
-UID:1bcf832d-abd3-41a4-9f1d-833f82852ed6@1bcf.org
+UID:90907d88-1c94-40b9-8b5e-dc5dbca465c5@9090.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Kozień
+DTEND:20251010T160000Z
+DTSTART:20251010T134500Z
+SUMMARY:Projektowanie rozwoju organizacji (wykład do wyboru)
+UID:7aa71a5e-3521-463b-aa2b-58df5bdb1c40@7aa7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
-DTEND:20251012T081500Z
-DTSTART:20251012T060000Z
-SUMMARY:Zarządzanie zmianą w projektach (wykład do wyboru)
-UID:d0a5060c-7b35-4d1e-993e-bea83289d462@d0a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
-DTEND:20251012T104500Z
-DTSTART:20251012T083000Z
-SUMMARY:Cyberbezpieczeństwo (wykład do wyboru)
-UID:2b914064-e919-43ee-87c3-b5cb3e805e0e@2b91.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251217T134500Z
-DTSTART:20251217T121500Z
-SUMMARY: (rezerwacja)
-UID:884a483a-2fa6-4f4b-911b-b62d79684d94@884a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
-DTEND:20251207T114500Z
+DTEND:20251130T114500Z
 LOCATION:link do zajęć
-DTSTART:20251207T093000Z
+DTSTART:20251130T093000Z
 SUMMARY:Zarządzanie zmianą w projektach (wykład do wyboru)
-UID:9829955e-c3f9-4ea9-893c-b222a69ab2e5@9829.org
+UID:ef14c80d-ad82-4e4e-9710-651a7b42155d@ef14.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Woźniak
+DTEND:20260124T170000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20260124T144500Z
+SUMMARY:Informatyczne wspomaganie zarządzania projektami (ćwiczenia)
+UID:73d5bd9e-d7e4-448b-94c4-fbe0fff35bef@73d5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Monika Knefel
-DTEND:20251026T091500Z
+DTEND:20251205T194500Z
 LOCATION:link do zajęć
-DTSTART:20251026T070000Z
+DTSTART:20251205T173000Z
 SUMMARY:Kierowanie zespołem projektowym (wykład)
-UID:7e5ef2e5-ad79-4c52-99d1-ab08464c9148@7e5e.org
+UID:789cbdbf-ca9a-48c8-89a6-ad7af2553b18@789c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Borodako
+DTEND:20260111T091500Z
+LOCATION:link do zajęć
+DTSTART:20260111T070000Z
+SUMMARY:Zarządzanie projektami eventowymi (wykład)
+UID:38a315d0-72c0-4823-ba01-81f264aaec2b@38a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Irena Śliwińska
+DTEND:20260131T120000Z
+LOCATION:Paw.B 351
+DTSTART:20260131T103000Z
+SUMMARY:Badania rynku (egzamin)
+UID:be7f1035-1088-43eb-816a-d3900b7d1096@be7f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
@@ -434,6 +85,355 @@ DTEND:20260124T091500Z
 LOCATION:Paw.B 053 (KSB)
 DTSTART:20260124T070000Z
 SUMMARY:Budżetowanie w projekcie (ćwiczenia)
-UID:3f54f962-6447-4eea-9ed7-b581b0826bae@3f54.org
+UID:73e1ed08-d205-42e0-9732-48634909dbbd@73e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Rudnicki
+DTEND:20251206T114500Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20251206T093000Z
+SUMMARY:Zarządzanie projektami eventowymi (ćwiczenia)
+UID:a826a6f0-5658-4d52-8a49-4ba18662cd98@a826.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Irena Śliwińska
+DTEND:20251010T184500Z
+DTSTART:20251010T163000Z
+SUMMARY:Badania rynku (wykład)
+UID:24c45494-939a-4539-97eb-2bf890dc05d7@24c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Ireneusz Rynduch
+DTEND:20251018T081500Z
+LOCATION:Paw.B 151
+DTSTART:20251018T060000Z
+SUMMARY:Kierowanie zespołem projektowym (ćwiczenia)
+UID:900ff302-043c-4ff8-afb0-dc833f4fab8f@900f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Ireneusz Rynduch
+DTEND:20251025T104500Z
+LOCATION:Bud.gł. 9
+DTSTART:20251025T083000Z
+SUMMARY:Kierowanie zespołem projektowym (ćwiczenia)
+UID:b9ffb9a4-6a0e-4c36-9811-9097932dc24d@b9ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Kozień
+DTEND:20251214T091500Z
+LOCATION:link do zajęć
+DTSTART:20251214T070000Z
+SUMMARY:Projektowanie rozwoju organizacji (wykład do wyboru)
+UID:ce74bfe2-7c23-45b6-87d2-d113d98e3426@ce74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Woźniak
+DTEND:20260117T091500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20260117T070000Z
+SUMMARY:Informatyczne wspomaganie zarządzania projektami (ćwiczenia)
+UID:a8879700-edc8-48fb-ac7a-8348ddad540f@a887.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
+DTEND:20251116T114500Z
+LOCATION:link do zajęć
+DTSTART:20251116T093000Z
+SUMMARY:Zarządzanie zmianą w projektach (wykład do wyboru)
+UID:96675b47-5275-48e5-8375-9441fa5c48d2@9667.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Knefel
+DTEND:20251026T091500Z
+LOCATION:link do zajęć
+DTSTART:20251026T070000Z
+SUMMARY:Kierowanie zespołem projektowym (wykład)
+UID:73367841-8c10-4773-b5e2-4ded7e65ea30@7336.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Woźniak
+DTEND:20251025T081500Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20251025T060000Z
+SUMMARY:Informatyczne wspomaganie zarządzania projektami (ćwiczenia)
+UID:35a071cd-1fce-4eb2-a966-cdb25cc5d266@35a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
+DTEND:20251205T170000Z
+LOCATION:link do zajęć
+DTSTART:20251205T144500Z
+SUMMARY:Budżetowanie w projekcie (wykład)
+UID:48a244ce-8d9d-4b30-9a08-a2d2d2ef1ee8@48a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Lipecki
+DTEND:20251012T133000Z
+DTSTART:20251012T111500Z
+SUMMARY:Work Life Balance (wykład do wyboru)
+UID:b9e9601d-87df-4f3c-b6db-ad43b9900071@b9e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Borodako
+DTEND:20260110T091500Z
+LOCATION:link do zajęć
+DTSTART:20260110T070000Z
+SUMMARY:Zarządzanie projektami eventowymi (wykład)
+UID:ac6be07d-1b13-47d8-a022-699618d6eaf3@ac6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Kozień
+DTEND:20251024T184500Z
+LOCATION:link do zajęć
+DTSTART:20251024T163000Z
+SUMMARY:Projektowanie rozwoju organizacji (wykład do wyboru)
+UID:a442ac84-077b-4d27-815d-51217de11f39@a442.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
+DTEND:20251214T114500Z
+LOCATION:link do zajęć
+DTSTART:20251214T093000Z
+SUMMARY:Zarządzanie zmianą w projektach (wykład do wyboru)
+UID:5bdbd5ce-8f8f-41d8-8e55-709eed3518a2@5bdb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
+DTEND:20251213T091500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20251213T070000Z
+SUMMARY:Budżetowanie w projekcie (ćwiczenia)
+UID:f2936738-7676-404e-8b43-eed8a5352749@f293.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Knefel
+DTEND:20251121T194500Z
+LOCATION:link do zajęć
+DTSTART:20251121T173000Z
+SUMMARY:Kierowanie zespołem projektowym (wykład)
+UID:8bca431e-79b0-46e8-b74b-3d93e3f43dcd@8bca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
+DTEND:20260109T170000Z
+LOCATION:link do zajęć
+DTSTART:20260109T144500Z
+SUMMARY:Zarządzanie zmianą w projektach (wykład do wyboru)
+UID:1bce26ab-164a-41af-b5a5-52a655b64278@1bce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Kozień
+DTEND:20251114T170000Z
+LOCATION:link do zajęć
+DTSTART:20251114T144500Z
+SUMMARY:Projektowanie rozwoju organizacji (wykład do wyboru)
+UID:e8f43064-d691-4548-9410-0a1f641b66d6@e8f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20251123T143000Z
+LOCATION:link do zajęć
+DTSTART:20251123T121500Z
+SUMMARY:Cyberbezpieczeństwo (wykład do wyboru)
+UID:017ac61d-09bf-4f24-a83d-6da946842745@017a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Lipecki
+DTEND:20260111T143000Z
+LOCATION:link do zajęć
+DTSTART:20260111T121500Z
+SUMMARY:Work Life Balance (wykład do wyboru)
+UID:ebb3cf72-895b-4250-bfb6-93babbaa313c@ebb3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Borodako
+DTEND:20251121T170000Z
+LOCATION:link do zajęć
+DTSTART:20251121T144500Z
+SUMMARY:Zarządzanie projektami eventowymi (wykład)
+UID:2f037ff8-89bb-4540-81c7-73bec5730d75@2f03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20251116T143000Z
+LOCATION:link do zajęć
+DTSTART:20251116T121500Z
+SUMMARY:Cyberbezpieczeństwo (wykład do wyboru)
+UID:52f44f21-375d-4396-959d-80a6a3f9bd01@52f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Lipecki
+DTEND:20251123T114500Z
+LOCATION:link do zajęć
+DTSTART:20251123T093000Z
+SUMMARY:Work Life Balance (wykład do wyboru)
+UID:6c2cc046-854b-4644-96e8-d653cf006fab@6c2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Rudnicki
+DTEND:20251025T133000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20251025T111500Z
+SUMMARY:Zarządzanie projektami eventowymi (ćwiczenia)
+UID:bc4a17db-5b26-4c33-92f2-9f20a67c65fc@bc4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Irena Śliwińska
+DTEND:20260124T114500Z
+LOCATION:Paw.F 102
+DTSTART:20260124T093000Z
+SUMMARY:Badania rynku (ćwiczenia)
+UID:b721d4c9-6569-416c-a3d6-08f6d0b163c3@b721.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251016T123000Z
+DTSTART:20251016T093000Z
+SUMMARY: (rezerwacja)
+UID:5fe9c745-e17f-4758-9cb9-6024d7340d4f@5fe9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20251207T091500Z
+LOCATION:link do zajęć
+DTSTART:20251207T070000Z
+SUMMARY:Cyberbezpieczeństwo (wykład do wyboru)
+UID:02396f04-ccaf-4b9f-be2b-9b6a00254ac2@0239.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Irena Śliwińska
+DTEND:20251213T114500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20251213T093000Z
+SUMMARY:Badania rynku (ćwiczenia)
+UID:a3abca5f-0af1-4dac-840e-d31f37e8c763@a3ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Borodako
+DTEND:20251026T114500Z
+DTSTART:20251026T093000Z
+SUMMARY:Zarządzanie projektami eventowymi (Przeniesienie zajęć)
+UID:7f57aade-598d-4bab-bd11-ee3cb4caf129@7f57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20251019T104500Z
+DTSTART:20251019T083000Z
+SUMMARY:Cyberbezpieczeństwo (wykład do wyboru)
+UID:f537fd56-f891-48dc-9282-19550721a63c@f537.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20251012T104500Z
+DTSTART:20251012T083000Z
+SUMMARY:Cyberbezpieczeństwo (wykład do wyboru)
+UID:420f5e21-1fa4-4dc5-822c-7a5609bbc83c@420f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Kozień
+DTEND:20251128T170000Z
+LOCATION:link do zajęć
+DTSTART:20251128T144500Z
+SUMMARY:Projektowanie rozwoju organizacji (wykład do wyboru)
+UID:c44cf3cd-dc6e-4270-803c-18f9841a66fa@c44c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
+DTEND:20251115T091500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20251115T070000Z
+SUMMARY:Budżetowanie w projekcie (ćwiczenia)
+UID:9e9024b4-dc4f-4e55-90aa-bc9b43cf4dd3@9e90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Irena Śliwińska
+DTEND:20251207T143000Z
+LOCATION:link do zajęć
+DTSTART:20251207T121500Z
+SUMMARY:Badania rynku (wykład)
+UID:aac09201-6fd2-4f5c-89ef-3a1b5633a33e@aac0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Kozień
+DTEND:20251017T184500Z
+DTSTART:20251017T163000Z
+SUMMARY:Projektowanie rozwoju organizacji (wykład do wyboru)
+UID:5156b881-c8cb-4021-a7f1-d81131b1c49e@5156.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20260109T194500Z
+LOCATION:link do zajęć
+DTSTART:20260109T173000Z
+SUMMARY:Cyberbezpieczeństwo (wykład do wyboru)
+UID:073c7fc5-c770-4b6c-825d-0c6214ddd1c7@073c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
+DTEND:20251207T114500Z
+LOCATION:link do zajęć
+DTSTART:20251207T093000Z
+SUMMARY:Zarządzanie zmianą w projektach (wykład do wyboru)
+UID:2ba3da30-fbc4-4450-a570-7948334b2887@2ba3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
+DTEND:20251019T081500Z
+DTSTART:20251019T060000Z
+SUMMARY:Budżetowanie w projekcie (wykład)
+UID:699eb6c3-3607-47db-9b45-354a85369a18@699e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251217T134500Z
+DTSTART:20251217T121500Z
+SUMMARY: (rezerwacja)
+UID:78859683-c5ab-4f75-a2de-8f9c65eda742@7885.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Lipecki
+DTEND:20251130T143000Z
+LOCATION:link do zajęć
+DTSTART:20251130T121500Z
+SUMMARY:Work Life Balance (wykład do wyboru)
+UID:9a419ab7-8f67-4721-a4b6-0ae85462c9d6@9a41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Lipecki
+DTEND:20251214T143000Z
+LOCATION:link do zajęć
+DTSTART:20251214T121500Z
+SUMMARY:Work Life Balance (wykład do wyboru)
+UID:7e587d46-e956-4f43-8a49-67a374fec171@7e58.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Irena Śliwińska
+DTEND:20251115T114500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20251115T093000Z
+SUMMARY:Badania rynku (ćwiczenia)
+UID:2a700c59-7e59-4326-b266-108f66216f01@2a70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Ireneusz Rynduch
+DTEND:20251122T143000Z
+LOCATION:Paw.F 416
+DTSTART:20251122T121500Z
+SUMMARY:Kierowanie zespołem projektowym (ćwiczenia)
+UID:5ed215c9-2cd4-44f9-b4fd-1e2964d2c823@5ed2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Kozień
+DTEND:20260111T114500Z
+DTSTART:20260111T093000Z
+SUMMARY:Projektowanie rozwoju organizacji (Przeniesienie zajęć)
+UID:8db82d03-1c2e-42de-b22c-efabf11facf1@8db8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
+DTEND:20251012T081500Z
+DTSTART:20251012T060000Z
+SUMMARY:Zarządzanie zmianą w projektach (wykład do wyboru)
+UID:31591acd-9d8f-4c21-8c7b-0f0e6e9eb209@3159.org
 END:VEVENT
 END:VCALENDAR
