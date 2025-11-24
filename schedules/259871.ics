@@ -2,51 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bogdan Rogoda
-DTEND:20251007T124500Z
-LOCATION:Paw.S sala 10
-DTSTART:20251007T111500Z
-SUMMARY:Projekty europejskie (konwersatorium do wyboru)
-UID:29471aa0-23ce-4615-b31e-e766780128b2@2947.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Oskar Kosch
-DTEND:20251015T110000Z
-DTSTART:20251015T093000Z
-SUMMARY:Projektowanie systemów informacyjno-decyzyjnych (Przeniesienie zajęć)
-UID:c4243cd2-82f9-458a-a0d7-5ccaa9d3522a@c424.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bogdan Rogoda
-DTEND:20251209T134500Z
-LOCATION:Paw.S sala 10
-DTSTART:20251209T121500Z
-SUMMARY:Projekty europejskie (konwersatorium do wyboru)
-UID:ae13ff3a-cc04-4f14-b6eb-8526bf9c1bd5@ae13.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Oskar Kosch
-DTEND:20260107T120000Z
-LOCATION:Paw.A 07 lab. Win7\, Office21
-DTSTART:20260107T103000Z
-SUMMARY:Projektowanie systemów informacyjno-decyzyjnych (konwersatorium)
-UID:e9c29cde-4331-446c-8dc0-ce168f15f467@e9c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
-DTEND:20251216T083000Z
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Światowiec-Szczepańska
+DTEND:20251103T134500Z
 LOCATION:link do zajęć
-DTSTART:20251216T074500Z
-SUMMARY:Zarządzanie kapitałem intelektualnym (wykład)
-UID:9eab6b94-d844-4e93-a334-d89abe81f1cc@9eab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Edyta Bielińska-Dusza
-DTEND:20260113T153000Z
-LOCATION:Paw.F CJ 210
-DTSTART:20260113T140000Z
-SUMMARY:Transformacja cyfrowa przedsiębiorstw (konwersatorium)
-UID:ba669cf4-298e-4906-98a2-d004bc11ba9f@ba66.org
+DTSTART:20251103T121500Z
+SUMMARY:Zrównoważona konkurencyjność przedsiębiorstw (wykład do wyboru)
+UID:03569cdb-ffef-4bc9-af81-6d74a18863eb@0356.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Ireneusz Rynduch
@@ -54,560 +15,7 @@ DTEND:20251016T143000Z
 LOCATION:Platforma Moodle
 DTSTART:20251016T130000Z
 SUMMARY:Przywództwo i partnerstwo strategiczne (Ćwiczenia e-learningowe)
-UID:2af6a93b-0038-48b0-bbf8-8eb72785e095@2af6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Zbigniew Borek
-DTEND:20251217T190000Z
-LOCATION:link do zajęć
-DTSTART:20251217T173000Z
-SUMMARY:Zarządzanie zdrowym stylem życia (wykład do wyboru)
-UID:05694523-2b68-4330-a2bd-a19878ca8970@0569.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Monika Knefel
-DTEND:20251027T120000Z
-DTSTART:20251027T103000Z
-SUMMARY:Przywództwo i partnerstwo strategiczne (Przeniesienie zajęć)
-UID:a017503f-9513-4dac-9d90-38c06e92fcaa@a017.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Teczke
-DTEND:20251215T120000Z
-LOCATION:link do zajęć
-DTSTART:20251215T103000Z
-SUMMARY:Zwinne zarządzanie (wykład)
-UID:05169212-cd12-47f4-96b3-525924abec60@0516.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bogdan Rogoda
-DTEND:20251202T134500Z
-LOCATION:Paw.S sala 10
-DTSTART:20251202T121500Z
-SUMMARY:Projekty europejskie (konwersatorium do wyboru)
-UID:e5d04b33-109a-4280-a0be-8c735666f710@e5d0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bogdan Rogoda
-DTEND:20251118T134500Z
-LOCATION:Paw.S sala 10
-DTSTART:20251118T121500Z
-SUMMARY:Projekty europejskie (konwersatorium do wyboru)
-UID:1e516b19-56e3-4230-9351-e24e6fb2b5b4@1e51.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Oskar Kosch
-DTEND:20251217T120000Z
-LOCATION:Paw.A 07 lab. Win7\, Office21
-DTSTART:20251217T103000Z
-SUMMARY:Projektowanie systemów informacyjno-decyzyjnych (konwersatorium)
-UID:2c0e7ece-2437-42ba-bbcc-a8d00b9d1e86@2c0e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
-DTEND:20251014T143000Z
-LOCATION:Bud.gł. 2
-DTSTART:20251014T130000Z
-SUMMARY:Zarządzanie kapitałem intelektualnym (ćwiczenia)
-UID:ecb83083-3adc-4527-b13a-316fb2cc5179@ecb8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Światowiec-Szczepańska
-DTEND:20251103T134500Z
-LOCATION:link do zajęć
-DTSTART:20251103T121500Z
-SUMMARY:Zrównoważona konkurencyjność przedsiębiorstw (wykład do wyboru)
-UID:946ba857-7f17-4d82-bd3f-ac8c18a5f097@946b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bogdan Rogoda
-DTEND:20260113T134500Z
-LOCATION:Paw.S sala 10
-DTSTART:20260113T121500Z
-SUMMARY:Projekty europejskie (konwersatorium do wyboru)
-UID:4266d3b2-4753-4e5c-bc31-d86a44cf4602@4266.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Ireneusz Rynduch
-DTEND:20251030T153000Z
-LOCATION:Platforma Moodle
-DTSTART:20251030T140000Z
-SUMMARY:Przywództwo i partnerstwo strategiczne (Ćwiczenia e-learningowe)
-UID:41240b44-2803-40e8-a6ba-8ac0a27b8535@4124.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
-DTEND:20251007T073000Z
-DTSTART:20251007T060000Z
-SUMMARY:Zarządzanie kapitałem intelektualnym (wykład)
-UID:827bd543-f5aa-44a8-bb7f-4df06a3585e6@827b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Teczke
-DTEND:20251113T171500Z
-LOCATION:Paw.B 052 (KSB)
-DTSTART:20251113T154500Z
-SUMMARY:Zwinne zarządzanie (ćwiczenia)
-UID:60992827-0b76-4edd-8088-79d6eb9283af@6099.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bogdan Rogoda
-DTEND:20251216T134500Z
-LOCATION:Paw.S sala 10
-DTSTART:20251216T121500Z
-SUMMARY:Projekty europejskie (konwersatorium do wyboru)
-UID:2625046c-bf5e-4e6d-8af1-fea20a3e85c5@2625.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Ireneusz Rynduch
-DTEND:20251113T153000Z
-LOCATION:Platforma Moodle
-DTSTART:20251113T140000Z
-SUMMARY:Przywództwo i partnerstwo strategiczne (Ćwiczenia e-learningowe)
-UID:99c47b9d-50c7-4545-a087-8c17e1b5efa6@99c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Ireneusz Rynduch
-DTEND:20260108T144500Z
-LOCATION:Paw.F CJ 211
-DTSTART:20260108T140000Z
-SUMMARY:Przywództwo i partnerstwo strategiczne (ćwiczenia)
-UID:2963ce79-85e1-4d97-88fb-4c5ba4100581@2963.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bogdan Rogoda
-DTEND:20251014T124500Z
-LOCATION:Paw.S sala 10
-DTSTART:20251014T111500Z
-SUMMARY:Projekty europejskie (konwersatorium do wyboru)
-UID:ee33f158-62f6-4dd1-b582-157b665977de@ee33.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bogdan Rogoda
-DTEND:20251028T134500Z
-LOCATION:Paw.S sala 10
-DTSTART:20251028T121500Z
-SUMMARY:Projekty europejskie (konwersatorium do wyboru)
-UID:e6576f6e-4e98-4780-bc95-ecb8708e5824@e657.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Teczke
-DTEND:20260112T120000Z
-LOCATION:link do zajęć
-DTSTART:20260112T103000Z
-SUMMARY:Zwinne zarządzanie (wykład)
-UID:5c802c17-fbef-4c30-b588-e94d70e2fae3@5c80.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Monika Knefel
-DTEND:20251013T110000Z
-DTSTART:20251013T093000Z
-SUMMARY:Przywództwo i partnerstwo strategiczne (wykład)
-UID:4d09aca9-8efb-47b7-83d9-e9010802c782@4d09.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
-DTEND:20251021T073000Z
-DTSTART:20251021T060000Z
-SUMMARY:Zarządzanie kapitałem intelektualnym (wykład)
-UID:9574a7d9-0645-429f-9c6f-805e79992cb2@9574.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
-DTEND:20251209T153000Z
-LOCATION:Bud.gł. 2
-DTSTART:20251209T140000Z
-SUMMARY:Zarządzanie kapitałem intelektualnym (ćwiczenia)
-UID:37a89c11-4299-4495-8bc0-7eeee665e45e@37a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Oskar Kosch
-DTEND:20251202T171500Z
-LOCATION:Paw.U sala T (Kat. ZKL)
-DTSTART:20251202T154500Z
-SUMMARY:Projektowanie systemów informacyjno-decyzyjnych (konwersatorium)
-UID:5d9742c2-315a-4fd7-89c6-fa8f171252ae@5d97.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Monika Knefel
-DTEND:20260112T101500Z
-LOCATION:link do zajęć
-DTSTART:20260112T093000Z
-SUMMARY:Przywództwo i partnerstwo strategiczne (wykład)
-UID:0f75a643-8570-4a6b-8587-e4a16e6e6da6@0f75.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Teczke
-DTEND:20251030T171500Z
-LOCATION:Paw.B 052 (KSB)
-DTSTART:20251030T154500Z
-SUMMARY:Zwinne zarządzanie (ćwiczenia)
-UID:e2c6565a-2c6c-466b-8651-27f156da17f2@e2c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Światowiec-Szczepańska
-DTEND:20251215T134500Z
-LOCATION:link do zajęć
-DTSTART:20251215T121500Z
-SUMMARY:Zrównoważona konkurencyjność przedsiębiorstw (wykład do wyboru)
-UID:c00bf69e-49c5-445f-833f-05cb7ca9c2f8@c00b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Zbigniew Borek
-DTEND:20251119T190000Z
-LOCATION:link do zajęć
-DTSTART:20251119T173000Z
-SUMMARY:Zarządzanie zdrowym stylem życia (wykład do wyboru)
-UID:7a0972bb-1e78-4d28-94bf-813e95f25cba@7a09.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
-DTEND:20260127T101500Z
-LOCATION:Paw.B 151
-DTSTART:20260127T084500Z
-SUMMARY:Zarządzanie kapitałem intelektualnym (egzamin)
-UID:80900055-9d84-4fc4-9b03-46c77ec67d86@8090.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
-DTEND:20251125T083000Z
-LOCATION:link do zajęć
-DTSTART:20251125T070000Z
-SUMMARY:Zarządzanie kapitałem intelektualnym (wykład)
-UID:5e982e06-10b6-4a45-950d-50bf239f1f51@5e98.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Edyta Bielińska-Dusza
-DTEND:20251027T153000Z
-LOCATION:Bud.gł. 4
-DTSTART:20251027T140000Z
-SUMMARY:Transformacja cyfrowa przedsiębiorstw (konwersatorium)
-UID:0d316ec4-e836-490a-a5e8-5f752d593bc2@0d31.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Teczke
-DTEND:20251103T120000Z
-LOCATION:link do zajęć
-DTSTART:20251103T103000Z
-SUMMARY:Zwinne zarządzanie (wykład)
-UID:feef68da-afd4-4c66-8ec0-6561a67fac36@feef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Oskar Kosch
-DTEND:20251008T110000Z
-LOCATION:Paw.A 07 lab. Win7\, Office21
-DTSTART:20251008T093000Z
-SUMMARY:Projektowanie systemów informacyjno-decyzyjnych (konwersatorium)
-UID:ce9967f0-072a-401b-94b1-6c07b2b1fc3d@ce99.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Edyta Bielińska-Dusza
-DTEND:20251124T171500Z
-LOCATION:Bud.gł. 4
-DTSTART:20251124T154500Z
-SUMMARY:Transformacja cyfrowa przedsiębiorstw (konwersatorium)
-UID:afc45e99-0290-4cdf-831e-009861b96764@afc4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Teczke
-DTEND:20260119T101500Z
-LOCATION:link do zajęć
-DTSTART:20260119T093000Z
-SUMMARY:Zwinne zarządzanie (wykład)
-UID:33aa7dbc-da77-4b8a-a747-214248c55545@33aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
-DTEND:20251209T083000Z
-LOCATION:link do zajęć
-DTSTART:20251209T070000Z
-SUMMARY:Zarządzanie kapitałem intelektualnym (wykład)
-UID:31424668-ae9b-42f4-a63e-f044c36b741d@3142.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bogdan Rogoda
-DTEND:20251021T124500Z
-LOCATION:Paw.S sala 10
-DTSTART:20251021T111500Z
-SUMMARY:Projekty europejskie (konwersatorium do wyboru)
-UID:c6f51aa9-bfe7-4910-a591-29e5019b30dd@c6f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
-DTEND:20251014T110000Z
-DTSTART:20251014T093000Z
-SUMMARY:Zarządzanie kapitałem intelektualnym (Przeniesienie zajęć)
-UID:88f29162-fecf-466d-86d1-ca1df8eb8e66@88f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
-DTEND:20251202T083000Z
-LOCATION:link do zajęć
-DTSTART:20251202T070000Z
-SUMMARY:Zarządzanie kapitałem intelektualnym (wykład)
-UID:22bfe482-7f6e-4e88-9cce-782abf946318@22bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Teczke
-DTEND:20251016T161500Z
-LOCATION:Paw.B 052 (KSB)
-DTSTART:20251016T144500Z
-SUMMARY:Zwinne zarządzanie (ćwiczenia)
-UID:08b05969-58ea-401d-9d20-e60e60a47ff6@08b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Światowiec-Szczepańska
-DTEND:20251201T134500Z
-LOCATION:link do zajęć
-DTSTART:20251201T121500Z
-SUMMARY:Zrównoważona konkurencyjność przedsiębiorstw (wykład do wyboru)
-UID:27341bd3-02a1-47c3-a2f1-0117f9094620@2734.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Edyta Bielińska-Dusza
-DTEND:20251201T171500Z
-LOCATION:Bud.gł. 4
-DTSTART:20251201T154500Z
-SUMMARY:Transformacja cyfrowa przedsiębiorstw (konwersatorium)
-UID:83ce6537-6a7d-4fa0-8bc4-919cda4568ae@83ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Edyta Bielińska-Dusza
-DTEND:20251215T171500Z
-LOCATION:Bud.gł. 4
-DTSTART:20251215T154500Z
-SUMMARY:Transformacja cyfrowa przedsiębiorstw (konwersatorium)
-UID:61160395-b2a6-491f-ab49-ad8a5ac77776@6116.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251016T123000Z
-DTSTART:20251016T093000Z
-SUMMARY: (rezerwacja)
-UID:914a27ab-119f-490b-b433-11d73840a89d@914a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bogdan Rogoda
-DTEND:20251209T171500Z
-LOCATION:Paw.C sala A
-DTSTART:20251209T154500Z
-SUMMARY:Projekty europejskie (konwersatorium do wyboru)
-UID:33819a07-55ba-4f87-b30c-d52a46667af6@3381.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Monika Knefel
-DTEND:20251208T120000Z
-LOCATION:link do zajęć
-DTSTART:20251208T103000Z
-SUMMARY:Przywództwo i partnerstwo strategiczne (wykład)
-UID:9a3b7bd1-df6c-4aac-ace7-3415f577aacc@9a3b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Edyta Bielińska-Dusza
-DTEND:20251103T171500Z
-LOCATION:Bud.gł. 4
-DTSTART:20251103T154500Z
-SUMMARY:Transformacja cyfrowa przedsiębiorstw (konwersatorium)
-UID:dd323323-c142-4241-ad5c-a575ca0e9e57@dd32.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Monika Knefel
-DTEND:20251124T120000Z
-LOCATION:link do zajęć
-DTSTART:20251124T103000Z
-SUMMARY:Przywództwo i partnerstwo strategiczne (wykład)
-UID:5a7aa514-fe39-4f2b-a820-d8dec79cf083@5a7a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Teczke
-DTEND:20251002T161500Z
-LOCATION:Paw.B 052 (KSB)
-DTSTART:20251002T144500Z
-SUMMARY:Zwinne zarządzanie (ćwiczenia)
-UID:49857f5b-eb63-4e21-9e22-65356cf6bba9@4985.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Monika Knefel
-DTEND:20251222T120000Z
-LOCATION:link do zajęć
-DTSTART:20251222T103000Z
-SUMMARY:Przywództwo i partnerstwo strategiczne (wykład)
-UID:ed1efeec-8885-499d-af44-8f849440b1c8@ed1e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
-DTEND:20260108T181500Z
-LOCATION:Bud.gł. 4
-DTSTART:20260108T173000Z
-SUMMARY:Zarządzanie kapitałem intelektualnym (ćwiczenia)
-UID:54651603-4544-4661-a3d3-e3104c1ceb1c@5465.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Światowiec-Szczepańska
-DTEND:20260112T134500Z
-LOCATION:link do zajęć
-DTSTART:20260112T121500Z
-SUMMARY:Zrównoważona konkurencyjność przedsiębiorstw (wykład do wyboru)
-UID:d8d911bc-9e11-464d-8f42-526322503f7c@d8d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Ireneusz Rynduch
-DTEND:20251127T153000Z
-LOCATION:Paw.F CJ 211
-DTSTART:20251127T140000Z
-SUMMARY:Przywództwo i partnerstwo strategiczne (ćwiczenia)
-UID:e51d0edf-63c6-4232-9016-26d55a34791a@e51d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Edyta Bielińska-Dusza
-DTEND:20251208T171500Z
-LOCATION:Bud.gł. 4
-DTSTART:20251208T154500Z
-SUMMARY:Transformacja cyfrowa przedsiębiorstw (konwersatorium)
-UID:0d234446-c665-458e-a12e-01bac4a0e6ed@0d23.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Teczke
-DTEND:20260108T163000Z
-LOCATION:Paw.B 052 (KSB)
-DTSTART:20260108T154500Z
-SUMMARY:Zwinne zarządzanie (ćwiczenia)
-UID:61000723-0813-4d5e-aa68-d4be7d8b6815@6100.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Zbigniew Borek
-DTEND:20251203T190000Z
-LOCATION:link do zajęć
-DTSTART:20251203T173000Z
-SUMMARY:Zarządzanie zdrowym stylem życia (wykład do wyboru)
-UID:d45ab2b6-8a08-43e6-ac8d-1f0d0411c830@d45a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Teczke
-DTEND:20251201T120000Z
-LOCATION:link do zajęć
-DTSTART:20251201T103000Z
-SUMMARY:Zwinne zarządzanie (wykład)
-UID:9e81ea77-5a1a-480a-b24f-f10df75964f3@9e81.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Edyta Bielińska-Dusza
-DTEND:20260112T171500Z
-LOCATION:Bud.gł. 4
-DTSTART:20260112T154500Z
-SUMMARY:Transformacja cyfrowa przedsiębiorstw (konwersatorium)
-UID:4ae93216-94c7-4893-9718-96df36748f00@4ae9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Ireneusz Rynduch
-DTEND:20251002T143000Z
-LOCATION:Paw.F CJ 211
-DTSTART:20251002T130000Z
-SUMMARY:Przywództwo i partnerstwo strategiczne (ćwiczenia)
-UID:dadb5144-bab2-44eb-9738-1ac753b04342@dadb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Edyta Bielińska-Dusza
-DTEND:20260119T171500Z
-LOCATION:Bud.gł. 4
-DTSTART:20260119T154500Z
-SUMMARY:Transformacja cyfrowa przedsiębiorstw (konwersatorium)
-UID:cbb13827-c0f2-4c13-a639-fd21378340a3@cbb1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Zbigniew Borek
-DTEND:20260114T181500Z
-LOCATION:link do zajęć
-DTSTART:20260114T173000Z
-SUMMARY:Zarządzanie zdrowym stylem życia (wykład do wyboru)
-UID:c5870f7d-f2d6-4d8c-97f6-e9bc98ce06fa@c587.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
-DTEND:20251104T083000Z
-LOCATION:link do zajęć
-DTSTART:20251104T070000Z
-SUMMARY:Zarządzanie kapitałem intelektualnym (wykład)
-UID:3ae0aecf-453e-493a-9151-1f7313c0b6c7@3ae0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bogdan Rogoda
-DTEND:20251104T134500Z
-LOCATION:Paw.S sala 10
-DTSTART:20251104T121500Z
-SUMMARY:Projekty europejskie (konwersatorium do wyboru)
-UID:328bddca-ea78-45b2-ab47-160da2d293a3@328b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bogdan Rogoda
-DTEND:20251125T134500Z
-LOCATION:Paw.S sala 10
-DTSTART:20251125T121500Z
-SUMMARY:Projekty europejskie (konwersatorium do wyboru)
-UID:48464aff-8483-4271-8ec8-935822963df4@4846.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Zbigniew Borek
-DTEND:20251105T190000Z
-LOCATION:link do zajęć
-DTSTART:20251105T173000Z
-SUMMARY:Zarządzanie zdrowym stylem życia (wykład do wyboru)
-UID:07d6d227-4b89-4617-a902-7642a84c8a44@07d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Oskar Kosch
-DTEND:20260120T171500Z
-LOCATION:Paw.U sala T (Kat. ZKL)
-DTSTART:20260120T154500Z
-SUMMARY:Projektowanie systemów informacyjno-decyzyjnych (konwersatorium)
-UID:4778eb76-dc90-4603-9885-9f5d78da227e@4778.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
-DTEND:20251210T153000Z
-LOCATION:Paw.F CJ 012
-DTSTART:20251210T140000Z
-SUMMARY:Zarządzanie kapitałem intelektualnym (ćwiczenia)
-UID:8eacb460-d4ec-4aaa-9860-3d6d1050a75b@8eac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Światowiec-Szczepańska
-DTEND:20251020T124500Z
-DTSTART:20251020T111500Z
-SUMMARY:Zrównoważona konkurencyjność przedsiębiorstw (wykład do wyboru)
-UID:cedd44be-e860-4f40-bc30-7a7d0546f911@cedd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Oskar Kosch
-DTEND:20251104T171500Z
-LOCATION:Paw.U sala T (Kat. ZKL)
-DTSTART:20251104T154500Z
-SUMMARY:Projektowanie systemów informacyjno-decyzyjnych (konwersatorium)
-UID:c1a0e100-e767-441f-aa3e-255bf492e69c@c1a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Oskar Kosch
-DTEND:20260113T171500Z
-LOCATION:Paw.U sala T (Kat. ZKL)
-DTSTART:20260113T154500Z
-SUMMARY:Projektowanie systemów informacyjno-decyzyjnych (konwersatorium)
-UID:9b24d58c-d2b8-4ea4-bbba-9dc15bde0d9d@9b24.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Światowiec-Szczepańska
-DTEND:20251117T134500Z
-LOCATION:link do zajęć
-DTSTART:20251117T121500Z
-SUMMARY:Zrównoważona konkurencyjność przedsiębiorstw (wykład do wyboru)
-UID:9076ebd4-fb00-44e4-b0b0-90caf73e6b76@9076.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Oskar Kosch
-DTEND:20251001T110000Z
-LOCATION:Paw.A 07 lab. Win7\, Office21
-DTSTART:20251001T093000Z
-SUMMARY:Projektowanie systemów informacyjno-decyzyjnych (konwersatorium)
-UID:f6958aac-c515-420e-933c-fcb993412755@f695.org
+UID:77ea7c01-3903-4437-b0cd-c14f405d756d@77ea.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
@@ -615,99 +23,7 @@ DTEND:20251125T153000Z
 LOCATION:Bud.gł. 2
 DTSTART:20251125T140000Z
 SUMMARY:Zarządzanie kapitałem intelektualnym (ćwiczenia)
-UID:d7168536-7ba2-49f8-a483-e3fc4968f0e9@d716.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Teczke
-DTEND:20251020T110000Z
-DTSTART:20251020T093000Z
-SUMMARY:Zwinne zarządzanie (wykład)
-UID:76efdfbe-acf5-42e6-b895-fa254d5efeca@76ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Zbigniew Borek
-DTEND:20251008T180000Z
-DTSTART:20251008T163000Z
-SUMMARY:Zarządzanie zdrowym stylem życia (wykład do wyboru)
-UID:1c726235-c841-4dc1-8778-fb7876af57b2@1c72.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Oskar Kosch
-DTEND:20251125T171500Z
-LOCATION:Paw.U sala T (Kat. ZKL)
-DTSTART:20251125T154500Z
-SUMMARY:Projektowanie systemów informacyjno-decyzyjnych (konwersatorium)
-UID:11f59e69-45be-4799-8266-f52690fe0e0e@11f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
-DTEND:20251028T153000Z
-LOCATION:Bud.gł. 2
-DTSTART:20251028T140000Z
-SUMMARY:Zarządzanie kapitałem intelektualnym (ćwiczenia)
-UID:1739e5a0-5d8e-426c-b172-05bb44e4ccae@1739.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Oskar Kosch
-DTEND:20251021T161500Z
-LOCATION:Paw.U sala T (Kat. ZKL)
-DTSTART:20251021T144500Z
-SUMMARY:Projektowanie systemów informacyjno-decyzyjnych (konwersatorium)
-UID:1f7cb490-7579-4b55-9623-28140bed096b@1f7c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Monika Knefel
-DTEND:20251027T134500Z
-LOCATION:link do zajęć
-DTSTART:20251027T121500Z
-SUMMARY:Przywództwo i partnerstwo strategiczne (wykład)
-UID:090dfda0-04af-4176-b818-9cd8a9517ac3@090d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251217T134500Z
-DTSTART:20251217T121500Z
-SUMMARY: (rezerwacja)
-UID:76457bbf-967b-478c-b95b-54691ae7a786@7645.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Monika Knefel
-DTEND:20260119T120000Z
-LOCATION:link do zajęć
-DTSTART:20260119T103000Z
-SUMMARY:Przywództwo i partnerstwo strategiczne (wykład)
-UID:eea85af8-2c29-4e7e-83ed-595550200516@eea8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Światowiec-Szczepańska
-DTEND:20260112T144500Z
-LOCATION:link do zajęć
-DTSTART:20260112T140000Z
-SUMMARY:Zrównoważona konkurencyjność przedsiębiorstw (wykład do wyboru)
-UID:5d5549ac-4d30-426a-9d3e-8ae49e708dae@5d55.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Zbigniew Borek
-DTEND:20251022T180000Z
-DTSTART:20251022T163000Z
-SUMMARY:Zarządzanie zdrowym stylem życia (wykład do wyboru)
-UID:67174d37-d06b-4455-9067-5f72bdd866c1@6717.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Teczke
-DTEND:20251117T120000Z
-LOCATION:link do zajęć
-DTSTART:20251117T103000Z
-SUMMARY:Zwinne zarządzanie (wykład)
-UID:032d9669-1909-4dde-a399-213012227747@032d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Oskar Kosch
-DTEND:20251216T171500Z
-LOCATION:Paw.U sala T (Kat. ZKL)
-DTSTART:20251216T154500Z
-SUMMARY:Projektowanie systemów informacyjno-decyzyjnych (konwersatorium)
-UID:bcd7c155-dc8e-4443-aaf6-b654a1c6db0c@bcd7.org
+UID:7ee6018b-22f6-4391-ace3-46d8b4ea1702@7ee6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Edyta Bielińska-Dusza
@@ -715,55 +31,15 @@ DTEND:20251222T171500Z
 LOCATION:Bud.gł. 4
 DTSTART:20251222T154500Z
 SUMMARY:Transformacja cyfrowa przedsiębiorstw (konwersatorium)
-UID:f5572085-5e4f-4619-b2a6-ebd5a395d50e@f557.org
+UID:78a1455a-1458-46b6-acc6-eeade8edbd26@78a1.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Teczke
-DTEND:20251127T171500Z
-LOCATION:Paw.B 052 (KSB)
-DTSTART:20251127T154500Z
-SUMMARY:Zwinne zarządzanie (ćwiczenia)
-UID:da6fc5eb-dae5-436f-9120-15dff7c9ec90@da6f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bogdan Rogoda
-DTEND:20260120T134500Z
-LOCATION:Paw.S sala 10
-DTSTART:20260120T121500Z
-SUMMARY:Projekty europejskie (konwersatorium do wyboru)
-UID:17182ea6-023a-4a71-81d6-48e17c831473@1718.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Oskar Kosch
-DTEND:20251014T161500Z
-LOCATION:Paw.U sala T (Kat. ZKL)
-DTSTART:20251014T144500Z
-SUMMARY:Projektowanie systemów informacyjno-decyzyjnych (konwersatorium)
-UID:1716f8aa-1887-4630-b6f2-602537b2eed0@1716.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Oskar Kosch
-DTEND:20251028T171500Z
-LOCATION:Paw.U sala T (Kat. ZKL)
-DTSTART:20251028T154500Z
-SUMMARY:Projektowanie systemów informacyjno-decyzyjnych (konwersatorium)
-UID:50f30c67-9f2e-4f7a-afe5-bbaa96320472@50f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Edyta Bielińska-Dusza
-DTEND:20251027T171500Z
-LOCATION:Bud.gł. 4
-DTSTART:20251027T154500Z
-SUMMARY:Transformacja cyfrowa przedsiębiorstw (konwersatorium)
-UID:a503248e-2ba6-43d3-863a-44d74040aad4@a503.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Edyta Bielińska-Dusza
-DTEND:20251013T161500Z
-LOCATION:Bud.gł. 4
-DTSTART:20251013T144500Z
-SUMMARY:Transformacja cyfrowa przedsiębiorstw (konwersatorium)
-UID:7a3856e8-6a9a-4742-8afb-d716232c73f7@7a38.org
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20251014T143000Z
+LOCATION:Bud.gł. 2
+DTSTART:20251014T130000Z
+SUMMARY:Zarządzanie kapitałem intelektualnym (ćwiczenia)
+UID:2fb977a4-52d3-48a1-b9db-634a8701b908@2fb9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Edyta Bielińska-Dusza
@@ -771,15 +47,370 @@ DTEND:20251117T171500Z
 LOCATION:Bud.gł. 4
 DTSTART:20251117T154500Z
 SUMMARY:Transformacja cyfrowa przedsiębiorstw (konwersatorium)
-UID:4a3b1524-d089-4441-be9d-06d56b8fcb2b@4a3b.org
+UID:6087035b-d30e-4e11-881c-a4169956fd20@6087.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Knefel
+DTEND:20251013T110000Z
+DTSTART:20251013T093000Z
+SUMMARY:Przywództwo i partnerstwo strategiczne (wykład)
+UID:6e761f8c-ced8-40f6-8592-6850e0b782e8@6e76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Bielińska-Dusza
+DTEND:20251215T171500Z
+LOCATION:Bud.gł. 4
+DTSTART:20251215T154500Z
+SUMMARY:Transformacja cyfrowa przedsiębiorstw (konwersatorium)
+UID:0b34dd22-6d5b-4f14-8ba4-028ddaf17913@0b34.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Teczke
+DTEND:20251127T171500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20251127T154500Z
+SUMMARY:Zwinne zarządzanie (ćwiczenia)
+UID:bfb37a9d-3f01-4970-b5dc-ff141496fbd9@bfb3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogdan Rogoda
+DTEND:20260120T134500Z
+LOCATION:Paw.S sala 10
+DTSTART:20260120T121500Z
+SUMMARY:Projekty europejskie (konwersatorium do wyboru)
+UID:8fd13e10-c26b-4077-b1aa-1af37cccef33@8fd1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Kosch
+DTEND:20251021T161500Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20251021T144500Z
+SUMMARY:Projektowanie systemów informacyjno-decyzyjnych (konwersatorium)
+UID:384183a0-2625-4901-b39f-4455ea7a0a9e@3841.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Knefel
+DTEND:20260119T120000Z
+LOCATION:link do zajęć
+DTSTART:20260119T103000Z
+SUMMARY:Przywództwo i partnerstwo strategiczne (wykład)
+UID:d7b45e25-d4ea-4877-aa7e-cd403e1460e9@d7b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Bielińska-Dusza
+DTEND:20260119T171500Z
+LOCATION:Bud.gł. 4
+DTSTART:20260119T154500Z
+SUMMARY:Transformacja cyfrowa przedsiębiorstw (konwersatorium)
+UID:c2703b34-c9fd-4efa-8d61-29f43693a416@c270.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogdan Rogoda
+DTEND:20251216T134500Z
+LOCATION:Paw.S sala 10
+DTSTART:20251216T121500Z
+SUMMARY:Projekty europejskie (konwersatorium do wyboru)
+UID:2274c02a-ce82-4644-8111-eb30bcf31a23@2274.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Teczke
+DTEND:20251002T161500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20251002T144500Z
+SUMMARY:Zwinne zarządzanie (ćwiczenia)
+UID:48d1c20e-9b03-4093-afc3-e65736f4fd8c@48d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogdan Rogoda
+DTEND:20251007T124500Z
+LOCATION:Paw.S sala 10
+DTSTART:20251007T111500Z
+SUMMARY:Projekty europejskie (konwersatorium do wyboru)
+UID:7b7ae010-c2a7-4974-b9ac-60b30c33caf4@7b7a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20251028T153000Z
+LOCATION:Bud.gł. 2
+DTSTART:20251028T140000Z
+SUMMARY:Zarządzanie kapitałem intelektualnym (ćwiczenia)
+UID:bb6b8062-9fb0-4428-b496-cc8d68e7bce4@bb6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Kosch
+DTEND:20251104T171500Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20251104T154500Z
+SUMMARY:Projektowanie systemów informacyjno-decyzyjnych (konwersatorium)
+UID:0945d160-8460-4987-b877-5ac722de5449@0945.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Borek
+DTEND:20251008T180000Z
+DTSTART:20251008T163000Z
+SUMMARY:Zarządzanie zdrowym stylem życia (wykład do wyboru)
+UID:ba46dee5-12e7-4cc3-861a-382d6fd9e917@ba46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Bielińska-Dusza
+DTEND:20251208T171500Z
+LOCATION:Bud.gł. 4
+DTSTART:20251208T154500Z
+SUMMARY:Transformacja cyfrowa przedsiębiorstw (konwersatorium)
+UID:d6c675bf-e53e-4fc0-a5c0-72c5c10faf16@d6c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Bielińska-Dusza
+DTEND:20251027T153000Z
+LOCATION:Bud.gł. 4
+DTSTART:20251027T140000Z
+SUMMARY:Transformacja cyfrowa przedsiębiorstw (konwersatorium)
+UID:99fa3c90-71c1-4768-98c2-4f2fa4845d13@99fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Bielińska-Dusza
+DTEND:20251013T161500Z
+LOCATION:Bud.gł. 4
+DTSTART:20251013T144500Z
+SUMMARY:Transformacja cyfrowa przedsiębiorstw (konwersatorium)
+UID:ac446c58-a843-4325-ae26-52a6359035f4@ac44.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Kosch
+DTEND:20260107T120000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20260107T103000Z
+SUMMARY:Projektowanie systemów informacyjno-decyzyjnych (konwersatorium)
+UID:f7aefc2c-066b-45f5-abaf-428ddffb3662@f7ae.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Ireneusz Rynduch
-DTEND:20251211T153000Z
-LOCATION:Platforma Moodle
-DTSTART:20251211T140000Z
-SUMMARY:Przywództwo i partnerstwo strategiczne (Ćwiczenia e-learningowe)
-UID:ea3faa6b-c7e6-495a-b60e-79672a684e15@ea3f.org
+DTEND:20260108T144500Z
+LOCATION:Paw.F CJ 211
+DTSTART:20260108T140000Z
+SUMMARY:Przywództwo i partnerstwo strategiczne (ćwiczenia)
+UID:661db0c0-40f7-4dc0-8cfd-966c77d815ab@661d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20251007T073000Z
+DTSTART:20251007T060000Z
+SUMMARY:Zarządzanie kapitałem intelektualnym (wykład)
+UID:a13fa43c-b014-4bfb-9d4c-130af81b2945@a13f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Teczke
+DTEND:20260108T163000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20260108T154500Z
+SUMMARY:Zwinne zarządzanie (ćwiczenia)
+UID:08796cc1-3fd3-460a-988a-ec08e07dd3ce@0879.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogdan Rogoda
+DTEND:20251125T134500Z
+LOCATION:Paw.S sala 10
+DTSTART:20251125T121500Z
+SUMMARY:Projekty europejskie (konwersatorium do wyboru)
+UID:827334b4-9328-4eac-aea7-116eb6c6bb94@8273.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Knefel
+DTEND:20251208T120000Z
+LOCATION:link do zajęć
+DTSTART:20251208T103000Z
+SUMMARY:Przywództwo i partnerstwo strategiczne (wykład)
+UID:294001e2-b37e-490c-bc8f-6f5e90ab4cad@2940.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20251209T083000Z
+LOCATION:link do zajęć
+DTSTART:20251209T070000Z
+SUMMARY:Zarządzanie kapitałem intelektualnym (wykład)
+UID:87d8bf4b-8902-4042-8228-3e77279f0b9e@87d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogdan Rogoda
+DTEND:20251202T134500Z
+LOCATION:Paw.S sala 10
+DTSTART:20251202T121500Z
+SUMMARY:Projekty europejskie (konwersatorium do wyboru)
+UID:349bb80e-6114-40f1-84b4-f209df9098ec@349b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Teczke
+DTEND:20251113T171500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20251113T154500Z
+SUMMARY:Zwinne zarządzanie (ćwiczenia)
+UID:a15f6858-1d17-434a-995a-dc485db6adf2@a15f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Teczke
+DTEND:20251117T120000Z
+LOCATION:link do zajęć
+DTSTART:20251117T103000Z
+SUMMARY:Zwinne zarządzanie (wykład)
+UID:c53362ce-126b-417d-b740-538e8a976a5e@c533.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Kosch
+DTEND:20251216T171500Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20251216T154500Z
+SUMMARY:Projektowanie systemów informacyjno-decyzyjnych (konwersatorium)
+UID:a2fd5c23-7446-4642-af3c-f812ee2e14bd@a2fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogdan Rogoda
+DTEND:20251209T134500Z
+LOCATION:Paw.S sala 10
+DTSTART:20251209T121500Z
+SUMMARY:Projekty europejskie (konwersatorium do wyboru)
+UID:38294da6-7a43-4144-a261-b8a702ff5197@3829.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Borek
+DTEND:20260114T181500Z
+LOCATION:link do zajęć
+DTSTART:20260114T173000Z
+SUMMARY:Zarządzanie zdrowym stylem życia (wykład do wyboru)
+UID:fda3545b-0633-434e-ab90-4157385dfecf@fda3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20260108T181500Z
+LOCATION:Bud.gł. 4
+DTSTART:20260108T173000Z
+SUMMARY:Zarządzanie kapitałem intelektualnym (ćwiczenia)
+UID:04ca604f-7928-4d99-81d4-64eca74216c2@04ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Kosch
+DTEND:20260113T171500Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20260113T154500Z
+SUMMARY:Projektowanie systemów informacyjno-decyzyjnych (konwersatorium)
+UID:ba9b0682-3410-42da-a05f-caa087cefebb@ba9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogdan Rogoda
+DTEND:20251118T134500Z
+LOCATION:Paw.S sala 10
+DTSTART:20251118T121500Z
+SUMMARY:Projekty europejskie (konwersatorium do wyboru)
+UID:da15f535-0f91-4df0-8d7c-cc7d787562c3@da15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Teczke
+DTEND:20260112T120000Z
+LOCATION:link do zajęć
+DTSTART:20260112T103000Z
+SUMMARY:Zwinne zarządzanie (wykład)
+UID:afbbe230-fe42-4e87-b8f1-a9ab8c630406@afbb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Knefel
+DTEND:20251222T120000Z
+LOCATION:link do zajęć
+DTSTART:20251222T103000Z
+SUMMARY:Przywództwo i partnerstwo strategiczne (wykład)
+UID:52da5352-b8f5-4143-9371-3e9055ead8f7@52da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Kosch
+DTEND:20260120T171500Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20260120T154500Z
+SUMMARY:Projektowanie systemów informacyjno-decyzyjnych (konwersatorium)
+UID:9352c364-2de7-4971-a4a2-729cb63475ee@9352.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Bielińska-Dusza
+DTEND:20251124T171500Z
+LOCATION:Bud.gł. 4
+DTSTART:20251124T154500Z
+SUMMARY:Transformacja cyfrowa przedsiębiorstw (konwersatorium)
+UID:ea4dfb2c-36ff-42ff-849a-713e6cf65c85@ea4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Bielińska-Dusza
+DTEND:20251027T171500Z
+LOCATION:Bud.gł. 4
+DTSTART:20251027T154500Z
+SUMMARY:Transformacja cyfrowa przedsiębiorstw (konwersatorium)
+UID:2cc8f90a-8fd7-47d6-aee6-9b420f231dcb@2cc8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Kosch
+DTEND:20251217T120000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20251217T103000Z
+SUMMARY:Projektowanie systemów informacyjno-decyzyjnych (konwersatorium)
+UID:16f2b0c4-9ec1-4093-b4c0-a7c071fd0170@16f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogdan Rogoda
+DTEND:20251028T134500Z
+LOCATION:Paw.S sala 10
+DTSTART:20251028T121500Z
+SUMMARY:Projekty europejskie (konwersatorium do wyboru)
+UID:cbb312b5-dfa2-4243-b2c8-3a944d0f0fbf@cbb3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Borek
+DTEND:20251105T190000Z
+LOCATION:link do zajęć
+DTSTART:20251105T173000Z
+SUMMARY:Zarządzanie zdrowym stylem życia (wykład do wyboru)
+UID:63e1a402-220e-4eac-b617-aa563f490879@63e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Borek
+DTEND:20251217T190000Z
+LOCATION:link do zajęć
+DTSTART:20251217T173000Z
+SUMMARY:Zarządzanie zdrowym stylem życia (wykład do wyboru)
+UID:2f20e385-cf20-4fd7-b97a-517ae3ffb9af@2f20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Światowiec-Szczepańska
+DTEND:20251201T134500Z
+LOCATION:link do zajęć
+DTSTART:20251201T121500Z
+SUMMARY:Zrównoważona konkurencyjność przedsiębiorstw (wykład do wyboru)
+UID:15ef9475-7979-4bb5-a45b-848b166377ea@15ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20251014T110000Z
+DTSTART:20251014T093000Z
+SUMMARY:Zarządzanie kapitałem intelektualnym (Przeniesienie zajęć)
+UID:890a003a-2306-470d-9006-928ae5dd6a52@890a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Borek
+DTEND:20251022T180000Z
+DTSTART:20251022T163000Z
+SUMMARY:Zarządzanie zdrowym stylem życia (wykład do wyboru)
+UID:8452c983-6a0a-4d36-900b-ffec31175769@8452.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Kosch
+DTEND:20251001T110000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20251001T093000Z
+SUMMARY:Projektowanie systemów informacyjno-decyzyjnych (konwersatorium)
+UID:b924d9bc-ed27-4c6a-b762-86455ec021f6@b924.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Teczke
+DTEND:20251103T120000Z
+LOCATION:link do zajęć
+DTSTART:20251103T103000Z
+SUMMARY:Zwinne zarządzanie (wykład)
+UID:3319374e-d65b-4958-aa72-91ffff332b1b@3319.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
@@ -787,7 +418,100 @@ DTEND:20251125T120000Z
 LOCATION:Paw.F CJ 311
 DTSTART:20251125T103000Z
 SUMMARY:Zarządzanie kapitałem intelektualnym (ćwiczenia)
-UID:9e6a31ff-95c7-402f-883d-dfe28289a9c4@9e6a.org
+UID:b7e472e2-7433-4f1c-8938-015164a5fb3d@b7e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Kosch
+DTEND:20251202T171500Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20251202T154500Z
+SUMMARY:Projektowanie systemów informacyjno-decyzyjnych (konwersatorium)
+UID:d2f815d6-4db0-4dad-bc02-0f9e8de7d032@d2f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20251021T073000Z
+DTSTART:20251021T060000Z
+SUMMARY:Zarządzanie kapitałem intelektualnym (wykład)
+UID:8a193396-0ca9-482c-99e9-e54e35280983@8a19.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Teczke
+DTEND:20251016T161500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20251016T144500Z
+SUMMARY:Zwinne zarządzanie (ćwiczenia)
+UID:72b839ab-cb83-4908-85c6-c24a169b2b5f@72b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Kosch
+DTEND:20251028T171500Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20251028T154500Z
+SUMMARY:Projektowanie systemów informacyjno-decyzyjnych (konwersatorium)
+UID:157f6659-4132-4da7-860b-b356bcf92f0b@157f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogdan Rogoda
+DTEND:20251104T134500Z
+LOCATION:Paw.S sala 10
+DTSTART:20251104T121500Z
+SUMMARY:Projekty europejskie (konwersatorium do wyboru)
+UID:a10ed67b-15be-441a-83ee-9a97b6438cf6@a10e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Ireneusz Rynduch
+DTEND:20251127T153000Z
+LOCATION:Paw.F CJ 211
+DTSTART:20251127T140000Z
+SUMMARY:Przywództwo i partnerstwo strategiczne (ćwiczenia)
+UID:c0aeb18f-2f17-4fba-9c2d-2372447f89ff@c0ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Bielińska-Dusza
+DTEND:20251103T171500Z
+LOCATION:Bud.gł. 4
+DTSTART:20251103T154500Z
+SUMMARY:Transformacja cyfrowa przedsiębiorstw (konwersatorium)
+UID:bff1e57e-5ba3-4986-8588-ecd7cbf7798d@bff1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Kosch
+DTEND:20251015T110000Z
+DTSTART:20251015T093000Z
+SUMMARY:Projektowanie systemów informacyjno-decyzyjnych (Przeniesienie zajęć)
+UID:681421ee-b5db-4ae9-b386-94f68af1c1f0@6814.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20251216T083000Z
+LOCATION:link do zajęć
+DTSTART:20251216T074500Z
+SUMMARY:Zarządzanie kapitałem intelektualnym (wykład)
+UID:7825eebb-5148-4a4d-b02f-f09b39b9d322@7825.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251016T123000Z
+DTSTART:20251016T093000Z
+SUMMARY: (rezerwacja)
+UID:d144c523-25b6-4ab1-9616-4787a07dab1d@d144.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20251202T083000Z
+LOCATION:link do zajęć
+DTSTART:20251202T070000Z
+SUMMARY:Zarządzanie kapitałem intelektualnym (wykład)
+UID:5778ed92-85fa-4c99-bfcd-ff060604f511@5778.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogdan Rogoda
+DTEND:20251014T124500Z
+LOCATION:Paw.S sala 10
+DTSTART:20251014T111500Z
+SUMMARY:Projekty europejskie (konwersatorium do wyboru)
+UID:1b077411-5004-4f54-8d99-4d837183df1a@1b07.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Michał Teczke
@@ -795,6 +519,282 @@ DTEND:20251211T171500Z
 LOCATION:Paw.B 052 (KSB)
 DTSTART:20251211T154500Z
 SUMMARY:Zwinne zarządzanie (ćwiczenia)
-UID:92d744e5-be5d-4f55-954d-ec28e0de8b09@92d7.org
+UID:9132fac7-40aa-4d0a-b1a2-8b6bfcd6e641@9132.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Borek
+DTEND:20251119T190000Z
+LOCATION:link do zajęć
+DTSTART:20251119T173000Z
+SUMMARY:Zarządzanie zdrowym stylem życia (wykład do wyboru)
+UID:88cbbf24-9460-4076-b3fa-dd6c4bdc7794@88cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Ireneusz Rynduch
+DTEND:20251002T143000Z
+LOCATION:Paw.F CJ 211
+DTSTART:20251002T130000Z
+SUMMARY:Przywództwo i partnerstwo strategiczne (ćwiczenia)
+UID:d4065172-a560-4ba5-86c8-3cd3d6690b4b@d406.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Teczke
+DTEND:20251030T171500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20251030T154500Z
+SUMMARY:Zwinne zarządzanie (ćwiczenia)
+UID:6951d6dc-c657-4b77-af72-506909b759c3@6951.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Światowiec-Szczepańska
+DTEND:20251020T124500Z
+DTSTART:20251020T111500Z
+SUMMARY:Zrównoważona konkurencyjność przedsiębiorstw (wykład do wyboru)
+UID:87557e88-8577-44b0-93a8-a2b654eeb96a@8755.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Teczke
+DTEND:20251215T120000Z
+LOCATION:link do zajęć
+DTSTART:20251215T103000Z
+SUMMARY:Zwinne zarządzanie (wykład)
+UID:00ae9c27-6217-4ec2-8603-62d12923db75@00ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Knefel
+DTEND:20251027T134500Z
+LOCATION:link do zajęć
+DTSTART:20251027T121500Z
+SUMMARY:Przywództwo i partnerstwo strategiczne (wykład)
+UID:e4e66da0-8f50-4aba-ad1f-a85d175c44c9@e4e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Teczke
+DTEND:20251020T110000Z
+DTSTART:20251020T093000Z
+SUMMARY:Zwinne zarządzanie (wykład)
+UID:1e8dee39-bd01-498e-bef7-764519989d42@1e8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Ireneusz Rynduch
+DTEND:20251030T153000Z
+LOCATION:Platforma Moodle
+DTSTART:20251030T140000Z
+SUMMARY:Przywództwo i partnerstwo strategiczne (Ćwiczenia e-learningowe)
+UID:576547fd-de7a-4e4c-b08d-9a54b516ae83@5765.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20251210T153000Z
+LOCATION:Paw.F CJ 012
+DTSTART:20251210T140000Z
+SUMMARY:Zarządzanie kapitałem intelektualnym (ćwiczenia)
+UID:ab03a40a-a1d1-454b-843d-941f54b9c6a7@ab03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20251209T153000Z
+LOCATION:Bud.gł. 2
+DTSTART:20251209T140000Z
+SUMMARY:Zarządzanie kapitałem intelektualnym (ćwiczenia)
+UID:bf28a721-92c5-4e7e-8895-489960bbcb42@bf28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogdan Rogoda
+DTEND:20251209T171500Z
+LOCATION:Paw.C sala A
+DTSTART:20251209T154500Z
+SUMMARY:Projekty europejskie (konwersatorium do wyboru)
+UID:de90857a-99e6-4682-b9dc-80264d5cf8e0@de90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Bielińska-Dusza
+DTEND:20260112T171500Z
+LOCATION:Bud.gł. 4
+DTSTART:20260112T154500Z
+SUMMARY:Transformacja cyfrowa przedsiębiorstw (konwersatorium)
+UID:14a43f9d-ac7f-4204-8395-028fbdde677c@14a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251217T134500Z
+DTSTART:20251217T121500Z
+SUMMARY: (rezerwacja)
+UID:4d5b80a4-8078-41eb-9706-c906af22065d@4d5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Kosch
+DTEND:20251014T161500Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20251014T144500Z
+SUMMARY:Projektowanie systemów informacyjno-decyzyjnych (konwersatorium)
+UID:547a74c5-de2c-4ee0-8447-d390fba67267@547a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogdan Rogoda
+DTEND:20260113T134500Z
+LOCATION:Paw.S sala 10
+DTSTART:20260113T121500Z
+SUMMARY:Projekty europejskie (konwersatorium do wyboru)
+UID:6285ce40-5f7c-4b15-be1f-c9e7c66a5755@6285.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Światowiec-Szczepańska
+DTEND:20260112T134500Z
+LOCATION:link do zajęć
+DTSTART:20260112T121500Z
+SUMMARY:Zrównoważona konkurencyjność przedsiębiorstw (wykład do wyboru)
+UID:d054a754-f1fc-4379-8501-8affe9e6cbc4@d054.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Światowiec-Szczepańska
+DTEND:20251117T134500Z
+LOCATION:link do zajęć
+DTSTART:20251117T121500Z
+SUMMARY:Zrównoważona konkurencyjność przedsiębiorstw (wykład do wyboru)
+UID:499f4251-da0f-4c77-9887-b4ec135173bd@499f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Światowiec-Szczepańska
+DTEND:20260112T144500Z
+LOCATION:link do zajęć
+DTSTART:20260112T140000Z
+SUMMARY:Zrównoważona konkurencyjność przedsiębiorstw (wykład do wyboru)
+UID:36d9ea1f-c532-43be-9ad9-62175c8a2fed@36d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Teczke
+DTEND:20251201T120000Z
+LOCATION:link do zajęć
+DTSTART:20251201T103000Z
+SUMMARY:Zwinne zarządzanie (wykład)
+UID:9ed2b59e-50af-4443-8d46-08c3374ac00f@9ed2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Knefel
+DTEND:20251124T120000Z
+LOCATION:link do zajęć
+DTSTART:20251124T103000Z
+SUMMARY:Przywództwo i partnerstwo strategiczne (wykład)
+UID:73808083-6f94-44e0-b485-3056f1e2f9f1@7380.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Światowiec-Szczepańska
+DTEND:20251215T134500Z
+LOCATION:link do zajęć
+DTSTART:20251215T121500Z
+SUMMARY:Zrównoważona konkurencyjność przedsiębiorstw (wykład do wyboru)
+UID:1231cbee-ca3e-487b-af33-1feee8775b31@1231.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Bielińska-Dusza
+DTEND:20260113T153000Z
+LOCATION:Paw.F CJ 210
+DTSTART:20260113T140000Z
+SUMMARY:Transformacja cyfrowa przedsiębiorstw (konwersatorium)
+UID:8d9a9cc5-2e89-4d84-b429-68dac1781c53@8d9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Bielińska-Dusza
+DTEND:20251201T171500Z
+LOCATION:Bud.gł. 4
+DTSTART:20251201T154500Z
+SUMMARY:Transformacja cyfrowa przedsiębiorstw (konwersatorium)
+UID:eab13c4b-3ace-44e7-8bbb-f3a8b4654301@eab1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20251104T083000Z
+LOCATION:link do zajęć
+DTSTART:20251104T070000Z
+SUMMARY:Zarządzanie kapitałem intelektualnym (wykład)
+UID:1d6f6058-65c7-4a17-8af5-be51eff309f6@1d6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Ireneusz Rynduch
+DTEND:20251113T153000Z
+LOCATION:Platforma Moodle
+DTSTART:20251113T140000Z
+SUMMARY:Przywództwo i partnerstwo strategiczne (Ćwiczenia e-learningowe)
+UID:4c762328-c743-42ad-a16d-8d6a660fea87@4c76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogdan Rogoda
+DTEND:20251021T124500Z
+LOCATION:Paw.S sala 10
+DTSTART:20251021T111500Z
+SUMMARY:Projekty europejskie (konwersatorium do wyboru)
+UID:bd656281-45e8-4edc-8a28-16925e487dc2@bd65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Borek
+DTEND:20251203T190000Z
+LOCATION:link do zajęć
+DTSTART:20251203T173000Z
+SUMMARY:Zarządzanie zdrowym stylem życia (wykład do wyboru)
+UID:32ae098e-127e-4e43-bcdc-587151124f3f@32ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Ireneusz Rynduch
+DTEND:20251211T153000Z
+LOCATION:Platforma Moodle
+DTSTART:20251211T140000Z
+SUMMARY:Przywództwo i partnerstwo strategiczne (Ćwiczenia e-learningowe)
+UID:c1b1de52-5b66-461e-95dd-d2fc64887d99@c1b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Teczke
+DTEND:20260119T101500Z
+LOCATION:link do zajęć
+DTSTART:20260119T093000Z
+SUMMARY:Zwinne zarządzanie (wykład)
+UID:bac6e825-6705-4821-804c-3a45cb4baa3f@bac6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Kosch
+DTEND:20251125T171500Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20251125T154500Z
+SUMMARY:Projektowanie systemów informacyjno-decyzyjnych (konwersatorium)
+UID:68757b36-c5a4-4a49-822d-bf72db4ca852@6875.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20251125T083000Z
+LOCATION:link do zajęć
+DTSTART:20251125T070000Z
+SUMMARY:Zarządzanie kapitałem intelektualnym (wykład)
+UID:c5dc7028-78ec-4dea-b63c-9be1d83c32de@c5dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Kosch
+DTEND:20251008T110000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20251008T093000Z
+SUMMARY:Projektowanie systemów informacyjno-decyzyjnych (konwersatorium)
+UID:e099404a-3a10-4d1f-a2a7-b72348b102c0@e099.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Knefel
+DTEND:20260112T101500Z
+LOCATION:link do zajęć
+DTSTART:20260112T093000Z
+SUMMARY:Przywództwo i partnerstwo strategiczne (wykład)
+UID:a682db7c-fe4d-4680-aa3f-2141ac77fcca@a682.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20260127T101500Z
+LOCATION:Paw.B 151
+DTSTART:20260127T084500Z
+SUMMARY:Zarządzanie kapitałem intelektualnym (egzamin)
+UID:6de66aad-c279-439e-b350-810d40b08ef7@6de6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Knefel
+DTEND:20251027T120000Z
+DTSTART:20251027T103000Z
+SUMMARY:Przywództwo i partnerstwo strategiczne (Przeniesienie zajęć)
+UID:6c606772-fc11-4c37-9179-f9bb415d184f@6c60.org
 END:VEVENT
 END:VCALENDAR
