@@ -2,20 +2,40 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Igor Styn
-DTEND:20260207T164500Z
+DESCRIPTION:Instructor: mgr Grzegorz Kwiatkowski
+DTEND:20251213T164500Z
 LOCATION:Zajęcia Online
-DTSTART:20260207T130000Z
+DTSTART:20251213T130000Z
+SUMMARY:Zachowania etyczne i standardy profesjonalne w bankowości i finansach (Studia podyplomowe)
+UID:7f3d4414-f68a-42f8-88b1-da3bbc98d294@7f3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Jarosz
+DTEND:20260124T164500Z
+DTSTART:20260124T130000Z
 SUMMARY:Globalny rynek finansowy (Studia podyplomowe)
-UID:e532864f-f65d-482e-b879-c4be3198b48b@e532.org
+UID:823590aa-90f0-4bd8-ab45-713bc9cc4e31@8235.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Krzysztof Kil
-DTEND:20251206T113000Z
-LOCATION:Paw.G  9
-DTSTART:20251206T074500Z
+DTEND:20260124T113000Z
+DTSTART:20260124T074500Z
 SUMMARY:Mechanizmy i instytucje stabilizujące rynek bankowy (Studia podyplomowe)
-UID:8c2528ae-c2a4-4ebb-84c1-be80a91bce09@8c25.org
+UID:8545dd07-c57e-4119-acea-1f2a7def9c08@8545.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Kil
+DTEND:20260221T164500Z
+DTSTART:20260221T130000Z
+SUMMARY:Zarządzanie ryzykiem operacyjnym\, prawnym i reputacji (Studia podyplomowe)
+UID:fd14ea92-9d1d-4101-8d0e-6f2f2b112094@fd14.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Ewa Miklaszewska
+DTEND:20260221T124500Z
+DTSTART:20260221T103000Z
+SUMMARY:Zachowania etyczne i standardy profesjonalne w bankowości i finansach (Studia podyplomowe)
+UID:e51b4b04-aa15-4b10-abef-be77dfd89931@e51b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Piotr Ubych
@@ -23,105 +43,7 @@ DTEND:20251129T113000Z
 LOCATION:Zajęcia Online
 DTSTART:20251129T074500Z
 SUMMARY:Nowe technologie w bankowości (Studia podyplomowe)
-UID:d87d8a89-a330-4b5d-b6a7-9d94b7571d10@d87d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: Prof. UJ dr hab. Piotr Łasak
-DTEND:20251122T164500Z
-LOCATION:Zajęcia Online
-DTSTART:20251122T130000Z
-SUMMARY:Zastosowanie sztucznej inteligencji w sektorze finansowym (Studia podyplomowe)
-UID:2164f4f6-4efe-4373-a1aa-591f4c6445d8@2164.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Ewa Miklaszewska
-DTEND:20251025T103000Z
-LOCATION:Paw.F 415
-DTSTART:20251025T064500Z
-SUMMARY:Zarządzanie ryzykiem operacyjnym\, prawnym i reputacji (Studia podyplomowe)
-UID:53dbb27f-4dd0-404f-a97d-cc5a98c52d71@53db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Radosław Ciukaj
-DTEND:20260221T083000Z
-DTSTART:20260221T074500Z
-SUMMARY:Egzamin semestralny (Studia podyplomowe)
-UID:c052bb68-9a5a-419f-b6b0-8d8028fbcac3@c052.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Wojciech Jarosz
-DTEND:20260124T164500Z
-DTSTART:20260124T130000Z
-SUMMARY:Globalny rynek finansowy (Studia podyplomowe)
-UID:ffdeef4d-d117-4a49-a7bd-9cdb894512a5@ffde.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: Prof. UJ dr hab. Piotr Łasak
-DTEND:20251122T113000Z
-LOCATION:Zajęcia Online
-DTSTART:20251122T074500Z
-SUMMARY:Zastosowanie sztucznej inteligencji w sektorze finansowym (Studia podyplomowe)
-UID:67f5cb46-13dd-4e40-9eea-c0065c069854@67f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Kil
-DTEND:20260124T113000Z
-DTSTART:20260124T074500Z
-SUMMARY:Mechanizmy i instytucje stabilizujące rynek bankowy (Studia podyplomowe)
-UID:9b341e28-45d5-43ba-a9eb-1a5962ab760f@9b34.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Andrzej Walitza
-DTEND:20251213T113000Z
-LOCATION:Zajęcia Online
-DTSTART:20251213T074500Z
-SUMMARY:Zarządzanie ryzykiem kredytowym i rynkowym (Studia podyplomowe)
-UID:4e6790b4-a093-41e7-9e1f-4dce0eaa92f8@4e67.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Przemysław Kulik
-DTEND:20251115T164500Z
-LOCATION:Zajęcia Online
-DTSTART:20251115T130000Z
-SUMMARY:Programy ESG i zmiany klimatyczne na rynku finansowym (Studia podyplomowe)
-UID:8d1c0333-8627-40d0-9801-acf25f9a5939@8d1c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Radosław Ciukaj
-DTEND:20260221T101500Z
-DTSTART:20260221T084500Z
-SUMMARY:Zachowania etyczne i standardy profesjonalne w bankowości i finansach (Studia podyplomowe)
-UID:dc5e60ce-9767-45d9-83dd-262328978705@dc5e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Ewa Miklaszewska
-DTEND:20260221T124500Z
-DTSTART:20260221T103000Z
-SUMMARY:Zachowania etyczne i standardy profesjonalne w bankowości i finansach (Studia podyplomowe)
-UID:4d4a2da1-121d-423a-9320-4833274dcc30@4d4a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Kil
-DTEND:20260221T164500Z
-DTSTART:20260221T130000Z
-SUMMARY:Zarządzanie ryzykiem operacyjnym\, prawnym i reputacji (Studia podyplomowe)
-UID:15fc13ed-3372-4496-b360-fe17b539e377@15fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Przemysław Kulik
-DTEND:20251129T164500Z
-LOCATION:Zajęcia Online
-DTSTART:20251129T130000Z
-SUMMARY:Programy ESG i zmiany klimatyczne na rynku finansowym (Studia podyplomowe)
-UID:e4262e18-fd25-4c72-b6b4-999b1bee1a1d@e426.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
-DTEND:20260110T164500Z
-LOCATION:Zajęcia Online
-DTSTART:20260110T130000Z
-SUMMARY:Sprawozdawczość bankowa (Studia podyplomowe)
-UID:a7a6c85c-1dc9-48f8-94ba-dfe268cd2e51@a7a6.org
+UID:50c9ee8a-7eae-4898-ba32-9f1cb940211b@50c9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
@@ -129,15 +51,30 @@ DTEND:20260110T113000Z
 LOCATION:Zajęcia Online
 DTSTART:20260110T074500Z
 SUMMARY:Sprawozdawczość bankowa (Studia podyplomowe)
-UID:949e00d2-9474-46a0-b34d-87b1a92efcc0@949e.org
+UID:e29be77d-6d75-4a89-9039-7bd54b7887c7@e29b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Karaś
-DTEND:20251206T164500Z
+DESCRIPTION:Instructor: dr Radosław Ciukaj
+DTEND:20260221T083000Z
+DTSTART:20260221T074500Z
+SUMMARY:Egzamin semestralny (Studia podyplomowe)
+UID:85abf249-e06e-46c0-ac80-5fdce681e558@85ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
+DTEND:20260110T164500Z
+LOCATION:Zajęcia Online
+DTSTART:20260110T130000Z
+SUMMARY:Sprawozdawczość bankowa (Studia podyplomowe)
+UID:0a9a92f7-1a50-4c07-a4ab-b5fcb2742640@0a9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Kil
+DTEND:20251206T113000Z
 LOCATION:Paw.G  9
-DTSTART:20251206T130000Z
-SUMMARY:Pieniądz realny i cyfrowy (Studia podyplomowe)
-UID:1f7bdc87-4b5e-4dd9-803b-d851271bf747@1f7b.org
+DTSTART:20251206T074500Z
+SUMMARY:Mechanizmy i instytucje stabilizujące rynek bankowy (Studia podyplomowe)
+UID:920f379e-2ca7-46ac-9a3d-c762dc686642@920f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Piotr Karaś
@@ -145,15 +82,46 @@ DTEND:20251025T154500Z
 LOCATION:Paw.G  9
 DTSTART:20251025T120000Z
 SUMMARY:Pieniądz realny i cyfrowy (Studia podyplomowe)
-UID:87958176-f57c-4580-ae3f-68a5849285ac@8795.org
+UID:14203635-3464-436a-ad7d-da29808d06bc@1420.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Grzegorz Kwiatkowski
-DTEND:20251213T164500Z
+DESCRIPTION:Instructor: dr Igor Styn
+DTEND:20260207T164500Z
 LOCATION:Zajęcia Online
-DTSTART:20251213T130000Z
+DTSTART:20260207T130000Z
+SUMMARY:Globalny rynek finansowy (Studia podyplomowe)
+UID:f287371c-9d8c-4db3-83ca-c00f86b8ec1f@f287.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Przemysław Kulik
+DTEND:20251129T164500Z
+LOCATION:Zajęcia Online
+DTSTART:20251129T130000Z
+SUMMARY:Programy ESG i zmiany klimatyczne na rynku finansowym (Studia podyplomowe)
+UID:d7dedde3-e5be-4b9b-9016-8492b63c41b8@d7de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Przemysław Kulik
+DTEND:20251115T164500Z
+LOCATION:Zajęcia Online
+DTSTART:20251115T130000Z
+SUMMARY:Programy ESG i zmiany klimatyczne na rynku finansowym (Studia podyplomowe)
+UID:defbe049-be90-4c25-8465-35d56c058ea7@defb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Radosław Ciukaj
+DTEND:20260221T101500Z
+DTSTART:20260221T084500Z
 SUMMARY:Zachowania etyczne i standardy profesjonalne w bankowości i finansach (Studia podyplomowe)
-UID:18d14cd1-b55a-462e-9a39-4944a3c6c9f9@18d1.org
+UID:bc2666c3-8749-4f25-a79b-dec392d58a0a@bc26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Karaś
+DTEND:20251206T164500Z
+LOCATION:Paw.G  9
+DTSTART:20251206T130000Z
+SUMMARY:Pieniądz realny i cyfrowy (Studia podyplomowe)
+UID:b350b5f6-ed9e-45fa-aae2-eea6e899d86b@b350.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
@@ -161,7 +129,31 @@ DTEND:20260207T113000Z
 LOCATION:Zajęcia Online
 DTSTART:20260207T074500Z
 SUMMARY:Zagrożenia cybernetyczne w bankowości (Studia podyplomowe)
-UID:7da15074-f788-4a0d-b6c6-221ae6d20987@7da1.org
+UID:8a701247-c00d-437c-aa95-9ab07702e6f3@8a70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Walitza
+DTEND:20251213T113000Z
+LOCATION:Zajęcia Online
+DTSTART:20251213T074500Z
+SUMMARY:Zarządzanie ryzykiem kredytowym i rynkowym (Studia podyplomowe)
+UID:19f6c1aa-ac9b-498c-95a3-c01ea08fbbc8@19f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: Prof. UJ dr hab. Piotr Łasak
+DTEND:20251122T164500Z
+LOCATION:Zajęcia Online
+DTSTART:20251122T130000Z
+SUMMARY:Zastosowanie sztucznej inteligencji w sektorze finansowym (Studia podyplomowe)
+UID:df8494dc-03e2-4920-bb2b-4e0824602887@df84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Ewa Miklaszewska
+DTEND:20251025T103000Z
+LOCATION:Paw.F 415
+DTSTART:20251025T064500Z
+SUMMARY:Zarządzanie ryzykiem operacyjnym\, prawnym i reputacji (Studia podyplomowe)
+UID:8486b5cf-8ac8-40ba-acaa-c265aa25235e@8486.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Piotr Ubych
@@ -169,6 +161,14 @@ DTEND:20251115T113000Z
 LOCATION:Zajęcia Online
 DTSTART:20251115T074500Z
 SUMMARY:Nowe technologie w bankowości (Studia podyplomowe)
-UID:1794bdb8-6922-486a-8829-e0d13ae91f50@1794.org
+UID:d4c7d1ce-ed3c-47d2-aa30-3fe501f68a78@d4c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: Prof. UJ dr hab. Piotr Łasak
+DTEND:20251122T113000Z
+LOCATION:Zajęcia Online
+DTSTART:20251122T074500Z
+SUMMARY:Zastosowanie sztucznej inteligencji w sektorze finansowym (Studia podyplomowe)
+UID:177421dd-c651-40ee-9612-90df6c9509b9@1774.org
 END:VEVENT
 END:VCALENDAR
