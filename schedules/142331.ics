@@ -2,27 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Patrycja Balcer-Czarnecka
-DTEND:20251020T161500Z
-DTSTART:20251020T144500Z
-SUMMARY:Postępowanie w sprawach nieletnich (wykład do wyboru)
-UID:d21167b1-bdf0-479b-b585-8b20017d9e94@d211.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
-DTEND:20251103T120000Z
-LOCATION:Platforma Moodle
-DTSTART:20251103T103000Z
-SUMMARY:Prawo ochrony konkurencji i konsumentów (wykład e-learningowy)
-UID:bcb348e4-ae5f-4e54-a9f5-8d01fdeb475e@bcb3.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
-DTEND:20251118T083000Z
-LOCATION:Bibl. 441
-DTSTART:20251118T070000Z
-SUMMARY:Prawo pracy (ćwiczenia)
-UID:03e4712e-a892-44f9-ad5d-04929330d3cc@03e4.org
+DTEND:20251201T190000Z
+LOCATION:link do zajęć
+DTSTART:20251201T173000Z
+SUMMARY:Prawo pracy (wykład)
+UID:5651f40c-0097-48b8-a5cc-8f9098237441@5651.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
@@ -30,675 +15,7 @@ DTEND:20251124T120000Z
 LOCATION:link do zajęć
 DTSTART:20251124T103000Z
 SUMMARY:Prawo ochrony konkurencji i konsumentów (wykład)
-UID:56b6c3dd-cdbe-4212-92d7-9cd1875c6236@56b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Paweł Dyrduł
-DTEND:20251218T134500Z
-LOCATION:L 413 bib
-DTSTART:20251218T121500Z
-SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
-UID:7cddfc04-cbfb-41b9-a55c-685371a2b56c@7cdd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Plebanek
-DTEND:20260115T194500Z
-LOCATION:link do zajęć
-DTSTART:20260115T181500Z
-SUMMARY:Medyczne Prawo Karne (wykład do wyboru)
-UID:402d5d92-edbc-40c9-93d4-abd7483f1fcb@402d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Patrycja Balcer-Czarnecka
-DTEND:20251201T171500Z
-LOCATION:link do zajęć
-DTSTART:20251201T154500Z
-SUMMARY:Postępowanie w sprawach nieletnich (wykład do wyboru)
-UID:7fd11fef-a4cc-44a4-ab7f-264cf5ebb3f4@7fd1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
-DTEND:20251013T110000Z
-DTSTART:20251013T093000Z
-SUMMARY:Prawo ochrony konkurencji i konsumentów (Przeniesienie zajęć)
-UID:8c55c2ce-dfdc-4e48-9277-7bd20fabdfda@8c55.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Paweł Dyrduł
-DTEND:20251113T134500Z
-LOCATION:L 413 bib
-DTSTART:20251113T121500Z
-SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
-UID:802e319d-f30c-48a9-8c07-46675caac016@802e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Fill
-DTEND:20251021T091500Z
-LOCATION:Paw.S sala 1
-DTSTART:20251021T074500Z
-SUMMARY:Prawo finansowe (konwersatorium)
-UID:f8b481a0-7eef-4478-b79c-4cbf50e8259a@f8b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
-DTEND:20251125T083000Z
-LOCATION:Bibl. 441
-DTSTART:20251125T070000Z
-SUMMARY:Prawo pracy (ćwiczenia)
-UID:efb82bab-512d-47fa-b79a-93e0e67ee1e6@efb8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Fill
-DTEND:20260113T101500Z
-LOCATION:Paw.S sala 1
-DTSTART:20260113T084500Z
-SUMMARY:Prawo finansowe (konwersatorium)
-UID:889b2a39-2ab8-467e-8e82-4a41d695333a@889b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Paweł Dyrduł
-DTEND:20251120T153000Z
-LOCATION:L 413 bib
-DTSTART:20251120T140000Z
-SUMMARY:Prawo gier komputerowych i e-sportu (konwersatorium do wyboru)
-UID:78399cb3-3535-4aa5-b0e8-5cac81473989@7839.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Aneta Mendrek
-DTEND:20251217T100000Z
-LOCATION:Paw.C sala C
-DTSTART:20251217T074500Z
-SUMMARY:Postępowanie cywilne (ćwiczenia)
-UID:f75436ce-5e84-4ed4-8a6f-d803655b0190@f754.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Paweł Dyrduł
-DTEND:20251211T153000Z
-LOCATION:L 413 bib
-DTSTART:20251211T140000Z
-SUMMARY:Prawo gier komputerowych i e-sportu (konwersatorium do wyboru)
-UID:9e060ed8-0c49-46d8-8b88-6bb769029606@9e06.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Aneta Mendrek
-DTEND:20251117T100000Z
-LOCATION:link do zajęć
-DTSTART:20251117T074500Z
-SUMMARY:Postępowanie cywilne (wykład)
-UID:40701a5b-a97c-4b16-920e-d3cacb1e2b4c@4070.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Plebanek
-DTEND:20251120T194500Z
-LOCATION:link do zajęć
-DTSTART:20251120T181500Z
-SUMMARY:Medyczne Prawo Karne (wykład do wyboru)
-UID:33f0b81a-b2cb-4314-9c81-36b15a70b3f8@33f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Fill
-DTEND:20251114T133000Z
-DTSTART:20251114T111500Z
-SUMMARY:Prawo finansowe (Przeniesienie zajęć)
-UID:ae01f216-6df4-46da-bc19-1de0edbd78a0@ae01.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Patrycja Balcer-Czarnecka
-DTEND:20251013T161500Z
-DTSTART:20251013T144500Z
-SUMMARY:Postępowanie w sprawach nieletnich (wykład do wyboru)
-UID:0a8e9584-8f9d-490b-a6f0-726e619e83dc@0a8e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
-DTEND:20251103T190000Z
-LOCATION:link do zajęć
-DTSTART:20251103T173000Z
-SUMMARY:Prawo pracy (wykład)
-UID:15900998-fd2d-4f8a-a2be-442e29930b58@1590.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Aneta Mendrek
-DTEND:20251022T090000Z
-LOCATION:Paw.C sala C
-DTSTART:20251022T060000Z
-SUMMARY:Postępowanie cywilne (ćwiczenia)
-UID:9ea54de2-236e-4e48-b464-86b016ad04d1@9ea5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
-DTEND:20251027T190000Z
-DTSTART:20251027T173000Z
-SUMMARY:Prawo pracy (Przeniesienie zajęć)
-UID:dd465ad8-56cd-4845-90fc-be58400ac245@dd46.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
-DTEND:20251027T134500Z
-LOCATION:link do zajęć
-DTSTART:20251027T121500Z
-SUMMARY:Prawo pracy (wykład)
-UID:3e5d65ad-811f-4457-81ef-87ac2eb832fc@3e5d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Aneta Mendrek
-DTEND:20251020T090000Z
-DTSTART:20251020T064500Z
-SUMMARY:Postępowanie cywilne (wykład)
-UID:bae54878-4490-4e4e-a71d-79a44fe18b10@bae5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
-DTEND:20251117T151500Z
-LOCATION:link do zajęć
-DTSTART:20251117T130000Z
-SUMMARY:Prawo farmaceutyczne (wykład do wyboru)
-UID:b4b82e24-b5dd-4286-9efd-a4d1956f1863@b4b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
-DTEND:20251112T120000Z
-LOCATION:Platforma Moodle
-DTSTART:20251112T103000Z
-SUMMARY:Prawo ochrony konkurencji i konsumentów (Ćwiczenia e-learningowe)
-UID:c2d0dcc2-2977-4266-9db9-5fa1c61d901c@c2d0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
-DTEND:20260119T153000Z
-LOCATION:link do zajęć
-DTSTART:20260119T140000Z
-SUMMARY:Prawo farmaceutyczne (wykład do wyboru)
-UID:b66ded3f-496d-466a-818c-446715a2bbd3@b66d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewelina Badura
-DTEND:20251028T190000Z
-LOCATION:Paw.B 055 (KSB)
-DTSTART:20251028T173000Z
-SUMMARY:Prawo mieszkaniowe (konwersatorium do wyboru)
-UID:cfa6a1b2-bef9-4f97-a2a8-185ec51f598f@cfa6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
-DTEND:20251103T151500Z
-LOCATION:link do zajęć
-DTSTART:20251103T130000Z
-SUMMARY:Prawo farmaceutyczne (wykład do wyboru)
-UID:0419b1be-2302-4be4-8c98-54d7b50a443c@0419.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
-DTEND:20251020T141500Z
-DTSTART:20251020T120000Z
-SUMMARY:Prawo farmaceutyczne (wykład do wyboru)
-UID:ff90b190-9542-4c25-9fb7-9f5eba6d63d8@ff90.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
-DTEND:20251208T181500Z
-LOCATION:link do zajęć
-DTSTART:20251208T173000Z
-SUMMARY:Prawo pracy (wykład)
-UID:dc8eb44f-0328-40c1-b158-6b83a197e449@dc8e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Aneta Mendrek
-DTEND:20251013T090000Z
-DTSTART:20251013T064500Z
-SUMMARY:Postępowanie cywilne (wykład)
-UID:55369df3-dc67-4fc0-b206-60d9bac25f2d@5536.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Aneta Mendrek
-DTEND:20251003T090000Z
-DTSTART:20251003T064500Z
-SUMMARY:Postępowanie cywilne (wykład)
-UID:bd51a92a-05b8-4be5-8aa7-84c7acb9c7eb@bd51.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
-DTEND:20251117T190000Z
-LOCATION:link do zajęć
-DTSTART:20251117T173000Z
-SUMMARY:Prawo pracy (wykład)
-UID:201feed0-19c4-4a9a-a235-cd2c096c16e3@201f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Patrycja Balcer-Czarnecka
-DTEND:20260112T180000Z
-LOCATION:link do zajęć
-DTSTART:20260112T154500Z
-SUMMARY:Postępowanie w sprawach nieletnich (wykład do wyboru)
-UID:ae80191f-4a06-4ff2-ba12-c4fca4407b7e@ae80.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
-DTEND:20251027T153000Z
-DTSTART:20251027T140000Z
-SUMMARY:Prawo farmaceutyczne (Przeniesienie zajęć)
-UID:13fd25cb-bd64-474c-aa65-a3bd74dc6bf4@13fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewelina Badura
-DTEND:20251119T170000Z
-LOCATION:Rakowicka 16 sala -103
-DTSTART:20251119T144500Z
-SUMMARY:Prawo mieszkaniowe (konwersatorium do wyboru)
-UID:1850bc1a-7b92-4593-aa08-4a5b3b63c448@1850.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Aneta Mendrek
-DTEND:20251114T101500Z
-LOCATION:Paw.S sala 7
-DTSTART:20251114T084500Z
-SUMMARY:Postępowanie cywilne (ćwiczenia)
-UID:76ceaa28-fe16-420a-9d8e-1793e078b892@76ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Paweł Dyrduł
-DTEND:20251023T143000Z
-LOCATION:L 413 bib
-DTSTART:20251023T130000Z
-SUMMARY:Prawo gier komputerowych i e-sportu (konwersatorium do wyboru)
-UID:43a7c3ff-24db-447b-a319-f9657f9ab2f5@43a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
-DTEND:20251201T190000Z
-LOCATION:link do zajęć
-DTSTART:20251201T173000Z
-SUMMARY:Prawo pracy (wykład)
-UID:d0d75c99-00da-4c4f-9abd-7ad963daf8c3@d0d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Aneta Mendrek
-DTEND:20260121T100000Z
-LOCATION:Paw.C sala C
-DTSTART:20260121T074500Z
-SUMMARY:Postępowanie cywilne (ćwiczenia)
-UID:fc9b29b3-6402-4e7e-8a64-1e09ab9f2c93@fc9b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Paweł Dyrduł
-DTEND:20251106T134500Z
-LOCATION:L 413 bib
-DTSTART:20251106T121500Z
-SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
-UID:572f1036-c85f-45da-8a76-23cc5fa7dbaa@572f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Aneta Mendrek
-DTEND:20251001T073000Z
-LOCATION:Paw.C sala C
-DTSTART:20251001T060000Z
-SUMMARY:Postępowanie cywilne (ćwiczenia)
-UID:11972b41-6538-46f4-8586-24c4667dab0a@1197.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Paweł Dyrduł
-DTEND:20260122T134500Z
-LOCATION:L 413 bib
-DTSTART:20260122T121500Z
-SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
-UID:c56017d5-8f5e-4953-b2ea-d72d9a05c6bf@c560.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Aneta Mendrek
-DTEND:20251128T100000Z
-LOCATION:link do zajęć
-DTSTART:20251128T074500Z
-SUMMARY:Postępowanie cywilne (wykład)
-UID:6685bb99-f968-4ad7-ab59-f9d780584d53@6685.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Aneta Mendrek
-DTEND:20251014T110000Z
-LOCATION:Bud.gł. 8
-DTSTART:20251014T093000Z
-SUMMARY:Postępowanie cywilne (ćwiczenia)
-UID:c7b75e79-8ca7-49b8-894d-4990b5224862@c7b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
-DTEND:20251119T134500Z
-LOCATION:Bud.gł. Stara Aula
-DTSTART:20251119T121500Z
-SUMMARY:Prawo pracy (ćwiczenia)
-UID:fc848acf-9e4d-42fc-9169-a08d566bc708@fc84.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Plebanek
-DTEND:20251211T194500Z
-LOCATION:link do zajęć
-DTSTART:20251211T181500Z
-SUMMARY:Medyczne Prawo Karne (wykład do wyboru)
-UID:805e6c1a-e4cf-4632-8b1d-2bc8aea34de0@805e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Plebanek
-DTEND:20251002T184500Z
-DTSTART:20251002T171500Z
-SUMMARY:Medyczne Prawo Karne (wykład do wyboru)
-UID:458db222-a723-4a1a-be0c-1d533da936dc@458d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Plebanek
-DTEND:20251106T194500Z
-LOCATION:link do zajęć
-DTSTART:20251106T181500Z
-SUMMARY:Medyczne Prawo Karne (wykład do wyboru)
-UID:98265041-36b9-4575-bf4c-4eeb4d65c5da@9826.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251016T123000Z
-DTSTART:20251016T093000Z
-SUMMARY: (rezerwacja)
-UID:0e8ed046-cac5-41b2-b3ba-1523c84553ea@0e8e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Patrycja Balcer-Czarnecka
-DTEND:20260112T134500Z
-LOCATION:link do zajęć
-DTSTART:20260112T121500Z
-SUMMARY:Postępowanie w sprawach nieletnich (wykład do wyboru)
-UID:f9da87ac-20bd-4cc1-8672-df1a4feb04f4@f9da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Fill
-DTEND:20260123T091500Z
-LOCATION:Paw.S sala 6
-DTSTART:20260123T070000Z
-SUMMARY:Prawo finansowe (konwersatorium)
-UID:9b24662e-70ec-40b3-b26a-e31df77f3b03@9b24.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Plebanek
-DTEND:20251009T184500Z
-DTSTART:20251009T171500Z
-SUMMARY:Medyczne Prawo Karne (wykład do wyboru)
-UID:a1ad92bf-4112-4006-915b-e8e0ee98224e@a1ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
-DTEND:20251028T083000Z
-LOCATION:Bibl. 441
-DTSTART:20251028T070000Z
-SUMMARY:Prawo pracy (ćwiczenia)
-UID:b4f499fe-56a7-494c-b691-c0d44280e431@b4f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
-DTEND:20251104T083000Z
-LOCATION:Bibl. 441
-DTSTART:20251104T070000Z
-SUMMARY:Prawo pracy (ćwiczenia)
-UID:6e9be159-ff86-4802-b14b-f962a40ebd71@6e9b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Paweł Dyrduł
-DTEND:20260122T153000Z
-LOCATION:L 413 bib
-DTSTART:20260122T140000Z
-SUMMARY:Prawo gier komputerowych i e-sportu (konwersatorium do wyboru)
-UID:942ee567-fbc7-4d02-a30b-1e45618f7f5e@942e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewelina Badura
-DTEND:20251021T180000Z
-LOCATION:Paw.B 055 (KSB)
-DTSTART:20251021T163000Z
-SUMMARY:Prawo mieszkaniowe (konwersatorium do wyboru)
-UID:608d8b0d-7b00-4468-bbad-66a05622244d@608d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
-DTEND:20260121T111500Z
-LOCATION:Paw.G 11
-DTSTART:20260121T103000Z
-SUMMARY:Prawo ochrony konkurencji i konsumentów (ćwiczenia)
-UID:e59cf16a-a556-439c-a5c8-a561af1a6f5f@e59c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Paweł Dyrduł
-DTEND:20251002T124500Z
-LOCATION:L 413 bib
-DTSTART:20251002T111500Z
-SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
-UID:2ff50559-d9d5-4a5b-85b6-6a4c66b68ded@2ff5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Aneta Mendrek
-DTEND:20251203T100000Z
-LOCATION:Paw.C sala C
-DTSTART:20251203T074500Z
-SUMMARY:Postępowanie cywilne (ćwiczenia)
-UID:e6fdbfb1-e1a7-4f56-85c2-3c3d3e51687b@e6fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Paweł Dyrduł
-DTEND:20251030T153000Z
-LOCATION:L 413 bib
-DTSTART:20251030T140000Z
-SUMMARY:Prawo gier komputerowych i e-sportu (konwersatorium do wyboru)
-UID:3ee8591b-7b76-4b4f-99ec-e5a9c95f3eac@3ee8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Paweł Dyrduł
-DTEND:20260108T153000Z
-LOCATION:L 413 bib
-DTSTART:20260108T140000Z
-SUMMARY:Prawo gier komputerowych i e-sportu (konwersatorium do wyboru)
-UID:0b0c739d-22fc-4c0e-ab2a-1d8506d29bae@0b0c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewelina Badura
-DTEND:20260113T190000Z
-LOCATION:Paw.B 055 (KSB)
-DTSTART:20260113T173000Z
-SUMMARY:Prawo mieszkaniowe (konwersatorium do wyboru)
-UID:87132b1c-2570-4a20-9043-5363e7637848@8713.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
-DTEND:20260120T083000Z
-LOCATION:Bibl. 441
-DTSTART:20260120T070000Z
-SUMMARY:Prawo pracy (ćwiczenia)
-UID:51192665-9c55-4e9b-878d-d0db4638759c@5119.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Aneta Mendrek
-DTEND:20251126T100000Z
-LOCATION:Paw.C sala C
-DTSTART:20251126T074500Z
-SUMMARY:Postępowanie cywilne (ćwiczenia)
-UID:4761c7a0-67bc-45c0-84e2-b6fe1a1e18be@4761.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Patrycja Balcer-Czarnecka
-DTEND:20251215T180000Z
-LOCATION:link do zajęć
-DTSTART:20251215T154500Z
-SUMMARY:Postępowanie w sprawach nieletnich (wykład do wyboru)
-UID:65d9e001-6ebb-4d2f-be91-6630e6afba33@65d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Paweł Dyrduł
-DTEND:20251120T134500Z
-LOCATION:L 413 bib
-DTSTART:20251120T121500Z
-SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
-UID:24d73ec3-bc44-482b-8d47-2321465ec899@24d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Paweł Dyrduł
-DTEND:20260115T153000Z
-LOCATION:L 413 bib
-DTSTART:20260115T140000Z
-SUMMARY:Prawo gier komputerowych i e-sportu (konwersatorium do wyboru)
-UID:1d309933-187d-44e9-85f5-ff0cd9ceb6ff@1d30.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Plebanek
-DTEND:20251113T194500Z
-LOCATION:link do zajęć
-DTSTART:20251113T181500Z
-SUMMARY:Medyczne Prawo Karne (wykład do wyboru)
-UID:94910a16-832e-4915-ae23-351c6f1e8b0f@9491.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Fill
-DTEND:20251212T091500Z
-LOCATION:Paw.F 416
-DTSTART:20251212T070000Z
-SUMMARY:Prawo finansowe (konwersatorium)
-UID:94f48bc7-44a8-494f-80aa-9e9f2a61a284@94f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
-DTEND:20251209T134500Z
-LOCATION:Paw.B 251
-DTSTART:20251209T121500Z
-SUMMARY:Prawo pracy (ćwiczenia)
-UID:9427bbb2-7d4f-4bb4-a4f0-891b4f5fcd64@9427.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Aneta Mendrek
-DTEND:20251210T100000Z
-LOCATION:Paw.C sala C
-DTSTART:20251210T074500Z
-SUMMARY:Postępowanie cywilne (ćwiczenia)
-UID:44767953-4337-4071-8119-fef26b24fbf8@4476.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Fill
-DTEND:20251202T101500Z
-LOCATION:Paw.S sala 1
-DTSTART:20251202T084500Z
-SUMMARY:Prawo finansowe (konwersatorium)
-UID:acbdd20b-788e-4a22-bf1b-b6214db92758@acbd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Patrycja Balcer-Czarnecka
-DTEND:20251103T171500Z
-LOCATION:link do zajęć
-DTSTART:20251103T154500Z
-SUMMARY:Postępowanie w sprawach nieletnich (wykład do wyboru)
-UID:9ffe7f62-da02-4539-a319-7bcb4bd8cd17@9ffe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Patrycja Balcer-Czarnecka
-DTEND:20251208T124500Z
-LOCATION:link do zajęć
-DTSTART:20251208T111500Z
-SUMMARY:Postępowanie w sprawach nieletnich (wykład do wyboru)
-UID:598f45b0-767a-4cc4-bfea-c791487af8e2@598f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Aneta Mendrek
-DTEND:20251104T120000Z
-LOCATION:L 413 bib
-DTSTART:20251104T103000Z
-SUMMARY:Postępowanie cywilne (ćwiczenia)
-UID:2e809068-f8cd-4de3-a226-77f301cda7e4@2e80.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Fill
-DTEND:20251014T091500Z
-LOCATION:Paw.S sala 1
-DTSTART:20251014T074500Z
-SUMMARY:Prawo finansowe (konwersatorium)
-UID:f8014c65-b19c-4b75-b000-64cfa7cb9009@f801.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewelina Badura
-DTEND:20251125T190000Z
-LOCATION:Paw.B 055 (KSB)
-DTSTART:20251125T173000Z
-SUMMARY:Prawo mieszkaniowe (konwersatorium do wyboru)
-UID:406be020-e49d-4a98-b370-6950c8958dd5@406b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
-DTEND:20251208T111500Z
-LOCATION:link do zajęć
-DTSTART:20251208T103000Z
-SUMMARY:Prawo ochrony konkurencji i konsumentów (wykład)
-UID:be4787e7-1999-41c4-b1ed-5ef28efbaf8d@be47.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Plebanek
-DTEND:20260108T194500Z
-LOCATION:link do zajęć
-DTSTART:20260108T181500Z
-SUMMARY:Medyczne Prawo Karne (wykład do wyboru)
-UID:3109db9b-17c1-489b-b5d4-ba4b2298d39b@3109.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Kamila Wojtyła
-DTEND:20251015T170000Z
-LOCATION:L 413 bib
-DTSTART:20251015T153000Z
-SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
-UID:f49f578b-e635-4042-9925-38068736c427@f49f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
-DTEND:20251027T120000Z
-LOCATION:Platforma Moodle
-DTSTART:20251027T103000Z
-SUMMARY:Prawo ochrony konkurencji i konsumentów (wykład e-learningowy)
-UID:dd3a0aa2-f702-49de-a338-7eb112bd3b44@dd3a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewelina Badura
-DTEND:20251007T180000Z
-LOCATION:Paw.B 055 (KSB)
-DTSTART:20251007T163000Z
-SUMMARY:Prawo mieszkaniowe (konwersatorium do wyboru)
-UID:78b6c7c8-1341-4493-8d65-6cd097eaff7e@78b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Aneta Mendrek
-DTEND:20251105T100000Z
-LOCATION:Paw.C sala C
-DTSTART:20251105T070000Z
-SUMMARY:Postępowanie cywilne (ćwiczenia)
-UID:d8cd0893-ee7a-4133-ada0-cb9ccc2578ce@d8cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewelina Badura
-DTEND:20251209T190000Z
-LOCATION:Paw.B 055 (KSB)
-DTSTART:20251209T173000Z
-SUMMARY:Prawo mieszkaniowe (konwersatorium do wyboru)
-UID:943433ca-22fe-4ee6-99ea-2563002bfea8@9434.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Paweł Dyrduł
-DTEND:20251127T153000Z
-LOCATION:L 413 bib
-DTSTART:20251127T140000Z
-SUMMARY:Prawo gier komputerowych i e-sportu (konwersatorium do wyboru)
-UID:c5a63029-b29c-4423-b301-38229bd4e909@c5a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Fill
-DTEND:20251209T101500Z
-LOCATION:Paw.S sala 1
-DTSTART:20251209T084500Z
-SUMMARY:Prawo finansowe (konwersatorium)
-UID:5f657305-1b9d-4f32-9a76-d52517ea2b2d@5f65.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Paweł Dyrduł
-DTEND:20251113T153000Z
-LOCATION:L 413 bib
-DTSTART:20251113T140000Z
-SUMMARY:Prawo gier komputerowych i e-sportu (konwersatorium do wyboru)
-UID:a5913e44-eb5d-48f9-8d48-75b2b1dfd073@a591.org
+UID:3056a693-cb95-41ed-b7e3-59105e5b55c1@3056.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
@@ -706,31 +23,15 @@ DTEND:20260112T153000Z
 LOCATION:link do zajęć
 DTSTART:20260112T140000Z
 SUMMARY:Prawo farmaceutyczne (wykład do wyboru)
-UID:bf7f9a2c-5798-4708-b10a-b4c14affd008@bf7f.org
+UID:ae1a91c7-4378-441e-a11a-97cac6dd959f@ae1a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Aneta Mendrek
-DTEND:20260119T100000Z
-LOCATION:link do zajęć
-DTSTART:20260119T074500Z
-SUMMARY:Postępowanie cywilne (wykład)
-UID:c56200c4-9c3e-49cc-a09b-95ee4c5bf12d@c562.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Paweł Dyrduł
-DTEND:20251002T143000Z
-LOCATION:L 413 bib
-DTSTART:20251002T130000Z
-SUMMARY:Prawo gier komputerowych i e-sportu (konwersatorium do wyboru)
-UID:bf824345-fabd-4072-aee5-c1859398b897@bf82.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Paweł Dyrduł
-DTEND:20251023T124500Z
-LOCATION:L 413 bib
-DTSTART:20251023T111500Z
-SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
-UID:4ce3aa44-089d-494a-b460-bc0baa3220b2@4ce3.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Fill
+DTEND:20251014T091500Z
+LOCATION:Paw.S sala 1
+DTSTART:20251014T074500Z
+SUMMARY:Prawo finansowe (konwersatorium)
+UID:7e19c695-5b3c-49e0-bb79-e654b64c91c5@7e19.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Fill
@@ -738,544 +39,7 @@ DTEND:20260120T101500Z
 LOCATION:Paw.S sala 1
 DTSTART:20260120T084500Z
 SUMMARY:Prawo finansowe (konwersatorium)
-UID:9a7b221c-1100-467b-9f2d-498c0bd084ab@9a7b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Aneta Mendrek
-DTEND:20251027T100000Z
-LOCATION:link do zajęć
-DTSTART:20251027T074500Z
-SUMMARY:Postępowanie cywilne (wykład)
-UID:03cce2de-5a06-433e-afeb-8855c06417af@03cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Plebanek
-DTEND:20260122T194500Z
-LOCATION:link do zajęć
-DTSTART:20260122T181500Z
-SUMMARY:Medyczne Prawo Karne (wykład do wyboru)
-UID:ab3811ba-89d4-4be6-9553-f903c94ef649@ab38.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Plebanek
-DTEND:20251204T194500Z
-LOCATION:link do zajęć
-DTSTART:20251204T181500Z
-SUMMARY:Medyczne Prawo Karne (wykład do wyboru)
-UID:d4b2c922-273e-4d46-a4c9-92d98ed6f27a@d4b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Aneta Mendrek
-DTEND:20251201T100000Z
-LOCATION:link do zajęć
-DTSTART:20251201T074500Z
-SUMMARY:Postępowanie cywilne (wykład)
-UID:9b72ddbb-adf6-462a-be89-13ff468f4c95@9b72.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
-DTEND:20251209T083000Z
-LOCATION:Bibl. 441
-DTSTART:20251209T070000Z
-SUMMARY:Prawo pracy (ćwiczenia)
-UID:21c6fd5e-0af9-43f7-ae64-ac7a515fc028@21c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewelina Badura
-DTEND:20251202T190000Z
-LOCATION:Paw.B 055 (KSB)
-DTSTART:20251202T173000Z
-SUMMARY:Prawo mieszkaniowe (konwersatorium do wyboru)
-UID:ca0848ae-ef53-4adb-8fa7-bd38fa44ba81@ca08.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Aneta Mendrek
-DTEND:20260130T124500Z
-LOCATION:Paw.S sala 9
-DTSTART:20260130T103000Z
-SUMMARY:Postępowanie cywilne (egzamin)
-UID:3fa498eb-c210-49e1-830e-fa8c17e42dd4@3fa4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Paweł Dyrduł
-DTEND:20251009T124500Z
-LOCATION:L 413 bib
-DTSTART:20251009T111500Z
-SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
-UID:3b59f001-6189-495c-8d86-a95b7c0edbb2@3b59.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
-DTEND:20251013T143000Z
-DTSTART:20251013T130000Z
-SUMMARY:Prawo farmaceutyczne (wykład do wyboru)
-UID:59008db9-2545-40a9-a0f0-681af83e28ac@5900.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
-DTEND:20260107T120000Z
-LOCATION:Paw.G 11
-DTSTART:20260107T103000Z
-SUMMARY:Prawo ochrony konkurencji i konsumentów (ćwiczenia)
-UID:4167d042-10e4-4607-94fb-9385c618037b@4167.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Fill
-DTEND:20251007T091500Z
-LOCATION:Paw.S sala 1
-DTSTART:20251007T074500Z
-SUMMARY:Prawo finansowe (konwersatorium)
-UID:536f502f-f347-4e4d-adc9-1bf6a532648d@536f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Paweł Dyrduł
-DTEND:20260108T134500Z
-LOCATION:L 413 bib
-DTSTART:20260108T121500Z
-SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
-UID:050d9262-95a0-4ecc-8705-d45b8a6aaeb4@050d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Aneta Mendrek
-DTEND:20260107T100000Z
-LOCATION:Paw.C sala C
-DTSTART:20260107T074500Z
-SUMMARY:Postępowanie cywilne (ćwiczenia)
-UID:56d09474-ed1f-4b52-8d01-d89039c9feeb@56d0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Patrycja Balcer-Czarnecka
-DTEND:20251027T171500Z
-LOCATION:link do zajęć
-DTSTART:20251027T154500Z
-SUMMARY:Postępowanie w sprawach nieletnich (wykład do wyboru)
-UID:ed1b9d77-b164-4c83-9226-da13ea6a9216@ed1b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Patrycja Balcer-Czarnecka
-DTEND:20251124T171500Z
-LOCATION:link do zajęć
-DTSTART:20251124T154500Z
-SUMMARY:Postępowanie w sprawach nieletnich (wykład do wyboru)
-UID:08055e22-d30d-4cb8-be27-82825fda100d@0805.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Paweł Dyrduł
-DTEND:20251016T143000Z
-LOCATION:L 413 bib
-DTSTART:20251016T130000Z
-SUMMARY:Prawo gier komputerowych i e-sportu (konwersatorium do wyboru)
-UID:8249577a-98dd-42f6-836d-3cdedd480ba8@8249.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Aneta Mendrek
-DTEND:20251124T100000Z
-LOCATION:link do zajęć
-DTSTART:20251124T074500Z
-SUMMARY:Postępowanie cywilne (wykład)
-UID:4f4e47ad-795b-49a0-baec-b9c4ffd15eef@4f4e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Patrycja Balcer-Czarnecka
-DTEND:20260119T180000Z
-LOCATION:link do zajęć
-DTSTART:20260119T154500Z
-SUMMARY:Postępowanie w sprawach nieletnich (wykład do wyboru)
-UID:9fea177f-cce7-48df-ac39-62233abf8f71@9fea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Paweł Dyrduł
-DTEND:20251009T143000Z
-LOCATION:L 413 bib
-DTSTART:20251009T130000Z
-SUMMARY:Prawo gier komputerowych i e-sportu (konwersatorium do wyboru)
-UID:c20a686e-b746-497a-bd28-2f46e22c63c6@c20a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewelina Badura
-DTEND:20251104T190000Z
-LOCATION:Paw.B 055 (KSB)
-DTSTART:20251104T173000Z
-SUMMARY:Prawo mieszkaniowe (konwersatorium do wyboru)
-UID:c7c95357-57f2-4f7e-820c-bf0085c68cc0@c7c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Aneta Mendrek
-DTEND:20251121T091500Z
-LOCATION:link do zajęć
-DTSTART:20251121T070000Z
-SUMMARY:Postępowanie cywilne (wykład)
-UID:09020bb1-5e2a-489d-93d3-f29281423841@0902.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Patrycja Balcer-Czarnecka
-DTEND:20251222T180000Z
-LOCATION:link do zajęć
-DTSTART:20251222T154500Z
-SUMMARY:Postępowanie w sprawach nieletnich (wykład do wyboru)
-UID:6c96cd3b-15fc-4fb2-8fa7-994f53300fc2@6c96.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Fill
-DTEND:20251104T101500Z
-LOCATION:Paw.S sala 1
-DTSTART:20251104T084500Z
-SUMMARY:Prawo finansowe (konwersatorium)
-UID:75975e52-a61e-44fe-92b4-f6563d9daa62@7597.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Plebanek
-DTEND:20251218T194500Z
-LOCATION:link do zajęć
-DTSTART:20251218T181500Z
-SUMMARY:Medyczne Prawo Karne (wykład do wyboru)
-UID:64a63f1b-79a3-447d-bbd4-ca7dcb92e4c0@64a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
-DTEND:20251029T120000Z
-LOCATION:Platforma Moodle
-DTSTART:20251029T103000Z
-SUMMARY:Prawo ochrony konkurencji i konsumentów (Ćwiczenia e-learningowe)
-UID:32225b8c-665f-4aab-8996-01ce4ef81909@3222.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Paweł Dyrduł
-DTEND:20251127T134500Z
-LOCATION:L 413 bib
-DTSTART:20251127T121500Z
-SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
-UID:d18a2239-4590-4998-a764-751cfd1ac864@d18a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
-DTEND:20251014T073000Z
-LOCATION:Bibl. 441
-DTSTART:20251014T060000Z
-SUMMARY:Prawo pracy (ćwiczenia)
-UID:84f77ea4-c001-4189-a1f5-2a0effa39c67@84f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
-DTEND:20251028T134500Z
-LOCATION:Paw.B 251
-DTSTART:20251028T121500Z
-SUMMARY:Prawo pracy (ćwiczenia)
-UID:5b1cd11a-19ed-4732-8e4f-ccf4e99f8436@5b1c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
-DTEND:20251202T083000Z
-LOCATION:Bibl. 441
-DTSTART:20251202T070000Z
-SUMMARY:Prawo pracy (ćwiczenia)
-UID:922a7800-222d-4381-8863-9af5f40661a0@922a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Paweł Dyrduł
-DTEND:20260115T134500Z
-LOCATION:L 413 bib
-DTSTART:20260115T121500Z
-SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
-UID:60c86e2c-291b-4d77-a04f-333411385e28@60c8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
-DTEND:20251124T190000Z
-LOCATION:link do zajęć
-DTSTART:20251124T173000Z
-SUMMARY:Prawo pracy (wykład)
-UID:225e3c73-7b64-4aaa-a3d5-736e87d97067@225e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Plebanek
-DTEND:20251016T184500Z
-DTSTART:20251016T171500Z
-SUMMARY:Medyczne Prawo Karne (wykład do wyboru)
-UID:d9f21217-69a8-4e57-86c1-bae905cf3bb2@d9f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewelina Badura
-DTEND:20260120T190000Z
-LOCATION:Paw.B 055 (KSB)
-DTSTART:20260120T173000Z
-SUMMARY:Prawo mieszkaniowe (konwersatorium do wyboru)
-UID:cad4b381-b884-4633-bd5b-4eb58b4fa708@cad4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
-DTEND:20251020T110000Z
-DTSTART:20251020T093000Z
-SUMMARY:Prawo ochrony konkurencji i konsumentów (wykład)
-UID:5acaa041-7e73-46d1-b4e6-eba5653a5332@5aca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Fill
-DTEND:20251028T101500Z
-LOCATION:Paw.S sala 1
-DTSTART:20251028T084500Z
-SUMMARY:Prawo finansowe (konwersatorium)
-UID:b752a30d-b17e-49b9-b619-61ca58fa0524@b752.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Paweł Dyrduł
-DTEND:20251106T153000Z
-LOCATION:L 413 bib
-DTSTART:20251106T140000Z
-SUMMARY:Prawo gier komputerowych i e-sportu (konwersatorium do wyboru)
-UID:bee83e7b-b470-4c0a-acc6-06ef9c70f493@bee8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
-DTEND:20251201T151500Z
-LOCATION:link do zajęć
-DTSTART:20251201T130000Z
-SUMMARY:Prawo farmaceutyczne (wykład do wyboru)
-UID:18d86128-850c-48a6-8c61-c65a55465155@18d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Paweł Dyrduł
-DTEND:20251204T153000Z
-LOCATION:L 413 bib
-DTSTART:20251204T140000Z
-SUMMARY:Prawo gier komputerowych i e-sportu (konwersatorium do wyboru)
-UID:44ef90b6-8da7-4fdc-9276-dbc0fb168d43@44ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
-DTEND:20251210T120000Z
-LOCATION:Paw.G 11
-DTSTART:20251210T103000Z
-SUMMARY:Prawo ochrony konkurencji i konsumentów (ćwiczenia)
-UID:5cc3c081-7132-4458-99cc-eaa18e84ffb2@5cc3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Aneta Mendrek
-DTEND:20260112T100000Z
-LOCATION:link do zajęć
-DTSTART:20260112T074500Z
-SUMMARY:Postępowanie cywilne (wykład)
-UID:fa634c1d-ee99-4db4-87c6-ac61860ee4b8@fa63.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
-DTEND:20251013T180000Z
-DTSTART:20251013T163000Z
-SUMMARY:Prawo pracy (wykład)
-UID:d3f88364-a79a-4984-9075-f2ff5cfcd6bd@d3f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Aneta Mendrek
-DTEND:20251112T100000Z
-LOCATION:Paw.C sala C
-DTSTART:20251112T074500Z
-SUMMARY:Postępowanie cywilne (ćwiczenia)
-UID:de61e18e-2b8f-486b-8701-ca6e053cb64d@de61.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Aneta Mendrek
-DTEND:20251103T100000Z
-LOCATION:link do zajęć
-DTSTART:20251103T074500Z
-SUMMARY:Postępowanie cywilne (wykład)
-UID:cb38fb7f-2a2c-4a3a-9751-b4b15f419d76@cb38.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewelina Badura
-DTEND:20251216T190000Z
-LOCATION:Paw.B 055 (KSB)
-DTSTART:20251216T173000Z
-SUMMARY:Prawo mieszkaniowe (konwersatorium do wyboru)
-UID:17bfd322-3b7e-4706-a4b1-fac5cad90461@17bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Patrycja Balcer-Czarnecka
-DTEND:20251208T171500Z
-LOCATION:link do zajęć
-DTSTART:20251208T154500Z
-SUMMARY:Postępowanie w sprawach nieletnich (wykład do wyboru)
-UID:dd05bd1f-9479-4995-80ee-e3aaaca0c32c@dd05.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Paweł Dyrduł
-DTEND:20251030T134500Z
-LOCATION:L 413 bib
-DTSTART:20251030T121500Z
-SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
-UID:6d892683-3502-46fa-b475-609b40efaf48@6d89.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Aneta Mendrek
-DTEND:20251024T090000Z
-DTSTART:20251024T064500Z
-SUMMARY:Postępowanie cywilne (Przeniesienie zajęć)
-UID:31124703-599b-4bce-8180-7512c313c903@3112.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
-DTEND:20251208T151500Z
-LOCATION:link do zajęć
-DTSTART:20251208T130000Z
-SUMMARY:Prawo farmaceutyczne (wykład do wyboru)
-UID:a5f25a12-9533-4ed4-9713-82760dc84cd9@a5f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
-DTEND:20251117T120000Z
-LOCATION:Platforma Moodle
-DTSTART:20251117T103000Z
-SUMMARY:Prawo ochrony konkurencji i konsumentów (wykład e-learningowy)
-UID:53b91494-2a24-45e2-b027-050f907f1540@53b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Fill
-DTEND:20251216T101500Z
-LOCATION:Paw.S sala 1
-DTSTART:20251216T084500Z
-SUMMARY:Prawo finansowe (konwersatorium)
-UID:789bb72d-4d19-414a-96fe-eca377740512@789b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
-DTEND:20251021T073000Z
-LOCATION:Bibl. 441
-DTSTART:20251021T060000Z
-SUMMARY:Prawo pracy (ćwiczenia)
-UID:95a00c63-844a-43f7-af8f-e7c6ea1ca25e@95a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
-DTEND:20260113T083000Z
-LOCATION:Bibl. 441
-DTSTART:20260113T070000Z
-SUMMARY:Prawo pracy (ćwiczenia)
-UID:10ef4242-df06-49d9-bf14-eab068f73335@10ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Aneta Mendrek
-DTEND:20251107T100000Z
-LOCATION:link do zajęć
-DTSTART:20251107T074500Z
-SUMMARY:Postępowanie cywilne (wykład)
-UID:192c5aff-1d4b-43a9-b44d-fb7ea14db37c@192c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Paweł Dyrduł
-DTEND:20251218T153000Z
-LOCATION:L 413 bib
-DTSTART:20251218T140000Z
-SUMMARY:Prawo gier komputerowych i e-sportu (konwersatorium do wyboru)
-UID:52061055-6c10-42de-9b68-9606081f408d@5206.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Aneta Mendrek
-DTEND:20251222T100000Z
-LOCATION:link do zajęć
-DTSTART:20251222T074500Z
-SUMMARY:Postępowanie cywilne (wykład)
-UID:c4b0311e-75fd-48ac-a507-c50e88da0a34@c4b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
-DTEND:20251020T180000Z
-DTSTART:20251020T163000Z
-SUMMARY:Prawo pracy (Przeniesienie zajęć)
-UID:ae122829-78a4-4a3a-821c-79c6f3973962@ae12.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
-DTEND:20251124T153000Z
-LOCATION:link do zajęć
-DTSTART:20251124T140000Z
-SUMMARY:Prawo farmaceutyczne (wykład do wyboru)
-UID:645b7ca3-f1a0-4598-92fc-c5364758de81@645b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Fill
-DTEND:20251125T101500Z
-LOCATION:Paw.S sala 1
-DTSTART:20251125T084500Z
-SUMMARY:Prawo finansowe (konwersatorium)
-UID:98bbd58c-80a3-442e-be2c-4d075e786c0c@98bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Aneta Mendrek
-DTEND:20260216T101500Z
-LOCATION:Paw.S sala 9
-DTSTART:20260216T084500Z
-SUMMARY:Postępowanie cywilne (egzamin)
-UID:db3314b5-078c-4c40-8fdd-6e2098b49908@db33.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
-DTEND:20251201T120000Z
-LOCATION:link do zajęć
-DTSTART:20251201T103000Z
-SUMMARY:Prawo ochrony konkurencji i konsumentów (wykład)
-UID:fea9bf0f-57b7-40aa-b959-f7c569086460@fea9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Fill
-DTEND:20251118T101500Z
-LOCATION:Paw.S sala 1
-DTSTART:20251118T084500Z
-SUMMARY:Prawo finansowe (konwersatorium)
-UID:bff47205-c22e-4fec-9cf1-be2a06a1e808@bff4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Paweł Dyrduł
-DTEND:20251204T134500Z
-LOCATION:L 413 bib
-DTSTART:20251204T121500Z
-SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
-UID:f80387cb-d7c9-4bf5-b647-25ef509a86a6@f803.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
-DTEND:20251222T153000Z
-LOCATION:link do zajęć
-DTSTART:20251222T140000Z
-SUMMARY:Prawo farmaceutyczne (wykład do wyboru)
-UID:fabc7b90-a798-44ab-80cc-3e0502ac0af9@fabc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
-DTEND:20251015T110000Z
-LOCATION:Platforma Moodle
-DTSTART:20251015T093000Z
-SUMMARY:Prawo ochrony konkurencji i konsumentów (Ćwiczenia e-learningowe)
-UID:fcd18f91-44b6-4bcc-8ead-1c68ba5bbefc@fcd1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Aneta Mendrek
-DTEND:20251114T083000Z
-LOCATION:Bud.gł. 8
-DTSTART:20251114T074500Z
-SUMMARY:Postępowanie cywilne (ćwiczenia)
-UID:c3b7c3e7-2aa0-4aca-a56c-db216543de23@c3b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
-DTEND:20251215T120000Z
-LOCATION:link do zajęć
-DTSTART:20251215T103000Z
-SUMMARY:Prawo ochrony konkurencji i konsumentów (wykład)
-UID:79449c87-35d9-4ad4-bc52-3522006d713b@7944.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewelina Badura
-DTEND:20251118T190000Z
-LOCATION:Paw.B 055 (KSB)
-DTSTART:20251118T173000Z
-SUMMARY:Prawo mieszkaniowe (konwersatorium do wyboru)
-UID:bb64449e-c2a9-4987-9849-b599bc9123d2@bb64.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
-DTEND:20251009T170000Z
-DTSTART:20251009T153000Z
-SUMMARY:Prawo pracy (wykład)
-UID:e9bf00b7-fcc8-4e2b-9175-9a1ca89116e6@e9bf.org
+UID:2e347e30-1d0d-42c9-98c8-28fa6f6c3a50@2e34.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Aneta Mendrek
@@ -1283,38 +47,30 @@ DTEND:20251215T100000Z
 LOCATION:link do zajęć
 DTSTART:20251215T074500Z
 SUMMARY:Postępowanie cywilne (wykład)
-UID:aabb9501-087e-4a7c-bc8d-802d9dc1a993@aabb.org
+UID:a951ebd0-1702-4394-b3c2-549a76e42931@a951.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Kamila Wojtyła
-DTEND:20251211T134500Z
-LOCATION:L 413 bib
-DTSTART:20251211T121500Z
-SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
-UID:50cd7942-9607-4a12-b3f3-d078216ede3f@50cd.org
+DESCRIPTION:Instructor: dr Ewelina Badura
+DTEND:20251202T190000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20251202T173000Z
+SUMMARY:Prawo mieszkaniowe (konwersatorium do wyboru)
+UID:081c28c5-40c0-4402-b2df-2d65cc0af589@081c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251217T134500Z
-DTSTART:20251217T121500Z
-SUMMARY: (rezerwacja)
-UID:a1681227-be00-4ebc-b1b1-eb07cc170e43@a168.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20251009T170000Z
+DTSTART:20251009T153000Z
+SUMMARY:Prawo pracy (wykład)
+UID:997880b0-8b76-47c0-95f0-7a34cc29f375@9978.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
-DTEND:20251215T151500Z
-LOCATION:link do zajęć
-DTSTART:20251215T130000Z
-SUMMARY:Prawo farmaceutyczne (wykład do wyboru)
-UID:ab619f46-58eb-4656-a26b-868307b157a1@ab61.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Aneta Mendrek
-DTEND:20260114T100000Z
-LOCATION:Paw.C sala C
-DTSTART:20260114T074500Z
-SUMMARY:Postępowanie cywilne (ćwiczenia)
-UID:56b0dd9a-40e8-4823-8d8b-3d830412637f@56b0.org
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20251103T120000Z
+LOCATION:Platforma Moodle
+DTSTART:20251103T103000Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (wykład e-learningowy)
+UID:23e3e798-c9ef-453f-98f1-922d72581c9d@23e3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
@@ -1322,7 +78,235 @@ DTEND:20251007T073000Z
 LOCATION:Bibl. 441
 DTSTART:20251007T060000Z
 SUMMARY:Prawo pracy (ćwiczenia)
-UID:956ef8c5-06bd-4aa1-bff1-bcad6719684c@956e.org
+UID:4fe444c4-6928-45b8-a172-4a6d8d8948a4@4fe4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20260122T134500Z
+LOCATION:L 413 bib
+DTSTART:20260122T121500Z
+SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
+UID:c0675753-a3a0-46c6-98f9-4b30df36c90a@c067.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20251120T153000Z
+LOCATION:L 413 bib
+DTSTART:20251120T140000Z
+SUMMARY:Prawo gier komputerowych i e-sportu (konwersatorium do wyboru)
+UID:b4e031a4-1a1b-4a14-8cff-608494021312@b4e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20251107T100000Z
+LOCATION:link do zajęć
+DTSTART:20251107T074500Z
+SUMMARY:Postępowanie cywilne (wykład)
+UID:1d3b8d1a-1972-401e-a72a-e16eeeeac059@1d3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20251126T100000Z
+LOCATION:Paw.C sala C
+DTSTART:20251126T074500Z
+SUMMARY:Postępowanie cywilne (ćwiczenia)
+UID:5af95eda-beef-4349-b5fe-ac7c83378b86@5af9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20251014T110000Z
+LOCATION:Bud.gł. 8
+DTSTART:20251014T093000Z
+SUMMARY:Postępowanie cywilne (ćwiczenia)
+UID:935bef74-f575-45c7-b0cb-9c0faf4be76f@935b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewelina Badura
+DTEND:20251021T180000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20251021T163000Z
+SUMMARY:Prawo mieszkaniowe (konwersatorium do wyboru)
+UID:29f4e560-d4cd-45e1-8608-a0e5c11d348d@29f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20251027T190000Z
+DTSTART:20251027T173000Z
+SUMMARY:Prawo pracy (Przeniesienie zajęć)
+UID:3f4f2f34-327f-4b53-bd2f-2d768ef20bbf@3f4f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Plebanek
+DTEND:20251009T184500Z
+DTSTART:20251009T171500Z
+SUMMARY:Medyczne Prawo Karne (wykład do wyboru)
+UID:105a50fc-462d-4b56-bc64-c5dfe6cedba6@105a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewelina Badura
+DTEND:20251209T190000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20251209T173000Z
+SUMMARY:Prawo mieszkaniowe (konwersatorium do wyboru)
+UID:fbd860d3-fb01-4f96-809a-3fdc6023b800@fbd8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20260107T100000Z
+LOCATION:Paw.C sala C
+DTSTART:20260107T074500Z
+SUMMARY:Postępowanie cywilne (ćwiczenia)
+UID:e55eb864-15b6-4a9a-8c9d-e790a586cc4f@e55e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20251014T073000Z
+LOCATION:Bibl. 441
+DTSTART:20251014T060000Z
+SUMMARY:Prawo pracy (ćwiczenia)
+UID:5b68e58a-5ae8-416e-9675-c4f94e9246d6@5b68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20251218T134500Z
+LOCATION:L 413 bib
+DTSTART:20251218T121500Z
+SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
+UID:19468128-9176-47b6-b9a6-19d074380cf4@1946.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20251028T083000Z
+LOCATION:Bibl. 441
+DTSTART:20251028T070000Z
+SUMMARY:Prawo pracy (ćwiczenia)
+UID:a06546b8-e37e-417c-8d94-13a424481341@a065.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20260120T083000Z
+LOCATION:Bibl. 441
+DTSTART:20260120T070000Z
+SUMMARY:Prawo pracy (ćwiczenia)
+UID:6a5ad908-f7d8-468a-9992-4559ae1c4727@6a5a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Plebanek
+DTEND:20251218T194500Z
+LOCATION:link do zajęć
+DTSTART:20251218T181500Z
+SUMMARY:Medyczne Prawo Karne (wykład do wyboru)
+UID:2165303f-a4a0-47ef-b069-788f3607febc@2165.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewelina Badura
+DTEND:20260120T190000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20260120T173000Z
+SUMMARY:Prawo mieszkaniowe (konwersatorium do wyboru)
+UID:ec0cc74e-0f9d-4649-84f9-455008320d92@ec0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20251002T124500Z
+LOCATION:L 413 bib
+DTSTART:20251002T111500Z
+SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
+UID:809ee6c5-9b61-4665-96da-fa83af789043@809e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewelina Badura
+DTEND:20251125T190000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20251125T173000Z
+SUMMARY:Prawo mieszkaniowe (konwersatorium do wyboru)
+UID:37fa3087-90a6-4917-a943-47164d340614@37fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20251030T153000Z
+LOCATION:L 413 bib
+DTSTART:20251030T140000Z
+SUMMARY:Prawo gier komputerowych i e-sportu (konwersatorium do wyboru)
+UID:51a1f59a-ba18-482f-a303-cfe5ead00b0a@51a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20260115T153000Z
+LOCATION:L 413 bib
+DTSTART:20260115T140000Z
+SUMMARY:Prawo gier komputerowych i e-sportu (konwersatorium do wyboru)
+UID:9d68b9d6-01d3-4e39-bc1b-86ad63f5d1dc@9d68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Plebanek
+DTEND:20251120T194500Z
+LOCATION:link do zajęć
+DTSTART:20251120T181500Z
+SUMMARY:Medyczne Prawo Karne (wykład do wyboru)
+UID:3c3dd7a8-665a-4e30-9214-c98268a17f81@3c3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Fill
+DTEND:20251021T091500Z
+LOCATION:Paw.S sala 1
+DTSTART:20251021T074500Z
+SUMMARY:Prawo finansowe (konwersatorium)
+UID:577b3aab-e392-4c7e-a26d-81e2d3417b40@577b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Fill
+DTEND:20251209T101500Z
+LOCATION:Paw.S sala 1
+DTSTART:20251209T084500Z
+SUMMARY:Prawo finansowe (konwersatorium)
+UID:5ac06d62-5700-424d-b393-7d9e5d8ef0b3@5ac0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20251211T153000Z
+LOCATION:L 413 bib
+DTSTART:20251211T140000Z
+SUMMARY:Prawo gier komputerowych i e-sportu (konwersatorium do wyboru)
+UID:d0b8aecf-ba15-45dd-acf8-c5d1593aeb38@d0b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251217T134500Z
+DTSTART:20251217T121500Z
+SUMMARY: (rezerwacja)
+UID:632b9ed2-ec27-4a34-aff0-84f03b73a92a@632b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20251015T110000Z
+LOCATION:Platforma Moodle
+DTSTART:20251015T093000Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (Ćwiczenia e-learningowe)
+UID:eb56b693-034a-48ae-95c7-9a98d4adc02f@eb56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20251201T100000Z
+LOCATION:link do zajęć
+DTSTART:20251201T074500Z
+SUMMARY:Postępowanie cywilne (wykład)
+UID:a5c4c6ae-56a0-4786-a5df-80607bcbc490@a5c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20260107T120000Z
+LOCATION:Paw.G 11
+DTSTART:20260107T103000Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (ćwiczenia)
+UID:44fea7ea-588b-419e-9627-de11db114699@44fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20251013T110000Z
+DTSTART:20251013T093000Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (Przeniesienie zajęć)
+UID:40b01fec-1bee-4b46-a089-0985cb946814@40b0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Ewelina Badura
@@ -1330,61 +314,38 @@ DTEND:20251219T133000Z
 LOCATION:Paw.G  8
 DTSTART:20251219T111500Z
 SUMMARY:Prawo mieszkaniowe (konwersatorium do wyboru)
-UID:456496ab-b7a1-4f0b-911f-a4039f07d12e@4564.org
+UID:f616262e-2e16-453b-84a9-4969047b0033@f616.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Plebanek
+DTEND:20251211T194500Z
+LOCATION:link do zajęć
+DTSTART:20251211T181500Z
+SUMMARY:Medyczne Prawo Karne (wykład do wyboru)
+UID:c47642a4-9a15-4ea0-aa03-c50ab62893fe@c476.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Aneta Mendrek
-DTEND:20251008T090000Z
+DTEND:20260114T100000Z
 LOCATION:Paw.C sala C
-DTSTART:20251008T060000Z
+DTSTART:20260114T074500Z
 SUMMARY:Postępowanie cywilne (ćwiczenia)
-UID:006f1969-1a03-44bb-845f-234c018dd051@006f.org
+UID:80acfbd1-846b-4cd8-8581-e798e4631af9@80ac.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Plebanek
-DTEND:20251030T194500Z
-LOCATION:link do zajęć
-DTSTART:20251030T181500Z
-SUMMARY:Medyczne Prawo Karne (wykład do wyboru)
-UID:6608da8a-c457-4ce2-b85f-046885876900@6608.org
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20251030T134500Z
+LOCATION:L 413 bib
+DTSTART:20251030T121500Z
+SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
+UID:35b74563-964e-4758-a203-aa4aa06c1231@35b7.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
-DTEND:20251126T120000Z
-LOCATION:Paw.G 11
-DTSTART:20251126T103000Z
-SUMMARY:Prawo ochrony konkurencji i konsumentów (ćwiczenia)
-UID:55adece1-1064-43b8-97cd-eb5c6e5524d4@55ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Patrycja Balcer-Czarnecka
-DTEND:20251117T171500Z
-DTSTART:20251117T154500Z
-SUMMARY:Postępowanie w sprawach nieletnich (Przeniesienie zajęć)
-UID:8d46284a-19d4-473d-942b-095807c29b91@8d46.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
-DTEND:20251001T110000Z
-LOCATION:Paw.G 11
-DTSTART:20251001T093000Z
-SUMMARY:Prawo ochrony konkurencji i konsumentów (ćwiczenia)
-UID:488b4927-fd25-4fe1-b581-9c53e3035349@488b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Plebanek
-DTEND:20251127T194500Z
-LOCATION:link do zajęć
-DTSTART:20251127T181500Z
-SUMMARY:Medyczne Prawo Karne (wykład do wyboru)
-UID:7dba4e0c-0f82-4154-b655-4f03b8e55f13@7dba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Plebanek
-DTEND:20251023T184500Z
-DTSTART:20251023T171500Z
-SUMMARY:Medyczne Prawo Karne (wykład do wyboru)
-UID:e1140b1a-b2bc-439e-a5fd-7afe641833b9@e114.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20251027T134500Z
+DTSTART:20251027T121500Z
+SUMMARY:Prawo pracy (wykład)
+UID:abc6db0b-dd10-4096-8029-a504b9680d48@abc6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
@@ -1392,7 +353,957 @@ DTEND:20251216T083000Z
 LOCATION:Bibl. 441
 DTSTART:20251216T070000Z
 SUMMARY:Prawo pracy (ćwiczenia)
-UID:f14aa963-4372-41e3-8b4d-4aa21e4d31c4@f14a.org
+UID:a9868359-1fcb-4e9c-af73-230e8af5cee8@a986.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20251013T090000Z
+DTSTART:20251013T064500Z
+SUMMARY:Postępowanie cywilne (wykład)
+UID:6dea8dc8-0461-4f2d-9149-a0ad8f1d30c2@6dea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Fill
+DTEND:20251216T101500Z
+LOCATION:Paw.S sala 1
+DTSTART:20251216T084500Z
+SUMMARY:Prawo finansowe (konwersatorium)
+UID:836c87c2-4254-498b-a6de-e01dcb8f2db8@836c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20251023T143000Z
+LOCATION:L 413 bib
+DTSTART:20251023T130000Z
+SUMMARY:Prawo gier komputerowych i e-sportu (konwersatorium do wyboru)
+UID:f70b2a14-09d9-4683-9302-2f1cd728bc8a@f70b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Fill
+DTEND:20260113T101500Z
+LOCATION:Paw.S sala 1
+DTSTART:20260113T084500Z
+SUMMARY:Prawo finansowe (konwersatorium)
+UID:fffbd356-2ca7-4b3d-8001-b2acad0abeed@fffb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Plebanek
+DTEND:20260122T194500Z
+LOCATION:link do zajęć
+DTSTART:20260122T181500Z
+SUMMARY:Medyczne Prawo Karne (wykład do wyboru)
+UID:b152f9a4-0240-4cef-a9dc-f451787249fa@b152.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Fill
+DTEND:20251028T101500Z
+LOCATION:Paw.S sala 1
+DTSTART:20251028T084500Z
+SUMMARY:Prawo finansowe (konwersatorium)
+UID:e891b285-98a2-45f3-bf16-e5ace4702142@e891.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20260108T153000Z
+LOCATION:L 413 bib
+DTSTART:20260108T140000Z
+SUMMARY:Prawo gier komputerowych i e-sportu (konwersatorium do wyboru)
+UID:9a96ba9e-bed8-499e-ae21-6f6284c781d7@9a96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20251117T151500Z
+LOCATION:link do zajęć
+DTSTART:20251117T130000Z
+SUMMARY:Prawo farmaceutyczne (wykład do wyboru)
+UID:b1d966e6-02dc-4650-8808-acfb15010a95@b1d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20251222T100000Z
+LOCATION:link do zajęć
+DTSTART:20251222T074500Z
+SUMMARY:Postępowanie cywilne (wykład)
+UID:b524d357-81fa-4464-8d3f-765e3e288649@b524.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Plebanek
+DTEND:20260115T194500Z
+LOCATION:link do zajęć
+DTSTART:20260115T181500Z
+SUMMARY:Medyczne Prawo Karne (wykład do wyboru)
+UID:928a9c50-e303-4bd3-8395-f8efa4148101@928a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20251009T143000Z
+LOCATION:L 413 bib
+DTSTART:20251009T130000Z
+SUMMARY:Prawo gier komputerowych i e-sportu (konwersatorium do wyboru)
+UID:51e7d703-a5cf-4693-8d19-8f153426d402@51e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Kamila Wojtyła
+DTEND:20251015T170000Z
+LOCATION:L 413 bib
+DTSTART:20251015T153000Z
+SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
+UID:302c6b30-ac0e-43c5-87cd-2ec96a3c61ad@302c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewelina Badura
+DTEND:20260113T190000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20260113T173000Z
+SUMMARY:Prawo mieszkaniowe (konwersatorium do wyboru)
+UID:aaecfc34-ac45-47a6-b5ae-c489ac7ce0d6@aaec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Fill
+DTEND:20251114T133000Z
+DTSTART:20251114T111500Z
+SUMMARY:Prawo finansowe (Przeniesienie zajęć)
+UID:e037a0df-1232-4432-9732-8383da4180aa@e037.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20251112T100000Z
+LOCATION:Paw.C sala C
+DTSTART:20251112T074500Z
+SUMMARY:Postępowanie cywilne (ćwiczenia)
+UID:87ef4bb2-ceea-4de3-a544-71f6cd82207a@87ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20251203T100000Z
+LOCATION:Paw.C sala C
+DTSTART:20251203T074500Z
+SUMMARY:Postępowanie cywilne (ćwiczenia)
+UID:baa0e7d2-eb88-48ee-af8f-b4ed5eaba2b0@baa0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewelina Badura
+DTEND:20251104T190000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20251104T173000Z
+SUMMARY:Prawo mieszkaniowe (konwersatorium do wyboru)
+UID:90598221-1bb2-4304-a7ca-8be8335c489e@9059.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20251114T101500Z
+LOCATION:Paw.S sala 7
+DTSTART:20251114T084500Z
+SUMMARY:Postępowanie cywilne (ćwiczenia)
+UID:973af37f-56ab-48e9-a6a1-a8677aa5fad0@973a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20260119T153000Z
+LOCATION:link do zajęć
+DTSTART:20260119T140000Z
+SUMMARY:Prawo farmaceutyczne (wykład do wyboru)
+UID:d82eda3d-d8a3-48b0-bd2e-b5566710215f@d82e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Fill
+DTEND:20251104T101500Z
+LOCATION:Paw.S sala 1
+DTSTART:20251104T084500Z
+SUMMARY:Prawo finansowe (konwersatorium)
+UID:5252d405-12cf-40cd-aaf3-4693eaaffa2b@5252.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Kamila Wojtyła
+DTEND:20251211T134500Z
+LOCATION:L 413 bib
+DTSTART:20251211T121500Z
+SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
+UID:574b446b-40d2-4ac2-affa-08286c3d95d9@574b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewelina Badura
+DTEND:20251007T180000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20251007T163000Z
+SUMMARY:Prawo mieszkaniowe (konwersatorium do wyboru)
+UID:1921927b-96e8-4681-838a-a934bd428af3@1921.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Patrycja Balcer-Czarnecka
+DTEND:20251201T171500Z
+LOCATION:link do zajęć
+DTSTART:20251201T154500Z
+SUMMARY:Postępowanie w sprawach nieletnich (wykład do wyboru)
+UID:c5695394-9fb2-40b7-bfd1-fcf3353492bd@c569.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Plebanek
+DTEND:20251106T194500Z
+LOCATION:link do zajęć
+DTSTART:20251106T181500Z
+SUMMARY:Medyczne Prawo Karne (wykład do wyboru)
+UID:e9992c3f-942f-4f73-b80f-40c5c23ed862@e999.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20251204T134500Z
+LOCATION:L 413 bib
+DTSTART:20251204T121500Z
+SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
+UID:f8f60c3e-d2e8-4f16-b538-9cb2223e8773@f8f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20251001T073000Z
+LOCATION:Paw.C sala C
+DTSTART:20251001T060000Z
+SUMMARY:Postępowanie cywilne (ćwiczenia)
+UID:5fa0524e-94f7-4b93-81fe-c0ec60cb8dff@5fa0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20251217T100000Z
+LOCATION:Paw.C sala C
+DTSTART:20251217T074500Z
+SUMMARY:Postępowanie cywilne (ćwiczenia)
+UID:1776c307-e573-4e42-8800-d093953a1625@1776.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20251103T151500Z
+LOCATION:link do zajęć
+DTSTART:20251103T130000Z
+SUMMARY:Prawo farmaceutyczne (wykład do wyboru)
+UID:a551706b-b753-4af3-affb-d8c218042775@a551.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20251001T110000Z
+LOCATION:Paw.G 11
+DTSTART:20251001T093000Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (ćwiczenia)
+UID:43e7346a-f6c3-49ec-b492-11eb02c2034a@43e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20260130T124500Z
+LOCATION:Paw.S sala 9
+DTSTART:20260130T103000Z
+SUMMARY:Postępowanie cywilne (egzamin)
+UID:aa84119e-8a4d-4136-be34-1818990863e9@aa84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Patrycja Balcer-Czarnecka
+DTEND:20251117T171500Z
+DTSTART:20251117T154500Z
+SUMMARY:Postępowanie w sprawach nieletnich (Przeniesienie zajęć)
+UID:f649f9af-d0ca-4483-a220-a167124eb839@f649.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Fill
+DTEND:20251202T101500Z
+LOCATION:Paw.S sala 1
+DTSTART:20251202T084500Z
+SUMMARY:Prawo finansowe (konwersatorium)
+UID:4d21dfdc-75fb-46a4-8ed8-38693e115b4f@4d21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20251215T151500Z
+LOCATION:link do zajęć
+DTSTART:20251215T130000Z
+SUMMARY:Prawo farmaceutyczne (wykład do wyboru)
+UID:90a3cb8c-90c8-496b-a5ec-1bc8ee012dec@90a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20251020T180000Z
+DTSTART:20251020T163000Z
+SUMMARY:Prawo pracy (Przeniesienie zajęć)
+UID:19c35a00-c211-4f15-95ba-7c1a894f027b@19c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Patrycja Balcer-Czarnecka
+DTEND:20251124T171500Z
+LOCATION:link do zajęć
+DTSTART:20251124T154500Z
+SUMMARY:Postępowanie w sprawach nieletnich (wykład do wyboru)
+UID:f67271ea-2662-4532-b3d3-82e81712c9cc@f672.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20251121T091500Z
+LOCATION:link do zajęć
+DTSTART:20251121T070000Z
+SUMMARY:Postępowanie cywilne (wykład)
+UID:4acbd1b8-6a68-42e2-8ebb-905bc4af795a@4acb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Patrycja Balcer-Czarnecka
+DTEND:20251020T161500Z
+DTSTART:20251020T144500Z
+SUMMARY:Postępowanie w sprawach nieletnich (wykład do wyboru)
+UID:e4e822c3-4906-48ad-9440-bd59dd3f4a9d@e4e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Plebanek
+DTEND:20251002T184500Z
+DTSTART:20251002T171500Z
+SUMMARY:Medyczne Prawo Karne (wykład do wyboru)
+UID:088e24f8-38cf-4c15-b15e-2767a71d5462@088e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20251117T190000Z
+LOCATION:link do zajęć
+DTSTART:20251117T173000Z
+SUMMARY:Prawo pracy (wykład)
+UID:c0f4dd9c-6392-4971-b397-a555896f4d33@c0f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20260119T100000Z
+LOCATION:link do zajęć
+DTSTART:20260119T074500Z
+SUMMARY:Postępowanie cywilne (wykład)
+UID:07534dfe-d516-4546-b2aa-8247acf24736@0753.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Patrycja Balcer-Czarnecka
+DTEND:20251208T171500Z
+LOCATION:link do zajęć
+DTSTART:20251208T154500Z
+SUMMARY:Postępowanie w sprawach nieletnich (wykład do wyboru)
+UID:8ac3109a-429e-498a-a34a-9e9710cd6f17@8ac3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20251106T153000Z
+LOCATION:L 413 bib
+DTSTART:20251106T140000Z
+SUMMARY:Prawo gier komputerowych i e-sportu (konwersatorium do wyboru)
+UID:384221e2-4da4-4934-9617-a756fd9481f3@3842.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20251023T124500Z
+LOCATION:L 413 bib
+DTSTART:20251023T111500Z
+SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
+UID:4323cb89-0ec5-47e6-9672-bf34c9a106eb@4323.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20251210T100000Z
+LOCATION:Paw.C sala C
+DTSTART:20251210T074500Z
+SUMMARY:Postępowanie cywilne (ćwiczenia)
+UID:8c3a2cb8-615e-4885-92d8-bf5d187540ba@8c3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20251104T083000Z
+LOCATION:Bibl. 441
+DTSTART:20251104T070000Z
+SUMMARY:Prawo pracy (ćwiczenia)
+UID:6a670860-bc73-44e3-a764-0f885463289f@6a67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20251104T120000Z
+LOCATION:L 413 bib
+DTSTART:20251104T103000Z
+SUMMARY:Postępowanie cywilne (ćwiczenia)
+UID:39a2b10f-48af-4714-b93a-e579fc6a5ef3@39a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20251125T083000Z
+LOCATION:Bibl. 441
+DTSTART:20251125T070000Z
+SUMMARY:Prawo pracy (ćwiczenia)
+UID:78140304-0483-43e6-bb07-1b375bed602d@7814.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20251215T120000Z
+LOCATION:link do zajęć
+DTSTART:20251215T103000Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (wykład)
+UID:cd8f5eb5-412b-455f-9ca6-44433ed9927e@cd8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Fill
+DTEND:20251125T101500Z
+LOCATION:Paw.S sala 1
+DTSTART:20251125T084500Z
+SUMMARY:Prawo finansowe (konwersatorium)
+UID:5de08f08-f0ad-4a77-963f-ea2448361834@5de0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Patrycja Balcer-Czarnecka
+DTEND:20251208T124500Z
+LOCATION:link do zajęć
+DTSTART:20251208T111500Z
+SUMMARY:Postępowanie w sprawach nieletnich (wykład do wyboru)
+UID:a0dda934-1faa-4611-9710-46abcaa63ec0@a0dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Patrycja Balcer-Czarnecka
+DTEND:20251222T180000Z
+LOCATION:link do zajęć
+DTSTART:20251222T154500Z
+SUMMARY:Postępowanie w sprawach nieletnich (wykład do wyboru)
+UID:c8c43c4b-1560-44b9-bf76-e7327a88220d@c8c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20251112T120000Z
+LOCATION:Platforma Moodle
+DTSTART:20251112T103000Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (Ćwiczenia e-learningowe)
+UID:cb26a31b-36b7-489f-b788-757cdc88beb3@cb26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20251009T124500Z
+LOCATION:L 413 bib
+DTSTART:20251009T111500Z
+SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
+UID:40f6db02-5195-4be5-8c2d-4703e45a353d@40f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Plebanek
+DTEND:20251023T184500Z
+DTSTART:20251023T171500Z
+SUMMARY:Medyczne Prawo Karne (wykład do wyboru)
+UID:ac76cfc6-1cff-4881-a97f-7399f30f755a@ac76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Plebanek
+DTEND:20260108T194500Z
+LOCATION:link do zajęć
+DTSTART:20260108T181500Z
+SUMMARY:Medyczne Prawo Karne (wykład do wyboru)
+UID:fc0d8de0-706a-40f4-8cd6-fdc30056afb2@fc0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20260216T101500Z
+LOCATION:Paw.S sala 9
+DTSTART:20260216T084500Z
+SUMMARY:Postępowanie cywilne (egzamin)
+UID:3f9066a3-9011-4d59-a690-c66ef93deeb1@3f90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20251020T090000Z
+DTSTART:20251020T064500Z
+SUMMARY:Postępowanie cywilne (wykład)
+UID:58c47604-3a94-4182-ba3d-95d91c7fff1e@58c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20260113T083000Z
+LOCATION:Bibl. 441
+DTSTART:20260113T070000Z
+SUMMARY:Prawo pracy (ćwiczenia)
+UID:8aa1877a-3950-406c-a7e6-4fb86cfa2427@8aa1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20251021T073000Z
+LOCATION:Bibl. 441
+DTSTART:20251021T060000Z
+SUMMARY:Prawo pracy (ćwiczenia)
+UID:12fe9d44-2239-4ee8-bdfe-efba423c026e@12fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20251127T153000Z
+LOCATION:L 413 bib
+DTSTART:20251127T140000Z
+SUMMARY:Prawo gier komputerowych i e-sportu (konwersatorium do wyboru)
+UID:fd9d71b0-43d9-46ac-8274-dd3f717d9294@fd9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20251003T090000Z
+DTSTART:20251003T064500Z
+SUMMARY:Postępowanie cywilne (wykład)
+UID:e6759ecf-b3a7-4709-960d-f3e3c70af4b1@e675.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20251222T153000Z
+LOCATION:link do zajęć
+DTSTART:20251222T140000Z
+SUMMARY:Prawo farmaceutyczne (wykład do wyboru)
+UID:b0382658-767b-4548-8a37-40bb19a88108@b038.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20260122T153000Z
+LOCATION:L 413 bib
+DTSTART:20260122T140000Z
+SUMMARY:Prawo gier komputerowych i e-sportu (konwersatorium do wyboru)
+UID:110b721d-a89a-4ac4-ad74-f378828754cf@110b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Plebanek
+DTEND:20251113T194500Z
+LOCATION:link do zajęć
+DTSTART:20251113T181500Z
+SUMMARY:Medyczne Prawo Karne (wykład do wyboru)
+UID:7f41f909-f812-40e4-8b53-758a3c6c546e@7f41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Patrycja Balcer-Czarnecka
+DTEND:20260119T180000Z
+LOCATION:link do zajęć
+DTSTART:20260119T154500Z
+SUMMARY:Postępowanie w sprawach nieletnich (wykład do wyboru)
+UID:fc36e9fb-55ae-4d1d-8ed0-588631065450@fc36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20251218T153000Z
+LOCATION:L 413 bib
+DTSTART:20251218T140000Z
+SUMMARY:Prawo gier komputerowych i e-sportu (konwersatorium do wyboru)
+UID:9a59abaf-1511-417f-bf8e-c7668baa7348@9a59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20251210T120000Z
+LOCATION:Paw.G 11
+DTSTART:20251210T103000Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (ćwiczenia)
+UID:9102fab8-6362-4dfa-bcd5-32b14dc81baa@9102.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20260115T134500Z
+LOCATION:L 413 bib
+DTSTART:20260115T121500Z
+SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
+UID:95e61c5f-77a8-435f-9251-993c9bf6f03e@95e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Plebanek
+DTEND:20251016T184500Z
+DTSTART:20251016T171500Z
+SUMMARY:Medyczne Prawo Karne (wykład do wyboru)
+UID:09c755a1-8c52-48f0-b0cb-7bf83fc580fe@09c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20251114T083000Z
+LOCATION:Bud.gł. 8
+DTSTART:20251114T074500Z
+SUMMARY:Postępowanie cywilne (ćwiczenia)
+UID:19c29425-59a3-402c-b4ec-7417b707c545@19c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20251027T100000Z
+DTSTART:20251027T074500Z
+SUMMARY:Postępowanie cywilne (wykład)
+UID:2f59416a-8b7f-4472-bccd-020a3541ad01@2f59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Fill
+DTEND:20251007T091500Z
+LOCATION:Paw.S sala 1
+DTSTART:20251007T074500Z
+SUMMARY:Prawo finansowe (konwersatorium)
+UID:3200dc47-0d78-4ec1-95f5-01e113fad4dd@3200.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20251118T083000Z
+LOCATION:Bibl. 441
+DTSTART:20251118T070000Z
+SUMMARY:Prawo pracy (ćwiczenia)
+UID:68b5c3f3-b450-4552-acfe-bbb2c7ac8c59@68b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20251124T190000Z
+LOCATION:link do zajęć
+DTSTART:20251124T173000Z
+SUMMARY:Prawo pracy (wykład)
+UID:232ef1cb-0d13-4df9-beef-7e08596214e8@232e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20251208T111500Z
+LOCATION:link do zajęć
+DTSTART:20251208T103000Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (wykład)
+UID:35e1fac0-25e7-4f2e-bc6f-db93d4ed5706@35e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20251106T134500Z
+LOCATION:L 413 bib
+DTSTART:20251106T121500Z
+SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
+UID:6c273eaf-f492-4579-8796-e5cda1364e2a@6c27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20251016T143000Z
+LOCATION:L 413 bib
+DTSTART:20251016T130000Z
+SUMMARY:Prawo gier komputerowych i e-sportu (konwersatorium do wyboru)
+UID:931590b7-b787-49dc-b4b7-fac8c9f43228@9315.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20251020T141500Z
+DTSTART:20251020T120000Z
+SUMMARY:Prawo farmaceutyczne (wykład do wyboru)
+UID:25a7867b-7032-48d9-a1f3-3a0df3298ad6@25a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Fill
+DTEND:20251212T091500Z
+LOCATION:Paw.F 416
+DTSTART:20251212T070000Z
+SUMMARY:Prawo finansowe (konwersatorium)
+UID:563691bd-97da-4fc7-a653-7be5fc22e520@5636.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20260108T134500Z
+LOCATION:L 413 bib
+DTSTART:20260108T121500Z
+SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
+UID:de23ba04-b613-416a-8541-c9eea6bd7071@de23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Patrycja Balcer-Czarnecka
+DTEND:20260112T134500Z
+LOCATION:link do zajęć
+DTSTART:20260112T121500Z
+SUMMARY:Postępowanie w sprawach nieletnich (wykład do wyboru)
+UID:0838fa17-1ced-411c-b363-0b1c91bc66bb@0838.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20260121T111500Z
+LOCATION:Paw.G 11
+DTSTART:20260121T103000Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (ćwiczenia)
+UID:b5948998-5a9d-40fa-8f02-6032dd010371@b594.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20251120T134500Z
+LOCATION:L 413 bib
+DTSTART:20251120T121500Z
+SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
+UID:45339682-b35e-407d-81a9-e35fd9d092d7@4533.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20251028T134500Z
+LOCATION:Paw.B 251
+DTSTART:20251028T121500Z
+SUMMARY:Prawo pracy (ćwiczenia)
+UID:8e8b899f-3b20-46d2-bde8-fe5d56f4120a@8e8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20251201T120000Z
+LOCATION:link do zajęć
+DTSTART:20251201T103000Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (wykład)
+UID:0295bcd8-27b8-4c56-8cf7-12478dfcc6e1@0295.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20251103T190000Z
+LOCATION:link do zajęć
+DTSTART:20251103T173000Z
+SUMMARY:Prawo pracy (wykład)
+UID:f18ebd5c-1dc0-410b-b21b-f922b2791712@f18e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20251013T143000Z
+DTSTART:20251013T130000Z
+SUMMARY:Prawo farmaceutyczne (wykład do wyboru)
+UID:4234e0b9-7ca6-49cc-ad8e-38dd31cf9dc7@4234.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewelina Badura
+DTEND:20251118T190000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20251118T173000Z
+SUMMARY:Prawo mieszkaniowe (konwersatorium do wyboru)
+UID:add618c5-3de4-4e58-86fc-547558d987c8@add6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251016T123000Z
+DTSTART:20251016T093000Z
+SUMMARY: (rezerwacja)
+UID:ec6bbe20-d6fb-4bf8-ba4b-d5a50afdad39@ec6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20251124T153000Z
+LOCATION:link do zajęć
+DTSTART:20251124T140000Z
+SUMMARY:Prawo farmaceutyczne (wykład do wyboru)
+UID:255bb955-f31d-422f-aa68-c6f119bc7b65@255b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Plebanek
+DTEND:20251127T194500Z
+LOCATION:link do zajęć
+DTSTART:20251127T181500Z
+SUMMARY:Medyczne Prawo Karne (wykład do wyboru)
+UID:bda76449-2022-4f03-b956-bbf1372e888c@bda7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20251119T134500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20251119T121500Z
+SUMMARY:Prawo pracy (ćwiczenia)
+UID:e68820da-c65c-4b88-ac39-44c554598784@e688.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20251002T143000Z
+LOCATION:L 413 bib
+DTSTART:20251002T130000Z
+SUMMARY:Prawo gier komputerowych i e-sportu (konwersatorium do wyboru)
+UID:4e6f2910-cc8d-474d-b52c-8a585ff97019@4e6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20251128T100000Z
+LOCATION:link do zajęć
+DTSTART:20251128T074500Z
+SUMMARY:Postępowanie cywilne (wykład)
+UID:e5579504-7fd3-41fc-9ba0-b50c773ea138@e557.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20251117T100000Z
+LOCATION:link do zajęć
+DTSTART:20251117T074500Z
+SUMMARY:Postępowanie cywilne (wykład)
+UID:7388b002-b660-4088-ac28-7cdcbf925f2f@7388.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20251208T151500Z
+LOCATION:link do zajęć
+DTSTART:20251208T130000Z
+SUMMARY:Prawo farmaceutyczne (wykład do wyboru)
+UID:73134978-3cd9-4784-8b5d-69861e1041b0@7313.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20251209T134500Z
+LOCATION:Paw.B 251
+DTSTART:20251209T121500Z
+SUMMARY:Prawo pracy (ćwiczenia)
+UID:78e754c3-a65f-40e2-9797-eb82498748a5@78e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Plebanek
+DTEND:20251204T194500Z
+LOCATION:link do zajęć
+DTSTART:20251204T181500Z
+SUMMARY:Medyczne Prawo Karne (wykład do wyboru)
+UID:cc4b2561-af6e-48d2-aa18-9ec02330ea5d@cc4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Patrycja Balcer-Czarnecka
+DTEND:20251013T161500Z
+DTSTART:20251013T144500Z
+SUMMARY:Postępowanie w sprawach nieletnich (wykład do wyboru)
+UID:031336ab-d340-48bf-b495-8bbc5458cfe5@0313.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Plebanek
+DTEND:20251030T194500Z
+LOCATION:link do zajęć
+DTSTART:20251030T181500Z
+SUMMARY:Medyczne Prawo Karne (wykład do wyboru)
+UID:008c63ef-8d02-44ab-8865-e8f3bc84aefa@008c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20251126T120000Z
+LOCATION:Paw.G 11
+DTSTART:20251126T103000Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (ćwiczenia)
+UID:87b23a4d-a1b8-4993-98fa-0097d0c24a9d@87b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20251113T153000Z
+LOCATION:L 413 bib
+DTSTART:20251113T140000Z
+SUMMARY:Prawo gier komputerowych i e-sportu (konwersatorium do wyboru)
+UID:ee791010-427b-45fa-aed4-05c14531dee8@ee79.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Patrycja Balcer-Czarnecka
+DTEND:20251103T171500Z
+LOCATION:link do zajęć
+DTSTART:20251103T154500Z
+SUMMARY:Postępowanie w sprawach nieletnich (wykład do wyboru)
+UID:9a26f0d9-578b-4eac-94e8-a1783b598798@9a26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20251013T180000Z
+DTSTART:20251013T163000Z
+SUMMARY:Prawo pracy (wykład)
+UID:9d483c03-f250-4d68-8bb1-f68b550609c5@9d48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewelina Badura
+DTEND:20251216T190000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20251216T173000Z
+SUMMARY:Prawo mieszkaniowe (konwersatorium do wyboru)
+UID:323a92b8-4d0c-42c3-aa00-048e66ebadb7@323a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewelina Badura
+DTEND:20251028T190000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20251028T173000Z
+SUMMARY:Prawo mieszkaniowe (konwersatorium do wyboru)
+UID:c5894f19-eb4e-4375-9161-77a26c757979@c589.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20251127T134500Z
+LOCATION:L 413 bib
+DTSTART:20251127T121500Z
+SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
+UID:741344e4-24de-4a24-bef0-7c2ae39eae40@7413.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20251113T134500Z
+LOCATION:L 413 bib
+DTSTART:20251113T121500Z
+SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
+UID:4c215f3e-bac3-4272-a190-5374cb741d64@4c21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20251024T090000Z
+DTSTART:20251024T064500Z
+SUMMARY:Postępowanie cywilne (Przeniesienie zajęć)
+UID:ca5c4cd2-1cd7-4248-96a7-6c427111cee8@ca5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20251208T181500Z
+LOCATION:link do zajęć
+DTSTART:20251208T173000Z
+SUMMARY:Prawo pracy (wykład)
+UID:b7c5ccbe-2f39-4381-a32a-c5e4ab416068@b7c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20251209T083000Z
+LOCATION:Bibl. 441
+DTSTART:20251209T070000Z
+SUMMARY:Prawo pracy (ćwiczenia)
+UID:a75b262b-0e93-489e-86f1-aa60867892d2@a75b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20251204T153000Z
+LOCATION:L 413 bib
+DTSTART:20251204T140000Z
+SUMMARY:Prawo gier komputerowych i e-sportu (konwersatorium do wyboru)
+UID:db2cf66c-3650-4297-a4bb-47cf0c4f0ac1@db2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20251029T120000Z
+LOCATION:Platforma Moodle
+DTSTART:20251029T103000Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (Ćwiczenia e-learningowe)
+UID:e3b881af-0a7b-490b-9d72-b860e848584c@e3b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20251103T100000Z
+LOCATION:link do zajęć
+DTSTART:20251103T074500Z
+SUMMARY:Postępowanie cywilne (wykład)
+UID:32fcf5b9-c933-43ec-a69e-6f5fdef1e0f6@32fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewelina Badura
+DTEND:20251119T170000Z
+LOCATION:Rakowicka 16 sala -103
+DTSTART:20251119T144500Z
+SUMMARY:Prawo mieszkaniowe (konwersatorium do wyboru)
+UID:d4a3bc4d-9d68-4068-879a-6771a3f98c91@d4a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Patrycja Balcer-Czarnecka
+DTEND:20251215T180000Z
+LOCATION:link do zajęć
+DTSTART:20251215T154500Z
+SUMMARY:Postępowanie w sprawach nieletnich (wykład do wyboru)
+UID:316a5b03-39ee-4cf5-b6ac-d03f5b7e83fb@316a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Patrycja Balcer-Czarnecka
+DTEND:20251027T171500Z
+DTSTART:20251027T154500Z
+SUMMARY:Postępowanie w sprawach nieletnich (wykład do wyboru)
+UID:333209bc-ebed-449d-b968-82056a50466d@3332.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20251124T100000Z
+LOCATION:link do zajęć
+DTSTART:20251124T074500Z
+SUMMARY:Postępowanie cywilne (wykład)
+UID:4eebdb2f-2f09-41a2-9c18-d12873efa861@4eeb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Fill
+DTEND:20251118T101500Z
+LOCATION:Paw.S sala 1
+DTSTART:20251118T084500Z
+SUMMARY:Prawo finansowe (konwersatorium)
+UID:e7a0956e-0ff9-472d-ae8e-f8314dfa39bb@e7a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20251201T151500Z
+LOCATION:link do zajęć
+DTSTART:20251201T130000Z
+SUMMARY:Prawo farmaceutyczne (wykład do wyboru)
+UID:24f8541c-ca00-4334-ab68-b0f6e7e0eba6@24f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20260121T100000Z
+LOCATION:Paw.C sala C
+DTSTART:20260121T074500Z
+SUMMARY:Postępowanie cywilne (ćwiczenia)
+UID:4bd58130-ad71-4da7-a6da-6759af2032ae@4bd5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Ewelina Badura
@@ -1400,6 +1311,92 @@ DTEND:20251014T180000Z
 LOCATION:Paw.B 055 (KSB)
 DTSTART:20251014T163000Z
 SUMMARY:Prawo mieszkaniowe (konwersatorium do wyboru)
-UID:5d8ac1bf-00b7-49c8-b995-2ca89d05b751@5d8a.org
+UID:1f8d1948-74d6-4906-be30-ca1eb3d5a9af@1f8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20260112T100000Z
+LOCATION:link do zajęć
+DTSTART:20260112T074500Z
+SUMMARY:Postępowanie cywilne (wykład)
+UID:382b54b4-ddde-4873-b6b4-ae137022f0c9@382b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20251020T110000Z
+DTSTART:20251020T093000Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (wykład)
+UID:61aeec36-38c2-4c9d-a1e2-7b6935cb9823@61ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20251022T090000Z
+LOCATION:Paw.C sala C
+DTSTART:20251022T060000Z
+SUMMARY:Postępowanie cywilne (ćwiczenia)
+UID:a22d5e92-960b-47a8-8f74-222848899c2d@a22d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Patrycja Balcer-Czarnecka
+DTEND:20260112T180000Z
+LOCATION:link do zajęć
+DTSTART:20260112T154500Z
+SUMMARY:Postępowanie w sprawach nieletnich (wykład do wyboru)
+UID:2878991f-4f18-41b6-ae96-31ae65335ee4@2878.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20251105T100000Z
+LOCATION:Paw.C sala C
+DTSTART:20251105T070000Z
+SUMMARY:Postępowanie cywilne (ćwiczenia)
+UID:557ad96e-c31c-4436-a09e-2a673f67c6f5@557a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Fill
+DTEND:20260123T091500Z
+LOCATION:Paw.S sala 6
+DTSTART:20260123T070000Z
+SUMMARY:Prawo finansowe (konwersatorium)
+UID:8d2d85d3-c50d-40dc-82cd-42494bb5196e@8d2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20251027T153000Z
+DTSTART:20251027T140000Z
+SUMMARY:Prawo farmaceutyczne (Przeniesienie zajęć)
+UID:a3519259-1f05-437e-8295-0bf010b4abba@a351.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20251008T090000Z
+LOCATION:Paw.C sala C
+DTSTART:20251008T060000Z
+SUMMARY:Postępowanie cywilne (ćwiczenia)
+UID:43d1bd44-5064-4be5-864c-6dc2851aa0a4@43d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20251117T120000Z
+LOCATION:Platforma Moodle
+DTSTART:20251117T103000Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (wykład e-learningowy)
+UID:3b8b1dec-09b5-44ff-bebf-7068589c66e7@3b8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20251202T083000Z
+LOCATION:Bibl. 441
+DTSTART:20251202T070000Z
+SUMMARY:Prawo pracy (ćwiczenia)
+UID:131802f3-3084-410f-ad69-2404dcbacc3d@1318.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20251027T120000Z
+LOCATION:Platforma Moodle
+DTSTART:20251027T103000Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (wykład e-learningowy)
+UID:3d853647-243f-4956-9cb2-cbb3ae38c976@3d85.org
 END:VEVENT
 END:VCALENDAR

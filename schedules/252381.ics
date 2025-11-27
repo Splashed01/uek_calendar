@@ -2,20 +2,26 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Białynicki-Birula
-DTEND:20251204T101500Z
-LOCATION:link do zajęć
-DTSTART:20251204T084500Z
-SUMMARY:Ekonomiczne uwarunkowania polityk publicznych (wykład)
-UID:e9e1c35b-d19c-446f-b8f5-4ba55cd9ab8a@e9e1.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
+DTEND:20251028T120000Z
+LOCATION:Paw.F CJ 303
+DTSTART:20251028T103000Z
+SUMMARY:Raportowanie niefinansowe (ćwiczenia)
+UID:68bdc5ee-f275-429d-be79-fd68c90f7e28@68bd.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
-DTEND:20251028T134500Z
-LOCATION:Bud.gł. 8
-DTSTART:20251028T121500Z
-SUMMARY:Raportowanie niefinansowe (ćwiczenia)
-UID:fd8c36e9-2f8a-45ce-b5fa-47c13ec21a2b@fd8c.org
+DESCRIPTION:Instructor: prof. dr hab. Łukasz Mamica
+DTEND:20251030T120000Z
+DTSTART:20251030T103000Z
+SUMMARY:Gospodarka energetyczna (Przeniesienie zajęć)
+UID:c327a893-e939-4219-957e-dd1db1fd9067@c327.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marek Majdak
+DTEND:20251222T153000Z
+DTSTART:20251222T140000Z
+SUMMARY:Podstawy energetyki (Przeniesienie zajęć)
+UID:9cd3547f-28d0-4241-ad21-6ff2d82c21b8@9cd3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
@@ -23,39 +29,7 @@ DTEND:20251014T124500Z
 LOCATION:Bud.gł. 8
 DTSTART:20251014T111500Z
 SUMMARY:Raportowanie niefinansowe (ćwiczenia)
-UID:d93371bd-509c-4fa9-9ff8-ce09e22157da@d933.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Michał Król
-DTEND:20251208T171500Z
-LOCATION:Paw.F 416
-DTSTART:20251208T154500Z
-SUMMARY:Zielona Gospodarka (konwersatorium)
-UID:bd1bfd4c-a0df-45a1-b248-189eb6a16dfe@bd1b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Marek Majdak
-DTEND:20260112T134500Z
-LOCATION:Paw.F CJ 311
-DTSTART:20260112T121500Z
-SUMMARY:Podstawy energetyki (ćwiczenia)
-UID:6313348f-c3ef-4f73-b50a-2898bf5e56cd@6313.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Białynicki-Birula
-DTEND:20260108T101500Z
-LOCATION:link do zajęć
-DTSTART:20260108T084500Z
-SUMMARY:Ekonomiczne uwarunkowania polityk publicznych (wykład)
-UID:91bfd005-bcf1-42e1-93cf-185c8c135a89@91bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Anna Gomola
-DTEND:20251119T171500Z
-LOCATION:Paw.F 515
-DTSTART:20251119T154500Z
-SUMMARY:Gospodarka energetyczna (ćwiczenia)
-UID:f0f3f911-2d42-4086-b435-1f30260f412e@f0f3.org
+UID:044c6acf-e2ba-4a1c-a606-dfb2468ba334@044c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Marek Majdak
@@ -63,346 +37,7 @@ DTEND:20251218T120000Z
 LOCATION:link do zajęć
 DTSTART:20251218T103000Z
 SUMMARY:Podstawy energetyki (wykład)
-UID:589d37d0-3110-4244-a7b6-18ca63f456ac@589d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Michał Król
-DTEND:20251124T171500Z
-LOCATION:Paw.F 416
-DTSTART:20251124T154500Z
-SUMMARY:Zielona Gospodarka (konwersatorium)
-UID:80452bf9-f13e-4b9c-83ab-d7fcedd0c47a@8045.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Łukasz Mamica
-DTEND:20251113T120000Z
-LOCATION:link do zajęć
-DTSTART:20251113T103000Z
-SUMMARY:Gospodarka energetyczna (wykład)
-UID:24bd9680-f397-4c1a-b4c6-ce742d3489a6@24bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
-DTEND:20251023T124500Z
-DTSTART:20251023T111500Z
-SUMMARY:Raportowanie niefinansowe (wykład)
-UID:cffed5bd-f580-4704-a8cc-e051dd60983a@cffe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Białynicki-Birula
-DTEND:20260122T101500Z
-LOCATION:link do zajęć
-DTSTART:20260122T084500Z
-SUMMARY:Ekonomiczne uwarunkowania polityk publicznych (wykład)
-UID:071d005f-bee2-40fc-a119-8ab8d5c9b482@071d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Michał Król
-DTEND:20251117T171500Z
-LOCATION:Paw.F 416
-DTSTART:20251117T154500Z
-SUMMARY:Zielona Gospodarka (konwersatorium)
-UID:4be64ef8-4728-4dcd-995c-eb249f77f3e8@4be6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Białynicki-Birula
-DTEND:20251016T091500Z
-DTSTART:20251016T074500Z
-SUMMARY:Ekonomiczne uwarunkowania polityk publicznych (wykład)
-UID:971a146a-2587-49a2-89ec-960feb559687@971a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
-DTEND:20251125T134500Z
-DTSTART:20251125T121500Z
-SUMMARY:Raportowanie niefinansowe (Przeniesienie zajęć)
-UID:b03c3b63-9fc6-4872-ba8c-485b3a0f73bc@b03c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
-DTEND:20251127T134500Z
-LOCATION:link do zajęć
-DTSTART:20251127T121500Z
-SUMMARY:Raportowanie niefinansowe (wykład)
-UID:4bb0cc26-d919-4279-a175-d721b1b3e40b@4bb0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Zajączkowska
-DTEND:20251028T101500Z
-LOCATION:Bud.gł. 2
-DTSTART:20251028T084500Z
-SUMMARY:Polityka zrównoważonego rozwoju (ćwiczenia)
-UID:d06f70bf-0331-45ac-8b15-9bbda49f8123@d06f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Marek Majdak
-DTEND:20260115T144500Z
-LOCATION:link do zajęć
-DTSTART:20260115T140000Z
-SUMMARY:Podstawy energetyki (wykład)
-UID:382beafe-6d4b-4c45-b919-5bf03aea52b4@382b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Białynicki-Birula
-DTEND:20251211T101500Z
-LOCATION:link do zajęć
-DTSTART:20251211T084500Z
-SUMMARY:Ekonomiczne uwarunkowania polityk publicznych (wykład)
-UID:bcd68da8-2c7f-46f7-aeab-476ac32ce432@bcd6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251217T134500Z
-DTSTART:20251217T121500Z
-SUMMARY: (rezerwacja)
-UID:cacabd62-d91d-4c21-a6fe-1f7d0a83fd37@caca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Anna Gomola
-DTEND:20251008T161500Z
-LOCATION:Paw.F 515
-DTSTART:20251008T144500Z
-SUMMARY:Gospodarka energetyczna (ćwiczenia)
-UID:1faa6738-fda1-4e82-a896-95a9044acc17@1faa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Zajączkowska
-DTEND:20251120T134500Z
-LOCATION:link do zajęć
-DTSTART:20251120T121500Z
-SUMMARY:Polityka zrównoważonego rozwoju (wykład)
-UID:337f8f80-16e2-4370-9c1d-f740bae44d4d@337f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Marek Majdak
-DTEND:20251222T153000Z
-DTSTART:20251222T140000Z
-SUMMARY:Podstawy energetyki (Przeniesienie zajęć)
-UID:8b16c714-0dba-47c1-b48d-f1e9601cf5a1@8b16.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Białynicki-Birula
-DTEND:20251106T101500Z
-LOCATION:link do zajęć
-DTSTART:20251106T084500Z
-SUMMARY:Ekonomiczne uwarunkowania polityk publicznych (wykład)
-UID:3014e25f-c802-46a1-b5cb-993cf97c9b3d@3014.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Zajączkowska
-DTEND:20251204T134500Z
-LOCATION:link do zajęć
-DTSTART:20251204T121500Z
-SUMMARY:Polityka zrównoważonego rozwoju (wykład)
-UID:0d637353-d4fe-4a6e-920c-4326ead1fb01@0d63.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Łukasz Mamica
-DTEND:20251030T120000Z
-DTSTART:20251030T103000Z
-SUMMARY:Gospodarka energetyczna (Przeniesienie zajęć)
-UID:b270e911-ec14-41cd-be07-5077dd697752@b270.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Łukasz Mamica
-DTEND:20251030T153000Z
-DTSTART:20251030T140000Z
-SUMMARY:Gospodarka energetyczna (Przeniesienie zajęć)
-UID:8e2fb159-c003-4565-808d-5b56fe47e243@8e2f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
-DTEND:20251106T153000Z
-LOCATION:link do zajęć
-DTSTART:20251106T140000Z
-SUMMARY:Raportowanie niefinansowe (wykład)
-UID:b05ac9a6-e347-420c-8c19-3bd3d480886b@b05a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
-DTEND:20251028T120000Z
-LOCATION:Paw.F CJ 303
-DTSTART:20251028T103000Z
-SUMMARY:Raportowanie niefinansowe (ćwiczenia)
-UID:46a6623b-0668-44aa-8e28-6069203a5f73@46a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Anna Gomola
-DTEND:20251203T171500Z
-LOCATION:Paw.F 515
-DTSTART:20251203T154500Z
-SUMMARY:Gospodarka energetyczna (ćwiczenia)
-UID:23977bc9-cc56-4357-bdca-12d70b5eba20@2397.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Marek Majdak
-DTEND:20260115T120000Z
-LOCATION:link do zajęć
-DTSTART:20260115T103000Z
-SUMMARY:Podstawy energetyki (wykład)
-UID:382ab0cc-90cc-4590-990e-1d68fe173235@382a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
-DTEND:20260122T134500Z
-DTSTART:20260122T121500Z
-SUMMARY:Raportowanie niefinansowe (Przeniesienie zajęć)
-UID:ab3541b9-daa1-44e0-a100-381ffd747625@ab35.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
-DTEND:20251209T134500Z
-LOCATION:Bud.gł. 8
-DTSTART:20251209T121500Z
-SUMMARY:Raportowanie niefinansowe (ćwiczenia)
-UID:3b216b03-7446-4f24-ad68-8a3a7a6cf216@3b21.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Zajączkowska
-DTEND:20251218T134500Z
-LOCATION:link do zajęć
-DTSTART:20251218T121500Z
-SUMMARY:Polityka zrównoważonego rozwoju (wykład)
-UID:5744e1d4-a4d8-4232-b479-d655a03dc730@5744.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Zajączkowska
-DTEND:20251208T134500Z
-LOCATION:Paw.B 059 (KSB)
-DTSTART:20251208T121500Z
-SUMMARY:Polityka zrównoważonego rozwoju (ćwiczenia)
-UID:38839df9-1234-47bf-aea6-a870c633e8ed@3883.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Michał Król
-DTEND:20251103T171500Z
-LOCATION:Paw.F 416
-DTSTART:20251103T154500Z
-SUMMARY:Zielona Gospodarka (konwersatorium)
-UID:85f1c9ed-4137-44b4-89fb-d2bb341afb7f@85f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Marek Majdak
-DTEND:20251203T101500Z
-LOCATION:link do zajęć
-DTSTART:20251203T084500Z
-SUMMARY:Podstawy energetyki (wykład)
-UID:3c529d26-aae4-40bf-bb5c-744b1ea88b70@3c52.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Łukasz Mamica
-DTEND:20251211T120000Z
-LOCATION:link do zajęć
-DTSTART:20251211T103000Z
-SUMMARY:Gospodarka energetyczna (wykład)
-UID:6bc55ef6-7cf9-4540-8504-900c8ef7f5af@6bc5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Michał Król
-DTEND:20251027T171500Z
-LOCATION:Paw.F 416
-DTSTART:20251027T154500Z
-SUMMARY:Zielona Gospodarka (konwersatorium)
-UID:8dfa4673-e608-414d-ba40-6607685fc2b6@8dfa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Marek Majdak
-DTEND:20260112T153000Z
-DTSTART:20260112T144500Z
-SUMMARY:Podstawy energetyki (Przeniesienie zajęć)
-UID:7ae012a0-68af-497d-9777-d5fdfb734f06@7ae0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Marek Majdak
-DTEND:20251204T120000Z
-LOCATION:link do zajęć
-DTSTART:20251204T103000Z
-SUMMARY:Podstawy energetyki (wykład)
-UID:189e891c-6dca-4f33-a1fc-122df416192b@189e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Marek Majdak
-DTEND:20251210T101500Z
-LOCATION:link do zajęć
-DTSTART:20251210T084500Z
-SUMMARY:Podstawy energetyki (wykład)
-UID:340446a4-c12e-4c1f-9a48-2cde43b814d2@3404.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251020T143000Z
-DTSTART:20251020T130000Z
-SUMMARY:Podstawy energetyki (Przeniesienie zajęć)
-UID:590ea6cd-d340-4e94-81b7-4fd6535ff1d2@590e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
-DTEND:20260123T101500Z
-DTSTART:20260123T093000Z
-SUMMARY:Raportowanie niefinansowe (Przeniesienie zajęć)
-UID:a4b34e9d-e4ad-4ae4-958e-ad741899c08e@a4b3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
-DTEND:20251125T120000Z
-LOCATION:Paw.B 052 (KSB)
-DTSTART:20251125T103000Z
-SUMMARY:Raportowanie niefinansowe (ćwiczenia)
-UID:5ec7c0c4-fa9b-4aa1-b1ad-930d31791ec3@5ec7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Białynicki-Birula
-DTEND:20251023T143000Z
-DTSTART:20251023T130000Z
-SUMMARY:Ekonomiczne uwarunkowania polityk publicznych (wykład)
-UID:44e623ce-753c-48a4-962e-e72b0b20e5a8@44e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Łukasz Mamica
-DTEND:20251117T120000Z
-LOCATION:link do zajęć
-DTSTART:20251117T103000Z
-SUMMARY:Gospodarka energetyczna (wykład)
-UID:798ec73b-5de4-47e4-a141-0bb47b7c219f@798e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Białynicki-Birula
-DTEND:20251127T101500Z
-LOCATION:link do zajęć
-DTSTART:20251127T084500Z
-SUMMARY:Ekonomiczne uwarunkowania polityk publicznych (wykład)
-UID:e29fa68b-80be-405d-9a55-c5ea57345f75@e29f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Anna Gomola
-DTEND:20251105T171500Z
-DTSTART:20251105T154500Z
-SUMMARY:Gospodarka energetyczna (Przeniesienie zajęć)
-UID:00a7753f-4070-4cee-a8fb-ddd6c67c1dbd@00a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Łukasz Mamica
-DTEND:20251127T120000Z
-LOCATION:link do zajęć
-DTSTART:20251127T103000Z
-SUMMARY:Gospodarka energetyczna (wykład)
-UID:fc1ea40b-1134-4409-92eb-bce597167e84@fc1e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Marek Majdak
-DTEND:20260119T153000Z
-LOCATION:Bud.gł. 7
-DTSTART:20260119T144500Z
-SUMMARY:Podstawy energetyki (ćwiczenia)
-UID:5962c0ef-59e8-4892-b945-8b8bad2bee46@5962.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Zajączkowska
-DTEND:20251106T134500Z
-LOCATION:link do zajęć
-DTSTART:20251106T121500Z
-SUMMARY:Polityka zrównoważonego rozwoju (wykład)
-UID:61d09f4e-f515-4d73-9c6d-0c5d311a0e1d@61d0.org
+UID:0a06ba3e-ad24-4910-8ba0-1983d4176ca1@0a06.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Michał Król
@@ -410,315 +45,21 @@ DTEND:20260112T171500Z
 LOCATION:Paw.F 416
 DTSTART:20260112T154500Z
 SUMMARY:Zielona Gospodarka (konwersatorium)
-UID:9270b391-b314-4b63-bbcb-01571ad48fa3@9270.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Michał Król
-DTEND:20251222T171500Z
-LOCATION:Paw.F 416
-DTSTART:20251222T154500Z
-SUMMARY:Zielona Gospodarka (konwersatorium)
-UID:82024657-6242-4e68-aaff-7e3625fe2ce3@8202.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
-DTEND:20251113T083000Z
-LOCATION:link do zajęć
-DTSTART:20251113T070000Z
-SUMMARY:Raportowanie niefinansowe (wykład)
-UID:bdaa5b27-1baa-4b4f-9ceb-3368c2f92e28@bdaa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Michał Król
-DTEND:20260119T171500Z
-LOCATION:Paw.F 416
-DTSTART:20260119T154500Z
-SUMMARY:Zielona Gospodarka (konwersatorium)
-UID:a9950043-a60f-4813-a69b-55cd98f90809@a995.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Zajączkowska
-DTEND:20260122T144500Z
-LOCATION:link do zajęć
-DTSTART:20260122T140000Z
-SUMMARY:Polityka zrównoważonego rozwoju (wykład)
-UID:a62f1f26-23bc-4689-abd0-9f3054a60d91@a62f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Łukasz Mamica
-DTEND:20251103T120000Z
-LOCATION:link do zajęć
-DTSTART:20251103T103000Z
-SUMMARY:Gospodarka energetyczna (wykład)
-UID:5292259e-eccb-43fc-bf58-301089c9601d@5292.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Zajączkowska
-DTEND:20260120T101500Z
-LOCATION:Bud.gł. 2
-DTSTART:20260120T084500Z
-SUMMARY:Polityka zrównoważonego rozwoju (ćwiczenia)
-UID:6e5a7b1b-0a70-4493-bf0d-6098b3ae97dc@6e5a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Anna Gomola
-DTEND:20251128T113000Z
-LOCATION:.
-DTSTART:20251128T070000Z
-SUMMARY:Gospodarka energetyczna (ćwiczenia)
-UID:0ce44086-1586-413e-9cc4-76dc1f8dcfd4@0ce4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Michał Król
-DTEND:20251013T161500Z
-LOCATION:Paw.F 416
-DTSTART:20251013T144500Z
-SUMMARY:Zielona Gospodarka (konwersatorium)
-UID:f4805304-6761-469b-b5c2-fb5aa5ef54fd@f480.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Białynicki-Birula
-DTEND:20251030T101500Z
-LOCATION:link do zajęć
-DTSTART:20251030T084500Z
-SUMMARY:Ekonomiczne uwarunkowania polityk publicznych (wykład)
-UID:d67d7f07-4658-4ea5-a078-6221594be307@d67d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Marek Majdak
-DTEND:20251106T120000Z
-LOCATION:link do zajęć
-DTSTART:20251106T103000Z
-SUMMARY:Podstawy energetyki (wykład)
-UID:230d104d-332f-4d22-8ebe-1194cc6886e5@230d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Białynicki-Birula
-DTEND:20251113T101500Z
-LOCATION:link do zajęć
-DTSTART:20251113T084500Z
-SUMMARY:Ekonomiczne uwarunkowania polityk publicznych (wykład)
-UID:a12ea58a-8014-4786-b056-c83c96ff4fd7@a12e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Łukasz Mamica
-DTEND:20251113T153000Z
-DTSTART:20251113T140000Z
-SUMMARY:Gospodarka energetyczna (Przeniesienie zajęć)
-UID:67f8f38a-f0b9-4459-b87e-4ec9f2cf2108@67f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Marek Majdak
-DTEND:20251208T153000Z
-LOCATION:Paw.F CJ 302
-DTSTART:20251208T140000Z
-SUMMARY:Podstawy energetyki (ćwiczenia)
-UID:c6d96be6-1f11-4cce-ac08-26550b2b77e0@c6d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Anna Gomola
-DTEND:20251217T171500Z
-DTSTART:20251217T154500Z
-SUMMARY:Gospodarka energetyczna (Przeniesienie zajęć)
-UID:fe36c077-2e7a-4175-a17c-88e6fc582104@fe36.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Marek Majdak
-DTEND:20251119T153000Z
-LOCATION:Bud.gł. 8
-DTSTART:20251119T140000Z
-SUMMARY:Podstawy energetyki (ćwiczenia)
-UID:43439469-9bf3-4bab-b5d4-d45ea5ae0b14@4343.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Michał Król
-DTEND:20251201T171500Z
-LOCATION:Paw.F 416
-DTSTART:20251201T154500Z
-SUMMARY:Zielona Gospodarka (konwersatorium)
-UID:875cc439-a94e-4126-ad69-83ee0784e61d@875c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Zajączkowska
-DTEND:20251014T091500Z
-LOCATION:Bud.gł. 2
-DTSTART:20251014T074500Z
-SUMMARY:Polityka zrównoważonego rozwoju (ćwiczenia)
-UID:67adc7a8-b2bc-4399-bd46-d9c114ca1c36@67ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Michał Król
-DTEND:20251020T161500Z
-DTSTART:20251020T144500Z
-SUMMARY:Zielona Gospodarka (Przeniesienie zajęć)
-UID:73531766-664d-4f84-a2f9-27a8f5daf4bf@7353.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
-DTEND:20251211T144500Z
-LOCATION:link do zajęć
-DTSTART:20251211T140000Z
-SUMMARY:Raportowanie niefinansowe (wykład)
-UID:9a2e108d-85cb-4b15-9dfb-d5bf49b81381@9a2e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
-DTEND:20260112T144500Z
-LOCATION:Paw.A 013 lab. Win10\, Office21
-DTSTART:20260112T140000Z
-SUMMARY:Raportowanie niefinansowe (ćwiczenia)
-UID:c2a49ee6-daff-4b06-badc-46929183dbf7@c2a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
-DTEND:20251113T134500Z
-DTSTART:20251113T121500Z
-SUMMARY:Raportowanie niefinansowe (Przeniesienie zajęć)
-UID:d3f91a5e-aeef-4775-8168-500b365a233a@d3f9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Marek Majdak
-DTEND:20251117T153000Z
-LOCATION:Paw.F CJ 302
-DTSTART:20251117T140000Z
-SUMMARY:Podstawy energetyki (ćwiczenia)
-UID:911f9518-e69e-4af1-9c07-3b9f95510e77@911f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Łukasz Mamica
-DTEND:20260123T093000Z
-LOCATION:link do zajęć
-DTSTART:20260123T084500Z
-SUMMARY:Gospodarka energetyczna (wykład)
-UID:3f3d79bd-6709-40c4-b0b5-cc13cf0aea33@3f3d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Białynicki-Birula
-DTEND:20251009T091500Z
-DTSTART:20251009T074500Z
-SUMMARY:Ekonomiczne uwarunkowania polityk publicznych (wykład)
-UID:4164d11c-fc99-4ee5-92f2-a7d1144f8e9d@4164.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Anna Gomola
-DTEND:20251022T161500Z
-LOCATION:Paw.F 515
-DTSTART:20251022T144500Z
-SUMMARY:Gospodarka energetyczna (ćwiczenia)
-UID:ff87134b-4f95-4327-882b-defeed42ba6b@ff87.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Anna Gomola
-DTEND:20260113T181500Z
-LOCATION:Bud.gł. 5
-DTSTART:20260113T173000Z
-SUMMARY:Gospodarka energetyczna (ćwiczenia)
-UID:df6dea27-768b-4576-9e9d-96b6449f30d7@df6d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Zajączkowska
-DTEND:20251215T153000Z
-LOCATION:Bud.gł. 5
-DTSTART:20251215T140000Z
-SUMMARY:Polityka zrównoważonego rozwoju (ćwiczenia)
-UID:fcc60929-b283-4d46-96f9-a2c8951d03d4@fcc6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Łukasz Mamica
-DTEND:20260122T120000Z
-LOCATION:link do zajęć
-DTSTART:20260122T103000Z
-SUMMARY:Gospodarka energetyczna (wykład)
-UID:e4fc28ad-8e02-42b2-a447-fd2690da1691@e4fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Michał Król
-DTEND:20251202T153000Z
-DTSTART:20251202T140000Z
-SUMMARY:Zielona Gospodarka (Przeniesienie zajęć)
-UID:051921d2-4c78-4cee-9eac-48e7662b341d@0519.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Zajączkowska
-DTEND:20251201T153000Z
-DTSTART:20251201T140000Z
-SUMMARY:Polityka zrównoważonego rozwoju (Przeniesienie zajęć)
-UID:a4488cf5-347f-4ef7-bfd5-8e195780e0b3@a448.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Michał Król
-DTEND:20251209T120000Z
-LOCATION:Paw.C sala E
-DTSTART:20251209T103000Z
-SUMMARY:Zielona Gospodarka (konwersatorium)
-UID:3758ca53-7a52-4e42-94d5-f48a28ffee27@3758.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Michał Król
-DTEND:20251215T171500Z
-DTSTART:20251215T154500Z
-SUMMARY:Zielona Gospodarka (Przeniesienie zajęć)
-UID:5b86c56d-a8bc-49d4-8d3c-ca41190f126a@5b86.org
+UID:76c411b4-9d7c-4709-9105-09fad8fe5d3e@76c4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Magdalena Zajączkowska
 DTEND:20251009T124500Z
 DTSTART:20251009T111500Z
 SUMMARY:Polityka zrównoważonego rozwoju (wykład)
-UID:30c9f1ec-62f7-4527-b721-697851e37fb8@30c9.org
+UID:b96a73e3-8460-431f-846c-628fc3688ac1@b96a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Zajączkowska
-DTEND:20251125T101500Z
-LOCATION:Bud.gł. 2
-DTSTART:20251125T084500Z
-SUMMARY:Polityka zrównoważonego rozwoju (ćwiczenia)
-UID:919e7b05-fa03-436d-8cb0-0bf362b4d6fa@919e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Zajączkowska
-DTEND:20260119T144500Z
-LOCATION:Bud.gł. 4
-DTSTART:20260119T140000Z
-SUMMARY:Polityka zrównoważonego rozwoju (ćwiczenia)
-UID:6a046528-f6b3-48c5-bc76-45894e07453b@6a04.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
-DTEND:20251201T134500Z
-LOCATION:Paw.F CJ 312
-DTSTART:20251201T121500Z
-SUMMARY:Raportowanie niefinansowe (ćwiczenia)
-UID:e4af4ff4-f8d5-4231-9e0a-0af40c90bef7@e4af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251016T123000Z
-DTSTART:20251016T093000Z
-SUMMARY: (rezerwacja)
-UID:ad921173-ee50-4ea0-bf80-5deb73a5ee33@ad92.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251023T110000Z
-DTSTART:20251023T093000Z
-SUMMARY:Podstawy energetyki (Przeniesienie zajęć)
-UID:7d983988-97bf-4591-b648-4cf345ee6e5d@7d98.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Białynicki-Birula
-DTEND:20251120T101500Z
-LOCATION:link do zajęć
-DTSTART:20251120T084500Z
-SUMMARY:Ekonomiczne uwarunkowania polityk publicznych (wykład)
-UID:5995a42b-c600-4cda-8ab3-03997c7ceb14@5995.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Marek Majdak
-DTEND:20251127T153000Z
-DTSTART:20251127T140000Z
-SUMMARY:Podstawy energetyki (Przeniesienie zajęć)
-UID:52eaa3ad-ac11-4720-b328-40848154076e@52ea.org
+DESCRIPTION:Instructor: prof. dr hab. Łukasz Mamica
+DTEND:20251113T153000Z
+DTSTART:20251113T140000Z
+SUMMARY:Gospodarka energetyczna (Przeniesienie zajęć)
+UID:f0c7a63a-f05a-44ea-9a29-65a4eaf1bc3d@f0c7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Magdalena Zajączkowska
@@ -726,62 +67,7 @@ DTEND:20260115T134500Z
 LOCATION:link do zajęć
 DTSTART:20260115T121500Z
 SUMMARY:Polityka zrównoważonego rozwoju (wykład)
-UID:cf0c959c-7d84-4bdd-98be-53082bd3657c@cf0c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
-DTEND:20251211T134500Z
-LOCATION:link do zajęć
-DTSTART:20251211T121500Z
-SUMMARY:Raportowanie niefinansowe (wykład)
-UID:204e23e8-6e77-4e39-8c09-d97bb5a6fc30@204e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Zajączkowska
-DTEND:20251209T101500Z
-LOCATION:Bud.gł. 2
-DTSTART:20251209T084500Z
-SUMMARY:Polityka zrównoważonego rozwoju (ćwiczenia)
-UID:0d116ea1-653f-4d31-925a-a98b61c88173@0d11.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Białynicki-Birula
-DTEND:20251218T101500Z
-LOCATION:link do zajęć
-DTSTART:20251218T084500Z
-SUMMARY:Ekonomiczne uwarunkowania polityk publicznych (wykład)
-UID:9db19c55-1d87-4584-ab46-655ee2977578@9db1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Anna Gomola
-DTEND:20260114T171500Z
-DTSTART:20260114T154500Z
-SUMMARY:Gospodarka energetyczna (Przeniesienie zajęć)
-UID:1aab9516-aed8-470f-baf3-50327ddaa6f0@1aab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Michał Król
-DTEND:20251201T153000Z
-LOCATION:Paw.F 107
-DTSTART:20251201T140000Z
-SUMMARY:Zielona Gospodarka (konwersatorium)
-UID:512d738c-8592-4ed2-99d3-098fb9ee6e57@512d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Michał Król
-DTEND:20251119T120000Z
-LOCATION:Rakowicka 16 sala 13
-DTSTART:20251119T103000Z
-SUMMARY:Zielona Gospodarka (konwersatorium)
-UID:e7644fd4-1b7e-4a61-b9c0-21d887444c11@e764.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Marek Majdak
-DTEND:20251120T120000Z
-LOCATION:link do zajęć
-DTSTART:20251120T103000Z
-SUMMARY:Podstawy energetyki (wykład)
-UID:b30c4ae0-ec0f-49ab-8fde-70bb3bedcc49@b30c.org
+UID:e991e23a-aa2d-4676-aa15-283ab47bf2ed@e991.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Marek Majdak
@@ -789,7 +75,7 @@ DTEND:20251217T153000Z
 LOCATION:Paw.F CJ 012
 DTSTART:20251217T140000Z
 SUMMARY:Podstawy energetyki (ćwiczenia)
-UID:796160ee-c91f-48cf-927e-385901e2ccbb@7961.org
+UID:707ad2de-f911-42fa-9aa8-fbe11b4720be@707a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Michał Król
@@ -797,62 +83,179 @@ DTEND:20260116T120000Z
 LOCATION:Rakowicka 16 sala 13
 DTSTART:20260116T103000Z
 SUMMARY:Zielona Gospodarka (konwersatorium)
-UID:cea6a732-001d-4dfa-b309-0e9b37ab6431@cea6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Łukasz Mamica
-DTEND:20260108T120000Z
-LOCATION:link do zajęć
-DTSTART:20260108T103000Z
-SUMMARY:Gospodarka energetyczna (wykład)
-UID:ffcc055b-d14f-4b33-babb-43f6f1206ac9@ffcc.org
+UID:23ba4435-1333-4288-99d3-f0595d9ad891@23ba.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
-DTEND:20251215T134500Z
-LOCATION:Bud.gł. 3
-DTSTART:20251215T121500Z
-SUMMARY:Raportowanie niefinansowe (ćwiczenia)
-UID:95921f20-56b1-43ff-9081-2e5503f3b93b@9592.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
-DTEND:20260120T134500Z
-DTSTART:20260120T121500Z
-SUMMARY:Raportowanie niefinansowe (Przeniesienie zajęć)
-UID:910e2084-4e49-4ed5-96c7-cabe1af6b903@910e.org
+DTEND:20251023T124500Z
+DTSTART:20251023T111500Z
+SUMMARY:Raportowanie niefinansowe (wykład)
+UID:28fce9b4-5ce2-4f1d-b9c2-59cb1fab1d5d@28fc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Marek Majdak
-DTEND:20251203T153000Z
-LOCATION:Bud.gł. 8
-DTSTART:20251203T140000Z
-SUMMARY:Podstawy energetyki (ćwiczenia)
-UID:11a7cf91-1ca2-4216-891d-fe1d0c13466b@11a7.org
+DTEND:20251210T101500Z
+LOCATION:link do zajęć
+DTSTART:20251210T084500Z
+SUMMARY:Podstawy energetyki (wykład)
+UID:1da65a92-1b5b-4856-ae27-03828794d66b@1da6.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Zajączkowska
-DTEND:20251029T120000Z
+DESCRIPTION:Instructor: prof. dr hab. Łukasz Mamica
+DTEND:20251103T120000Z
 LOCATION:link do zajęć
-DTSTART:20251029T103000Z
-SUMMARY:Polityka zrównoważonego rozwoju (wykład)
-UID:b1176881-d4df-4e50-999e-3e3821578cff@b117.org
+DTSTART:20251103T103000Z
+SUMMARY:Gospodarka energetyczna (wykład)
+UID:683e5a36-e94d-4e83-ae3f-520284c951ca@683e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
-DTEND:20251030T134500Z
+DTEND:20251113T083000Z
 LOCATION:link do zajęć
-DTSTART:20251030T121500Z
+DTSTART:20251113T070000Z
 SUMMARY:Raportowanie niefinansowe (wykład)
-UID:0fe55321-a079-45f8-bc6c-496faf4c9071@0fe5.org
+UID:185a3194-476b-4fb8-b53b-6b040606c27a@185a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Łukasz Mamica
+DTEND:20251030T153000Z
+DTSTART:20251030T140000Z
+SUMMARY:Gospodarka energetyczna (Przeniesienie zajęć)
+UID:e56d5b5c-45e3-4f0a-baa8-8422360611ef@e56d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251217T134500Z
+DTSTART:20251217T121500Z
+SUMMARY: (rezerwacja)
+UID:e32670eb-66d1-439c-b516-7f30e4ccfef6@e326.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Gomola
+DTEND:20251119T171500Z
+LOCATION:Paw.F 515
+DTSTART:20251119T154500Z
+SUMMARY:Gospodarka energetyczna (ćwiczenia)
+UID:ebab3339-2461-4933-9e17-85f553b8462b@ebab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251020T143000Z
+DTSTART:20251020T130000Z
+SUMMARY:Podstawy energetyki (Przeniesienie zajęć)
+UID:d675a643-fa2c-4c05-9f28-5a4df0b2156b@d675.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Paweł Białynicki-Birula
-DTEND:20260115T101500Z
+DTEND:20251120T101500Z
 LOCATION:link do zajęć
-DTSTART:20260115T084500Z
+DTSTART:20251120T084500Z
 SUMMARY:Ekonomiczne uwarunkowania polityk publicznych (wykład)
-UID:cdfe9935-a9a5-4194-b6b1-bfd64ed82dff@cdfe.org
+UID:9916e127-0601-4747-8887-9d983b70e304@9916.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marek Majdak
+DTEND:20251208T153000Z
+LOCATION:Paw.F CJ 302
+DTSTART:20251208T140000Z
+SUMMARY:Podstawy energetyki (ćwiczenia)
+UID:4ef43710-252c-4f47-b93a-5e93ae33d6db@4ef4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Zajączkowska
+DTEND:20251120T134500Z
+LOCATION:link do zajęć
+DTSTART:20251120T121500Z
+SUMMARY:Polityka zrównoważonego rozwoju (wykład)
+UID:38e2b465-ea57-42b0-bd99-f63025412775@38e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Białynicki-Birula
+DTEND:20251030T101500Z
+LOCATION:link do zajęć
+DTSTART:20251030T084500Z
+SUMMARY:Ekonomiczne uwarunkowania polityk publicznych (wykład)
+UID:8bc29eff-ea90-4945-85b9-20667292e3da@8bc2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Michał Król
+DTEND:20251222T171500Z
+LOCATION:Paw.F 416
+DTSTART:20251222T154500Z
+SUMMARY:Zielona Gospodarka (konwersatorium)
+UID:33eec755-059b-4155-8c2d-b2ff6955dffd@33ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Białynicki-Birula
+DTEND:20251127T101500Z
+LOCATION:link do zajęć
+DTSTART:20251127T084500Z
+SUMMARY:Ekonomiczne uwarunkowania polityk publicznych (wykład)
+UID:7ed5c401-b362-4fbc-b8e3-caa93e9e337b@7ed5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Zajączkowska
+DTEND:20251215T153000Z
+LOCATION:Bud.gł. 5
+DTSTART:20251215T140000Z
+SUMMARY:Polityka zrównoważonego rozwoju (ćwiczenia)
+UID:33694388-9b9b-42c3-b406-20af1ed3dcae@3369.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Białynicki-Birula
+DTEND:20251218T101500Z
+LOCATION:link do zajęć
+DTSTART:20251218T084500Z
+SUMMARY:Ekonomiczne uwarunkowania polityk publicznych (wykład)
+UID:72d732d4-b22a-4ac3-9119-a5427c8c3544@72d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marek Majdak
+DTEND:20260115T144500Z
+LOCATION:link do zajęć
+DTSTART:20260115T140000Z
+SUMMARY:Podstawy energetyki (wykład)
+UID:03872fb8-7cc0-4555-a659-4f745561ed17@0387.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Łukasz Mamica
+DTEND:20260122T120000Z
+LOCATION:link do zajęć
+DTSTART:20260122T103000Z
+SUMMARY:Gospodarka energetyczna (wykład)
+UID:f3e742fb-0d5f-4996-8cc5-ca1e9a03d5d4@f3e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Łukasz Mamica
+DTEND:20251211T120000Z
+LOCATION:link do zajęć
+DTSTART:20251211T103000Z
+SUMMARY:Gospodarka energetyczna (wykład)
+UID:0f73624b-a7db-44c4-8192-9c167372524c@0f73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Michał Król
+DTEND:20251201T153000Z
+LOCATION:Paw.F 107
+DTSTART:20251201T140000Z
+SUMMARY:Zielona Gospodarka (konwersatorium)
+UID:a8c3fb21-6c46-42cb-995a-5ddb77166086@a8c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Zajączkowska
+DTEND:20260119T144500Z
+LOCATION:Bud.gł. 4
+DTSTART:20260119T140000Z
+SUMMARY:Polityka zrównoważonego rozwoju (ćwiczenia)
+UID:46ffa8c2-1065-402d-babc-ab1efdc9c8fd@46ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
+DTEND:20251211T134500Z
+LOCATION:link do zajęć
+DTSTART:20251211T121500Z
+SUMMARY:Raportowanie niefinansowe (wykład)
+UID:41cc6298-9f79-447d-8d34-6756e97e2485@41cc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
@@ -860,14 +263,55 @@ DTEND:20260108T134500Z
 LOCATION:link do zajęć
 DTSTART:20260108T121500Z
 SUMMARY:Raportowanie niefinansowe (wykład)
-UID:e8a59b68-5d1f-4627-a34d-c17602fdcdb2@e8a5.org
+UID:8f5ab110-6af8-40de-95d2-d137379a5237@8f5a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
+DTEND:20260112T144500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20260112T140000Z
+SUMMARY:Raportowanie niefinansowe (ćwiczenia)
+UID:81e7cb60-7d92-49bc-8486-aa74a2ad240e@81e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Michał Król
+DTEND:20251027T171500Z
+LOCATION:Paw.F 416
+DTSTART:20251027T154500Z
+SUMMARY:Zielona Gospodarka (konwersatorium)
+UID:af4e9abf-621e-46cd-8af2-0619453021ba@af4e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Michał Król
+DTEND:20251124T171500Z
+LOCATION:Paw.F 416
+DTSTART:20251124T154500Z
+SUMMARY:Zielona Gospodarka (konwersatorium)
+UID:92fcf655-73bc-47e7-8450-bbf843fd464e@92fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Zajączkowska
+DTEND:20251218T134500Z
+LOCATION:link do zajęć
+DTSTART:20251218T121500Z
+SUMMARY:Polityka zrównoważonego rozwoju (wykład)
+UID:153f279e-8b1d-42c2-96ef-c400885e8706@153f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
+DTEND:20251201T134500Z
+LOCATION:Paw.F CJ 312
+DTSTART:20251201T121500Z
+SUMMARY:Raportowanie niefinansowe (ćwiczenia)
+UID:5a38d4b1-9671-484c-9c86-63374098e694@5a38.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Paweł Białynicki-Birula
-DTEND:20251023T091500Z
-DTSTART:20251023T074500Z
+DTEND:20260115T101500Z
+LOCATION:link do zajęć
+DTSTART:20260115T084500Z
 SUMMARY:Ekonomiczne uwarunkowania polityk publicznych (wykład)
-UID:95801c48-5e7c-483b-80be-bef7e454f72b@9580.org
+UID:33d3f95f-7d49-479b-bfe4-79218c3d5d19@33d3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Marek Majdak
@@ -875,6 +319,562 @@ DTEND:20251103T153000Z
 LOCATION:Paw.F CJ 302
 DTSTART:20251103T140000Z
 SUMMARY:Podstawy energetyki (ćwiczenia)
-UID:f39e2fc2-752b-4fcf-9e0e-e8b1e97c818b@f39e.org
+UID:9f8055c6-1282-4220-b620-b13d83a240b8@9f80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Michał Król
+DTEND:20251013T161500Z
+LOCATION:Paw.F 416
+DTSTART:20251013T144500Z
+SUMMARY:Zielona Gospodarka (konwersatorium)
+UID:b94cf76e-28a9-41e6-98e2-3c9723c7d9e1@b94c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Gomola
+DTEND:20251203T171500Z
+LOCATION:Paw.F 515
+DTSTART:20251203T154500Z
+SUMMARY:Gospodarka energetyczna (ćwiczenia)
+UID:6aadf1f2-7fa5-4b2a-bb79-b47413c2d077@6aad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
+DTEND:20260123T101500Z
+DTSTART:20260123T093000Z
+SUMMARY:Raportowanie niefinansowe (Przeniesienie zajęć)
+UID:889db77b-2b71-4eb3-ae78-eb1f4657679b@889d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
+DTEND:20251113T134500Z
+DTSTART:20251113T121500Z
+SUMMARY:Raportowanie niefinansowe (Przeniesienie zajęć)
+UID:befcc09d-3fa4-48bd-8adc-5b2ebc1fc1a6@befc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
+DTEND:20251030T134500Z
+LOCATION:link do zajęć
+DTSTART:20251030T121500Z
+SUMMARY:Raportowanie niefinansowe (wykład)
+UID:619624b2-a3f3-48ce-acfd-340de77b04c6@6196.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marek Majdak
+DTEND:20251117T153000Z
+LOCATION:Paw.F CJ 302
+DTSTART:20251117T140000Z
+SUMMARY:Podstawy energetyki (ćwiczenia)
+UID:2d9b6fb9-3b9e-42db-9eee-251de928c422@2d9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Zajączkowska
+DTEND:20260122T144500Z
+LOCATION:link do zajęć
+DTSTART:20260122T140000Z
+SUMMARY:Polityka zrównoważonego rozwoju (wykład)
+UID:b51566e8-954b-4745-8faf-51806cb7034d@b515.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Zajączkowska
+DTEND:20251208T134500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20251208T121500Z
+SUMMARY:Polityka zrównoważonego rozwoju (ćwiczenia)
+UID:f7ed3b4a-615d-48d7-b5a1-4016a481e7b3@f7ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marek Majdak
+DTEND:20260119T153000Z
+LOCATION:Bud.gł. 7
+DTSTART:20260119T144500Z
+SUMMARY:Podstawy energetyki (ćwiczenia)
+UID:0832ba2f-a762-4174-b6f0-8df7fec5812d@0832.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marek Majdak
+DTEND:20260112T153000Z
+DTSTART:20260112T144500Z
+SUMMARY:Podstawy energetyki (Przeniesienie zajęć)
+UID:e1c0fe5a-c7fd-40ae-a90f-e3aabeb1e5fb@e1c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Zajączkowska
+DTEND:20251014T091500Z
+LOCATION:Bud.gł. 2
+DTSTART:20251014T074500Z
+SUMMARY:Polityka zrównoważonego rozwoju (ćwiczenia)
+UID:ab4882ff-edd5-4179-9634-c05a6b2ef2c3@ab48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marek Majdak
+DTEND:20251106T120000Z
+LOCATION:link do zajęć
+DTSTART:20251106T103000Z
+SUMMARY:Podstawy energetyki (wykład)
+UID:42a8f3ae-64b0-4e94-bd88-76ba08bd77b3@42a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
+DTEND:20251028T134500Z
+LOCATION:Bud.gł. 8
+DTSTART:20251028T121500Z
+SUMMARY:Raportowanie niefinansowe (ćwiczenia)
+UID:089ed008-0d55-46fb-926e-8f2cb9060c3e@089e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251016T123000Z
+DTSTART:20251016T093000Z
+SUMMARY: (rezerwacja)
+UID:2b30a43a-b0ad-4f1c-bd97-f51e65c4f086@2b30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Białynicki-Birula
+DTEND:20251204T101500Z
+LOCATION:link do zajęć
+DTSTART:20251204T084500Z
+SUMMARY:Ekonomiczne uwarunkowania polityk publicznych (wykład)
+UID:89aa2f0b-fce4-43eb-b18a-da4859b6cd37@89aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
+DTEND:20251127T134500Z
+LOCATION:link do zajęć
+DTSTART:20251127T121500Z
+SUMMARY:Raportowanie niefinansowe (wykład)
+UID:efafaabb-7658-48cb-bbbf-6f135128062b@efaf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Gomola
+DTEND:20251105T171500Z
+DTSTART:20251105T154500Z
+SUMMARY:Gospodarka energetyczna (Przeniesienie zajęć)
+UID:5172fbf3-da91-4632-a46b-6267fc3d725c@5172.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
+DTEND:20260120T134500Z
+DTSTART:20260120T121500Z
+SUMMARY:Raportowanie niefinansowe (Przeniesienie zajęć)
+UID:7c049cd3-54ec-47b2-9745-442fceecb965@7c04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Łukasz Mamica
+DTEND:20251127T120000Z
+LOCATION:link do zajęć
+DTSTART:20251127T103000Z
+SUMMARY:Gospodarka energetyczna (wykład)
+UID:10c034c6-30b4-4efc-aeb7-a3fabfd2fbcf@10c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Zajączkowska
+DTEND:20260120T101500Z
+LOCATION:Bud.gł. 2
+DTSTART:20260120T084500Z
+SUMMARY:Polityka zrównoważonego rozwoju (ćwiczenia)
+UID:67330109-be87-4aac-9eec-9ea089277d3a@6733.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Białynicki-Birula
+DTEND:20251113T101500Z
+LOCATION:link do zajęć
+DTSTART:20251113T084500Z
+SUMMARY:Ekonomiczne uwarunkowania polityk publicznych (wykład)
+UID:8d520132-1da7-4265-8778-95b3fa5f7928@8d52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Białynicki-Birula
+DTEND:20251016T091500Z
+DTSTART:20251016T074500Z
+SUMMARY:Ekonomiczne uwarunkowania polityk publicznych (wykład)
+UID:38f2aa98-f989-4420-a996-90a0d98a421f@38f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
+DTEND:20251215T134500Z
+LOCATION:Bud.gł. 3
+DTSTART:20251215T121500Z
+SUMMARY:Raportowanie niefinansowe (ćwiczenia)
+UID:d14667c4-7b3e-4b8e-a423-4ddc3389bb47@d146.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
+DTEND:20251209T134500Z
+LOCATION:Bud.gł. 8
+DTSTART:20251209T121500Z
+SUMMARY:Raportowanie niefinansowe (ćwiczenia)
+UID:afa75b97-d3bd-4af7-90c7-b94a75542b58@afa7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Gomola
+DTEND:20251217T171500Z
+DTSTART:20251217T154500Z
+SUMMARY:Gospodarka energetyczna (Przeniesienie zajęć)
+UID:993f3354-3db6-4f19-be1e-905905047c53@993f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Gomola
+DTEND:20251008T161500Z
+LOCATION:Paw.F 515
+DTSTART:20251008T144500Z
+SUMMARY:Gospodarka energetyczna (ćwiczenia)
+UID:65f1778b-ee62-4dfe-8c3a-5aad66544af3@65f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Łukasz Mamica
+DTEND:20260108T120000Z
+LOCATION:link do zajęć
+DTSTART:20260108T103000Z
+SUMMARY:Gospodarka energetyczna (wykład)
+UID:82ec9307-0bd0-420a-9b41-1d2af4addc05@82ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Łukasz Mamica
+DTEND:20251117T120000Z
+LOCATION:link do zajęć
+DTSTART:20251117T103000Z
+SUMMARY:Gospodarka energetyczna (wykład)
+UID:ac94c40e-8e9c-441d-8103-0a3f460e3372@ac94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Michał Król
+DTEND:20251103T171500Z
+LOCATION:Paw.F 416
+DTSTART:20251103T154500Z
+SUMMARY:Zielona Gospodarka (konwersatorium)
+UID:5d74f991-a998-466a-8764-e774908f7035@5d74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Michał Król
+DTEND:20251202T153000Z
+DTSTART:20251202T140000Z
+SUMMARY:Zielona Gospodarka (Przeniesienie zajęć)
+UID:e6869461-80a5-41cc-b443-e41f25bdeb87@e686.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
+DTEND:20251211T144500Z
+LOCATION:link do zajęć
+DTSTART:20251211T140000Z
+SUMMARY:Raportowanie niefinansowe (wykład)
+UID:b4b8daf4-5c1e-4510-bce1-a2b6e609dfd6@b4b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marek Majdak
+DTEND:20251120T120000Z
+LOCATION:link do zajęć
+DTSTART:20251120T103000Z
+SUMMARY:Podstawy energetyki (wykład)
+UID:73b29cb4-6e19-49b8-b42f-d2ba31e3cfad@73b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Łukasz Mamica
+DTEND:20251113T120000Z
+LOCATION:link do zajęć
+DTSTART:20251113T103000Z
+SUMMARY:Gospodarka energetyczna (wykład)
+UID:194a548c-b0ac-4ddd-aeff-5b885dfa2edf@194a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marek Majdak
+DTEND:20251203T153000Z
+LOCATION:Bud.gł. 8
+DTSTART:20251203T140000Z
+SUMMARY:Podstawy energetyki (ćwiczenia)
+UID:37c480a6-95c4-4b5d-b37e-6ca8dacec031@37c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Michał Król
+DTEND:20260119T171500Z
+LOCATION:Paw.F 416
+DTSTART:20260119T154500Z
+SUMMARY:Zielona Gospodarka (konwersatorium)
+UID:aa199667-5c13-46f9-a8b1-30db2d65e475@aa19.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marek Majdak
+DTEND:20260112T134500Z
+LOCATION:Paw.F CJ 311
+DTSTART:20260112T121500Z
+SUMMARY:Podstawy energetyki (ćwiczenia)
+UID:6d379649-c0e9-42f5-92de-fb75b51a18e8@6d37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Michał Król
+DTEND:20251208T171500Z
+LOCATION:Paw.F 416
+DTSTART:20251208T154500Z
+SUMMARY:Zielona Gospodarka (konwersatorium)
+UID:298b6aff-c393-4cca-8df0-368e743d5cdb@298b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marek Majdak
+DTEND:20251203T101500Z
+LOCATION:link do zajęć
+DTSTART:20251203T084500Z
+SUMMARY:Podstawy energetyki (wykład)
+UID:1e93f079-8d0c-4d98-a64c-8a2d1e584d84@1e93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Zajączkowska
+DTEND:20251209T101500Z
+LOCATION:Bud.gł. 2
+DTSTART:20251209T084500Z
+SUMMARY:Polityka zrównoważonego rozwoju (ćwiczenia)
+UID:0e9ca5da-5e8a-4c50-b049-f276cf9c789c@0e9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
+DTEND:20251106T153000Z
+LOCATION:link do zajęć
+DTSTART:20251106T140000Z
+SUMMARY:Raportowanie niefinansowe (wykład)
+UID:bb211417-1314-4f06-8c31-5d7cc4036e48@bb21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Białynicki-Birula
+DTEND:20251023T143000Z
+DTSTART:20251023T130000Z
+SUMMARY:Ekonomiczne uwarunkowania polityk publicznych (wykład)
+UID:671a9153-46a1-4e63-93b7-ba3a31c36f40@671a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Michał Król
+DTEND:20251215T171500Z
+DTSTART:20251215T154500Z
+SUMMARY:Zielona Gospodarka (Przeniesienie zajęć)
+UID:2ef5e3f6-fb94-4324-b4e7-306ec683173d@2ef5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Michał Król
+DTEND:20251119T120000Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20251119T103000Z
+SUMMARY:Zielona Gospodarka (konwersatorium)
+UID:c43d8d1e-d480-40d7-a191-0886f278a1c5@c43d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Zajączkowska
+DTEND:20251106T134500Z
+LOCATION:link do zajęć
+DTSTART:20251106T121500Z
+SUMMARY:Polityka zrównoważonego rozwoju (wykład)
+UID:587bc2ab-85d7-4f6d-a877-2ae49bc9d328@587b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marek Majdak
+DTEND:20251127T153000Z
+DTSTART:20251127T140000Z
+SUMMARY:Podstawy energetyki (Przeniesienie zajęć)
+UID:a00f06dd-b76c-4993-872c-779581e9568f@a00f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Michał Król
+DTEND:20251117T171500Z
+LOCATION:Paw.F 416
+DTSTART:20251117T154500Z
+SUMMARY:Zielona Gospodarka (konwersatorium)
+UID:fd0701f5-af0a-48db-b99f-19766346ce00@fd07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Białynicki-Birula
+DTEND:20260122T101500Z
+LOCATION:link do zajęć
+DTSTART:20260122T084500Z
+SUMMARY:Ekonomiczne uwarunkowania polityk publicznych (wykład)
+UID:3e0c8ff0-9895-4d12-b438-adae07014b46@3e0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Gomola
+DTEND:20251022T161500Z
+LOCATION:Paw.F 515
+DTSTART:20251022T144500Z
+SUMMARY:Gospodarka energetyczna (ćwiczenia)
+UID:ca04eb46-7c3c-4c89-8f93-dcb3c03a5c47@ca04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Michał Król
+DTEND:20251201T171500Z
+LOCATION:Paw.F 416
+DTSTART:20251201T154500Z
+SUMMARY:Zielona Gospodarka (konwersatorium)
+UID:6797a8c8-c3ae-455b-96e3-5b16b7c34a0f@6797.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Michał Król
+DTEND:20251209T120000Z
+LOCATION:Paw.C sala E
+DTSTART:20251209T103000Z
+SUMMARY:Zielona Gospodarka (konwersatorium)
+UID:ae100329-b368-4c11-be89-97da6be3bab5@ae10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marek Majdak
+DTEND:20260115T120000Z
+LOCATION:link do zajęć
+DTSTART:20260115T103000Z
+SUMMARY:Podstawy energetyki (wykład)
+UID:48f72f6f-c4a3-47d2-8474-e91f732dfa99@48f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Białynicki-Birula
+DTEND:20251211T101500Z
+LOCATION:link do zajęć
+DTSTART:20251211T084500Z
+SUMMARY:Ekonomiczne uwarunkowania polityk publicznych (wykład)
+UID:845b7d7d-2850-41a4-a40b-a4138e1f85e4@845b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marek Majdak
+DTEND:20251119T153000Z
+LOCATION:Bud.gł. 8
+DTSTART:20251119T140000Z
+SUMMARY:Podstawy energetyki (ćwiczenia)
+UID:8277e1b8-8469-4161-8022-2dc0cb8ec21c@8277.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251023T110000Z
+DTSTART:20251023T093000Z
+SUMMARY:Podstawy energetyki (Przeniesienie zajęć)
+UID:bef0424b-53ed-486c-8553-3f55c17c151c@bef0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Zajączkowska
+DTEND:20251201T153000Z
+DTSTART:20251201T140000Z
+SUMMARY:Polityka zrównoważonego rozwoju (Przeniesienie zajęć)
+UID:d60316a0-574e-40ce-ae96-7bf0bc90f0b9@d603.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
+DTEND:20251125T120000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20251125T103000Z
+SUMMARY:Raportowanie niefinansowe (ćwiczenia)
+UID:f0b040b5-4f73-4047-b094-948a247588b8@f0b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Zajączkowska
+DTEND:20251029T120000Z
+LOCATION:link do zajęć
+DTSTART:20251029T103000Z
+SUMMARY:Polityka zrównoważonego rozwoju (wykład)
+UID:d0e333a7-a9b1-4e41-86ff-dfa3fd42dec8@d0e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Białynicki-Birula
+DTEND:20260108T101500Z
+LOCATION:link do zajęć
+DTSTART:20260108T084500Z
+SUMMARY:Ekonomiczne uwarunkowania polityk publicznych (wykład)
+UID:61fc9b83-d050-4a51-9866-1aa1da9e3c3d@61fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Gomola
+DTEND:20260114T171500Z
+DTSTART:20260114T154500Z
+SUMMARY:Gospodarka energetyczna (Przeniesienie zajęć)
+UID:e976ba6b-291b-444c-8df7-1e19c81e6ad0@e976.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Gomola
+DTEND:20260113T181500Z
+LOCATION:Bud.gł. 5
+DTSTART:20260113T173000Z
+SUMMARY:Gospodarka energetyczna (ćwiczenia)
+UID:4dfcff53-98e5-4ae6-95ea-e01bd953bc20@4dfc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Zajączkowska
+DTEND:20251028T101500Z
+LOCATION:Bud.gł. 2
+DTSTART:20251028T084500Z
+SUMMARY:Polityka zrównoważonego rozwoju (ćwiczenia)
+UID:c01dd057-0495-46fb-a25c-570060530e2c@c01d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Łukasz Mamica
+DTEND:20260123T093000Z
+LOCATION:link do zajęć
+DTSTART:20260123T084500Z
+SUMMARY:Gospodarka energetyczna (wykład)
+UID:9ebbcc74-a9e0-46fd-9354-cd1c8e33a759@9ebb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Białynicki-Birula
+DTEND:20251009T091500Z
+DTSTART:20251009T074500Z
+SUMMARY:Ekonomiczne uwarunkowania polityk publicznych (wykład)
+UID:7067fefa-07a9-43db-b7f5-952874e1c262@7067.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
+DTEND:20251125T134500Z
+DTSTART:20251125T121500Z
+SUMMARY:Raportowanie niefinansowe (Przeniesienie zajęć)
+UID:a7223f43-e11a-45f5-a5bd-95732e1c7dc2@a722.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Gomola
+DTEND:20251128T113000Z
+LOCATION:.
+DTSTART:20251128T070000Z
+SUMMARY:Gospodarka energetyczna (ćwiczenia)
+UID:da5b58ad-2277-4a60-b9e1-0ccfd8311e97@da5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marek Majdak
+DTEND:20251204T120000Z
+LOCATION:link do zajęć
+DTSTART:20251204T103000Z
+SUMMARY:Podstawy energetyki (wykład)
+UID:67b2f5b4-dab6-48b5-882e-7c89ef16cedc@67b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Białynicki-Birula
+DTEND:20251023T091500Z
+DTSTART:20251023T074500Z
+SUMMARY:Ekonomiczne uwarunkowania polityk publicznych (wykład)
+UID:83c91382-a936-4edb-92aa-7f0a9f8487e3@83c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Zajączkowska
+DTEND:20251204T134500Z
+LOCATION:link do zajęć
+DTSTART:20251204T121500Z
+SUMMARY:Polityka zrównoważonego rozwoju (wykład)
+UID:97b8ffed-bcdd-475c-bc68-c906df06f03c@97b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Zajączkowska
+DTEND:20251125T101500Z
+LOCATION:Bud.gł. 2
+DTSTART:20251125T084500Z
+SUMMARY:Polityka zrównoważonego rozwoju (ćwiczenia)
+UID:d658cd44-cfa9-4e35-b3d0-db6df84acd72@d658.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Białynicki-Birula
+DTEND:20251106T101500Z
+LOCATION:link do zajęć
+DTSTART:20251106T084500Z
+SUMMARY:Ekonomiczne uwarunkowania polityk publicznych (wykład)
+UID:3e461b4b-12b8-4ac0-9cc6-d092693ada79@3e46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
+DTEND:20260122T134500Z
+DTSTART:20260122T121500Z
+SUMMARY:Raportowanie niefinansowe (Przeniesienie zajęć)
+UID:03902ed9-ace7-413f-8ee6-66ae12692282@0390.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Michał Król
+DTEND:20251020T161500Z
+DTSTART:20251020T144500Z
+SUMMARY:Zielona Gospodarka (Przeniesienie zajęć)
+UID:25312e83-aa62-4899-a3be-0efd6e4dbb21@2531.org
 END:VEVENT
 END:VCALENDAR

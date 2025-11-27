@@ -2,52 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Urban Pauli
-DTEND:20251026T121500Z
+DESCRIPTION:Instructor: mgr Anna Rząca
+DTEND:20251116T130000Z
 LOCATION:Paw.G 11
-DTSTART:20251026T074500Z
-SUMMARY:Planowanie działań rozwojowych (Studia podyplomowe)
-UID:d82a9cb1-4cc3-45ab-b08b-a08ed0a51b83@d82a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Urban Pauli
-DTEND:20251011T081500Z
-LOCATION:Paw.G 10
-DTSTART:20251011T064500Z
-SUMMARY:Zajęcia organizacyjne (Studia podyplomowe)
-UID:169a4ad1-d8bd-4406-a4b7-9f7baef0fe05@169a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Sedlak
-DTEND:20251130T121500Z
-LOCATION:Paw.G - 1
-DTSTART:20251130T074500Z
-SUMMARY:Wynagradzanie i premiowanie pracowników (Studia podyplomowe)
-UID:588e150d-b2c3-4fbc-97ee-32b774043def@588e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Urban Pauli
-DTEND:20260201T134500Z
-LOCATION:Paw.G 11
-DTSTART:20260201T130000Z
-SUMMARY:Egzamin semestralny (Studia podyplomowe)
-UID:b8e32b08-ab0e-4b18-8578-3ead21f80c36@b8e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
-DTEND:20260118T121500Z
-LOCATION:Paw.G 11
-DTSTART:20260118T074500Z
-SUMMARY:Pozyskiwanie pracowników (Studia podyplomowe)
-UID:fa5f0972-cb77-49fc-99e9-b33de6df4d50@fa5f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Urban Pauli
-DTEND:20251025T111500Z
-LOCATION:Paw.G - 1
-DTSTART:20251025T064500Z
-SUMMARY:Profilowanie kompetencji pracowników (Studia podyplomowe)
-UID:05352b66-01ab-4e73-9ec0-84c49283ceae@0535.org
+DTSTART:20251116T074500Z
+SUMMARY:Warsztaty - prowadzenie rozmów rozwojowych (Studia podyplomowe)
+UID:22b6cdcf-81c4-4cb1-8c3c-d9e25a94184d@22b6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. dr hab. Aleksy Pocztowski
@@ -55,15 +15,7 @@ DTEND:20251129T121500Z
 LOCATION:Paw.G - 1
 DTSTART:20251129T074500Z
 SUMMARY:Przywództwo i style zarządzania (Studia podyplomowe)
-UID:01d42eaf-09ce-43d8-9503-40dc53b5f3ad@01d4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Anna Rząca
-DTEND:20251115T121500Z
-LOCATION:Paw.G 11
-DTSTART:20251115T074500Z
-SUMMARY:Indywidualne formy rozwoju pracowników (Studia podyplomowe)
-UID:de06d100-4473-44cf-bb96-c7681f651690@de06.org
+UID:78aff885-46f7-48fe-ae11-0859113aefe0@78af.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Agnieszka Kotucz
@@ -71,15 +23,23 @@ DTEND:20260201T121500Z
 LOCATION:Paw.G 11
 DTSTART:20260201T074500Z
 SUMMARY:Autoprezentacja i wywieranie wpływu (Studia podyplomowe)
-UID:5f5199af-3534-4729-ac02-73148523a075@5f51.org
+UID:e9abe5ee-b168-419d-87ff-e4d4a1b369ea@e9ab.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Andrzej Domagała
-DTEND:20251012T111500Z
-LOCATION:Paw.G 10
-DTSTART:20251012T064500Z
-SUMMARY:Strategiczne zarządzanie organizacjami (Studia podyplomowe)
-UID:3e1e7bab-156c-45b5-9ef4-3bdfa959008c@3e1e.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Urban Pauli
+DTEND:20251025T111500Z
+LOCATION:Paw.G - 1
+DTSTART:20251025T064500Z
+SUMMARY:Profilowanie kompetencji pracowników (Studia podyplomowe)
+UID:49503143-607b-444d-994f-c7731b8f7c3c@4950.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
+DTEND:20260118T121500Z
+LOCATION:Paw.G 11
+DTSTART:20260118T074500Z
+SUMMARY:Pozyskiwanie pracowników (Studia podyplomowe)
+UID:3e7eab0a-51f6-4696-995a-ca43e545263e@3e7e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Agnieszka Kotucz
@@ -87,31 +47,15 @@ DTEND:20260131T121500Z
 LOCATION:Paw.G 11
 DTSTART:20260131T074500Z
 SUMMARY:Autoprezentacja i wywieranie wpływu (Studia podyplomowe)
-UID:b887a1ac-943d-4a74-8168-aa9528ec9162@b887.org
+UID:17b37885-533c-4331-bf6d-ad9cad801a8f@17b3.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Andrzej Domagała
-DTEND:20251011T113000Z
-LOCATION:Paw.G 10
-DTSTART:20251011T083000Z
-SUMMARY:Warsztaty extended disc (Studia podyplomowe)
-UID:d53b5d4e-71bb-4ca3-855d-9adca6308d5c@d53b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Urban Pauli
-DTEND:20251213T121500Z
-LOCATION:Paw.B 057 (KSB)
-DTSTART:20251213T074500Z
-SUMMARY:Motywowanie i benefity pozafinansowe (Studia podyplomowe)
-UID:9de39d9e-be63-4bdf-9fcf-3951ac210c5b@9de3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
-DTEND:20260117T121500Z
-LOCATION:Paw.G  9
-DTSTART:20260117T074500Z
-SUMMARY:Pozyskiwanie pracowników (Studia podyplomowe)
-UID:22b81d4e-3126-43a6-b7a5-113a9e85c1ad@22b8.org
+DESCRIPTION:Instructor: dr Piotr Sedlak
+DTEND:20251130T121500Z
+LOCATION:Paw.G - 1
+DTSTART:20251130T074500Z
+SUMMARY:Wynagradzanie i premiowanie pracowników (Studia podyplomowe)
+UID:db2b9697-94db-44a3-be34-d9a7f94ed790@db2b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Anna Rząca
@@ -119,14 +63,70 @@ DTEND:20251214T130000Z
 LOCATION:Paw.G 11
 DTSTART:20251214T074500Z
 SUMMARY:Warsztaty - prowadzenie rozmów motywujących (Studia podyplomowe)
-UID:1ac5ec6d-0772-4868-b461-9b4a86c568a2@1ac5.org
+UID:eddb999a-1876-4a96-8f60-c9dabcf81553@eddb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Urban Pauli
+DTEND:20251026T121500Z
+LOCATION:Paw.G 11
+DTSTART:20251026T074500Z
+SUMMARY:Planowanie działań rozwojowych (Studia podyplomowe)
+UID:178cc73e-6af6-41ad-a93d-6405034a2c2a@178c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Andrzej Domagała
+DTEND:20251012T111500Z
+LOCATION:Paw.G 10
+DTSTART:20251012T064500Z
+SUMMARY:Strategiczne zarządzanie organizacjami (Studia podyplomowe)
+UID:cf4c9c20-7962-47a0-bf56-5691919c82e7@cf4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Andrzej Domagała
+DTEND:20251011T113000Z
+LOCATION:Paw.G 10
+DTSTART:20251011T083000Z
+SUMMARY:Warsztaty extended disc (Studia podyplomowe)
+UID:def78ea9-c7de-4500-bfa4-a3b96571ce95@def7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Urban Pauli
+DTEND:20251011T081500Z
+LOCATION:Paw.G 10
+DTSTART:20251011T064500Z
+SUMMARY:Zajęcia organizacyjne (Studia podyplomowe)
+UID:85d584d3-1dab-4a68-b5af-7e48b829e23e@85d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Urban Pauli
+DTEND:20251213T121500Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20251213T074500Z
+SUMMARY:Motywowanie i benefity pozafinansowe (Studia podyplomowe)
+UID:76324b28-4698-424d-aa37-56db3a662d5c@7632.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
+DTEND:20260117T121500Z
+LOCATION:Paw.G  9
+DTSTART:20260117T074500Z
+SUMMARY:Pozyskiwanie pracowników (Studia podyplomowe)
+UID:345201fc-c950-4923-94a8-8be007050eca@3452.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Urban Pauli
+DTEND:20260201T134500Z
+LOCATION:Paw.G 11
+DTSTART:20260201T130000Z
+SUMMARY:Egzamin semestralny (Studia podyplomowe)
+UID:3e32e340-fff9-4c5a-a1ed-389597d04d7e@3e32.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Anna Rząca
-DTEND:20251116T130000Z
+DTEND:20251115T121500Z
 LOCATION:Paw.G 11
-DTSTART:20251116T074500Z
-SUMMARY:Warsztaty - prowadzenie rozmów rozwojowych (Studia podyplomowe)
-UID:77cd7772-c1c3-4e5a-a058-d77c49a8b7b9@77cd.org
+DTSTART:20251115T074500Z
+SUMMARY:Indywidualne formy rozwoju pracowników (Studia podyplomowe)
+UID:3aca4856-84d3-45d6-9bb7-04c99ab133a9@3aca.org
 END:VEVENT
 END:VCALENDAR
