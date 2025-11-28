@@ -2,11 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Ćwiek
-DTEND:20251024T184500Z
-DTSTART:20251024T163000Z
-SUMMARY:Statystyczna analiza danych (Przeniesienie zajęć)
-UID:52395ed3-2bc8-4dec-bee3-adf1ad1f6e68@5239.org
+DESCRIPTION:Instructor: mgr Łukasz Spendel
+DTEND:20251123T114500Z
+LOCATION:Paw.C sala F
+DTSTART:20251123T093000Z
+SUMMARY:Zarządzanie marketingiem międzynarodowym (ćwiczenia)
+UID:1a5b7b0e-191b-4c1b-a169-9673f0f1332f@1a5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Maciej Walczak
+DTEND:20251019T133000Z
+DTSTART:20251019T111500Z
+SUMMARY:Współczesne koncepcje zarządzania (wykład)
+UID:e68797dd-31c8-44aa-a1c8-2b0ce0535b29@e687.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Joanna Lerche
@@ -14,7 +22,14 @@ DTEND:20260109T170000Z
 LOCATION:Paw.F 104
 DTSTART:20260109T144500Z
 SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
-UID:6dc784c7-8a82-4aba-9f51-7a631b8bb9bd@6dc7.org
+UID:e5ea94da-ae57-49b4-b5f0-d2c378ebbc27@e5ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Ćwiek
+DTEND:20251017T160000Z
+DTSTART:20251017T134500Z
+SUMMARY:Statystyczna analiza danych (Przeniesienie zajęć)
+UID:020b6f3a-34a5-4bfa-9482-536e5d36129b@020b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Maciej Walczak
@@ -22,200 +37,7 @@ DTEND:20251114T194500Z
 LOCATION:link do zajęć
 DTSTART:20251114T173000Z
 SUMMARY:Współczesne koncepcje zarządzania (wykład)
-UID:a129a087-3e5f-4f8b-8233-9ad4154aee2d@a129.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Ćwiek
-DTEND:20251116T170000Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20251116T144500Z
-SUMMARY:Statystyczna analiza danych (ćwiczenia)
-UID:e06e0065-486e-43a7-aaa2-39d5fae33ead@e06e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Ćwiek
-DTEND:20251026T170000Z
-DTSTART:20251026T144500Z
-SUMMARY:Statystyczna analiza danych (wykład)
-UID:a45e3f81-e5d7-428e-a7e1-ef0783b2e2cb@a45e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Elżbieta Gudowska-Natanek
-DTEND:20251019T104500Z
-DTSTART:20251019T083000Z
-SUMMARY:Prawo pracy (wykład)
-UID:84e663b1-6185-4810-983d-d59a099c675c@84e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Ćwiek
-DTEND:20251114T170000Z
-LOCATION:link do zajęć
-DTSTART:20251114T144500Z
-SUMMARY:Statystyczna analiza danych (wykład)
-UID:177d1489-0b1f-4202-ad60-229a05db9e00@177d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Lerche
-DTEND:20251128T194500Z
-LOCATION:Paw.C sala F
-DTSTART:20251128T173000Z
-SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
-UID:86e228e2-76ba-427f-bede-1eb39526a4e1@86e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
-DTEND:20260109T194500Z
-LOCATION:Paw.U sala M
-DTSTART:20260109T173000Z
-SUMMARY:Rachunkowość zarządcza (ćwiczenia)
-UID:4b9ab8e5-ae89-4b33-bf97-66ff9fba72b1@4b9a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
-DTEND:20251129T170000Z
-LOCATION:Paw.U sala O
-DTSTART:20251129T144500Z
-SUMMARY:Rachunkowość zarządcza (ćwiczenia)
-UID:ab090757-56e2-4e05-97c8-b4e3db968d53@ab09.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
-DTEND:20251018T104500Z
-DTSTART:20251018T083000Z
-SUMMARY:Rachunkowość zarządcza (wykład)
-UID:e0ce6eb0-067e-4013-a24f-cd3879b15eaf@e0ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Elżbieta Gudowska-Natanek
-DTEND:20251130T114500Z
-LOCATION:link do zajęć
-DTSTART:20251130T093000Z
-SUMMARY:Prawo pracy (wykład)
-UID:3d887f27-9d6b-4ae2-b6c0-6e34767df03e@3d88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Łukasz Spendel
-DTEND:20251214T114500Z
-LOCATION:Paw.S sala 2
-DTSTART:20251214T093000Z
-SUMMARY:Zarządzanie marketingiem międzynarodowym (ćwiczenia)
-UID:1f3d0b48-4aaa-4844-8b44-9ce4326bba5f@1f3d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Chlipała
-DTEND:20251026T091500Z
-DTSTART:20251026T070000Z
-SUMMARY:Zarządzanie marketingiem międzynarodowym (wykład)
-UID:889af236-844f-4da6-8a0d-1875c3224044@889a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
-DTEND:20251019T081500Z
-DTSTART:20251019T060000Z
-SUMMARY:Filozofia (wykład)
-UID:c01ed0ac-0aee-40a3-b4f6-3ec8659a50a0@c01e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Lerche
-DTEND:20251025T133000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251025T111500Z
-SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
-UID:36ea866b-dfa2-4fea-ad91-bc0eb16e3774@36ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251016T123000Z
-DTSTART:20251016T093000Z
-SUMMARY: (rezerwacja)
-UID:bad89895-dd17-42e7-afb3-de2a13c39a0c@bad8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Chlipała
-DTEND:20251122T091500Z
-LOCATION:link do zajęć
-DTSTART:20251122T070000Z
-SUMMARY:Zarządzanie marketingiem międzynarodowym (wykład)
-UID:aea6b583-e9f3-43f7-bd9d-15634ad36a63@aea6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Urszula Bukowska
-DTEND:20251122T143000Z
-LOCATION:link do zajęć
-DTSTART:20251122T121500Z
-SUMMARY:Przywództwo w organizacji (wykład)
-UID:5b87a15e-a737-4f65-b145-e3db18938725@5b87.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Ćwiek
-DTEND:20251018T133000Z
-DTSTART:20251018T111500Z
-SUMMARY:Statystyczna analiza danych (Przeniesienie zajęć)
-UID:c04b018e-cd38-4cc2-957e-5ce31b614146@c04b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Urszula Bukowska
-DTEND:20251130T091500Z
-LOCATION:link do zajęć
-DTSTART:20251130T070000Z
-SUMMARY:Przywództwo w organizacji (wykład)
-UID:507dea97-1e3f-4004-9e02-a0a873044115@507d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Lerche
-DTEND:20251116T143000Z
-LOCATION:Paw.E sala J
-DTSTART:20251116T121500Z
-SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
-UID:d39ad01a-78bc-4187-8137-eaa197ae6cda@d39a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Lerche
-DTEND:20251214T091500Z
-LOCATION:Paw.S sala 3
-DTSTART:20251214T070000Z
-SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
-UID:114309ea-0bba-46c7-a846-bcc97c85542e@1143.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Ireneusz Rynduch
-DTEND:20251116T091500Z
-LOCATION:Paw.F 106
-DTSTART:20251116T070000Z
-SUMMARY:Przywództwo w organizacji (ćwiczenia)
-UID:e98f812c-6182-477a-aab8-d866ed8b20e0@e98f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Ćwiek
-DTEND:20251128T170000Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251128T144500Z
-SUMMARY:Statystyczna analiza danych (ćwiczenia)
-UID:46e11d95-a250-477f-b36a-ca638208e9fe@46e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Maciej Walczak
-DTEND:20260117T120000Z
-LOCATION:Paw.S sala 8
-DTSTART:20260117T103000Z
-SUMMARY:Współczesne koncepcje zarządzania (egzamin)
-UID:b5030eec-bccb-44d6-8014-2bd5a9ff58b8@b503.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
-DTEND:20251121T194500Z
-LOCATION:link do zajęć
-DTSTART:20251121T173000Z
-SUMMARY:Filozofia (wykład)
-UID:b2a73232-34c9-439c-ae6e-af7892c909a3@b2a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
-DTEND:20260118T114500Z
-LOCATION:link do zajęć
-DTSTART:20260118T093000Z
-SUMMARY:Filozofia (wykład)
-UID:6019ad8f-37e7-4f1e-b766-89395b8804a4@6019.org
+UID:1955c8bb-2cda-4f13-a479-6c88990c056b@1955.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Ireneusz Rynduch
@@ -223,100 +45,15 @@ DTEND:20251212T170000Z
 LOCATION:Platforma Moodle
 DTSTART:20251212T144500Z
 SUMMARY:Przywództwo w organizacji (Ćwiczenia e-learningowe)
-UID:fdf6ee08-cf3a-4e0c-9284-cf63e86e630c@fdf6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Maciej Walczak
-DTEND:20251019T133000Z
-DTSTART:20251019T111500Z
-SUMMARY:Współczesne koncepcje zarządzania (wykład)
-UID:0f34559d-a2fc-4f26-b1ad-4f4f96fa4c0a@0f34.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Ćwiek
-DTEND:20251122T170000Z
-LOCATION:link do zajęć
-DTSTART:20251122T144500Z
-SUMMARY:Statystyczna analiza danych (wykład)
-UID:703ead23-c4c9-491c-acde-9597e90561b3@703e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Łukasz Spendel
-DTEND:20251123T114500Z
-LOCATION:Paw.C sala F
-DTSTART:20251123T093000Z
-SUMMARY:Zarządzanie marketingiem międzynarodowym (ćwiczenia)
-UID:c59aacbb-c983-429b-9096-fc3015eab2f7@c59a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
-DTEND:20251130T143000Z
-LOCATION:link do zajęć
-DTSTART:20251130T121500Z
-SUMMARY:Rachunkowość zarządcza (wykład)
-UID:4b70ba1e-6990-49a6-a0f3-064d51f52230@4b70.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Elżbieta Gudowska-Natanek
-DTEND:20260208T144500Z
-LOCATION:Paw.C sala D
-DTSTART:20260208T140000Z
-SUMMARY:Prawo pracy (egzamin)
-UID:c8fb703e-1ec8-4a16-9161-62b1ff07dbc2@c8fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Lerche
-DTEND:20251212T194500Z
-LOCATION:Paw.C sala F
-DTSTART:20251212T173000Z
-SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
-UID:4f4411ef-592f-4a00-9186-a8931b227384@4f44.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Ćwiek
-DTEND:20251017T160000Z
-DTSTART:20251017T134500Z
-SUMMARY:Statystyczna analiza danych (Przeniesienie zajęć)
-UID:abd9b5d8-7e8a-43b2-ab76-a91f35f9ebb6@abd9.org
+UID:67fe680d-18a7-4f76-bc11-d2f48d5d47a1@67fe.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Ireneusz Rynduch
-DTEND:20260116T194500Z
-LOCATION:Paw.C sala C
-DTSTART:20260116T173000Z
+DTEND:20251116T091500Z
+LOCATION:Paw.F 106
+DTSTART:20251116T070000Z
 SUMMARY:Przywództwo w organizacji (ćwiczenia)
-UID:c3c988ae-9120-42b6-9120-1e240989575d@c3c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Elżbieta Gudowska-Natanek
-DTEND:20251121T170000Z
-LOCATION:link do zajęć
-DTSTART:20251121T144500Z
-SUMMARY:Prawo pracy (wykład)
-UID:f744e19a-01f2-4d19-9a0f-126e66148d29@f744.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Ćwiek
-DTEND:20260111T170000Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20260111T144500Z
-SUMMARY:Statystyczna analiza danych (ćwiczenia)
-UID:fa3e85ef-8578-4ec8-a4cd-ec84963f3274@fa3e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Elżbieta Gudowska-Natanek
-DTEND:20260201T144500Z
-LOCATION:Paw.C sala D
-DTSTART:20260201T140000Z
-SUMMARY:Prawo pracy (egzamin)
-UID:543b16ca-39b1-46f0-9cd8-9689771a5dbe@543b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Chlipała
-DTEND:20251017T184500Z
-DTSTART:20251017T163000Z
-SUMMARY:Zarządzanie marketingiem międzynarodowym (wykład)
-UID:5a0ef432-c7d1-4ceb-827a-7e7588d5f021@5a0e.org
+UID:86e2b2d2-672d-4d52-9510-edb59c4f0b8b@86e2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Maciej Walczak
@@ -324,14 +61,15 @@ DTEND:20260201T120000Z
 LOCATION:Paw.C sala B
 DTSTART:20260201T103000Z
 SUMMARY:Współczesne koncepcje zarządzania (egzamin)
-UID:98c172c9-7c62-41eb-a0c3-c8814404d355@98c1.org
+UID:34f76fb8-9d8f-4dbb-ad6b-e3f21ab9be95@34f7.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251217T134500Z
-DTSTART:20251217T121500Z
-SUMMARY: (rezerwacja)
-UID:1b59aef5-3e6e-43ce-88fd-130af91ce96c@1b59.org
+DESCRIPTION:Instructor: dr Urszula Bukowska
+DTEND:20251122T143000Z
+LOCATION:link do zajęć
+DTSTART:20251122T121500Z
+SUMMARY:Przywództwo w organizacji (wykład)
+UID:450c5028-981a-4455-b097-680e8d4dbdc6@450c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
@@ -339,15 +77,53 @@ DTEND:20251123T143000Z
 LOCATION:Paw.C sala A
 DTSTART:20251123T121500Z
 SUMMARY:Rachunkowość zarządcza (ćwiczenia)
-UID:08f4a025-fba1-4667-8504-8220899477c6@08f4.org
+UID:0d69668f-37af-43f6-af1f-92f7ac213b06@0d69.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Maciej Walczak
-DTEND:20251122T114500Z
+DESCRIPTION:Instructor: dr Małgorzata Ćwiek
+DTEND:20251122T170000Z
 LOCATION:link do zajęć
-DTSTART:20251122T093000Z
-SUMMARY:Współczesne koncepcje zarządzania (wykład)
-UID:88002783-946b-43d2-a488-e3c7cb28e0e3@8800.org
+DTSTART:20251122T144500Z
+SUMMARY:Statystyczna analiza danych (wykład)
+UID:a314a325-66d2-4a97-b357-bd627e1ecd34@a314.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Ćwiek
+DTEND:20251018T133000Z
+DTSTART:20251018T111500Z
+SUMMARY:Statystyczna analiza danych (Przeniesienie zajęć)
+UID:1c5b9692-face-488f-9ed0-97478120f668@1c5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20251019T081500Z
+DTSTART:20251019T060000Z
+SUMMARY:Filozofia (wykład)
+UID:ad0a0c27-2011-46eb-9335-7863be180293@ad0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Elżbieta Gudowska-Natanek
+DTEND:20251121T170000Z
+LOCATION:link do zajęć
+DTSTART:20251121T144500Z
+SUMMARY:Prawo pracy (wykład)
+UID:d296dbf5-723c-4e1f-850f-fc54b177a03e@d296.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Elżbieta Gudowska-Natanek
+DTEND:20260208T144500Z
+LOCATION:Paw.C sala D
+DTSTART:20260208T140000Z
+SUMMARY:Prawo pracy (egzamin)
+UID:8e6cadfc-3a45-4e20-acae-1a4561d85423@8e6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Urszula Bukowska
+DTEND:20251130T091500Z
+LOCATION:link do zajęć
+DTSTART:20251130T070000Z
+SUMMARY:Przywództwo w organizacji (wykład)
+UID:949a2b0c-630a-462c-944f-7e38a80027c8@949a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Łukasz Spendel
@@ -355,20 +131,244 @@ DTEND:20251129T143000Z
 LOCATION:Paw.U sala S(Kat.Opak.)
 DTSTART:20251129T121500Z
 SUMMARY:Zarządzanie marketingiem międzynarodowym (ćwiczenia)
-UID:b9800fec-535d-4533-8f3f-146c7b9735e4@b980.org
+UID:3e49653c-9760-47ac-83a4-6bcf003da217@3e49.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Urszula Bukowska
-DTEND:20251026T143000Z
-DTSTART:20251026T121500Z
-SUMMARY:Przywództwo w organizacji (wykład)
-UID:0c0db81d-3570-4c83-9ce2-19d6917d6ed6@0c0d.org
+DESCRIPTION:Instructor: 
+DTEND:20251016T123000Z
+DTSTART:20251016T093000Z
+SUMMARY: (rezerwacja)
+UID:2ce2dc6a-8e53-46e6-9cee-0d1cd4b04825@2ce2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Chlipała
+DTEND:20251026T091500Z
+DTSTART:20251026T070000Z
+SUMMARY:Zarządzanie marketingiem międzynarodowym (wykład)
+UID:75cf160f-900d-4d36-ad71-2d102ca921a3@75cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Ćwiek
+DTEND:20251128T170000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251128T144500Z
+SUMMARY:Statystyczna analiza danych (ćwiczenia)
+UID:8eff5f34-2f03-4529-a6b7-6c95c9e8a492@8eff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Ćwiek
+DTEND:20251026T170000Z
+DTSTART:20251026T144500Z
+SUMMARY:Statystyczna analiza danych (wykład)
+UID:b61d2f4c-4a41-495d-ba77-b72f36e6c14d@b61d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
 DTEND:20251026T114500Z
 DTSTART:20251026T093000Z
 SUMMARY:Rachunkowość zarządcza (wykład)
-UID:f1e1f7dd-640c-4a8c-8193-41bf03632235@f1e1.org
+UID:cb16f76e-e8f9-4fcc-95d1-61ac3aa477ec@cb16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Elżbieta Gudowska-Natanek
+DTEND:20251019T104500Z
+DTSTART:20251019T083000Z
+SUMMARY:Prawo pracy (wykład)
+UID:1e52dd5e-3e04-4d4a-9f8a-72f8e358df62@1e52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
+DTEND:20260109T194500Z
+LOCATION:Paw.U sala M
+DTSTART:20260109T173000Z
+SUMMARY:Rachunkowość zarządcza (ćwiczenia)
+UID:5e4d6a45-8639-40aa-bacc-c9c68e896c01@5e4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Elżbieta Gudowska-Natanek
+DTEND:20260201T144500Z
+LOCATION:Paw.C sala D
+DTSTART:20260201T140000Z
+SUMMARY:Prawo pracy (egzamin)
+UID:0ce4d316-bee5-43e5-a408-5fccee699a4f@0ce4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Ireneusz Rynduch
+DTEND:20260116T194500Z
+LOCATION:Paw.C sala C
+DTSTART:20260116T173000Z
+SUMMARY:Przywództwo w organizacji (ćwiczenia)
+UID:80e6fec9-fa2d-4620-9939-8d725956ebdb@80e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Urszula Bukowska
+DTEND:20251026T143000Z
+DTSTART:20251026T121500Z
+SUMMARY:Przywództwo w organizacji (wykład)
+UID:f1ad8e0a-697a-4c9f-9b02-c5784d2bf2fd@f1ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Ćwiek
+DTEND:20251114T170000Z
+LOCATION:link do zajęć
+DTSTART:20251114T144500Z
+SUMMARY:Statystyczna analiza danych (wykład)
+UID:8c01a4fd-b77e-4aac-89d7-7bea963dbed3@8c01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Lerche
+DTEND:20251214T091500Z
+LOCATION:Paw.S sala 3
+DTSTART:20251214T070000Z
+SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
+UID:b42de2bf-752d-451f-a0a1-033c4b07ea86@b42d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Spendel
+DTEND:20251214T114500Z
+LOCATION:Paw.S sala 2
+DTSTART:20251214T093000Z
+SUMMARY:Zarządzanie marketingiem międzynarodowym (ćwiczenia)
+UID:0e6a8a9e-44db-41b7-bbba-4c06be4a21bf@0e6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Maciej Walczak
+DTEND:20251122T114500Z
+LOCATION:link do zajęć
+DTSTART:20251122T093000Z
+SUMMARY:Współczesne koncepcje zarządzania (wykład)
+UID:21da1041-1f28-49f7-a123-83b6da77eda6@21da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Lerche
+DTEND:20251128T194500Z
+LOCATION:Paw.C sala F
+DTSTART:20251128T173000Z
+SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
+UID:efd1c94c-4c03-4d90-9cb7-e26109c5018b@efd1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Maciej Walczak
+DTEND:20260117T120000Z
+LOCATION:Paw.S sala 8
+DTSTART:20260117T103000Z
+SUMMARY:Współczesne koncepcje zarządzania (egzamin)
+UID:dcbf2b84-b601-4b66-8707-96161dba9e81@dcbf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Ćwiek
+DTEND:20260111T170000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20260111T144500Z
+SUMMARY:Statystyczna analiza danych (ćwiczenia)
+UID:8b5396f0-7815-4e06-88c9-5d399354955e@8b53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20260118T114500Z
+LOCATION:link do zajęć
+DTSTART:20260118T093000Z
+SUMMARY:Filozofia (wykład)
+UID:c855bae1-286d-460b-86d5-0b53b2a7f34b@c855.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Ćwiek
+DTEND:20251116T170000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20251116T144500Z
+SUMMARY:Statystyczna analiza danych (ćwiczenia)
+UID:ac09d274-9a0e-4cfd-8b14-65e2df67cb9d@ac09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
+DTEND:20251018T104500Z
+DTSTART:20251018T083000Z
+SUMMARY:Rachunkowość zarządcza (wykład)
+UID:6706c35f-f3a0-4780-9ebf-8d54469384b2@6706.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Lerche
+DTEND:20251025T133000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251025T111500Z
+SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
+UID:76ec591c-eab8-4e25-9406-2dd6bfc39201@76ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251217T134500Z
+DTSTART:20251217T121500Z
+SUMMARY: (rezerwacja)
+UID:8c4cbb19-1798-4a5f-a57a-5d0cabd78ee3@8c4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Lerche
+DTEND:20251116T143000Z
+LOCATION:Paw.E sala J
+DTSTART:20251116T121500Z
+SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
+UID:8b4c17ae-811d-4e73-9f57-2a7716fb92a6@8b4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Ćwiek
+DTEND:20251024T184500Z
+DTSTART:20251024T163000Z
+SUMMARY:Statystyczna analiza danych (Przeniesienie zajęć)
+UID:96d6ebf2-f4cc-447a-b952-8e4f2591866e@96d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
+DTEND:20251129T170000Z
+LOCATION:Paw.U sala O
+DTSTART:20251129T144500Z
+SUMMARY:Rachunkowość zarządcza (ćwiczenia)
+UID:049adfe4-971b-403c-a740-bab87124b05f@049a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Elżbieta Gudowska-Natanek
+DTEND:20251130T114500Z
+LOCATION:link do zajęć
+DTSTART:20251130T093000Z
+SUMMARY:Prawo pracy (wykład)
+UID:b005cd1d-a449-4200-a2cc-c5eb42e121da@b005.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20251121T194500Z
+LOCATION:link do zajęć
+DTSTART:20251121T173000Z
+SUMMARY:Filozofia (wykład)
+UID:c9a005aa-9fc0-449f-977f-4b65f8b5bf7f@c9a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
+DTEND:20251130T143000Z
+LOCATION:link do zajęć
+DTSTART:20251130T121500Z
+SUMMARY:Rachunkowość zarządcza (wykład)
+UID:2b9c616e-e1b2-4075-b228-ba5a6bb552ca@2b9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Chlipała
+DTEND:20251122T091500Z
+LOCATION:link do zajęć
+DTSTART:20251122T070000Z
+SUMMARY:Zarządzanie marketingiem międzynarodowym (wykład)
+UID:75431e31-e229-4e56-afb5-1f79e055c384@7543.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Lerche
+DTEND:20251212T194500Z
+LOCATION:Paw.C sala F
+DTSTART:20251212T173000Z
+SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
+UID:f7b0b788-d7fd-4f43-8781-91e7f7ff9660@f7b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Chlipała
+DTEND:20251017T184500Z
+DTSTART:20251017T163000Z
+SUMMARY:Zarządzanie marketingiem międzynarodowym (wykład)
+UID:1101af4a-0454-40d3-9c45-8c91cebca9a0@1101.org
 END:VEVENT
 END:VCALENDAR

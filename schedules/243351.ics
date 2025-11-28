@@ -2,52 +2,26 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Górka
-DTEND:20251207T180000Z
-LOCATION:Paw.F 104
-DTSTART:20251207T154500Z
-SUMMARY:Wstęp do badań społecznych (ćwiczenia)
-UID:20185b02-09eb-46ec-b5d9-effb2ad76146@2018.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
-DTEND:20251114T170000Z
-LOCATION:link do zajęć
-DTSTART:20251114T144500Z
-SUMMARY:Polityka zagraniczna (wykład)
-UID:5c2715ae-023b-4655-aea3-44697050834c@5c27.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
-DTEND:20251025T104500Z
-LOCATION:Paw.C sala E
-DTSTART:20251025T083000Z
-SUMMARY:Polityka zagraniczna (ćwiczenia)
-UID:e6c4ef85-05a4-4b77-9b07-e1f8767d14c8@e6c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Górka
-DTEND:20260110T133000Z
+DESCRIPTION:Instructor: dr Karol Kaczorowski
+DTEND:20251129T143000Z
 LOCATION:Bud.gł. Stara Aula
-DTSTART:20260110T103000Z
-SUMMARY:Wstęp do badań społecznych (ćwiczenia)
-UID:75cbda1c-dabc-4140-a4d5-2214760f4865@75cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
-DTEND:20251019T170000Z
-LOCATION:Paw.F 715
-DTSTART:20251019T144500Z
-SUMMARY:Korporacje międzynarodowe i grupy kapitałowe (konwersatorium do wyboru)
-UID:3c778651-b4f0-4e4d-8cdf-98cedd6156d8@3c77.org
+DTSTART:20251129T121500Z
+SUMMARY:Komunikacja międzykulturowa (ćwiczenia)
+UID:4eb63c9b-793f-42ff-a30c-bc62ae5117e6@4eb6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
-DTEND:20251019T141500Z
-LOCATION:Paw.E sala H (KSB)
-DTSTART:20251019T111500Z
-SUMMARY:Współczesne systemy polityczne (ćwiczenia)
-UID:5fb44b34-ffe8-490f-b5f7-32b9f20603f6@5fb4.org
+DTEND:20251004T133000Z
+DTSTART:20251004T111500Z
+SUMMARY:Współczesne systemy polityczne (wykład)
+UID:e45406d0-faf3-4d07-9dc7-a8348da78246@e454.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
+DTEND:20251019T081500Z
+DTSTART:20251019T060000Z
+SUMMARY:Korporacje międzynarodowe i grupy kapitałowe (Przeniesienie zajęć)
+UID:fd925e8d-fd13-4b77-aec7-9b85f734fddd@fd92.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Karol Kaczorowski
@@ -55,47 +29,7 @@ DTEND:20251115T151500Z
 LOCATION:Paw.B 058 (KSB)
 DTSTART:20251115T130000Z
 SUMMARY:Komunikacja międzykulturowa (ćwiczenia)
-UID:2a83ca72-d8b5-4410-9050-2a8acee23837@2a83.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Karol Kaczorowski
-DTEND:20251114T194500Z
-LOCATION:link do zajęć
-DTSTART:20251114T173000Z
-SUMMARY:Komunikacja międzykulturowa (wykład)
-UID:04619590-e8e4-4baf-ad33-947e492d1ff6@0461.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
-DTEND:20251206T184500Z
-LOCATION:Paw.F 717
-DTSTART:20251206T154500Z
-SUMMARY:Korporacje międzynarodowe i grupy kapitałowe (konwersatorium do wyboru)
-UID:49c84a61-d93f-417e-9de0-1d83fe46aac3@49c8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
-DTEND:20260131T083000Z
-LOCATION:Paw.B 351
-DTSTART:20260131T074500Z
-SUMMARY:Współczesne systemy polityczne (egzamin)
-UID:44c64824-c04e-4269-ae9d-e1ce2e8d2bd2@44c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
-DTEND:20251220T123000Z
-LOCATION:Paw.C sala E
-DTSTART:20251220T093000Z
-SUMMARY:Polityka zagraniczna (ćwiczenia)
-UID:3a8425c0-de4e-4d4e-aaae-6e51253a6d75@3a84.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Górka
-DTEND:20251024T184500Z
-LOCATION:Paw.E sala H (KSB)
-DTSTART:20251024T163000Z
-SUMMARY:Wstęp do badań społecznych (ćwiczenia)
-UID:ba948c15-0663-4496-a9d8-09b94e8d1791@ba94.org
+UID:d15e4f45-4189-4539-90ab-33864a75a393@d15e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Wojciech Kubica
@@ -103,231 +37,7 @@ DTEND:20260111T151500Z
 LOCATION:Paw.U sala O
 DTSTART:20260111T121500Z
 SUMMARY:Systemy edukacji na świecie: różnorodność i efektywność (konwersatorium do wyboru)
-UID:9676aeca-1e1e-4940-bb5e-32f0d25c552c@9676.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Kędzierski
-DTEND:20251220T160000Z
-LOCATION:Paw.C sala E
-DTSTART:20251220T130000Z
-SUMMARY:Wprowadzenie do polityki publicznej (konwersatorium)
-UID:639eb601-b9b7-4d98-af9b-88d5ef2a12e7@639e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
-DTEND:20251017T160000Z
-DTSTART:20251017T134500Z
-SUMMARY:Współczesne systemy polityczne (wykład)
-UID:c3a2797f-2aa3-41f3-850d-f8bb943fae0d@c3a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
-DTEND:20260110T100000Z
-LOCATION:Bud.gł. Stara Aula
-DTSTART:20260110T074500Z
-SUMMARY:Współczesne systemy polityczne (ćwiczenia)
-UID:6990e959-c47e-4103-8282-73feea49bd09@6990.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
-DTEND:20260123T194500Z
-LOCATION:Paw.F 715
-DTSTART:20260123T173000Z
-SUMMARY:Korporacje międzynarodowe i grupy kapitałowe (konwersatorium do wyboru)
-UID:bdded21b-862c-460d-808a-98f53cefbb56@bdde.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
-DTEND:20251115T123000Z
-LOCATION:Paw.A 301b
-DTSTART:20251115T093000Z
-SUMMARY:Polityka zagraniczna (ćwiczenia)
-UID:2fcd0944-e77c-40a4-8feb-886ab8053812@2fcd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Kędzierski
-DTEND:20260124T160000Z
-LOCATION:Paw.C sala E
-DTSTART:20260124T130000Z
-SUMMARY:Wprowadzenie do polityki publicznej (konwersatorium)
-UID:752ae7ae-de9e-422d-ac73-b3e6806be2cd@752a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Cymbranowicz
-DTEND:20251123T091500Z
-LOCATION:Paw.B 054 (KSB)
-DTSTART:20251123T070000Z
-SUMMARY:Światowe kultury biznesu (konwersatorium do wyboru)
-UID:c40822ec-b0ef-403a-aa17-c9f93bc4c7a4@c408.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
-DTEND:20251123T151500Z
-LOCATION:link do zajęć
-DTSTART:20251123T121500Z
-SUMMARY:Korporacje międzynarodowe i grupy kapitałowe (konwersatorium zdalne)
-UID:1c4a3d0d-c4f0-4f67-8d1b-a00368297b1d@1c4a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
-DTEND:20251116T151500Z
-LOCATION:Paw.E sala H (KSB)
-DTSTART:20251116T121500Z
-SUMMARY:Współczesne systemy polityczne (ćwiczenia)
-UID:aad0a389-0d02-4b2a-9a70-611cf499f070@aad0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
-DTEND:20251019T081500Z
-DTSTART:20251019T060000Z
-SUMMARY:Korporacje międzynarodowe i grupy kapitałowe (Przeniesienie zajęć)
-UID:a8349bdc-5eb3-489a-a002-c825963c38b1@a834.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
-DTEND:20251004T133000Z
-DTSTART:20251004T111500Z
-SUMMARY:Współczesne systemy polityczne (wykład)
-UID:a8d3ebd3-0e51-4424-a06c-0d8ff1599a7c@a8d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Cymbranowicz
-DTEND:20251213T170000Z
-LOCATION:Paw.B 057 (KSB)
-DTSTART:20251213T140000Z
-SUMMARY:Światowe kultury biznesu (konwersatorium do wyboru)
-UID:76ec8adc-e853-4660-9ad0-9259723eb30a@76ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Cymbranowicz
-DTEND:20260123T170000Z
-LOCATION:Paw.B 054 (KSB)
-DTSTART:20260123T144500Z
-SUMMARY:Światowe kultury biznesu (konwersatorium do wyboru)
-UID:edb729c1-a9ba-4c2d-ac9b-faba5adecb19@edb7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Karol Kaczorowski
-DTEND:20251129T143000Z
-LOCATION:Bud.gł. Stara Aula
-DTSTART:20251129T121500Z
-SUMMARY:Komunikacja międzykulturowa (ćwiczenia)
-UID:509c90e4-68b1-4354-95ef-e54f3cfdc280@509c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251016T123000Z
-DTSTART:20251016T093000Z
-SUMMARY: (rezerwacja)
-UID:85fec34e-ac34-44f3-899d-3a3b1a888274@85fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
-DTEND:20251129T114500Z
-LOCATION:Bud.gł. Stara Aula
-DTSTART:20251129T093000Z
-SUMMARY:Polityka zagraniczna (ćwiczenia)
-UID:e6b335d5-cfae-4c0b-90b0-89c6bcaf57f5@e6b3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
-DTEND:20251004T104500Z
-DTSTART:20251004T083000Z
-SUMMARY:Polityka zagraniczna (wykład)
-UID:2a38c361-1018-4490-9583-0882fef6c7c7@2a38.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Górka
-DTEND:20251122T123000Z
-LOCATION:Paw.B 054 (KSB)
-DTSTART:20251122T093000Z
-SUMMARY:Wstęp do badań społecznych (ćwiczenia)
-UID:ed14a52b-42db-4409-8404-e20dbce45ea1@ed14.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
-DTEND:20251129T091500Z
-LOCATION:Bud.gł. Stara Aula
-DTSTART:20251129T070000Z
-SUMMARY:Współczesne systemy polityczne (ćwiczenia)
-UID:2e1edaa0-c6a6-46a0-86cb-62dac5fe8d9d@2e1e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Kędzierski
-DTEND:20251206T151500Z
-LOCATION:Paw.F 109
-DTSTART:20251206T121500Z
-SUMMARY:Wprowadzenie do polityki publicznej (konwersatorium)
-UID:7a0e7b14-3e5f-439b-a150-7c5a144a181d@7a0e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
-DTEND:20251221T151500Z
-LOCATION:Paw.F 715
-DTSTART:20251221T121500Z
-SUMMARY:Korporacje międzynarodowe i grupy kapitałowe (konwersatorium do wyboru)
-UID:25822f44-cb3c-44ac-acec-a88c0054e4d7@2582.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
-DTEND:20260124T123000Z
-LOCATION:Paw.C sala D
-DTSTART:20260124T093000Z
-SUMMARY:Polityka zagraniczna (ćwiczenia)
-UID:915f2a4f-f960-4098-9d29-df7d814d734f@915f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Karol Kaczorowski
-DTEND:20251018T133000Z
-DTSTART:20251018T111500Z
-SUMMARY:Komunikacja międzykulturowa (wykład)
-UID:6eb9ab16-bc67-4e1d-96e2-8dda4c70c3fd@6eb9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
-DTEND:20251121T170000Z
-LOCATION:link do zajęć
-DTSTART:20251121T144500Z
-SUMMARY:Współczesne systemy polityczne (wykład)
-UID:fb2896b0-be77-451f-a517-038d39b819a9@fb28.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Wojciech Kubica
-DTEND:20251122T091500Z
-DTSTART:20251122T070000Z
-SUMMARY:Systemy edukacji na świecie: różnorodność i efektywność (Przeniesienie zajęć)
-UID:bbab2986-88a1-4135-b912-68f1d9c18bc5@bbab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
-DTEND:20251018T104500Z
-DTSTART:20251018T083000Z
-SUMMARY:Polityka zagraniczna (wykład)
-UID:158f4522-dde7-4af6-afe7-0fc7f93e28d5@158f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Górka
-DTEND:20251213T133000Z
-LOCATION:Bud.gł. Stara Aula
-DTSTART:20251213T103000Z
-SUMMARY:Wstęp do badań społecznych (ćwiczenia)
-UID:0716ddf3-c75e-4d7b-b58d-ed0e68341d19@0716.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Kędzierski
-DTEND:20251122T151500Z
-LOCATION:Paw.E sala H (KSB)
-DTSTART:20251122T130000Z
-SUMMARY:Wprowadzenie do polityki publicznej (konwersatorium)
-UID:ee7f7b60-acb3-443e-a72b-98e1813b64dc@ee7f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Wojciech Kubica
-DTEND:20251206T114500Z
-LOCATION:Paw.U sala N
-DTSTART:20251206T093000Z
-SUMMARY:Systemy edukacji na świecie: różnorodność i efektywność (konwersatorium do wyboru)
-UID:a3909f40-4b15-4cf2-a5c7-1aa3331fd5a5@a390.org
+UID:32a13f01-e8ad-4c3b-a09c-943da00bb147@32a1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Karol Kaczorowski
@@ -335,69 +45,38 @@ DTEND:20251025T160000Z
 LOCATION:Paw.B 058 (KSB)
 DTSTART:20251025T134500Z
 SUMMARY:Komunikacja międzykulturowa (ćwiczenia)
-UID:697939ee-11a7-4aa1-88c0-d0ce55892586@6979.org
+UID:ea38c914-9ce3-490f-9398-c0601469dba5@ea38.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Wojciech Kubica
-DTEND:20251024T160000Z
-LOCATION:Paw.E sala H (KSB)
-DTSTART:20251024T134500Z
+DTEND:20251206T114500Z
+LOCATION:Paw.U sala N
+DTSTART:20251206T093000Z
 SUMMARY:Systemy edukacji na świecie: różnorodność i efektywność (konwersatorium do wyboru)
-UID:64e6eda2-f259-454b-8fa3-d583f4662e0c@64e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251217T134500Z
-DTSTART:20251217T121500Z
-SUMMARY: (rezerwacja)
-UID:6b6c3a71-87ae-45bb-8f3e-474fcf19dc6d@6b6c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Cymbranowicz
-DTEND:20260110T170000Z
-LOCATION:Paw.B 057 (KSB)
-DTSTART:20260110T140000Z
-SUMMARY:Światowe kultury biznesu (konwersatorium do wyboru)
-UID:2389a293-5779-44c8-ba66-6d8ecf7f5ba9@2389.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Karol Kaczorowski
-DTEND:20251004T160000Z
-DTSTART:20251004T134500Z
-SUMMARY:Komunikacja międzykulturowa (wykład)
-UID:91d0d510-866b-46ca-b5f4-c17a4d5a8bfc@91d0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Wojciech Kubica
-DTEND:20251207T151500Z
-LOCATION:Paw.F 104
-DTSTART:20251207T121500Z
-SUMMARY:Systemy edukacji na świecie: różnorodność i efektywność (konwersatorium do wyboru)
-UID:a54bddf8-b17d-43d3-9d61-429a52cbc719@a54b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Wojciech Kubica
-DTEND:20260125T151500Z
-LOCATION:Paw.U sala O
-DTSTART:20260125T121500Z
-SUMMARY:Systemy edukacji na świecie: różnorodność i efektywność (konwersatorium do wyboru)
-UID:e7ec3972-7144-4a04-885f-6b625181982b@e7ec.org
+UID:bcc205f6-649a-4586-9c38-483a6f3e828f@bcc2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
-DTEND:20251214T151500Z
+DTEND:20251116T151500Z
 LOCATION:Paw.E sala H (KSB)
-DTSTART:20251214T121500Z
+DTSTART:20251116T121500Z
 SUMMARY:Współczesne systemy polityczne (ćwiczenia)
-UID:fade736f-49bb-4acb-9602-d66d0a4dcf96@fade.org
+UID:9d3bf425-5f6a-463b-8c64-16b8b3da1703@9d3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251016T123000Z
+DTSTART:20251016T093000Z
+SUMMARY: (rezerwacja)
+UID:86c15a64-f923-48cb-8024-87ed09ff9f21@86c1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marcin Kędzierski
-DTEND:20251025T133000Z
-LOCATION:Paw.F 713  Kat.Bank./sala dyd.
-DTSTART:20251025T111500Z
+DTEND:20260124T160000Z
+LOCATION:Paw.C sala E
+DTSTART:20260124T130000Z
 SUMMARY:Wprowadzenie do polityki publicznej (konwersatorium)
-UID:126211e7-b822-4a8e-ab8c-c5183e6c51f5@1262.org
+UID:8618cb91-b6d9-49c6-92fd-b4fcf84865af@8618.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Katarzyna Cymbranowicz
@@ -405,6 +84,327 @@ DTEND:20251130T151500Z
 LOCATION:Paw.B 057 (KSB)
 DTSTART:20251130T121500Z
 SUMMARY:Światowe kultury biznesu (konwersatorium do wyboru)
-UID:96d47ed6-ba52-40e6-a092-a6e125d36a90@96d4.org
+UID:9dba2325-aada-490e-a116-da28236cad44@9dba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20260125T151500Z
+LOCATION:Paw.U sala O
+DTSTART:20260125T121500Z
+SUMMARY:Systemy edukacji na świecie: różnorodność i efektywność (konwersatorium do wyboru)
+UID:5ac9b5b1-a8a1-4194-9f81-3b38731bddff@5ac9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Cymbranowicz
+DTEND:20260110T170000Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20260110T140000Z
+SUMMARY:Światowe kultury biznesu (konwersatorium do wyboru)
+UID:6e134fc6-697e-4430-8b09-56df5ed4cb5b@6e13.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20260110T100000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20260110T074500Z
+SUMMARY:Współczesne systemy polityczne (ćwiczenia)
+UID:85361b3d-7fc1-4f5f-a249-433c457ba86c@8536.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20251214T151500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20251214T121500Z
+SUMMARY:Współczesne systemy polityczne (ćwiczenia)
+UID:4c13799c-7052-4ddd-a8de-e5b3f99ea0ba@4c13.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20251207T151500Z
+LOCATION:Paw.F 104
+DTSTART:20251207T121500Z
+SUMMARY:Systemy edukacji na świecie: różnorodność i efektywność (konwersatorium do wyboru)
+UID:54371934-345e-4c0d-8431-feefad739586@5437.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20251018T104500Z
+DTSTART:20251018T083000Z
+SUMMARY:Polityka zagraniczna (wykład)
+UID:05d1e2c1-b162-4397-be9f-e92cb3626e60@05d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Cymbranowicz
+DTEND:20251213T170000Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20251213T140000Z
+SUMMARY:Światowe kultury biznesu (konwersatorium do wyboru)
+UID:158f34dd-9f73-4f96-9b75-e35a4fef78cd@158f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Górka
+DTEND:20260110T133000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20260110T103000Z
+SUMMARY:Wstęp do badań społecznych (ćwiczenia)
+UID:12751888-8a27-4d2d-b9a0-90f980fae84c@1275.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20251114T170000Z
+LOCATION:link do zajęć
+DTSTART:20251114T144500Z
+SUMMARY:Polityka zagraniczna (wykład)
+UID:7d3f62de-96ca-4724-9ffe-a6cd17ad54c6@7d3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Górka
+DTEND:20251024T184500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20251024T163000Z
+SUMMARY:Wstęp do badań społecznych (ćwiczenia)
+UID:b640b8a8-ae6a-4ee6-959f-556aacfa2bd8@b640.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
+DTEND:20260123T194500Z
+LOCATION:Paw.F 715
+DTSTART:20260123T173000Z
+SUMMARY:Korporacje międzynarodowe i grupy kapitałowe (konwersatorium do wyboru)
+UID:031ea6b5-0182-4cad-b039-18202d19838c@031e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Kaczorowski
+DTEND:20251018T133000Z
+DTSTART:20251018T111500Z
+SUMMARY:Komunikacja międzykulturowa (wykład)
+UID:df847d68-324e-4586-a356-d8b0b7ff8e02@df84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Kaczorowski
+DTEND:20251114T194500Z
+LOCATION:link do zajęć
+DTSTART:20251114T173000Z
+SUMMARY:Komunikacja międzykulturowa (wykład)
+UID:ac6bcf95-9528-4b88-a5e8-172e3bcffd53@ac6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20251129T114500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20251129T093000Z
+SUMMARY:Polityka zagraniczna (ćwiczenia)
+UID:3d284036-8963-4378-9c24-2d1210f50cdf@3d28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kędzierski
+DTEND:20251025T133000Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20251025T111500Z
+SUMMARY:Wprowadzenie do polityki publicznej (konwersatorium)
+UID:289a205a-c559-4c87-b97e-4179e69b60ad@289a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Cymbranowicz
+DTEND:20251123T091500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20251123T070000Z
+SUMMARY:Światowe kultury biznesu (konwersatorium do wyboru)
+UID:a5247d71-7a5f-41c8-9b17-31d7257c0a89@a524.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kędzierski
+DTEND:20251206T151500Z
+LOCATION:Paw.F 109
+DTSTART:20251206T121500Z
+SUMMARY:Wprowadzenie do polityki publicznej (konwersatorium)
+UID:d50e7825-f737-49f9-86df-581afa863ada@d50e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20251019T141500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20251019T111500Z
+SUMMARY:Współczesne systemy polityczne (ćwiczenia)
+UID:e644861e-5703-44d8-b5e1-b4d66e9ec5d3@e644.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
+DTEND:20251206T184500Z
+LOCATION:Paw.F 717
+DTSTART:20251206T154500Z
+SUMMARY:Korporacje międzynarodowe i grupy kapitałowe (konwersatorium do wyboru)
+UID:6a037844-73ae-4cb7-890e-9dee838161cf@6a03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kędzierski
+DTEND:20251220T160000Z
+LOCATION:Paw.C sala E
+DTSTART:20251220T130000Z
+SUMMARY:Wprowadzenie do polityki publicznej (konwersatorium)
+UID:1804862c-1fbe-446e-a351-ff2507b38db3@1804.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
+DTEND:20251019T170000Z
+LOCATION:Paw.F 715
+DTSTART:20251019T144500Z
+SUMMARY:Korporacje międzynarodowe i grupy kapitałowe (konwersatorium do wyboru)
+UID:c504600e-fceb-4df8-9d12-26e05d14224a@c504.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20251017T160000Z
+DTSTART:20251017T134500Z
+SUMMARY:Współczesne systemy polityczne (wykład)
+UID:acf45f3f-5638-4b98-81a4-35992e8048da@acf4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20251025T104500Z
+LOCATION:Paw.C sala E
+DTSTART:20251025T083000Z
+SUMMARY:Polityka zagraniczna (ćwiczenia)
+UID:e5d71088-00da-4d0b-85f2-dd824be7c505@e5d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kędzierski
+DTEND:20251122T151500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20251122T130000Z
+SUMMARY:Wprowadzenie do polityki publicznej (konwersatorium)
+UID:f869e225-5589-45b7-b8bf-022b9847c5b0@f869.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Górka
+DTEND:20251213T133000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20251213T103000Z
+SUMMARY:Wstęp do badań społecznych (ćwiczenia)
+UID:5094b0a5-3fdd-4674-8eca-46f68242bcc8@5094.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
+DTEND:20251123T151500Z
+LOCATION:link do zajęć
+DTSTART:20251123T121500Z
+SUMMARY:Korporacje międzynarodowe i grupy kapitałowe (konwersat.do wyb.zdalne)
+UID:a71251f5-df39-48ef-95d1-8bcce72c0540@a712.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20260124T123000Z
+LOCATION:Paw.C sala D
+DTSTART:20260124T093000Z
+SUMMARY:Polityka zagraniczna (ćwiczenia)
+UID:1cc111fb-e85b-45da-af57-d203d03d6909@1cc1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251217T134500Z
+DTSTART:20251217T121500Z
+SUMMARY: (rezerwacja)
+UID:4c74bcb7-d3de-4303-920d-c09d28129c7d@4c74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Kaczorowski
+DTEND:20251004T160000Z
+DTSTART:20251004T134500Z
+SUMMARY:Komunikacja międzykulturowa (wykład)
+UID:b658119a-5624-486f-85ff-a74d7e660ced@b658.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20251121T170000Z
+LOCATION:link do zajęć
+DTSTART:20251121T144500Z
+SUMMARY:Współczesne systemy polityczne (wykład)
+UID:18a3c035-e151-4b35-82d9-e8b0d82f553e@18a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20260131T083000Z
+LOCATION:Paw.B 351
+DTSTART:20260131T074500Z
+SUMMARY:Współczesne systemy polityczne (egzamin)
+UID:9e556e58-b522-49cd-b305-a3b05285b7fa@9e55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20251004T104500Z
+DTSTART:20251004T083000Z
+SUMMARY:Polityka zagraniczna (wykład)
+UID:dc22ff60-3670-4490-945b-b56b94e37f85@dc22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20251024T160000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20251024T134500Z
+SUMMARY:Systemy edukacji na świecie: różnorodność i efektywność (konwersatorium do wyboru)
+UID:5c8ee56a-9d0a-45a7-a684-3a58e074bd18@5c8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20251122T091500Z
+DTSTART:20251122T070000Z
+SUMMARY:Systemy edukacji na świecie: różnorodność i efektywność (Przeniesienie zajęć)
+UID:685b45ba-0b55-4934-be07-f6e7447e8b88@685b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Cymbranowicz
+DTEND:20260123T170000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20260123T144500Z
+SUMMARY:Światowe kultury biznesu (konwersatorium do wyboru)
+UID:52306e35-d6eb-41f4-825c-40cf2da3e43b@5230.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20251220T123000Z
+LOCATION:Paw.C sala E
+DTSTART:20251220T093000Z
+SUMMARY:Polityka zagraniczna (ćwiczenia)
+UID:6fed8a25-99ef-4ddd-b838-d72d19245d41@6fed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20251129T091500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20251129T070000Z
+SUMMARY:Współczesne systemy polityczne (ćwiczenia)
+UID:a9f4d5e6-4cda-43f7-a491-24aeb6a9f177@a9f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Górka
+DTEND:20251207T180000Z
+LOCATION:Paw.F 104
+DTSTART:20251207T154500Z
+SUMMARY:Wstęp do badań społecznych (ćwiczenia)
+UID:b44dca5b-9c91-4a43-9bec-5e48a31647a6@b44d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20251115T123000Z
+LOCATION:Paw.A 301b
+DTSTART:20251115T093000Z
+SUMMARY:Polityka zagraniczna (ćwiczenia)
+UID:1c5cbc41-44ba-4836-9724-23b8708b88ea@1c5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Górka
+DTEND:20251122T123000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20251122T093000Z
+SUMMARY:Wstęp do badań społecznych (ćwiczenia)
+UID:bf7f9f62-cb7e-4072-9cda-1d8eb12087d8@bf7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
+DTEND:20251221T151500Z
+LOCATION:Paw.F 715
+DTSTART:20251221T121500Z
+SUMMARY:Korporacje międzynarodowe i grupy kapitałowe (konwersatorium do wyboru)
+UID:6e6e2598-524f-4b23-bbb9-eedcfd78d4f3@6e6e.org
 END:VEVENT
 END:VCALENDAR
