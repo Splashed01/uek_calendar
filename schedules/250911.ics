@@ -2,51 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Marcin Paprocki
-DTEND:20251027T120000Z
-LOCATION:Paw.F 516
-DTSTART:20251027T103000Z
-SUMMARY:Grafika inżynierska (wykład)
-UID:5f393935-34e4-4428-925d-5e7435a30158@5f39.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Marcin Paprocki
-DTEND:20251208T120000Z
-DTSTART:20251208T103000Z
-SUMMARY:Grafika inżynierska (Przeniesienie zajęć)
-UID:b97eab14-648d-4611-95ca-68f914809847@b97e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Witko
-DTEND:20251009T143000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251009T130000Z
-SUMMARY:Grafika inżynierska (ćwiczenia)
-UID:c0ccea3d-2eb7-4a5d-9f2d-8bd797147fbd@c0cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20251209T194500Z
-LOCATION:208 paw.U (tylko Kat. Rach)
-DTSTART:20251209T173000Z
-SUMMARY:Statystyczna analiza danych (ćwiczenia)
-UID:6a9ec9f4-ac0d-47e2-855f-21c47ce734a3@6a9e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
-DTEND:20251017T073000Z
-LOCATION:Paw.F 516
-DTSTART:20251017T060000Z
-SUMMARY:Opakowalnictwo (wykład)
-UID:5f5d82ec-1e60-4bcb-a678-81761abe3ec4@5f5d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr inż. Lidia Ostasz
-DTEND:20260109T083000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21\, Paw.A 117 lab. Win10\, Office21
-DTSTART:20260109T070000Z
-SUMMARY:Właściwości chemiczne oraz wartość żywieniowa tłuszczów jadalnych (Wstępna rezerwacja)
-UID:de889f0b-9ae7-449a-96e2-119601d43a19@de88.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20251103T134500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20251103T121500Z
+SUMMARY:Rozwijanie kreatywności i twórcze rozwiązywanie problemów (wykład do wyboru)
+UID:81567fc1-4828-45f4-9dd0-833ec7973adb@8156.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Natalia Kozik-Kołodziej
@@ -54,805 +15,7 @@ DTEND:20251016T073000Z
 LOCATION:Paw.U sala S(Kat.Opak.)
 DTSTART:20251016T060000Z
 SUMMARY:Opakowalnictwo (laboratorium)
-UID:6cfa0918-9d43-4fc8-aaab-402bbc1c252a@6cfa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr inż. Lidia Ostasz
-DTEND:20251024T073000Z
-DTSTART:20251024T060000Z
-SUMMARY:Właściwości chemiczne oraz wartość żywieniowa tłuszczów jadalnych (wykład do wyboru zdalny)
-UID:33a53813-89e4-40a5-abb8-b6b440722ac0@33a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bernard Bińczycki
-DTEND:20260116T134500Z
-LOCATION:link do zajęć
-DTSTART:20260116T121500Z
-SUMMARY:Ergonomia produktu (wykład do wyboru zdalny)
-UID:f49899e0-9737-4707-91df-8c409cda8414@f498.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
-DTEND:20251124T100000Z
-LOCATION:Paw.S sala 4
-DTSTART:20251124T074500Z
-SUMMARY:Ocena jakości mikrobiologicznej produktów w badaniach laboratoryjnych (wykład do wyboru)
-UID:7284b3a0-255f-4984-afaf-ace665cff50f@7284.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Urszula Balon
-DTEND:20251020T143000Z
-LOCATION:Platforma Moodle
-DTSTART:20251020T130000Z
-SUMMARY:Ekonomiczne aspekty jakości produktu (wykład e-learningowy)
-UID:84c8818d-2b2c-4899-af13-9875a99d2709@84c8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
-DTEND:20251205T120000Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20251205T103000Z
-SUMMARY:Nowoczesne technologie w produkcji żywności (wykład do wyboru)
-UID:7cda6796-2e59-4080-8383-983087cfae34@7cda.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bernard Bińczycki
-DTEND:20260123T161500Z
-LOCATION:Paw.B 052 (KSB)
-DTSTART:20260123T144500Z
-SUMMARY:Ergonomia produktu (wykład do wyboru)
-UID:3e0cfea5-3b66-4787-a99c-f4ab62f05eaa@3e0c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Natalia Kozik-Kołodziej
-DTEND:20251106T083000Z
-LOCATION:Paw.U sala S(Kat.Opak.)
-DTSTART:20251106T070000Z
-SUMMARY:Opakowalnictwo (laboratorium)
-UID:2f515378-3fca-4443-b1a2-44fdfe348b80@2f51.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Urszula Balon
-DTEND:20251209T171500Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251209T154500Z
-SUMMARY:Ekonomiczne aspekty jakości produktu (ćwiczenia)
-UID:9ae0f1a7-6b55-4afb-9a91-ad3f9ef69670@9ae0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
-DTEND:20251027T134500Z
-LOCATION:Paw.F 516
-DTSTART:20251027T121500Z
-SUMMARY:Rozwijanie kreatywności i twórcze rozwiązywanie problemów (wykład do wyboru)
-UID:5daf8fea-5d3f-48fb-bfff-8890443ead48@5daf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
-DTEND:20251121T120000Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20251121T103000Z
-SUMMARY:Nowoczesne technologie w produkcji żywności (wykład do wyboru)
-UID:5daa20ad-654f-4a9e-bcf9-0a033e79c667@5daa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
-DTEND:20251002T110000Z
-LOCATION:Paw.F 516
-DTSTART:20251002T093000Z
-SUMMARY:Opakowalnictwo (wykład)
-UID:d8f796ea-0dbc-44d7-ae05-6585959d18fc@d8f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Urszula Balon
-DTEND:20260120T163000Z
-LOCATION:Platforma Moodle
-DTSTART:20260120T154500Z
-SUMMARY:Ekonomiczne aspekty jakości produktu (Ćwiczenia e-learningowe)
-UID:e053ffa5-5871-4f8b-b211-78675ca02b7b@e053.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bernard Bińczycki
-DTEND:20251219T153000Z
-LOCATION:Paw.C sala F
-DTSTART:20251219T140000Z
-SUMMARY:Ergonomia produktu (wykład do wyboru)
-UID:610cc885-85fb-45c9-97de-197d9bfcebb0@610c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Witko
-DTEND:20260115T153000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20260115T140000Z
-SUMMARY:Grafika inżynierska (ćwiczenia)
-UID:1b5661db-99af-45cb-b911-0cfd9395cbdf@1b56.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Witko
-DTEND:20260122T153000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20260122T144500Z
-SUMMARY:Grafika inżynierska (ćwiczenia)
-UID:e1160d56-b037-4985-9b15-4a309f57c2a2@e116.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Witko
-DTEND:20251106T153000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251106T140000Z
-SUMMARY:Grafika inżynierska (ćwiczenia)
-UID:22b77e23-642d-43a7-a4ca-63398e0530c2@22b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20251216T194500Z
-LOCATION:208 paw.U (tylko Kat. Rach)
-DTSTART:20251216T173000Z
-SUMMARY:Statystyczna analiza danych (ćwiczenia)
-UID:e4718a07-ab50-4efa-a77a-2cc1f9c915e0@e471.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bernard Bińczycki
-DTEND:20251024T124500Z
-LOCATION:Bibl.425
-DTSTART:20251024T111500Z
-SUMMARY:Ergonomia produktu (wykład do wyboru)
-UID:9a352390-1676-4b4f-867d-987664331b62@9a35.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bernard Bińczycki
-DTEND:20251010T124500Z
-LOCATION:Bibl.425
-DTSTART:20251010T111500Z
-SUMMARY:Ergonomia produktu (wykład do wyboru)
-UID:187ba973-d722-4a2b-af57-83161d17ce36@187b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
-DTEND:20251024T110000Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20251024T093000Z
-SUMMARY:Nowoczesne technologie w produkcji żywności (wykład do wyboru)
-UID:a0bda6b7-6e4f-4d82-a23f-5316c3a3b742@a0bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20251007T180000Z
-LOCATION:208 paw.U (tylko Kat. Rach)
-DTSTART:20251007T163000Z
-SUMMARY:Statystyczna analiza danych (ćwiczenia)
-UID:14e01db7-e1a9-4a18-8527-3c69ffaf79ca@14e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Urszula Balon
-DTEND:20251014T161500Z
-LOCATION:Paw.U sala M
-DTSTART:20251014T144500Z
-SUMMARY:Ekonomiczne aspekty jakości produktu (ćwiczenia)
-UID:c959a96b-320d-4421-b0a1-bc56497dd8db@c959.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
-DTEND:20251219T120000Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20251219T103000Z
-SUMMARY:Nowoczesne technologie w produkcji żywności (wykład do wyboru)
-UID:1e1f4ab3-7609-40e0-bfd5-ab4a725b13b9@1e1f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bernard Bińczycki
-DTEND:20251107T134500Z
-DTSTART:20251107T121500Z
-SUMMARY:Ergonomia produktu (Przeniesienie zajęć)
-UID:ef16921e-21d5-4969-9431-5924a16555ed@ef16.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Marcin Paprocki
-DTEND:20260119T111500Z
-LOCATION:Paw.F 516
-DTSTART:20260119T103000Z
-SUMMARY:Grafika inżynierska (wykład)
-UID:917bd845-b3c9-49f2-b614-13f770decf40@917b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bernard Bińczycki
-DTEND:20251121T170000Z
-LOCATION:Bibl. 440
-DTSTART:20251121T140000Z
-SUMMARY:Ergonomia produktu (wykład do wyboru)
-UID:664a76bf-6599-4ad9-aa68-5020eef38989@664a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
-DTEND:20251211T120000Z
-LOCATION:Paw.F 516
-DTSTART:20251211T103000Z
-SUMMARY:Opakowalnictwo (wykład)
-UID:699e2b89-b831-4f18-ba77-841bfd8462a3@699e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bernard Bińczycki
-DTEND:20251128T134500Z
-DTSTART:20251128T121500Z
-SUMMARY:Ergonomia produktu (Przeniesienie zajęć)
-UID:90ae41da-cf48-4442-ad84-81ac806e7a36@90ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
-DTEND:20251208T100000Z
-LOCATION:Paw.S sala 4
-DTSTART:20251208T074500Z
-SUMMARY:Ocena jakości mikrobiologicznej produktów w badaniach laboratoryjnych (wykład do wyboru)
-UID:2ac9b741-41ce-4589-b9df-d1f82bc706e7@2ac9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20251014T180000Z
-LOCATION:208 paw.U (tylko Kat. Rach)
-DTSTART:20251014T163000Z
-SUMMARY:Statystyczna analiza danych (ćwiczenia)
-UID:818da5a2-2e30-45cc-a6f7-5e22b01383e9@818d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Natalia Kozik-Kołodziej
-DTEND:20251204T083000Z
-LOCATION:Paw.U sala S(Kat.Opak.)
-DTSTART:20251204T070000Z
-SUMMARY:Opakowalnictwo (laboratorium)
-UID:3b388c04-0ebe-41b3-a795-aab68d905282@3b38.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20260113T194500Z
-LOCATION:208 paw.U (tylko Kat. Rach)
-DTSTART:20260113T173000Z
-SUMMARY:Statystyczna analiza danych (ćwiczenia)
-UID:e1285ccc-628b-4c5b-a8d9-44fc6cc0bc9e@e128.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Urszula Balon
-DTEND:20260113T171500Z
-LOCATION:Platforma Moodle
-DTSTART:20260113T154500Z
-SUMMARY:Ekonomiczne aspekty jakości produktu (Ćwiczenia e-learningowe)
-UID:29f1ebcb-ca7e-462a-81fd-347260ae15dc@29f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
-DTEND:20260122T111500Z
-LOCATION:Paw.F 516
-DTSTART:20260122T103000Z
-SUMMARY:Opakowalnictwo (wykład)
-UID:b319115a-7a3c-4db6-b817-3f20703c7606@b319.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
-DTEND:20251023T091500Z
-LOCATION:Paw.F 415
-DTSTART:20251023T074500Z
-SUMMARY:Wspomaganie procesów decyzyjnych (konwersatorium)
-UID:80ab4208-c76c-42e5-8a9a-c75708107009@80ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
-DTEND:20260112T074500Z
-LOCATION:208 paw.U (tylko Kat. Rach)
-DTSTART:20260112T070000Z
-SUMMARY:Rozwijanie kreatywności i twórcze rozwiązywanie problemów (wykład do wyboru)
-UID:86963180-323c-4d2b-9739-f4f13813954f@8696.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Urszula Balon
-DTEND:20251103T153000Z
-LOCATION:Platforma Moodle
-DTSTART:20251103T140000Z
-SUMMARY:Ekonomiczne aspekty jakości produktu (wykład e-learningowy)
-UID:9eecf95a-e3ff-4da0-aad0-40a55cddc5c0@9eec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Natalia Kozik-Kołodziej
-DTEND:20251030T083000Z
-LOCATION:Paw.U sala S(Kat.Opak.)
-DTSTART:20251030T070000Z
-SUMMARY:Opakowalnictwo (laboratorium)
-UID:703b9025-144f-4e10-8fb8-d8121dc2e7fd@703b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Marcin Paprocki
-DTEND:20251020T110000Z
-LOCATION:Paw.F 516
-DTSTART:20251020T093000Z
-SUMMARY:Grafika inżynierska (wykład)
-UID:7d689783-cbac-4795-9b0e-7c8681522617@7d68.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bernard Bińczycki
-DTEND:20260114T120000Z
-LOCATION:309  paw. U (tylko KatHZ)
-DTSTART:20260114T103000Z
-SUMMARY:Ergonomia produktu (wykład do wyboru)
-UID:4bbdaf65-e27f-482f-b243-79cb55e997a9@4bbd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr inż. Lidia Ostasz
-DTEND:20251003T110000Z
-LOCATION:Paw.G 12
-DTSTART:20251003T101500Z
-SUMMARY:Właściwości chemiczne oraz wartość żywieniowa tłuszczów jadalnych (wykład do wyboru)
-UID:1d3a6d0e-df93-4daf-9d82-798f78cbbd67@1d3a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr inż. Lidia Ostasz
-DTEND:20251103T120000Z
-LOCATION:Paw.C sala F
-DTSTART:20251103T103000Z
-SUMMARY:Właściwości chemiczne oraz wartość żywieniowa tłuszczów jadalnych (wykład do wyboru)
-UID:2cfe613f-96e9-4f2c-b621-b3b42de597b4@2cfe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Marcin Paprocki
-DTEND:20251217T120000Z
-LOCATION:Paw.B 054 (KSB)
-DTSTART:20251217T103000Z
-SUMMARY:Grafika inżynierska (wykład)
-UID:5e7093f6-d464-42b0-aafd-3366cf19e1ae@5e70.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Marcin Paprocki
-DTEND:20251222T120000Z
-LOCATION:Paw.F 516
-DTSTART:20251222T103000Z
-SUMMARY:Grafika inżynierska (wykład)
-UID:d6a71f36-8c87-4c9e-92a7-782a246e32d6@d6a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
-DTEND:20251117T100000Z
-LOCATION:Paw.S sala 4
-DTSTART:20251117T074500Z
-SUMMARY:Ocena jakości mikrobiologicznej produktów w badaniach laboratoryjnych (wykład do wyboru)
-UID:51f021e8-0800-4f6b-ac18-10a7be033ee5@51f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Witko
-DTEND:20251204T153000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251204T140000Z
-SUMMARY:Grafika inżynierska (ćwiczenia)
-UID:1ef95118-14b7-48e5-9249-55d5d9c7b6f7@1ef9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20260120T194500Z
-LOCATION:208 paw.U (tylko Kat. Rach)
-DTSTART:20260120T173000Z
-SUMMARY:Statystyczna analiza danych (ćwiczenia)
-UID:948e5569-cd6f-4427-a037-38e23d906cb7@948e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Urszula Balon
-DTEND:20251208T144500Z
-LOCATION:Platforma Moodle
-DTSTART:20251208T140000Z
-SUMMARY:Ekonomiczne aspekty jakości produktu (wykład e-learningowy)
-UID:1356a0da-8de6-461e-874d-33521b8cc968@1356.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Natalia Kozik-Kołodziej
-DTEND:20251002T073000Z
-LOCATION:Paw.U sala S(Kat.Opak.)
-DTSTART:20251002T060000Z
-SUMMARY:Opakowalnictwo (laboratorium)
-UID:d5653938-96c0-4365-b839-388da348a906@d565.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr inż. Lidia Ostasz
-DTEND:20251031T120000Z
-LOCATION:link do zajęć
-DTSTART:20251031T103000Z
-SUMMARY:Właściwości chemiczne oraz wartość żywieniowa tłuszczów jadalnych (wykład do wyboru)
-UID:1e7e6f5f-563e-4dd0-b174-9117e4f28cd8@1e7e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr inż. Lidia Ostasz
-DTEND:20251121T083000Z
-LOCATION:link do zajęć
-DTSTART:20251121T070000Z
-SUMMARY:Właściwości chemiczne oraz wartość żywieniowa tłuszczów jadalnych (wykład do wyboru zdalny)
-UID:6ea8a83c-284c-4b6f-af50-e0652ecff76b@6ea8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Natalia Kozik-Kołodziej
-DTEND:20260122T083000Z
-LOCATION:Paw.U sala S(Kat.Opak.)
-DTSTART:20260122T070000Z
-SUMMARY:Opakowalnictwo (laboratorium)
-UID:a3ed8a93-bea3-4a00-a334-ff5b246889b6@a3ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr inż. Lidia Ostasz
-DTEND:20251114T120000Z
-DTSTART:20251114T103000Z
-SUMMARY:Właściwości chemiczne oraz wartość żywieniowa tłuszczów jadalnych (Przeniesienie zajęć)
-UID:d7565747-1d44-437c-b6d4-5b842895b377@d756.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Natalia Kozik-Kołodziej
-DTEND:20260115T083000Z
-LOCATION:Paw.U sala S(Kat.Opak.)
-DTSTART:20260115T070000Z
-SUMMARY:Opakowalnictwo (laboratorium)
-UID:0a67c0e8-9f1c-41fb-b8ce-fa0206d7bb74@0a67.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
-DTEND:20251222T100000Z
-LOCATION:Paw.S sala 4
-DTSTART:20251222T074500Z
-SUMMARY:Ocena jakości mikrobiologicznej produktów w badaniach laboratoryjnych (wykład do wyboru)
-UID:e0c88281-20d6-4939-a807-eb211ccfaba1@e0c8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
-DTEND:20260122T101500Z
-LOCATION:Paw.U sala T (Kat. ZKL)
-DTSTART:20260122T093000Z
-SUMMARY:Wspomaganie procesów decyzyjnych (konwersatorium)
-UID:284b2f31-aef3-4436-afd8-4bd49ebbc701@284b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
-DTEND:20251103T100000Z
-LOCATION:Paw.S sala 4
-DTSTART:20251103T074500Z
-SUMMARY:Ocena jakości mikrobiologicznej produktów w badaniach laboratoryjnych (wykład do wyboru)
-UID:e1f04227-ea50-436a-830c-204497c86188@e1f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Urszula Balon
-DTEND:20251124T153000Z
-LOCATION:Paw.F 516
-DTSTART:20251124T140000Z
-SUMMARY:Ekonomiczne aspekty jakości produktu (wykład)
-UID:0828952c-4494-499f-911d-471c4fb3bc55@0828.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251217T134500Z
-DTSTART:20251217T121500Z
-SUMMARY: (rezerwacja)
-UID:c2c1980e-32ef-45b8-a52a-69225533c39a@c2c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bernard Bińczycki
-DTEND:20251003T124500Z
-LOCATION:Bibl.425
-DTSTART:20251003T111500Z
-SUMMARY:Ergonomia produktu (wykład do wyboru)
-UID:173775ad-e9ad-4e69-81b8-07ea1beb3356@1737.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bernard Bińczycki
-DTEND:20251212T134500Z
-DTSTART:20251212T121500Z
-SUMMARY:Ergonomia produktu (Przeniesienie zajęć)
-UID:ecf43108-3ff7-4766-a671-3f5feea5c1dc@ecf4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
-DTEND:20251020T124500Z
-LOCATION:Paw.F 516
-DTSTART:20251020T111500Z
-SUMMARY:Rozwijanie kreatywności i twórcze rozwiązywanie problemów (wykład do wyboru)
-UID:d69582ce-cb6e-4d7c-b414-27af6288a90f@d695.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bernard Bińczycki
-DTEND:20260123T134500Z
-LOCATION:Bibl.425
-DTSTART:20260123T121500Z
-SUMMARY:Ergonomia produktu (wykład do wyboru)
-UID:86553c32-5fe8-4c67-b47f-d959ab1d0f86@8655.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
-DTEND:20260115T101500Z
-LOCATION:Paw.F 613
-DTSTART:20260115T084500Z
-SUMMARY:Wspomaganie procesów decyzyjnych (konwersatorium)
-UID:b6ef8652-b2f3-4c75-bcc3-a51f7d05fc3c@b6ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
-DTEND:20251215T100000Z
-LOCATION:Paw.S sala 4
-DTSTART:20251215T074500Z
-SUMMARY:Ocena jakości mikrobiologicznej produktów w badaniach laboratoryjnych (wykład do wyboru)
-UID:46d0962c-e265-477e-bfbb-ea56963a82dc@46d0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Natalia Kozik-Kołodziej
-DTEND:20251120T083000Z
-LOCATION:Paw.U sala S(Kat.Opak.)
-DTSTART:20251120T070000Z
-SUMMARY:Opakowalnictwo (laboratorium)
-UID:aa745258-67ef-46af-a0f0-e202d0ec16fd@aa74.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bernard Bińczycki
-DTEND:20251219T134500Z
-LOCATION:Bibl.425
-DTSTART:20251219T121500Z
-SUMMARY:Ergonomia produktu (wykład do wyboru)
-UID:9243a0f2-d559-478a-bddb-6ea3c9787ab2@9243.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
-DTEND:20251222T134500Z
-LOCATION:Paw.F 516
-DTSTART:20251222T121500Z
-SUMMARY:Rozwijanie kreatywności i twórcze rozwiązywanie problemów (wykład do wyboru)
-UID:136abe0b-67ab-43bb-8c89-78bb3f5bbfbe@136a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
-DTEND:20251009T091500Z
-LOCATION:208 paw.U (tylko Kat. Rach)
-DTSTART:20251009T074500Z
-SUMMARY:Wspomaganie procesów decyzyjnych (konwersatorium)
-UID:e5cc0515-e521-444e-8aa7-b1f554f1d18c@e5cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
-DTEND:20251106T101500Z
-LOCATION:Paw.F 415
-DTSTART:20251106T084500Z
-SUMMARY:Wspomaganie procesów decyzyjnych (konwersatorium)
-UID:88a2580b-aaf9-4e4e-a8c5-a11a84df41b0@88a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Urszula Balon
-DTEND:20251216T171500Z
-LOCATION:Platforma Moodle
-DTSTART:20251216T154500Z
-SUMMARY:Ekonomiczne aspekty jakości produktu (Ćwiczenia e-learningowe)
-UID:37f85c53-f99c-481a-b1bd-86a8cfac6153@37f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Urszula Balon
-DTEND:20251201T153000Z
-LOCATION:Platforma Moodle
-DTSTART:20251201T140000Z
-SUMMARY:Ekonomiczne aspekty jakości produktu (wykład e-learningowy)
-UID:9dc8da27-70a7-4d20-9a7d-e3622b746ce2@9dc8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Natalia Kozik-Kołodziej
-DTEND:20251127T083000Z
-LOCATION:Paw.U sala S(Kat.Opak.)
-DTSTART:20251127T070000Z
-SUMMARY:Opakowalnictwo (laboratorium)
-UID:fc4d5440-ec7b-4eb7-b816-7cd563f32e7c@fc4d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
-DTEND:20251010T110000Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20251010T093000Z
-SUMMARY:Nowoczesne technologie w produkcji żywności (wykład do wyboru)
-UID:e242be4f-bb80-456a-9f4a-5f65c69620b5@e242.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bernard Bińczycki
-DTEND:20251114T134500Z
-DTSTART:20251114T121500Z
-SUMMARY:Ergonomia produktu (Przeniesienie zajęć)
-UID:dfda03e3-81c0-4f8f-806c-b73ba4a61bf2@dfda.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
-DTEND:20251201T134500Z
-LOCATION:Paw.B 058 (KSB)
-DTSTART:20251201T121500Z
-SUMMARY:Rozwijanie kreatywności i twórcze rozwiązywanie problemów (wykład do wyboru)
-UID:d4dcc5ef-f215-47e5-b8db-015d96edea8e@d4dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Urszula Balon
-DTEND:20251202T171500Z
-LOCATION:Platforma Moodle
-DTSTART:20251202T154500Z
-SUMMARY:Ekonomiczne aspekty jakości produktu (Ćwiczenia e-learningowe)
-UID:337f6bb6-483e-40c0-a1cb-916913b99aaf@337f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
-DTEND:20251208T134500Z
-LOCATION:Paw.F 516
-DTSTART:20251208T121500Z
-SUMMARY:Rozwijanie kreatywności i twórcze rozwiązywanie problemów (wykład do wyboru)
-UID:9266f63c-2ac7-49ee-b7f3-8f2a3d70c1b1@9266.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Natalia Kozik-Kołodziej
-DTEND:20251023T073000Z
-LOCATION:Paw.U sala S(Kat.Opak.)
-DTSTART:20251023T060000Z
-SUMMARY:Opakowalnictwo (laboratorium)
-UID:56506ca7-2559-4a8e-8afc-f81f93b888ec@5650.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20251021T180000Z
-LOCATION:208 paw.U (tylko Kat. Rach)
-DTSTART:20251021T163000Z
-SUMMARY:Statystyczna analiza danych (ćwiczenia)
-UID:329c3ec4-9d9a-4097-a9b1-c8b00a84c9b3@329c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251016T123000Z
-DTSTART:20251016T093000Z
-SUMMARY: (rezerwacja)
-UID:15d609e3-234a-4c0c-b5df-f5173a581b01@15d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Urszula Balon
-DTEND:20251117T153000Z
-LOCATION:Platforma Moodle
-DTSTART:20251117T140000Z
-SUMMARY:Ekonomiczne aspekty jakości produktu (wykład e-learningowy)
-UID:746e9494-1bc2-42aa-aa37-d000f3b6475d@746e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20251104T190000Z
-LOCATION:208 paw.U (tylko Kat. Rach)
-DTSTART:20251104T173000Z
-SUMMARY:Statystyczna analiza danych (ćwiczenia)
-UID:f18ef418-c449-47bb-b94a-8214680e363d@f18e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Natalia Kozik-Kołodziej
-DTEND:20251113T083000Z
-LOCATION:Paw.U sala S(Kat.Opak.)
-DTSTART:20251113T070000Z
-SUMMARY:Opakowalnictwo (laboratorium)
-UID:d4f45661-55df-4fd2-8ab8-fc1df9c65c20@d4f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bernard Bińczycki
-DTEND:20251121T134500Z
-DTSTART:20251121T121500Z
-SUMMARY:Ergonomia produktu (Przeniesienie zajęć)
-UID:9065e803-2b34-4e1d-aded-2e18fb78ef65@9065.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
-DTEND:20251204T101500Z
-LOCATION:Paw.F 415
-DTSTART:20251204T084500Z
-SUMMARY:Wspomaganie procesów decyzyjnych (konwersatorium)
-UID:55321e2c-c3cc-4c57-bc85-c371666f26ac@5532.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
-DTEND:20260112T100000Z
-LOCATION:Paw.S sala 4
-DTSTART:20260112T074500Z
-SUMMARY:Ocena jakości mikrobiologicznej produktów w badaniach laboratoryjnych (wykład do wyboru)
-UID:958dd326-83fc-4a9a-8fea-320ddbc4c75c@958d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Urszula Balon
-DTEND:20251027T153000Z
-LOCATION:Paw.F 516
-DTSTART:20251027T140000Z
-SUMMARY:Ekonomiczne aspekty jakości produktu (wykład)
-UID:475045c8-1daa-43e4-8cf8-5ac0cce5ce1e@4750.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bernard Bińczycki
-DTEND:20251205T153000Z
-DTSTART:20251205T140000Z
-SUMMARY:Ergonomia produktu (Przeniesienie zajęć)
-UID:323bc92e-df31-4de7-b202-b548c407ad7d@323b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Natalia Kozik-Kołodziej
-DTEND:20251211T083000Z
-LOCATION:Paw.U sala S(Kat.Opak.)
-DTSTART:20251211T070000Z
-SUMMARY:Opakowalnictwo (laboratorium)
-UID:962b3aec-3be3-444b-a612-6356584b60e4@962b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
-DTEND:20251120T101500Z
-LOCATION:Paw.F 415
-DTSTART:20251120T084500Z
-SUMMARY:Wspomaganie procesów decyzyjnych (konwersatorium)
-UID:3bd2c0a7-d1c3-4d10-af1d-c45b29eae57a@3bd2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr inż. Lidia Ostasz
-DTEND:20251017T110000Z
-LOCATION:Paw.G 12
-DTSTART:20251017T093000Z
-SUMMARY:Właściwości chemiczne oraz wartość żywieniowa tłuszczów jadalnych (wykład do wyboru)
-UID:35c2d30b-d967-4c4f-a55f-d5339bfd503c@35c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Natalia Kozik-Kołodziej
-DTEND:20251218T083000Z
-LOCATION:Paw.U sala S(Kat.Opak.)
-DTSTART:20251218T070000Z
-SUMMARY:Opakowalnictwo (laboratorium)
-UID:781cb39a-3633-4dae-beb4-2910a45e35f9@781c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
-DTEND:20251030T120000Z
-LOCATION:Paw.F 516
-DTSTART:20251030T103000Z
-SUMMARY:Opakowalnictwo (wykład)
-UID:7823451c-eb2e-4217-86b6-25d410ee0115@7823.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Witko
-DTEND:20251218T153000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251218T140000Z
-SUMMARY:Grafika inżynierska (ćwiczenia)
-UID:36849248-b976-451e-9581-e3c50ed331ce@3684.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bernard Bińczycki
-DTEND:20251031T134500Z
-LOCATION:link do zajęć
-DTSTART:20251031T121500Z
-SUMMARY:Ergonomia produktu (wykład do wyboru)
-UID:6f98a68b-284c-44ee-b0ea-4cba38ae7413@6f98.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20251118T190000Z
-LOCATION:208 paw.U (tylko Kat. Rach)
-DTSTART:20251118T173000Z
-SUMMARY:Statystyczna analiza danych (ćwiczenia)
-UID:80e90fab-fc00-49e2-9381-856e1b5962f2@80e9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
-DTEND:20260108T120000Z
-LOCATION:Paw.F 516
-DTSTART:20260108T103000Z
-SUMMARY:Opakowalnictwo (wykład)
-UID:4b87c4ec-5c23-4818-b554-70f3d51ddfb4@4b87.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
-DTEND:20251201T100000Z
-LOCATION:Paw.S sala 4
-DTSTART:20251201T074500Z
-SUMMARY:Ocena jakości mikrobiologicznej produktów w badaniach laboratoryjnych (wykład do wyboru)
-UID:eb28dc00-de7b-46ec-9c46-e2616106ab86@eb28.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Natalia Kozik-Kołodziej
-DTEND:20251009T073000Z
-LOCATION:Paw.U sala S(Kat.Opak.)
-DTSTART:20251009T060000Z
-SUMMARY:Opakowalnictwo (laboratorium)
-UID:75ce3f2b-31a2-4030-9a1d-450a08926c72@75ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Urszula Balon
-DTEND:20251013T143000Z
-LOCATION:Paw.F 516
-DTSTART:20251013T130000Z
-SUMMARY:Ekonomiczne aspekty jakości produktu (wykład)
-UID:2eb6db59-0551-4b3b-8f71-158b4504e67f@2eb6.org
+UID:41b574f2-73fb-4c24-a451-2588a3e59159@41b5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
@@ -860,174 +23,15 @@ DTEND:20260116T120000Z
 LOCATION:Paw.C  Nowa Aula
 DTSTART:20260116T103000Z
 SUMMARY:Nowoczesne technologie w produkcji żywności (wykład do wyboru)
-UID:562a8b6c-b45a-4cd8-96c7-d231ef548eaa@562a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr inż. Lidia Ostasz
-DTEND:20251117T120000Z
-LOCATION:Paw.F 413
-DTSTART:20251117T103000Z
-SUMMARY:Właściwości chemiczne oraz wartość żywieniowa tłuszczów jadalnych (wykład do wyboru)
-UID:17390bb7-dda7-4da5-90a4-be4727a2a33b@1739.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
-DTEND:20251107T120000Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20251107T103000Z
-SUMMARY:Nowoczesne technologie w produkcji żywności (wykład do wyboru)
-UID:63b85a86-e64d-483d-bdbd-f358e3ef3efd@63b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
-DTEND:20251124T134500Z
-LOCATION:Paw.F 516
-DTSTART:20251124T121500Z
-SUMMARY:Rozwijanie kreatywności i twórcze rozwiązywanie problemów (wykład do wyboru)
-UID:9a9b625a-aa71-4eb7-a572-32876345baf0@9a9b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20251028T190000Z
-LOCATION:208 paw.U (tylko Kat. Rach)
-DTSTART:20251028T173000Z
-SUMMARY:Statystyczna analiza danych (ćwiczenia)
-UID:31239c98-6faa-4f18-ba48-5a1b69930124@3123.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Marcin Paprocki
-DTEND:20251003T073000Z
-LOCATION:Paw.S sala 7
-DTSTART:20251003T060000Z
-SUMMARY:Grafika inżynierska (wykład)
-UID:a345800a-32ff-464e-b986-c76f82933ccb@a345.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
-DTEND:20251020T090000Z
-LOCATION:Paw.S sala 4
-DTSTART:20251020T064500Z
-SUMMARY:Ocena jakości mikrobiologicznej produktów w badaniach laboratoryjnych (wykład do wyboru)
-UID:4c747812-385d-423d-a28f-a354d674a075@4c74.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Marcin Paprocki
-DTEND:20251010T073000Z
-LOCATION:Paw.F 516
-DTSTART:20251010T060000Z
-SUMMARY:Grafika inżynierska (wykład)
-UID:230a05ed-57b2-414e-81f0-c0684f3973fd@230a.org
+UID:e3f4ac4f-491c-44c5-9dfc-61bb0f5af960@e3f4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Urszula Balon
-DTEND:20251125T171500Z
-LOCATION:Paw.U sala K
-DTSTART:20251125T154500Z
+DTEND:20251014T161500Z
+LOCATION:Paw.U sala M
+DTSTART:20251014T144500Z
 SUMMARY:Ekonomiczne aspekty jakości produktu (ćwiczenia)
-UID:e57beed8-1de4-475b-8d1f-e84509d80446@e57b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
-DTEND:20251027T100000Z
-LOCATION:Paw.S sala 4
-DTSTART:20251027T074500Z
-SUMMARY:Ocena jakości mikrobiologicznej produktów w badaniach laboratoryjnych (wykład do wyboru)
-UID:4d07dce1-90b5-496b-8b52-28157a9d7b5d@4d07.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20251125T194500Z
-LOCATION:208 paw.U (tylko Kat. Rach)
-DTSTART:20251125T173000Z
-SUMMARY:Statystyczna analiza danych (ćwiczenia)
-UID:3fd19616-9e5d-41d8-9622-280bcb99a017@3fd1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Natalia Kozik-Kołodziej
-DTEND:20260108T083000Z
-LOCATION:Paw.U sala S(Kat.Opak.)
-DTSTART:20260108T070000Z
-SUMMARY:Opakowalnictwo (laboratorium)
-UID:1766c30c-1aed-4e74-bead-9a38b7c08e29@1766.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
-DTEND:20251103T134500Z
-LOCATION:Paw.B 059 (KSB)
-DTSTART:20251103T121500Z
-SUMMARY:Rozwijanie kreatywności i twórcze rozwiązywanie problemów (wykład do wyboru)
-UID:862581e0-f39a-4673-b40a-f62bce866e8e@8625.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
-DTEND:20260123T083000Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20260123T074500Z
-SUMMARY:Nowoczesne technologie w produkcji żywności (wykład do wyboru)
-UID:6580badc-ad2e-4b8d-bbe9-d77f3e0ee332@6580.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Witko
-DTEND:20251120T153000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251120T140000Z
-SUMMARY:Grafika inżynierska (ćwiczenia)
-UID:e86bf55b-c656-42f3-b45f-53d2cd453c4c@e86b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bernard Bińczycki
-DTEND:20251205T134500Z
-DTSTART:20251205T121500Z
-SUMMARY:Ergonomia produktu (Przeniesienie zajęć)
-UID:35b1f23d-78c0-4187-91bc-b2545fffb1bf@35b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr inż. Lidia Ostasz
-DTEND:20260109T120000Z
-LOCATION:Paw.G 12
-DTSTART:20260109T103000Z
-SUMMARY:Właściwości chemiczne oraz wartość żywieniowa tłuszczów jadalnych (wykład do wyboru)
-UID:cbafb89f-ab57-41bf-aaf5-bf64064864a7@cbaf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Marcin Paprocki
-DTEND:20251124T120000Z
-LOCATION:Paw.F 516
-DTSTART:20251124T103000Z
-SUMMARY:Grafika inżynierska (wykład)
-UID:fe41090e-fba1-4e1b-9274-2a3fa5c70e5e@fe41.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
-DTEND:20251218T101500Z
-LOCATION:Paw.F 415
-DTSTART:20251218T084500Z
-SUMMARY:Wspomaganie procesów decyzyjnych (konwersatorium)
-UID:b8ee9405-26fd-4bf8-8039-4b5e6f0c3aec@b8ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Witko
-DTEND:20251023T143000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251023T130000Z
-SUMMARY:Grafika inżynierska (ćwiczenia)
-UID:0c3e2170-b9b2-43fe-b68a-a76962d0f2fe@0c3e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20251202T194500Z
-LOCATION:208 paw.U (tylko Kat. Rach)
-DTSTART:20251202T173000Z
-SUMMARY:Statystyczna analiza danych (ćwiczenia)
-UID:dfa1d4d0-07aa-4e86-9da4-43a128dee199@dfa1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bernard Bińczycki
-DTEND:20260114T101500Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20260114T084500Z
-SUMMARY:Ergonomia produktu (wykład do wyboru)
-UID:088da5c8-0c33-4303-a099-17d98e2d5f45@088d.org
+UID:cddf9279-f13c-4f42-8d4b-f55bdd68e7a0@cddf.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Bernard Bińczycki
@@ -1035,31 +39,330 @@ DTEND:20251017T124500Z
 LOCATION:Bibl.425
 DTSTART:20251017T111500Z
 SUMMARY:Ergonomia produktu (wykład do wyboru)
-UID:836ed691-97d6-4a3c-9dff-85136fc91e87@836e.org
+UID:ed0dd151-6636-4f49-ab4d-97b248c42efd@ed0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
+DTEND:20251120T101500Z
+LOCATION:Paw.F 415
+DTSTART:20251120T084500Z
+SUMMARY:Wspomaganie procesów decyzyjnych (konwersatorium)
+UID:43fdd4a6-6006-4d39-9c4b-2aa41b150309@43fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20251212T134500Z
+DTSTART:20251212T121500Z
+SUMMARY:Ergonomia produktu (Przeniesienie zajęć)
+UID:fc2ccf8a-850d-4308-bd5c-a18fa9d94fe2@fc2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20260112T100000Z
+LOCATION:Paw.S sala 4
+DTSTART:20260112T074500Z
+SUMMARY:Ocena jakości mikrobiologicznej produktów w badaniach laboratoryjnych (wykład do wyboru)
+UID:6e77cb21-2883-41f1-ba9d-70a91c348353@6e77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik-Kołodziej
+DTEND:20251120T083000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20251120T070000Z
+SUMMARY:Opakowalnictwo (laboratorium)
+UID:76a87619-b8b3-4b60-aef3-486325440dde@76a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20251010T073000Z
+LOCATION:Paw.F 516
+DTSTART:20251010T060000Z
+SUMMARY:Grafika inżynierska (wykład)
+UID:0c48a4e5-9e93-403b-bf28-ffd9884bea5f@0c48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
+DTEND:20251204T101500Z
+LOCATION:Paw.F 415
+DTSTART:20251204T084500Z
+SUMMARY:Wspomaganie procesów decyzyjnych (konwersatorium)
+UID:00d3679b-ae2e-447d-a916-f44f2eee4f02@00d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20251124T134500Z
+LOCATION:Paw.F 516
+DTSTART:20251124T121500Z
+SUMMARY:Rozwijanie kreatywności i twórcze rozwiązywanie problemów (wykład do wyboru)
+UID:5e1f07f2-8916-411f-9103-24fc12612464@5e1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20251208T120000Z
+DTSTART:20251208T103000Z
+SUMMARY:Grafika inżynierska (Przeniesienie zajęć)
+UID:0331c448-b323-4b75-812e-4a6e30ccdc01@0331.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Urszula Balon
-DTEND:20251028T171500Z
+DTEND:20260120T163000Z
 LOCATION:Platforma Moodle
-DTSTART:20251028T154500Z
+DTSTART:20260120T154500Z
 SUMMARY:Ekonomiczne aspekty jakości produktu (Ćwiczenia e-learningowe)
-UID:07225b48-458e-4de1-86b3-b6ee60e681dd@0722.org
+UID:fe39ec51-ccc8-4c68-8cb2-ffe9d4bd2503@fe39.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
-DTEND:20251127T120000Z
+DTEND:20251017T073000Z
 LOCATION:Paw.F 516
-DTSTART:20251127T103000Z
+DTSTART:20251017T060000Z
 SUMMARY:Opakowalnictwo (wykład)
-UID:f1931778-2b5b-43ba-a6b0-25d93afef0a8@f193.org
+UID:7d7bfad3-c705-4898-bb0c-f681f70ef101@7d7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik-Kołodziej
+DTEND:20260108T083000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20260108T070000Z
+SUMMARY:Opakowalnictwo (laboratorium)
+UID:d9fcc178-cd7a-4543-8fb8-ba8444b08de3@d9fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
+DTEND:20260123T083000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20260123T074500Z
+SUMMARY:Nowoczesne technologie w produkcji żywności (wykład do wyboru)
+UID:7e36dfd3-cd16-4dd2-b5e7-d80bbf25a895@7e36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20251216T171500Z
+LOCATION:Platforma Moodle
+DTSTART:20251216T154500Z
+SUMMARY:Ekonomiczne aspekty jakości produktu (Ćwiczenia e-learningowe)
+UID:0a47c98c-fbe7-443b-be8b-dd458283b3fa@0a47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20251218T153000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20251218T140000Z
+SUMMARY:Grafika inżynierska (ćwiczenia)
+UID:ab5f9828-b5a3-48fe-ace5-3b8e1d6a33dc@ab5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20251128T134500Z
+DTSTART:20251128T121500Z
+SUMMARY:Ergonomia produktu (Przeniesienie zajęć)
+UID:0a8d4e0e-6ab5-4db6-b126-8fe781e514e7@0a8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20251202T171500Z
+LOCATION:Platforma Moodle
+DTSTART:20251202T154500Z
+SUMMARY:Ekonomiczne aspekty jakości produktu (Ćwiczenia e-learningowe)
+UID:776fe83d-93a4-485a-8159-bb6f50ba81af@776f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik-Kołodziej
+DTEND:20251127T083000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20251127T070000Z
+SUMMARY:Opakowalnictwo (laboratorium)
+UID:d55d499f-a974-4b7c-8b94-321e63636e39@d55d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20260113T100000Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20260113T074500Z
+SUMMARY:Ocena jakości mikrobiologicznej produktów w badaniach laboratoryjnych (wykład do wyboru)
+UID:76a672ed-bdfd-4252-8ea4-a53e77567484@76a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20251222T134500Z
+LOCATION:Paw.F 516
+DTSTART:20251222T121500Z
+SUMMARY:Rozwijanie kreatywności i twórcze rozwiązywanie problemów (wykład do wyboru)
+UID:bedd1107-bd30-4cba-85d1-990ac9efa9a9@bedd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20251124T153000Z
+LOCATION:Paw.F 516
+DTSTART:20251124T140000Z
+SUMMARY:Ekonomiczne aspekty jakości produktu (wykład)
+UID:9422288e-6b2f-4102-ba9e-76ee9709ea58@9422.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20251007T180000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20251007T163000Z
+SUMMARY:Statystyczna analiza danych (ćwiczenia)
+UID:65df475a-329a-484b-9b37-d5179887e769@65df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Lidia Ostasz
+DTEND:20251117T120000Z
+LOCATION:Paw.F 413
+DTSTART:20251117T103000Z
+SUMMARY:Właściwości chemiczne oraz wartość żywieniowa tłuszczów jadalnych (wykład do wyboru)
+UID:31467bb2-ea03-406b-9d77-ac066bcfdb35@3146.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20251014T180000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20251014T163000Z
+SUMMARY:Statystyczna analiza danych (ćwiczenia)
+UID:fd9abc53-5b67-4320-aaf6-1d1f212a9f7a@fd9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20251209T171500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20251209T154500Z
+SUMMARY:Ekonomiczne aspekty jakości produktu (ćwiczenia)
+UID:c70c6b3d-e8d8-4f0e-872b-b23620fb51b8@c70c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20251003T124500Z
+LOCATION:Bibl.425
+DTSTART:20251003T111500Z
+SUMMARY:Ergonomia produktu (wykład do wyboru)
+UID:ce678c3a-65fe-4096-a21b-9668bd7000ad@ce67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik-Kołodziej
+DTEND:20260122T083000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20260122T070000Z
+SUMMARY:Opakowalnictwo (laboratorium)
+UID:983b7b4d-5bb4-456f-8e39-eb441d43b3a1@983b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20251124T120000Z
+LOCATION:Paw.F 516
+DTSTART:20251124T103000Z
+SUMMARY:Grafika inżynierska (wykład)
+UID:e343958c-9ee8-4052-9d34-3dec4a9e9af3@e343.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20251009T143000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20251009T130000Z
+SUMMARY:Grafika inżynierska (ćwiczenia)
+UID:003cb877-6e0e-44c0-8cfa-3bb2a4a4a166@003c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20251021T180000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20251021T163000Z
+SUMMARY:Statystyczna analiza danych (ćwiczenia)
+UID:260ed50d-2e6a-4ef6-b56b-605f9ce48bc7@260e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20260113T194500Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20260113T173000Z
+SUMMARY:Statystyczna analiza danych (ćwiczenia)
+UID:c792d126-056d-4161-aaf3-81640c9bfd3b@c792.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20251208T100000Z
+LOCATION:Paw.S sala 4
+DTSTART:20251208T074500Z
+SUMMARY:Ocena jakości mikrobiologicznej produktów w badaniach laboratoryjnych (wykład do wyboru)
+UID:bec7cedd-e718-41c9-802d-703b196f64b2@bec7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20251028T190000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20251028T173000Z
+SUMMARY:Statystyczna analiza danych (ćwiczenia)
+UID:47d357cf-ded2-4ff2-84a6-73c7cf0ee398@47d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20251208T144500Z
+LOCATION:Platforma Moodle
+DTSTART:20251208T140000Z
+SUMMARY:Ekonomiczne aspekty jakości produktu (wykład e-learningowy)
+UID:0ce40234-94eb-42c8-b352-6e7540ccb5f6@0ce4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20251205T134500Z
+DTSTART:20251205T121500Z
+SUMMARY:Ergonomia produktu (Przeniesienie zajęć)
+UID:6dca4b1d-b5e2-48d4-ad04-301d0919fe30@6dca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20251027T153000Z
+LOCATION:Paw.F 516
+DTSTART:20251027T140000Z
+SUMMARY:Ekonomiczne aspekty jakości produktu (wykład)
+UID:b4ed8425-4735-48a6-b2f2-d077f879b085@b4ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20251125T194500Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20251125T173000Z
+SUMMARY:Statystyczna analiza danych (ćwiczenia)
+UID:21e2832c-c0b3-41cb-ab3a-c22d237aeae0@21e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Lidia Ostasz
+DTEND:20251003T110000Z
+LOCATION:Paw.G 12
+DTSTART:20251003T101500Z
+SUMMARY:Właściwości chemiczne oraz wartość żywieniowa tłuszczów jadalnych (wykład do wyboru)
+UID:9650816e-4ef2-4939-8b25-7568b06bb9e9@9650.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20251217T120000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20251217T103000Z
+SUMMARY:Grafika inżynierska (wykład)
+UID:9122b335-33a1-40b5-85d9-b22e68fd4888@9122.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
-DTEND:20251113T120000Z
+DTEND:20251211T120000Z
 LOCATION:Paw.F 516
-DTSTART:20251113T103000Z
+DTSTART:20251211T103000Z
 SUMMARY:Opakowalnictwo (wykład)
-UID:15f6d9fb-5383-4832-9148-4d90da5b7a89@15f6.org
+UID:a91bef3d-995e-443e-99c0-d122c1e8aeca@a91b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20251222T100000Z
+DTSTART:20251222T074500Z
+SUMMARY:Ocena jakości mikrobiologicznej produktów w badaniach laboratoryjnych (Przeniesienie zajęć)
+UID:6a4b61d0-cfd2-48f5-8d17-23a9a2ce98ef@6a4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20251216T194500Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20251216T173000Z
+SUMMARY:Statystyczna analiza danych (ćwiczenia)
+UID:b2cc6d95-f178-4c0a-b920-46d646b9d457@b2cc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Bernard Bińczycki
@@ -1067,6 +370,709 @@ DTEND:20260109T134500Z
 LOCATION:link do zajęć
 DTSTART:20260109T121500Z
 SUMMARY:Ergonomia produktu (wykład do wyboru zdalny)
-UID:55f8b0c3-ffdf-405e-8995-5f3128c09e94@55f8.org
+UID:55e6334d-c3bd-4087-a3c9-cdb1a1f7bdfd@55e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20251028T171500Z
+LOCATION:Platforma Moodle
+DTSTART:20251028T154500Z
+SUMMARY:Ekonomiczne aspekty jakości produktu (Ćwiczenia e-learningowe)
+UID:341be30b-42c5-4437-bf6a-881e58376f82@341b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik-Kołodziej
+DTEND:20251204T083000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20251204T070000Z
+SUMMARY:Opakowalnictwo (laboratorium)
+UID:cbf0ef04-6bd7-4a43-b9a5-b6b1d5e59195@cbf0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
+DTEND:20260122T101500Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20260122T093000Z
+SUMMARY:Wspomaganie procesów decyzyjnych (konwersatorium)
+UID:a2e99067-2000-411f-892c-f581b0fe0c7a@a2e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20260115T153000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20260115T140000Z
+SUMMARY:Grafika inżynierska (ćwiczenia)
+UID:84ce2250-cfba-4246-9c80-d336f92a206d@84ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20251120T153000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20251120T140000Z
+SUMMARY:Grafika inżynierska (ćwiczenia)
+UID:f22ffcfa-509a-4292-ac1e-8bb2dd2f13e9@f22f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20260114T120000Z
+LOCATION:309  paw. U (tylko KatHZ)
+DTSTART:20260114T103000Z
+SUMMARY:Ergonomia produktu (wykład do wyboru)
+UID:ca2aada5-f948-4b56-8abf-4149a34e8c7f@ca2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik-Kołodziej
+DTEND:20251002T073000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20251002T060000Z
+SUMMARY:Opakowalnictwo (laboratorium)
+UID:47d0d4f7-a898-4fcb-bbe5-2105ef668e46@47d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20260122T111500Z
+LOCATION:Paw.F 516
+DTSTART:20260122T103000Z
+SUMMARY:Opakowalnictwo (wykład)
+UID:de8ecd97-3938-4b87-a914-b8d92122bd5c@de8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik-Kołodziej
+DTEND:20251023T073000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20251023T060000Z
+SUMMARY:Opakowalnictwo (laboratorium)
+UID:1aa1b2b2-ae3b-4e4d-a012-154b8aeb5ce1@1aa1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20251117T100000Z
+LOCATION:Paw.S sala 4
+DTSTART:20251117T074500Z
+SUMMARY:Ocena jakości mikrobiologicznej produktów w badaniach laboratoryjnych (wykład do wyboru)
+UID:e3e8bf46-90f0-43c0-afda-05c3dede2d55@e3e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20251222T120000Z
+LOCATION:Paw.F 516
+DTSTART:20251222T103000Z
+SUMMARY:Grafika inżynierska (wykład)
+UID:ffd28a94-a5f1-4e90-8812-cbb8c36c8930@ffd2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20251031T134500Z
+LOCATION:link do zajęć
+DTSTART:20251031T121500Z
+SUMMARY:Ergonomia produktu (wykład do wyboru)
+UID:8e71b99e-3837-4301-805c-726c4ea4205a@8e71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20251113T120000Z
+LOCATION:Paw.F 516
+DTSTART:20251113T103000Z
+SUMMARY:Opakowalnictwo (wykład)
+UID:2c66e19a-2cae-4e82-b5ff-4491c9cbe33f@2c66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20251219T134500Z
+LOCATION:Bibl.425
+DTSTART:20251219T121500Z
+SUMMARY:Ergonomia produktu (wykład do wyboru)
+UID:2fcdd9ac-13e4-4bbb-a0fd-39dcc31baf07@2fcd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20251114T134500Z
+DTSTART:20251114T121500Z
+SUMMARY:Ergonomia produktu (Przeniesienie zajęć)
+UID:018022bf-7639-4d5d-860a-8310edf6349e@0180.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
+DTEND:20251219T120000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20251219T103000Z
+SUMMARY:Nowoczesne technologie w produkcji żywności (wykład do wyboru)
+UID:fdc498d9-af11-4430-ac83-629f27bc0efd@fdc4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik-Kołodziej
+DTEND:20251009T073000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20251009T060000Z
+SUMMARY:Opakowalnictwo (laboratorium)
+UID:8c5fc73f-dda6-48f4-9b0b-0a4db171d167@8c5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20251208T134500Z
+LOCATION:Paw.F 516
+DTSTART:20251208T121500Z
+SUMMARY:Rozwijanie kreatywności i twórcze rozwiązywanie problemów (wykład do wyboru)
+UID:8fc0a7fb-0b92-4bb2-a904-02f4104ae3a6@8fc0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20260123T161500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20260123T144500Z
+SUMMARY:Ergonomia produktu (wykład do wyboru)
+UID:1e018c37-801c-4948-8d85-c9f4e2dc4b41@1e01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20251201T100000Z
+LOCATION:Paw.S sala 4
+DTSTART:20251201T074500Z
+SUMMARY:Ocena jakości mikrobiologicznej produktów w badaniach laboratoryjnych (wykład do wyboru)
+UID:7b299e85-87d5-48ea-b0cd-46f4873bea39@7b29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
+DTEND:20251010T110000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20251010T093000Z
+SUMMARY:Nowoczesne technologie w produkcji żywności (wykład do wyboru)
+UID:0203dfb2-c49a-4b7b-8703-e84bee061511@0203.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20251027T134500Z
+LOCATION:Paw.F 516
+DTSTART:20251027T121500Z
+SUMMARY:Rozwijanie kreatywności i twórcze rozwiązywanie problemów (wykład do wyboru)
+UID:5aa4ab21-7f22-4d67-bf70-a4bcab0d7ea6@5aa4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik-Kołodziej
+DTEND:20251218T083000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20251218T070000Z
+SUMMARY:Opakowalnictwo (laboratorium)
+UID:1e653478-a022-43be-86d2-02dc617f11e7@1e65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20251020T124500Z
+LOCATION:Paw.F 516
+DTSTART:20251020T111500Z
+SUMMARY:Rozwijanie kreatywności i twórcze rozwiązywanie problemów (wykład do wyboru)
+UID:a29670a6-759e-4b2a-9682-5d603d78ac9b@a296.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20251204T153000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20251204T140000Z
+SUMMARY:Grafika inżynierska (ćwiczenia)
+UID:17119895-22ee-43b5-af66-8135bbb762b8@1711.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20251106T153000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20251106T140000Z
+SUMMARY:Grafika inżynierska (ćwiczenia)
+UID:f3e06af6-3307-4884-b358-f5cb1b5f85e7@f3e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
+DTEND:20251121T120000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20251121T103000Z
+SUMMARY:Nowoczesne technologie w produkcji żywności (wykład do wyboru)
+UID:32d32427-a2c5-4c44-ac7d-02fc9fab16a1@32d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Lidia Ostasz
+DTEND:20251121T083000Z
+LOCATION:link do zajęć
+DTSTART:20251121T070000Z
+SUMMARY:Właściwości chemiczne oraz wartość żywieniowa tłuszczów jadalnych (wykład do wyboru zdalny)
+UID:9e28c45e-344a-418c-b7fb-454e4776d795@9e28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Lidia Ostasz
+DTEND:20260109T120000Z
+LOCATION:Paw.G 12
+DTSTART:20260109T103000Z
+SUMMARY:Właściwości chemiczne oraz wartość żywieniowa tłuszczów jadalnych (wykład do wyboru)
+UID:04786502-e536-4f6d-9ce3-e9dd742f16ba@0478.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20251027T100000Z
+LOCATION:Paw.S sala 4
+DTSTART:20251027T074500Z
+SUMMARY:Ocena jakości mikrobiologicznej produktów w badaniach laboratoryjnych (wykład do wyboru)
+UID:fedc8d40-0f60-4a78-a725-090df72f50e6@fedc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20251027T120000Z
+LOCATION:Paw.F 516
+DTSTART:20251027T103000Z
+SUMMARY:Grafika inżynierska (wykład)
+UID:bd4d27d2-6bac-4599-9360-c9ef06316861@bd4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20251107T134500Z
+DTSTART:20251107T121500Z
+SUMMARY:Ergonomia produktu (Przeniesienie zajęć)
+UID:025ab08b-a2e6-4101-9723-1528350da532@025a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
+DTEND:20251024T110000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20251024T093000Z
+SUMMARY:Nowoczesne technologie w produkcji żywności (wykład do wyboru)
+UID:e5f2ceda-ebe6-480b-9f12-fefc69a75fb8@e5f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20251030T120000Z
+LOCATION:Paw.F 516
+DTSTART:20251030T103000Z
+SUMMARY:Opakowalnictwo (wykład)
+UID:dcc815e9-a311-4c16-ae9b-ee5434ce5b65@dcc8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20251020T090000Z
+LOCATION:Paw.S sala 4
+DTSTART:20251020T064500Z
+SUMMARY:Ocena jakości mikrobiologicznej produktów w badaniach laboratoryjnych (wykład do wyboru)
+UID:78a6b2f2-8ec0-4d48-9dcb-d76f441d4146@78a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20260113T171500Z
+LOCATION:Platforma Moodle
+DTSTART:20260113T154500Z
+SUMMARY:Ekonomiczne aspekty jakości produktu (Ćwiczenia e-learningowe)
+UID:d793369a-880f-49db-b583-a3b5bc4ebc45@d793.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20251020T110000Z
+LOCATION:Paw.F 516
+DTSTART:20251020T093000Z
+SUMMARY:Grafika inżynierska (wykład)
+UID:bbfb57ac-1b42-455e-a75d-01efbd8bab00@bbfb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20251202T194500Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20251202T173000Z
+SUMMARY:Statystyczna analiza danych (ćwiczenia)
+UID:e633ad1e-dd8e-4a80-8044-b2f54e59882f@e633.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik-Kołodziej
+DTEND:20251211T083000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20251211T070000Z
+SUMMARY:Opakowalnictwo (laboratorium)
+UID:2b02ccc8-6008-4203-904c-ce4d26e8f6c4@2b02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20251003T073000Z
+LOCATION:Paw.S sala 7
+DTSTART:20251003T060000Z
+SUMMARY:Grafika inżynierska (wykład)
+UID:e883d059-dc4e-4eed-ae68-5b7ad07e859e@e883.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Lidia Ostasz
+DTEND:20251114T120000Z
+DTSTART:20251114T103000Z
+SUMMARY:Właściwości chemiczne oraz wartość żywieniowa tłuszczów jadalnych (Przeniesienie zajęć)
+UID:ca67b061-336b-4e28-9d0f-2ca853c37969@ca67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20260122T153000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20260122T144500Z
+SUMMARY:Grafika inżynierska (ćwiczenia)
+UID:6b9d915f-1dd8-47ee-b48a-3965da782403@6b9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
+DTEND:20251218T101500Z
+LOCATION:Paw.F 415
+DTSTART:20251218T084500Z
+SUMMARY:Wspomaganie procesów decyzyjnych (konwersatorium)
+UID:958d076c-5a0a-459a-81a7-b34d9f7687db@958d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20260116T134500Z
+LOCATION:link do zajęć
+DTSTART:20260116T121500Z
+SUMMARY:Ergonomia produktu (wykład do wyboru zdalny)
+UID:246b52b0-71ab-4da5-b3a3-e46f8c100f1f@246b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
+DTEND:20251009T091500Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20251009T074500Z
+SUMMARY:Wspomaganie procesów decyzyjnych (konwersatorium)
+UID:acf85070-12e6-4147-a0dc-f34f17d018e7@acf8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20251103T100000Z
+LOCATION:Paw.S sala 4
+DTSTART:20251103T074500Z
+SUMMARY:Ocena jakości mikrobiologicznej produktów w badaniach laboratoryjnych (wykład do wyboru)
+UID:e8d7a371-f2d9-45b6-8424-d182112c27a5@e8d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Lidia Ostasz
+DTEND:20260109T083000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21\, Paw.A 117 lab. Win10\, Office21
+DTSTART:20260109T070000Z
+SUMMARY:Właściwości chemiczne oraz wartość żywieniowa tłuszczów jadalnych (Wstępna rezerwacja)
+UID:35ef1af1-d9c2-4703-94f2-7aec138c7f5c@35ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik-Kołodziej
+DTEND:20260115T083000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20260115T070000Z
+SUMMARY:Opakowalnictwo (laboratorium)
+UID:c12009d4-a5bc-438f-8fce-590d9e9f951e@c120.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20251023T143000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20251023T130000Z
+SUMMARY:Grafika inżynierska (ćwiczenia)
+UID:30cccbad-b510-4139-926b-c62720fff2c9@30cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20251121T170000Z
+LOCATION:Bibl. 440
+DTSTART:20251121T140000Z
+SUMMARY:Ergonomia produktu (wykład do wyboru)
+UID:9de633dd-1063-46c1-b357-be33f95b2433@9de6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20251125T171500Z
+LOCATION:Paw.U sala K
+DTSTART:20251125T154500Z
+SUMMARY:Ekonomiczne aspekty jakości produktu (ćwiczenia)
+UID:34127937-95ca-41a9-9f10-ac10d1cafc69@3412.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Lidia Ostasz
+DTEND:20251031T120000Z
+LOCATION:link do zajęć
+DTSTART:20251031T103000Z
+SUMMARY:Właściwości chemiczne oraz wartość żywieniowa tłuszczów jadalnych (wykład do wyboru)
+UID:48a06546-0c44-4665-b2e6-1ee48fb6dbf2@48a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20251209T194500Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20251209T173000Z
+SUMMARY:Statystyczna analiza danych (ćwiczenia)
+UID:6c280ded-00bb-4ed6-b675-42de56e9904a@6c28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
+DTEND:20251106T101500Z
+LOCATION:Paw.F 415
+DTSTART:20251106T084500Z
+SUMMARY:Wspomaganie procesów decyzyjnych (konwersatorium)
+UID:86bceec2-38b3-43f4-ad07-a984244fc3e9@86bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20251013T143000Z
+LOCATION:Paw.F 516
+DTSTART:20251013T130000Z
+SUMMARY:Ekonomiczne aspekty jakości produktu (wykład)
+UID:64f04a40-4551-4006-82be-88f410fe58e4@64f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Lidia Ostasz
+DTEND:20251024T073000Z
+DTSTART:20251024T060000Z
+SUMMARY:Właściwości chemiczne oraz wartość żywieniowa tłuszczów jadalnych (wykład do wyboru zdalny)
+UID:120c817f-7301-496a-9aa7-45cea8a5dbc5@120c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20251127T120000Z
+LOCATION:Paw.F 516
+DTSTART:20251127T103000Z
+SUMMARY:Opakowalnictwo (wykład)
+UID:260f7e8d-66f1-4c2a-9c31-0af378210caf@260f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik-Kołodziej
+DTEND:20251106T083000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20251106T070000Z
+SUMMARY:Opakowalnictwo (laboratorium)
+UID:d37a511b-13c0-403e-b55b-9710d8c28f03@d37a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20251205T153000Z
+DTSTART:20251205T140000Z
+SUMMARY:Ergonomia produktu (Przeniesienie zajęć)
+UID:2109478b-99dc-4705-8cf8-642bec237644@2109.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20251215T100000Z
+LOCATION:Paw.S sala 4
+DTSTART:20251215T074500Z
+SUMMARY:Ocena jakości mikrobiologicznej produktów w badaniach laboratoryjnych (wykład do wyboru)
+UID:22b27e80-b1f6-48e1-a4b9-68aa87039f9b@22b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20260123T134500Z
+LOCATION:Bibl.425
+DTSTART:20260123T121500Z
+SUMMARY:Ergonomia produktu (wykład do wyboru)
+UID:f02223b9-f1e8-441a-8995-290e1f1a1f96@f022.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
+DTEND:20260115T101500Z
+LOCATION:Paw.F 613
+DTSTART:20260115T084500Z
+SUMMARY:Wspomaganie procesów decyzyjnych (konwersatorium)
+UID:326a8d23-d80a-461e-80d7-3d98914566f6@326a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20251124T100000Z
+LOCATION:Paw.S sala 4
+DTSTART:20251124T074500Z
+SUMMARY:Ocena jakości mikrobiologicznej produktów w badaniach laboratoryjnych (wykład do wyboru)
+UID:3b5287a9-5bdd-4a36-8a7b-ba663c74ed0e@3b52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20251219T153000Z
+LOCATION:Paw.C sala F
+DTSTART:20251219T140000Z
+SUMMARY:Ergonomia produktu (wykład do wyboru)
+UID:1970f367-94ec-4711-b298-591c0b927a27@1970.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
+DTEND:20251107T120000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20251107T103000Z
+SUMMARY:Nowoczesne technologie w produkcji żywności (wykład do wyboru)
+UID:6dfb780e-0db8-49fc-9c8f-703a48f0ad23@6dfb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20251117T153000Z
+LOCATION:Platforma Moodle
+DTSTART:20251117T140000Z
+SUMMARY:Ekonomiczne aspekty jakości produktu (wykład e-learningowy)
+UID:7c1b0019-fe52-417d-ad37-dd03b0744153@7c1b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20251118T190000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20251118T173000Z
+SUMMARY:Statystyczna analiza danych (ćwiczenia)
+UID:5386c9e7-b86a-4629-a774-b02bb61d7f1d@5386.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20251103T153000Z
+LOCATION:Platforma Moodle
+DTSTART:20251103T140000Z
+SUMMARY:Ekonomiczne aspekty jakości produktu (wykład e-learningowy)
+UID:c08fbbcf-58e2-44b9-a623-d7612816a1e3@c08f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20260120T194500Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20260120T173000Z
+SUMMARY:Statystyczna analiza danych (ćwiczenia)
+UID:05d39d1e-c01a-4362-872c-47ee06f34fbd@05d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20251002T110000Z
+LOCATION:Paw.F 516
+DTSTART:20251002T093000Z
+SUMMARY:Opakowalnictwo (wykład)
+UID:3a363661-7ba8-42a0-a953-47424345c918@3a36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik-Kołodziej
+DTEND:20251113T083000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20251113T070000Z
+SUMMARY:Opakowalnictwo (laboratorium)
+UID:6d84ed2a-f476-43c9-be6f-fe1ae4e4f7d4@6d84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20251024T124500Z
+LOCATION:Bibl.425
+DTSTART:20251024T111500Z
+SUMMARY:Ergonomia produktu (wykład do wyboru)
+UID:32c743e5-d891-4633-b8f9-789298d122d4@32c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20251121T134500Z
+DTSTART:20251121T121500Z
+SUMMARY:Ergonomia produktu (Przeniesienie zajęć)
+UID:c87cf177-b060-4f8e-880f-b34534ec0933@c87c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
+DTEND:20251205T120000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20251205T103000Z
+SUMMARY:Nowoczesne technologie w produkcji żywności (wykład do wyboru)
+UID:f63818d3-e1f3-472b-ae70-4eb390be73d8@f638.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
+DTEND:20251023T091500Z
+LOCATION:Paw.F 415
+DTSTART:20251023T074500Z
+SUMMARY:Wspomaganie procesów decyzyjnych (konwersatorium)
+UID:a36a40fd-9bf5-46f7-998e-37d9d95916e4@a36a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251016T123000Z
+DTSTART:20251016T093000Z
+SUMMARY: (rezerwacja)
+UID:60f424d8-8e3d-4b0f-af84-c2d9a830d6e2@60f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20251201T134500Z
+DTSTART:20251201T121500Z
+SUMMARY:Rozwijanie kreatywności i twórcze rozwiązywanie problemów (Przeniesienie zajęć)
+UID:95232fce-09db-4d1d-8f26-d136f584e3ca@9523.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20251010T124500Z
+LOCATION:Bibl.425
+DTSTART:20251010T111500Z
+SUMMARY:Ergonomia produktu (wykład do wyboru)
+UID:6c74fa96-f6ac-40ac-9247-8fc142f9d262@6c74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20251104T190000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20251104T173000Z
+SUMMARY:Statystyczna analiza danych (ćwiczenia)
+UID:085ecee5-f323-47ec-aae0-5252a0aa75e8@085e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20251201T153000Z
+LOCATION:Platforma Moodle
+DTSTART:20251201T140000Z
+SUMMARY:Ekonomiczne aspekty jakości produktu (wykład e-learningowy)
+UID:037d8de5-9686-4780-b56d-34056fa0bc0a@037d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251217T134500Z
+DTSTART:20251217T121500Z
+SUMMARY: (rezerwacja)
+UID:0b5c253f-ef7c-44a1-b6f6-7fae5b3d59f9@0b5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20260112T074500Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20260112T070000Z
+SUMMARY:Rozwijanie kreatywności i twórcze rozwiązywanie problemów (wykład do wyboru)
+UID:355ded56-6203-4e67-a346-3a6c10b96fe9@355d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20251020T143000Z
+LOCATION:Platforma Moodle
+DTSTART:20251020T130000Z
+SUMMARY:Ekonomiczne aspekty jakości produktu (wykład e-learningowy)
+UID:028a240c-c70f-4e97-8751-ffb91a081665@028a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20260119T111500Z
+LOCATION:Paw.F 516
+DTSTART:20260119T103000Z
+SUMMARY:Grafika inżynierska (wykład)
+UID:9991f78e-a1fe-44b9-b5d7-85672fe2c267@9991.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Lidia Ostasz
+DTEND:20251103T120000Z
+LOCATION:Paw.C sala F
+DTSTART:20251103T103000Z
+SUMMARY:Właściwości chemiczne oraz wartość żywieniowa tłuszczów jadalnych (wykład do wyboru)
+UID:93f0c724-49d5-48c6-a7b4-221e267f5bfe@93f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20260108T120000Z
+LOCATION:Paw.F 516
+DTSTART:20260108T103000Z
+SUMMARY:Opakowalnictwo (wykład)
+UID:fdb41ec7-e0dd-496d-87b8-ebfecab206eb@fdb4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik-Kołodziej
+DTEND:20251030T083000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20251030T070000Z
+SUMMARY:Opakowalnictwo (laboratorium)
+UID:1399ae46-1be9-49b7-a675-c00f5138de01@1399.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20260114T101500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20260114T084500Z
+SUMMARY:Ergonomia produktu (wykład do wyboru)
+UID:abab2330-d5df-4028-bcd7-ece60905b1ab@abab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Lidia Ostasz
+DTEND:20251017T110000Z
+LOCATION:Paw.G 12
+DTSTART:20251017T093000Z
+SUMMARY:Właściwości chemiczne oraz wartość żywieniowa tłuszczów jadalnych (wykład do wyboru)
+UID:fa3daf30-9976-4031-a6fc-17cf29abd9d9@fa3d.org
 END:VEVENT
 END:VCALENDAR
