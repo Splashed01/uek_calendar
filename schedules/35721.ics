@@ -2,44 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Żak
-DTEND:20251017T183000Z
-LOCATION:Paw.G - 2
-DTSTART:20251017T144500Z
-SUMMARY:Zarządzanie czasem (Studia podyplomowe)
-UID:81ff00b1-1c8d-4459-8a55-52d656751a75@81ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Anna Kaczmarczyk-Pocica mgr Jerzy Pocica
-DTEND:20260220T193000Z
-LOCATION:Paw.G 10
-DTSTART:20260220T154500Z
-SUMMARY:Business Communication (Studia podyplomowe)
-UID:e6adf62e-56b4-4873-a3d4-34f078e50b91@e6ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Agnieszka Flis
-DTEND:20260124T121500Z
-LOCATION:Paw.G - 1
-DTSTART:20260124T074500Z
-SUMMARY:Zatrudnianie pracowników oparte na kompetencjach (Studia podyplomowe)
-UID:035af670-1d6f-4da6-b911-cbf0de03ef51@035a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Wojciech Pająk
-DTEND:20260123T193000Z
-LOCATION:Paw.G - 1
-DTSTART:20260123T154500Z
-SUMMARY:Diagnozowanie kultury organizacyjnej (Studia podyplomowe)
-UID:9e1ef345-a11a-4604-a064-189d103534b0@9e1e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Marek Janigacz
-DTEND:20251108T121500Z
-LOCATION:Paw.G - 1
-DTSTART:20251108T074500Z
-SUMMARY:Rozwiązywanie konfliktów (Studia podyplomowe)
-UID:e64ac6ad-8761-49c6-a7c0-6389e691bef7@e64a.org
+DESCRIPTION:Instructor: mgr Agnieszka Kotucz
+DTEND:20260207T121500Z
+LOCATION:Paw.G  7
+DTSTART:20260207T074500Z
+SUMMARY:Zarządzanie stresem i emocjami (Studia podyplomowe)
+UID:fc0283ab-1fd1-44c7-b531-197e8302caca@fc02.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Marek Janigacz
@@ -47,63 +15,7 @@ DTEND:20251107T184500Z
 LOCATION:Paw.G - 1
 DTSTART:20251107T154500Z
 SUMMARY:Rozwiązywanie konfliktów (Studia podyplomowe)
-UID:b46d93f1-ba4b-43f1-85f0-be3fa8ebc133@b46d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Alicja Szczygieł
-DTEND:20251206T121500Z
-LOCATION:Paw.G - 1
-DTSTART:20251206T074500Z
-SUMMARY:Psychologia podejmowania decyzji (Studia podyplomowe)
-UID:9518e192-2b36-4f4d-b2ae-67f5aee1317f@9518.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Szymon Konarski
-DTEND:20260206T193000Z
-LOCATION:Paw.G  7
-DTSTART:20260206T154500Z
-SUMMARY:Społeczna Odpowiedzialność Biznesu (Studia podyplomowe)
-UID:52012533-6f89-4fc4-b0a5-431c71033a8f@5201.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Anna Kaczmarczyk-Pocica mgr Jerzy Pocica
-DTEND:20251004T111500Z
-LOCATION:Paw.G  7
-DTSTART:20251004T064500Z
-SUMMARY:Podstawy komunikowania się (Studia podyplomowe)
-UID:92cde8f3-7079-4813-a575-b4f9447aec46@92cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Adamska-Chudzińska
-DTEND:20260109T193000Z
-LOCATION:Paw.B 057 (KSB)
-DTSTART:20260109T154500Z
-SUMMARY:Techniki wpływu społecznego (Studia podyplomowe)
-UID:0f5793a5-f97a-41b2-92ff-388e16b320cf@0f57.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Agnieszka Kotucz
-DTEND:20260207T121500Z
-LOCATION:Paw.G  7
-DTSTART:20260207T074500Z
-SUMMARY:Zarządzanie stresem i emocjami (Studia podyplomowe)
-UID:1ce3bbbe-1d34-4d0a-98c0-34444bbe8d2f@1ce3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Adamska-Chudzińska
-DTEND:20260110T113000Z
-LOCATION:Paw.B 057 (KSB)
-DTSTART:20260110T074500Z
-SUMMARY:Techniki wpływu społecznego (Studia podyplomowe)
-UID:c487a61d-e9d6-4e3a-86a5-ff0ff0422fc6@c487.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Markiewicz
-DTEND:20251205T193000Z
-LOCATION:Paw.G - 1
-DTSTART:20251205T154500Z
-SUMMARY:Style kierowania (Studia podyplomowe)
-UID:012e4e01-874d-4eed-b178-4e9fb714adaa@012e.org
+UID:b563ad39-81b7-48bc-ae74-2966190ca4d6@b563.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Magdalena Martynowska
@@ -111,23 +23,31 @@ DTEND:20251122T113000Z
 LOCATION:Paw.G - 1
 DTSTART:20251122T074500Z
 SUMMARY:Trening kreatywności i asertywności (Studia podyplomowe)
-UID:2cfcd441-2920-43bb-826e-538cfc4625cb@2cfc.org
+UID:73a4f882-bfd4-4b54-b1ee-d9d2c7054dc5@73a4.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Konrad Kulikowski
-DTEND:20251003T183000Z
+DESCRIPTION:Instructor: mgr Szymon Konarski
+DTEND:20260206T193000Z
 LOCATION:Paw.G  7
-DTSTART:20251003T144500Z
-SUMMARY:Podstawy psychologii społecznej i zarządzania (Studia podyplomowe)
-UID:bb821817-10d8-4329-adf0-ff7d5c87024c@bb82.org
+DTSTART:20260206T154500Z
+SUMMARY:Społeczna Odpowiedzialność Biznesu (Studia podyplomowe)
+UID:cf5f52d8-6780-4b5a-af8b-76f12ee50006@cf5f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Odrobina
-DTEND:20260124T074500Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20260124T070000Z
-SUMMARY:Egzamin semestralny (Studia podyplomowe)
-UID:dd050863-17d2-4a6e-9564-bfd2f0579838@dd05.org
+DESCRIPTION:Instructor: mgr Anna Kaczmarczyk-Pocica mgr Jerzy Pocica
+DTEND:20251004T111500Z
+LOCATION:Paw.G  7
+DTSTART:20251004T064500Z
+SUMMARY:Podstawy komunikowania się (Studia podyplomowe)
+UID:33847ee9-d8a5-4b78-8f1e-a3c86a4c9c41@3384.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marek Janigacz
+DTEND:20251108T121500Z
+LOCATION:Paw.G - 1
+DTSTART:20251108T074500Z
+SUMMARY:Rozwiązywanie konfliktów (Studia podyplomowe)
+UID:f0a8eeb8-e386-4348-9977-3b734f16cfd5@f0a8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Katarzyna Zemowska
@@ -135,23 +55,55 @@ DTEND:20251220T151500Z
 LOCATION:Paw.G 11
 DTSTART:20251220T074500Z
 SUMMARY:Happiness at work (Studia podyplomowe)
-UID:918755cf-2744-4cae-b2d7-2b7c692bcd5c@9187.org
+UID:d0e7b0a1-d465-4e6e-bf88-f1827a6e88c6@d0e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Kaczmarczyk-Pocica mgr Jerzy Pocica
+DTEND:20260220T193000Z
+LOCATION:Paw.G 10
+DTSTART:20260220T154500Z
+SUMMARY:Business Communication (Studia podyplomowe)
+UID:5f3abaa3-c9ed-4805-8040-f687534632fa@5f3a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Anna Odrobina
-DTEND:20251003T143000Z
-LOCATION:Paw.G  7
-DTSTART:20251003T134500Z
-SUMMARY:Zajęcia organizacyjne (Studia podyplomowe)
-UID:264debb9-2462-4443-8231-9e04d82070fd@264d.org
+DTEND:20260124T074500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20260124T070000Z
+SUMMARY:Egzamin semestralny (Studia podyplomowe)
+UID:aa55241d-072c-47d2-aaeb-9b2163ff68ca@aa55.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
-DTEND:20260221T130000Z
-LOCATION:Paw.G 10
-DTSTART:20260221T074500Z
-SUMMARY:Budowanie zespołów (Studia podyplomowe)
-UID:5f1f708d-9942-403b-901f-54975bca0e84@5f1f.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Adamska-Chudzińska
+DTEND:20260109T193000Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20260109T154500Z
+SUMMARY:Techniki wpływu społecznego (Studia podyplomowe)
+UID:c390a921-e5fb-4d23-85c2-35a20e15b863@c390.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agnieszka Flis
+DTEND:20260124T121500Z
+LOCATION:Paw.G - 1
+DTSTART:20260124T074500Z
+SUMMARY:Zatrudnianie pracowników oparte na kompetencjach (Studia podyplomowe)
+UID:abafab51-395f-4414-9637-a107171183f9@abaf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Żak
+DTEND:20251017T183000Z
+LOCATION:Paw.G - 2
+DTSTART:20251017T144500Z
+SUMMARY:Zarządzanie czasem (Studia podyplomowe)
+UID:dee1f3f6-3f7c-4385-aad2-8e6fc13a8ce7@dee1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Konrad Kulikowski
+DTEND:20251003T183000Z
+LOCATION:Paw.G  7
+DTSTART:20251003T144500Z
+SUMMARY:Podstawy psychologii społecznej i zarządzania (Studia podyplomowe)
+UID:f6e0c675-9af2-44ef-9977-d6925a67265b@f6e0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: 
@@ -159,20 +111,68 @@ DTEND:20251219T193000Z
 LOCATION:Paw.G 11
 DTSTART:20251219T154500Z
 SUMMARY: (Studia podyplomowe)
-UID:593106d3-4a7c-4603-8dd1-3b670ca69489@5931.org
+UID:8884d893-a9cf-4955-aba9-4b54fcd04149@8884.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20251003T143000Z
+LOCATION:Paw.G  7
+DTSTART:20251003T134500Z
+SUMMARY:Zajęcia organizacyjne (Studia podyplomowe)
+UID:93a864d1-d5e6-483a-9eed-65c171bb5734@93a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
+DTEND:20260221T130000Z
+LOCATION:Paw.G 10
+DTSTART:20260221T074500Z
+SUMMARY:Budowanie zespołów (Studia podyplomowe)
+UID:fda03f98-97fc-443d-ae17-c4cf9e54d094@fda0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Adamska-Chudzińska
+DTEND:20260110T113000Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20260110T074500Z
+SUMMARY:Techniki wpływu społecznego (Studia podyplomowe)
+UID:afd84bd3-e7fb-476b-9388-f8ec1cf76105@afd8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Zuzanna Komornicka mgr Magdalena Martynowska
 DTEND:20251121T193000Z
 DTSTART:20251121T154500Z
 SUMMARY:Trening kreatywności i asertywności (Studia podyplomowe)
-UID:a566dd99-82be-4fd8-bd92-79c06ae53574@a566.org
+UID:ef90c96a-078b-4f0e-a09c-a7e7244ba8f5@ef90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Pająk
+DTEND:20260123T193000Z
+LOCATION:Paw.G - 1
+DTSTART:20260123T154500Z
+SUMMARY:Diagnozowanie kultury organizacyjnej (Studia podyplomowe)
+UID:11e87065-8b92-4cb7-a99d-6f9678e33565@11e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Markiewicz
+DTEND:20251205T193000Z
+LOCATION:Paw.G - 1
+DTSTART:20251205T154500Z
+SUMMARY:Style kierowania (Studia podyplomowe)
+UID:8a86db79-18b7-4988-b581-97044b870693@8a86.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Alicja Szczygieł
+DTEND:20251206T121500Z
+LOCATION:Paw.G - 1
+DTSTART:20251206T074500Z
+SUMMARY:Psychologia podejmowania decyzji (Studia podyplomowe)
+UID:2b661c64-0ec7-4baa-9f99-1322978dbe70@2b66.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Konrad Kulikowski
 DTEND:20251018T120000Z
 DTSTART:20251018T064500Z
 SUMMARY:Zachowania społeczne w organizacji (Studia podyplomowe)
-UID:713ab1f4-786c-4fb1-80e2-a4493c04711c@713a.org
+UID:36ce5e0d-0d75-4b1e-91ae-f0081acde0f2@36ce.org
 END:VEVENT
 END:VCALENDAR

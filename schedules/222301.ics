@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karolina Mazur
-DTEND:20251210T171500Z
-LOCATION:Paw.F 516
-DTSTART:20251210T154500Z
-SUMMARY:Projektowanie systemów produkcyjnych (wykład)
-UID:cfd9a913-6a96-4d97-a3c5-e9e921268df5@cfd9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karolina Mazur
-DTEND:20251001T161500Z
-LOCATION:Paw.F 516
-DTSTART:20251001T144500Z
-SUMMARY:Projektowanie systemów produkcyjnych (wykład)
-UID:f8ee5678-9dd0-4e25-8fdd-67dbbcea0b07@f8ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
-DTEND:20251106T101500Z
-LOCATION:Paw.B 251
-DTSTART:20251106T084500Z
-SUMMARY:Twórcze rozwiązywanie problemów w biznesie (wykład do wyboru)
-UID:5f4d96fb-bb22-484f-86c2-61dae393bb88@5f4d.org
+DESCRIPTION:Instructor: dr inż. Ewa Pyrzyńska
+DTEND:20251204T120000Z
+LOCATION:Bud.gł. 8
+DTSTART:20251204T103000Z
+SUMMARY:Żywność premium (wykład do wyboru)
+UID:e0910fdc-961f-4ac3-9c52-fcbd87f2ade5@e091.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Karolina Mazur
@@ -31,55 +15,7 @@ DTEND:20260107T134500Z
 LOCATION:Paw.S sala 11
 DTSTART:20260107T121500Z
 SUMMARY:Projektowanie systemów produkcyjnych (ćwiczenia)
-UID:b3e67e5f-e7b3-4046-9f90-d59a096f62e9@b3e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marian Bursztyn
-DTEND:20251002T161500Z
-LOCATION:Paw.C sala A
-DTSTART:20251002T144500Z
-SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
-UID:05c66464-f4b8-4855-81a4-a3911036b783@05c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
-DTEND:20251218T101500Z
-LOCATION:Platforma Moodle
-DTSTART:20251218T084500Z
-SUMMARY:Twórcze rozwiązywanie problemów w biznesie (wykład e-learningowy)
-UID:718a923b-c7b6-4a58-b41e-2bfee53f82aa@718a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ewa Pyrzyńska
-DTEND:20251021T161500Z
-LOCATION:Paw.F 516
-DTSTART:20251021T144500Z
-SUMMARY:Żywność premium (wykład do wyboru)
-UID:d956cebe-bfbd-4b1a-b9e8-0144282608bf@d956.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Urszula Balon
-DTEND:20251202T153000Z
-LOCATION:Paw.B 151
-DTSTART:20251202T140000Z
-SUMMARY:Rachunek kosztów dla inżynierów (wykład)
-UID:bcb891bd-11b4-4ca8-be29-6669693fc3ef@bcb8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karolina Mazur
-DTEND:20260122T144500Z
-LOCATION:Paw.F 614
-DTSTART:20260122T140000Z
-SUMMARY:Technologie i organizacja czystszej produkcji (wykład)
-UID:14c87032-bc3e-4964-8e5c-d7ede30f38d0@14c8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Tondera
-DTEND:20251021T180000Z
-LOCATION:Paw.C sala A
-DTSTART:20251021T163000Z
-SUMMARY:Ochrona własności intelektualnej (wykład)
-UID:09c2ad57-a209-4696-b278-e58e9586fdd4@09c2.org
+UID:64a5ebb1-38d3-4c0a-bbe9-c2712ed32f03@64a5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Urszula Balon
@@ -87,680 +23,15 @@ DTEND:20251105T190000Z
 LOCATION:Platforma Moodle
 DTSTART:20251105T173000Z
 SUMMARY:Rachunek kosztów dla inżynierów (Ćwiczenia e-learningowe)
-UID:3d5fe6ac-7088-4284-9acc-158a66cc51fb@3d5f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Urszula Balon
-DTEND:20260121T181500Z
-LOCATION:Platforma Moodle
-DTSTART:20260121T173000Z
-SUMMARY:Rachunek kosztów dla inżynierów (Ćwiczenia e-learningowe)
-UID:62a5fb01-8721-4f69-ac86-e6013cc417b3@62a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Urszula Balon
-DTEND:20251008T180000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251008T163000Z
-SUMMARY:Rachunek kosztów dla inżynierów (ćwiczenia)
-UID:52710149-dbff-489d-b2c5-c40c925248a6@5271.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Urszula Balon
-DTEND:20260114T190000Z
-LOCATION:Platforma Moodle
-DTSTART:20260114T173000Z
-SUMMARY:Rachunek kosztów dla inżynierów (Ćwiczenia e-learningowe)
-UID:703030b5-1b6e-4478-90be-f22c91afd4a8@7030.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
-DTEND:20251023T091500Z
-LOCATION:Platforma Moodle
-DTSTART:20251023T074500Z
-SUMMARY:Twórcze rozwiązywanie problemów w biznesie (wykład e-learningowy)
-UID:0c2bd0e2-24a8-427f-91b6-22b18d1781e2@0c2b.org
+UID:31b632d2-88fd-4da0-9379-a7f550640bdb@31b6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Karolina Mazur
-DTEND:20251002T143000Z
+DTEND:20260122T144500Z
 LOCATION:Paw.F 614
-DTSTART:20251002T130000Z
+DTSTART:20260122T140000Z
 SUMMARY:Technologie i organizacja czystszej produkcji (wykład)
-UID:e2de3390-17d2-42ea-9e62-824e9d5c565a@e2de.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Lipecki
-DTEND:20251030T120000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251030T103000Z
-SUMMARY:Work Life Balance (wykład do wyboru)
-UID:83370736-7075-4983-a756-007661ae89d7@8337.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ewa Pyrzyńska
-DTEND:20251104T171500Z
-LOCATION:Paw.F 516
-DTSTART:20251104T154500Z
-SUMMARY:Żywność premium (wykład do wyboru)
-UID:5c1d6dea-dc73-4f17-9011-98fed61ff408@5c1d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Tondera
-DTEND:20251202T190000Z
-LOCATION:Paw.C sala A
-DTSTART:20251202T173000Z
-SUMMARY:Ochrona własności intelektualnej (wykład)
-UID:b99e6c6c-a59b-4dd3-b935-b028d055978c@b99e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karolina Mazur
-DTEND:20251105T134500Z
-LOCATION:Paw.S sala 11
-DTSTART:20251105T121500Z
-SUMMARY:Projektowanie systemów produkcyjnych (ćwiczenia)
-UID:9c1267e1-5eb5-4bba-8f75-29f7e559293a@9c12.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ewa Pyrzyńska
-DTEND:20251007T161500Z
-LOCATION:Paw.F 516
-DTSTART:20251007T144500Z
-SUMMARY:Żywność premium (wykład do wyboru)
-UID:a26493dd-192e-4a8b-b479-5557aab5346f@a264.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karolina Mazur
-DTEND:20251211T153000Z
-LOCATION:Paw.F 614
-DTSTART:20251211T140000Z
-SUMMARY:Technologie i organizacja czystszej produkcji (wykład)
-UID:b3d1a8fe-9c5e-49f7-a999-7a7a63d73fa2@b3d1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Rychwalski
-DTEND:20260122T134500Z
-LOCATION:Paw.S sala 11
-DTSTART:20260122T130000Z
-SUMMARY:Technologie i organizacja czystszej produkcji (ćwiczenia)
-UID:7022367c-0d96-4748-be2a-936c85649a06@7022.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karolina Mazur
-DTEND:20251029T134500Z
-LOCATION:Paw.S sala 11
-DTSTART:20251029T121500Z
-SUMMARY:Projektowanie systemów produkcyjnych (ćwiczenia)
-UID:1cf515de-1f1d-4ea6-9d64-bf92acb575e5@1cf5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karolina Mazur
-DTEND:20251203T120000Z
-LOCATION:Paw.B 054 (KSB)
-DTSTART:20251203T103000Z
-SUMMARY:Projektowanie systemów produkcyjnych (wykład)
-UID:60c3023e-497b-4e6e-b8f9-80a7b2bcd06b@60c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Lipecki
-DTEND:20251002T110000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251002T093000Z
-SUMMARY:Work Life Balance (wykład do wyboru)
-UID:fd51f118-3a76-494a-9121-b52951c2c0a1@fd51.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karolina Mazur
-DTEND:20251001T124500Z
-LOCATION:Paw.S sala 11
-DTSTART:20251001T111500Z
-SUMMARY:Projektowanie systemów produkcyjnych (ćwiczenia)
-UID:82e4e418-c98a-454a-8de4-b5bdba0375bc@82e4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Tondera
-DTEND:20251118T190000Z
-LOCATION:Paw.C sala A
-DTSTART:20251118T173000Z
-SUMMARY:Ochrona własności intelektualnej (wykład)
-UID:91ced579-6a60-4b99-8357-abb28a8824f6@91ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Urszula Balon
-DTEND:20251216T153000Z
-LOCATION:Platforma Moodle
-DTSTART:20251216T140000Z
-SUMMARY:Rachunek kosztów dla inżynierów (wykład e-learningowy)
-UID:6c74e2fb-2e42-4688-b45e-69d791bceaac@6c74.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Lipecki
-DTEND:20251113T120000Z
-DTSTART:20251113T103000Z
-SUMMARY:Work Life Balance (Przeniesienie zajęć)
-UID:85397423-da81-4092-ba1f-3eaba6d1c388@8539.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karolina Mazur
-DTEND:20251022T124500Z
-LOCATION:Paw.S sala 11
-DTSTART:20251022T111500Z
-SUMMARY:Projektowanie systemów produkcyjnych (ćwiczenia)
-UID:6d0dc7a6-882e-4118-93e0-a1251331e65a@6d0d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Rychwalski
-DTEND:20251009T124500Z
-LOCATION:Paw.S sala 11
-DTSTART:20251009T111500Z
-SUMMARY:Technologie i organizacja czystszej produkcji (ćwiczenia)
-UID:5f047fbd-3570-47ec-a101-653de192fb65@5f04.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karolina Mazur
-DTEND:20251126T171500Z
-LOCATION:Paw.F 516
-DTSTART:20251126T154500Z
-SUMMARY:Projektowanie systemów produkcyjnych (wykład)
-UID:742244ed-4704-41b5-8fbd-b9571856e8dd@7422.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ewa Pyrzyńska
-DTEND:20260121T171500Z
-LOCATION:Paw.F 516
-DTSTART:20260121T163000Z
-SUMMARY:Żywność premium (wykład do wyboru)
-UID:e87893ec-062c-4fea-96c8-4029ee073fc8@e878.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karolina Mazur
-DTEND:20251113T153000Z
-LOCATION:Paw.F 614
-DTSTART:20251113T140000Z
-SUMMARY:Technologie i organizacja czystszej produkcji (wykład)
-UID:60075a53-3bdd-49a5-af28-7a6d54bb4b00@6007.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karolina Mazur
-DTEND:20251029T171500Z
-LOCATION:Paw.F 516
-DTSTART:20251029T154500Z
-SUMMARY:Projektowanie systemów produkcyjnych (wykład)
-UID:e1b80ca1-0106-459c-a490-2d5ae0866f72@e1b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karolina Mazur
-DTEND:20251008T124500Z
-LOCATION:Paw.S sala 11
-DTSTART:20251008T111500Z
-SUMMARY:Projektowanie systemów produkcyjnych (ćwiczenia)
-UID:f64c5fd6-8c51-498b-8cc9-7891236ae23a@f64c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
-DTEND:20251204T101500Z
-LOCATION:Paw.B 251
-DTSTART:20251204T084500Z
-SUMMARY:Twórcze rozwiązywanie problemów w biznesie (wykład do wyboru)
-UID:a354458c-a4e5-40f1-90a7-e7f92dd66cf4@a354.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marian Bursztyn
-DTEND:20251113T171500Z
-LOCATION:Paw.C sala A
-DTSTART:20251113T154500Z
-SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
-UID:245e8b62-a103-4595-a116-18635d5e08c9@245e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
-DTEND:20251120T101500Z
-LOCATION:Platforma Moodle
-DTSTART:20251120T084500Z
-SUMMARY:Twórcze rozwiązywanie problemów w biznesie (wykład e-learningowy)
-UID:082d87da-eeaa-4325-b3e4-0da0ba8d6c76@082d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251016T123000Z
-DTSTART:20251016T093000Z
-SUMMARY: (rezerwacja)
-UID:70eb795d-5800-4508-a6c8-bba00b3027e4@70eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Rychwalski
-DTEND:20260115T134500Z
-LOCATION:Paw.S sala 11
-DTSTART:20260115T121500Z
-SUMMARY:Technologie i organizacja czystszej produkcji (ćwiczenia)
-UID:b70feab1-f91a-4e8e-89a1-ac89f92cc7f7@b70f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Urszula Balon
-DTEND:20251118T153000Z
-LOCATION:Paw.G 13 SENACKA
-DTSTART:20251118T140000Z
-SUMMARY:Rachunek kosztów dla inżynierów (wykład)
-UID:90ad8624-cad6-4607-b985-694693df6302@90ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marian Bursztyn
-DTEND:20251127T171500Z
-LOCATION:Paw.C sala A
-DTSTART:20251127T154500Z
-SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
-UID:488a7b85-dc19-470b-8788-205529be8ce4@488a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Urszula Balon
-DTEND:20251007T143000Z
-LOCATION:L 525 Ustr.
-DTSTART:20251007T130000Z
-SUMMARY:Rachunek kosztów dla inżynierów (wykład)
-UID:5e3d7755-4aba-448f-854b-e14eb4396744@5e3d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251217T134500Z
-DTSTART:20251217T121500Z
-SUMMARY: (rezerwacja)
-UID:3ba96c68-9b48-409f-b740-4d888ed18c04@3ba9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Lipecki
-DTEND:20260115T153000Z
-LOCATION:Paw.S sala 5
-DTSTART:20260115T140000Z
-SUMMARY:Work Life Balance (wykład do wyboru)
-UID:8da8bc0f-6d9d-43c1-8f81-d0cee901e2c8@8da8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karolina Mazur
-DTEND:20260121T163000Z
-LOCATION:Paw.F 516
-DTSTART:20260121T154500Z
-SUMMARY:Projektowanie systemów produkcyjnych (wykład)
-UID:a8f4d987-c174-4d04-9d1a-7afc598e4cd0@a8f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karolina Mazur
-DTEND:20251112T171500Z
-DTSTART:20251112T154500Z
-SUMMARY:Projektowanie systemów produkcyjnych (Przeniesienie zajęć)
-UID:ad67631d-9247-440d-9055-b85d6ef13c7f@ad67.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marian Bursztyn
-DTEND:20251030T171500Z
-LOCATION:Paw.C sala A
-DTSTART:20251030T154500Z
-SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
-UID:1b1d8532-c967-4eef-8c12-53185ce19bf9@1b1d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Urszula Balon
-DTEND:20251119T190000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251119T173000Z
-SUMMARY:Rachunek kosztów dla inżynierów (ćwiczenia)
-UID:a239d294-9685-4421-8c7a-c9aedbd4e3bb@a239.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marian Bursztyn
-DTEND:20260108T171500Z
-LOCATION:Paw.C sala A
-DTSTART:20260108T154500Z
-SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
-UID:cb826772-ac7d-4b2c-bb88-cb51506024a8@cb82.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
-DTEND:20251009T091500Z
-DTSTART:20251009T074500Z
-SUMMARY:Twórcze rozwiązywanie problemów w biznesie (Przeniesienie zajęć)
-UID:1af4d8d3-6ddf-41ef-ba47-521aca5c95a8@1af4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Lipecki
-DTEND:20251127T120000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251127T103000Z
-SUMMARY:Work Life Balance (wykład do wyboru)
-UID:5d4a7d7e-dba9-4dae-8abf-9f76239e8c49@5d4a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Lipecki
-DTEND:20251211T120000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251211T103000Z
-SUMMARY:Work Life Balance (wykład do wyboru)
-UID:c23fd8db-4452-435e-8c6e-5a53e0a7ad3d@c23f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Urszula Balon
-DTEND:20251022T180000Z
-LOCATION:Platforma Moodle
-DTSTART:20251022T163000Z
-SUMMARY:Rachunek kosztów dla inżynierów (Ćwiczenia e-learningowe)
-UID:1a022124-321a-4c58-89b1-d6fa22a2a7ab@1a02.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ewa Pyrzyńska
-DTEND:20251202T171500Z
-LOCATION:Paw.F 516
-DTSTART:20251202T154500Z
-SUMMARY:Żywność premium (wykład do wyboru)
-UID:7cd28f3b-f4d2-40e6-a11a-4c0f3efbe390@7cd2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Urszula Balon
-DTEND:20251021T143000Z
-LOCATION:Platforma Moodle
-DTSTART:20251021T130000Z
-SUMMARY:Rachunek kosztów dla inżynierów (wykład e-learningowy)
-UID:82c0c2b3-32a2-49fa-a65d-b301aaed0200@82c0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Tondera
-DTEND:20260113T194500Z
-LOCATION:Paw.C sala A
-DTSTART:20260113T173000Z
-SUMMARY:Ochrona własności intelektualnej (wykład)
-UID:5617e11e-c45c-4907-a3e3-18feb1aa3c9e@5617.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Lipecki
-DTEND:20260122T111500Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20260122T103000Z
-SUMMARY:Work Life Balance (wykład do wyboru)
-UID:420da396-6517-4e09-ba5c-c9f0ae08b73f@420d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Rychwalski
-DTEND:20251106T134500Z
-LOCATION:Paw.S sala 11
-DTSTART:20251106T121500Z
-SUMMARY:Technologie i organizacja czystszej produkcji (ćwiczenia)
-UID:28a3b8fd-6081-4301-9cc9-f207f14a50c1@28a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Rychwalski
-DTEND:20251120T134500Z
-LOCATION:Paw.S sala 11
-DTSTART:20251120T121500Z
-SUMMARY:Technologie i organizacja czystszej produkcji (ćwiczenia)
-UID:7ec5d888-255b-4833-9672-5148e1d6cef0@7ec5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karolina Mazur
-DTEND:20251112T134500Z
-DTSTART:20251112T121500Z
-SUMMARY:Projektowanie systemów produkcyjnych (Przeniesienie zajęć)
-UID:2299a612-c578-4aa4-9762-15c78c383020@2299.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karolina Mazur
-DTEND:20251209T171500Z
-LOCATION:Paw.S sala 11
-DTSTART:20251209T154500Z
-SUMMARY:Projektowanie systemów produkcyjnych (ćwiczenia)
-UID:dd05b973-b90d-4e23-80b0-734d54d1aa15@dd05.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Lipecki
-DTEND:20251015T091500Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251015T074500Z
-SUMMARY:Work Life Balance (wykład do wyboru)
-UID:f2fba35b-d629-43a2-9c1c-93b8d35a98cd@f2fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Rychwalski
-DTEND:20251218T134500Z
-LOCATION:Paw.S sala 11
-DTSTART:20251218T121500Z
-SUMMARY:Technologie i organizacja czystszej produkcji (ćwiczenia)
-UID:b09354fc-3dd0-421f-abbd-b7aedf8d476e@b093.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Urszula Balon
-DTEND:20251217T190000Z
-LOCATION:Platforma Moodle
-DTSTART:20251217T173000Z
-SUMMARY:Rachunek kosztów dla inżynierów (Ćwiczenia e-learningowe)
-UID:ab729af9-c2c4-407b-befb-346e7011605b@ab72.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marian Bursztyn
-DTEND:20260122T163000Z
-LOCATION:Paw.C sala A
-DTSTART:20260122T154500Z
-SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
-UID:cab13574-035f-4478-a53a-69c2498c61ae@cab1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karolina Mazur
-DTEND:20251127T153000Z
-LOCATION:Paw.F 614
-DTSTART:20251127T140000Z
-SUMMARY:Technologie i organizacja czystszej produkcji (wykład)
-UID:c8c47d7c-7ab8-4412-a413-30b371404185@c8c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marian Bursztyn
-DTEND:20251016T161500Z
-LOCATION:Paw.C sala A
-DTSTART:20251016T144500Z
-SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
-UID:e8838662-8ff1-4581-b713-7f93fca61db5@e883.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Urszula Balon
-DTEND:20251203T190000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20251203T173000Z
-SUMMARY:Rachunek kosztów dla inżynierów (ćwiczenia)
-UID:a25e5050-cc04-4a53-8a93-caa114a4b6b9@a25e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Urszula Balon
-DTEND:20260113T153000Z
-LOCATION:Platforma Moodle
-DTSTART:20260113T140000Z
-SUMMARY:Rachunek kosztów dla inżynierów (wykład e-learningowy)
-UID:b98521f7-f74a-4b75-ba54-f26700644126@b985.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karolina Mazur
-DTEND:20260108T153000Z
-LOCATION:Paw.F 614
-DTSTART:20260108T140000Z
-SUMMARY:Technologie i organizacja czystszej produkcji (wykład)
-UID:8ed6165b-a430-418a-9b2a-d4d6c5b6630f@8ed6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Tondera
-DTEND:20251104T190000Z
-LOCATION:Paw.C sala A
-DTSTART:20251104T173000Z
-SUMMARY:Ochrona własności intelektualnej (wykład)
-UID:05b7f7e4-fb66-4b26-ba5e-114c5047624b@05b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karolina Mazur
-DTEND:20251210T134500Z
-LOCATION:Paw.S sala 11
-DTSTART:20251210T121500Z
-SUMMARY:Projektowanie systemów produkcyjnych (ćwiczenia)
-UID:7555fa11-d976-4b7d-808e-0d64f209ce79@7555.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karolina Mazur
-DTEND:20260114T134500Z
-LOCATION:Paw.S sala 11
-DTSTART:20260114T121500Z
-SUMMARY:Projektowanie systemów produkcyjnych (ćwiczenia)
-UID:dbb37e82-35f0-44ad-afa2-1392a89fe1b8@dbb3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
-DTEND:20260115T101500Z
-LOCATION:Paw.B 251
-DTSTART:20260115T084500Z
-SUMMARY:Twórcze rozwiązywanie problemów w biznesie (wykład do wyboru)
-UID:c6a0f2fe-12e0-4e34-8594-6f148674a5ea@c6a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karolina Mazur
-DTEND:20260107T171500Z
-LOCATION:Paw.F 516
-DTSTART:20260107T154500Z
-SUMMARY:Projektowanie systemów produkcyjnych (wykład)
-UID:3defa31d-30d2-4e0c-be58-e7e30bdc9da8@3def.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ewa Pyrzyńska
-DTEND:20251204T120000Z
-LOCATION:Bud.gł. 8
-DTSTART:20251204T103000Z
-SUMMARY:Żywność premium (wykład do wyboru)
-UID:ce32e3fb-e67d-4391-a5dd-043a03af4136@ce32.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Lipecki
-DTEND:20260108T120000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20260108T103000Z
-SUMMARY:Work Life Balance (wykład do wyboru)
-UID:fe4f73b9-7ee9-4c6a-b517-612685be2916@fe4f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Urszula Balon
-DTEND:20260120T144500Z
-LOCATION:Platforma Moodle
-DTSTART:20260120T140000Z
-SUMMARY:Rachunek kosztów dla inżynierów (wykład e-learningowy)
-UID:e8a48395-564c-46dc-9b31-a3216649220c@e8a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ewa Pyrzyńska
-DTEND:20251118T171500Z
-LOCATION:Paw.F 516
-DTSTART:20251118T154500Z
-SUMMARY:Żywność premium (wykład do wyboru)
-UID:dde9cd71-a4c1-4740-88b2-6d1d822c9a3c@dde9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karolina Mazur
-DTEND:20251015T161500Z
-LOCATION:Paw.F 516
-DTSTART:20251015T144500Z
-SUMMARY:Projektowanie systemów produkcyjnych (wykład)
-UID:7b671dcb-29f3-423d-a90c-5cdd0089dbeb@7b67.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
-DTEND:20260121T074500Z
-LOCATION:Paw.B 251
-DTSTART:20260121T070000Z
-SUMMARY:Twórcze rozwiązywanie problemów w biznesie (wykład do wyboru)
-UID:ca580c46-4242-4302-a942-9bb54bc95e31@ca58.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karolina Mazur
-DTEND:20251119T134500Z
-DTSTART:20251119T121500Z
-SUMMARY:Projektowanie systemów produkcyjnych (Przeniesienie zajęć)
-UID:8b18d3f2-9bdf-443e-8001-fec8486b5a61@8b18.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karolina Mazur
-DTEND:20251126T134500Z
-LOCATION:Paw.S sala 11
-DTSTART:20251126T121500Z
-SUMMARY:Projektowanie systemów produkcyjnych (ćwiczenia)
-UID:308c358b-523c-4856-b975-f47203441d73@308c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Rychwalski
-DTEND:20251204T134500Z
-LOCATION:Paw.S sala 11
-DTSTART:20251204T121500Z
-SUMMARY:Technologie i organizacja czystszej produkcji (ćwiczenia)
-UID:68731e41-3099-487d-9a71-ec489c902f1f@6873.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karolina Mazur
-DTEND:20251015T124500Z
-LOCATION:Paw.S sala 11
-DTSTART:20251015T111500Z
-SUMMARY:Projektowanie systemów produkcyjnych (ćwiczenia)
-UID:f870ba84-0622-4608-9d5f-76b56858be61@f870.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karolina Mazur
-DTEND:20251016T143000Z
-LOCATION:Paw.F 614
-DTSTART:20251016T130000Z
-SUMMARY:Technologie i organizacja czystszej produkcji (wykład)
-UID:e774fedc-fcf0-46f9-ab24-a97b542c5ac2@e774.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karolina Mazur
-DTEND:20251030T153000Z
-LOCATION:Paw.F 614
-DTSTART:20251030T140000Z
-SUMMARY:Technologie i organizacja czystszej produkcji (wykład)
-UID:84d63913-2cad-481b-b327-e03482f96b44@84d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karolina Mazur
-DTEND:20260121T134500Z
-LOCATION:Paw.S sala 11
-DTSTART:20260121T121500Z
-SUMMARY:Projektowanie systemów produkcyjnych (ćwiczenia)
-UID:b61c0404-c024-494d-b4fd-b301a82daee1@b61c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ewa Pyrzyńska
-DTEND:20260113T171500Z
-LOCATION:Paw.F 516
-DTSTART:20260113T154500Z
-SUMMARY:Żywność premium (wykład do wyboru)
-UID:f4e852fb-5ae1-4e13-ac10-3b27e9aea511@f4e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Karolina Mazur
-DTEND:20251204T153000Z
-LOCATION:Paw.S sala 11
-DTSTART:20251204T140000Z
-SUMMARY:Projektowanie systemów produkcyjnych (ćwiczenia)
-UID:60d856aa-797d-492c-af94-44768e1050d8@60d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
-DTEND:20251009T143000Z
-LOCATION:Paw.G 12
-DTSTART:20251009T130000Z
-SUMMARY:Twórcze rozwiązywanie problemów w biznesie (wykład do wyboru)
-UID:e035d4a6-e9ba-4315-b122-6fe50ebe3976@e035.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Urszula Balon
-DTEND:20251104T153000Z
-LOCATION:Platforma Moodle
-DTSTART:20251104T140000Z
-SUMMARY:Rachunek kosztów dla inżynierów (wykład e-learningowy)
-UID:0055e32b-5fa8-4cb9-b3f3-c81e9f510839@0055.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marian Bursztyn
-DTEND:20251211T171500Z
-LOCATION:Paw.C sala A
-DTSTART:20251211T154500Z
-SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
-UID:491577ee-2f19-4370-a305-2730768274ef@4915.org
+UID:f20dea6c-6769-49c6-9e45-77df9a6e389a@f20d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Karolina Mazur
@@ -768,22 +39,62 @@ DTEND:20251218T153000Z
 LOCATION:Paw.S sala 11
 DTSTART:20251218T140000Z
 SUMMARY:Projektowanie systemów produkcyjnych (ćwiczenia)
-UID:f8cdbb3e-b024-4f75-ba3d-af2ec7452036@f8cd.org
+UID:429678c7-005f-4185-91a6-394cc684870f@4296.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ewa Pyrzyńska
-DTEND:20251216T171500Z
-DTSTART:20251216T154500Z
-SUMMARY:Żywność premium (Przeniesienie zajęć)
-UID:5b2c4a89-72f3-4f8c-a87c-57cdff574174@5b2c.org
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20251217T190000Z
+LOCATION:Platforma Moodle
+DTSTART:20251217T173000Z
+SUMMARY:Rachunek kosztów dla inżynierów (Ćwiczenia e-learningowe)
+UID:1e9325f4-6deb-437d-927d-7038a5cd3a25@1e93.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Tondera
-DTEND:20251216T190000Z
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20251119T190000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20251119T173000Z
+SUMMARY:Rachunek kosztów dla inżynierów (ćwiczenia)
+UID:94c15050-edc5-4e1d-8971-da60626f4d49@94c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20251218T134500Z
+LOCATION:Paw.S sala 11
+DTSTART:20251218T121500Z
+SUMMARY:Technologie i organizacja czystszej produkcji (ćwiczenia)
+UID:68a77c41-b051-4dde-af7c-f976c918b16f@68a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20251120T134500Z
+LOCATION:Paw.S sala 11
+DTSTART:20251120T121500Z
+SUMMARY:Technologie i organizacja czystszej produkcji (ćwiczenia)
+UID:984b7615-e7eb-4a36-b411-9fbbdddb7d5d@984b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20260108T171500Z
 LOCATION:Paw.C sala A
-DTSTART:20251216T173000Z
-SUMMARY:Ochrona własności intelektualnej (wykład)
-UID:d101c281-befb-4325-ad1f-e2c1d5960db1@d101.org
+DTSTART:20260108T154500Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:691bb31c-815d-493a-a3da-8422ff67f6db@691b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20251112T134500Z
+DTSTART:20251112T121500Z
+SUMMARY:Projektowanie systemów produkcyjnych (Przeniesienie zajęć)
+UID:1ed9bee0-6e02-4573-824f-ce6ffa4d5699@1ed9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20251016T161500Z
+LOCATION:Paw.C sala A
+DTSTART:20251016T144500Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:5c6e6249-0256-4e67-8e25-56aaa311b645@5c6e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Karolina Mazur
@@ -791,7 +102,379 @@ DTEND:20251203T134500Z
 LOCATION:Paw.S sala 11
 DTSTART:20251203T121500Z
 SUMMARY:Projektowanie systemów produkcyjnych (ćwiczenia)
-UID:b70752a6-cfbd-4aaa-8b81-674d7b52625a@b707.org
+UID:99966c64-948d-498a-b821-6a793a921a4e@9996.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20251211T153000Z
+LOCATION:Paw.F 614
+DTSTART:20251211T140000Z
+SUMMARY:Technologie i organizacja czystszej produkcji (wykład)
+UID:f14ce818-4458-47c3-bbdb-dc14906ec947@f14c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Lipecki
+DTEND:20251211T120000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20251211T103000Z
+SUMMARY:Work Life Balance (wykład do wyboru)
+UID:947e4447-cbeb-4827-a1e3-1a2084c14822@947e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20260113T153000Z
+LOCATION:Platforma Moodle
+DTSTART:20260113T140000Z
+SUMMARY:Rachunek kosztów dla inżynierów (wykład e-learningowy)
+UID:0122e41d-cf2f-4ab4-9828-c0cd665654d7@0122.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20251202T153000Z
+LOCATION:Paw.B 151
+DTSTART:20251202T140000Z
+SUMMARY:Rachunek kosztów dla inżynierów (wykład)
+UID:d6ac2826-d241-492a-9298-3455a8ea8166@d6ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20251007T143000Z
+LOCATION:L 525 Ustr.
+DTSTART:20251007T130000Z
+SUMMARY:Rachunek kosztów dla inżynierów (wykład)
+UID:af3e3f34-82fc-4cea-9a30-f9237b663883@af3e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20251210T134500Z
+LOCATION:Paw.S sala 11
+DTSTART:20251210T121500Z
+SUMMARY:Projektowanie systemów produkcyjnych (ćwiczenia)
+UID:6bec5e26-b7fc-4bf1-a926-9eeb5a48bcdc@6bec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20251218T101500Z
+LOCATION:Platforma Moodle
+DTSTART:20251218T084500Z
+SUMMARY:Twórcze rozwiązywanie problemów w biznesie (wykład e-learningowy)
+UID:f8128bf5-ad23-49f9-a3af-2026e8885d4f@f812.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20260122T134500Z
+LOCATION:Paw.S sala 11
+DTSTART:20260122T130000Z
+SUMMARY:Technologie i organizacja czystszej produkcji (ćwiczenia)
+UID:423a0bf3-4543-475c-9591-57d9391ed758@423a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Lipecki
+DTEND:20251002T110000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20251002T093000Z
+SUMMARY:Work Life Balance (wykład do wyboru)
+UID:2df51397-f1a2-45be-ae32-9d559e920568@2df5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20251002T161500Z
+LOCATION:Paw.C sala A
+DTSTART:20251002T144500Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:bf40bd37-1927-483b-a5ef-d94d0f8bcc79@bf40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Lipecki
+DTEND:20251030T120000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20251030T103000Z
+SUMMARY:Work Life Balance (wykład do wyboru)
+UID:639a7e94-d14b-4a9b-8a24-1c7ae9c852b7@639a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Lipecki
+DTEND:20251127T120000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20251127T103000Z
+SUMMARY:Work Life Balance (wykład do wyboru)
+UID:2029af40-28c1-4a10-922b-002d0bf1dbb1@2029.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20260115T101500Z
+LOCATION:Paw.B 251
+DTSTART:20260115T084500Z
+SUMMARY:Twórcze rozwiązywanie problemów w biznesie (wykład do wyboru)
+UID:903621ac-abf8-4694-9308-6bb915ae542d@9036.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251016T123000Z
+DTSTART:20251016T093000Z
+SUMMARY: (rezerwacja)
+UID:c23d1a9b-cf8c-49d5-9669-1ed7dd303c7f@c23d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20251001T161500Z
+LOCATION:Paw.F 516
+DTSTART:20251001T144500Z
+SUMMARY:Projektowanie systemów produkcyjnych (wykład)
+UID:1ed12547-d0d5-4311-aef1-32078b2ab05a@1ed1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20251009T091500Z
+DTSTART:20251009T074500Z
+SUMMARY:Twórcze rozwiązywanie problemów w biznesie (Przeniesienie zajęć)
+UID:b9958647-7686-4dd9-96ad-e13f5c2334d2@b995.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ewa Pyrzyńska
+DTEND:20251118T171500Z
+LOCATION:Paw.F 516
+DTSTART:20251118T154500Z
+SUMMARY:Żywność premium (wykład do wyboru)
+UID:5080b727-7d9f-4f01-b765-6476561b740a@5080.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20260122T163000Z
+LOCATION:Paw.C sala A
+DTSTART:20260122T154500Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:eecb0f2f-d939-4666-8692-fc586f12d426@eecb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ewa Pyrzyńska
+DTEND:20251202T171500Z
+LOCATION:Paw.F 516
+DTSTART:20251202T154500Z
+SUMMARY:Żywność premium (wykład do wyboru)
+UID:e3675074-49b5-4d6a-b159-6bc825763e3c@e367.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20260114T190000Z
+LOCATION:Platforma Moodle
+DTSTART:20260114T173000Z
+SUMMARY:Rachunek kosztów dla inżynierów (Ćwiczenia e-learningowe)
+UID:2803eff6-bfd2-4425-a870-e70c7edf9895@2803.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ewa Pyrzyńska
+DTEND:20260121T171500Z
+LOCATION:Paw.F 516
+DTSTART:20260121T163000Z
+SUMMARY:Żywność premium (wykład do wyboru)
+UID:c93d302c-a470-4093-b869-08d17f74ec8d@c93d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20260121T074500Z
+LOCATION:Paw.B 251
+DTSTART:20260121T070000Z
+SUMMARY:Twórcze rozwiązywanie problemów w biznesie (wykład do wyboru)
+UID:6fc8d5ad-eda3-4161-afdf-66345aa5bfe6@6fc8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20260121T163000Z
+LOCATION:Paw.F 516
+DTSTART:20260121T154500Z
+SUMMARY:Projektowanie systemów produkcyjnych (wykład)
+UID:df34c29d-8db2-4af7-83c5-26fe9654e1ff@df34.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20260108T153000Z
+LOCATION:Paw.F 614
+DTSTART:20260108T140000Z
+SUMMARY:Technologie i organizacja czystszej produkcji (wykład)
+UID:dd7dba55-b5de-455e-ade0-9c857510d409@dd7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20251112T171500Z
+DTSTART:20251112T154500Z
+SUMMARY:Projektowanie systemów produkcyjnych (Przeniesienie zajęć)
+UID:e1919097-21d2-449d-8231-eac249821a6c@e191.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20251008T180000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20251008T163000Z
+SUMMARY:Rachunek kosztów dla inżynierów (ćwiczenia)
+UID:8a15b37d-8935-4bae-894d-f5d71cd2ab8b@8a15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20251118T153000Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20251118T140000Z
+SUMMARY:Rachunek kosztów dla inżynierów (wykład)
+UID:68a387a4-8b0d-4e88-a8e3-1fe53b9c42b8@68a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20251029T171500Z
+LOCATION:Paw.F 516
+DTSTART:20251029T154500Z
+SUMMARY:Projektowanie systemów produkcyjnych (wykład)
+UID:c8dba398-e247-4b51-a928-f99bc6e8b611@c8db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20251113T171500Z
+LOCATION:Paw.C sala A
+DTSTART:20251113T154500Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:83b2edf5-814b-44cc-a2ad-3bf9d6a65641@83b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20251202T190000Z
+LOCATION:Paw.C sala A
+DTSTART:20251202T173000Z
+SUMMARY:Ochrona własności intelektualnej (wykład)
+UID:b4680b73-9b1f-4e77-8055-4abf580e2167@b468.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20251126T171500Z
+LOCATION:Paw.F 516
+DTSTART:20251126T154500Z
+SUMMARY:Projektowanie systemów produkcyjnych (wykład)
+UID:f98d0b43-ae20-4cbb-8c8c-6f5c9d594212@f98d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20251009T124500Z
+LOCATION:Paw.S sala 11
+DTSTART:20251009T111500Z
+SUMMARY:Technologie i organizacja czystszej produkcji (ćwiczenia)
+UID:739e2b91-8e14-4312-8b2a-dce5b9010fe6@739e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Lipecki
+DTEND:20260122T111500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20260122T103000Z
+SUMMARY:Work Life Balance (wykład do wyboru)
+UID:f70de05e-0837-4b2f-ba44-d26aef0ff647@f70d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20251127T171500Z
+LOCATION:Paw.C sala A
+DTSTART:20251127T154500Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:19fe63eb-b3e2-4588-be10-b84b91b8cd54@19fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ewa Pyrzyńska
+DTEND:20251021T161500Z
+LOCATION:Paw.F 516
+DTSTART:20251021T144500Z
+SUMMARY:Żywność premium (wykład do wyboru)
+UID:a68c0e94-4de0-4c5e-942d-ed768b598486@a68c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20251203T120000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20251203T103000Z
+SUMMARY:Projektowanie systemów produkcyjnych (wykład)
+UID:01c6e031-1968-413b-8ebf-acd5143082e9@01c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ewa Pyrzyńska
+DTEND:20251216T171500Z
+DTSTART:20251216T154500Z
+SUMMARY:Żywność premium (Przeniesienie zajęć)
+UID:173e5767-f8e9-447d-a2b0-7ad9f1fa3a92@173e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20260120T144500Z
+LOCATION:Platforma Moodle
+DTSTART:20260120T140000Z
+SUMMARY:Rachunek kosztów dla inżynierów (wykład e-learningowy)
+UID:82f6ef4f-a9a7-49bc-ba76-f1fae7312123@82f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20251106T101500Z
+LOCATION:Paw.B 251
+DTSTART:20251106T084500Z
+SUMMARY:Twórcze rozwiązywanie problemów w biznesie (wykład do wyboru)
+UID:621c385e-1d6a-4e11-8e3c-e7de88a762fc@621c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20251002T143000Z
+LOCATION:Paw.F 614
+DTSTART:20251002T130000Z
+SUMMARY:Technologie i organizacja czystszej produkcji (wykład)
+UID:32ece390-755b-420d-9fad-8a69490896af@32ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20260114T134500Z
+LOCATION:Paw.S sala 11
+DTSTART:20260114T121500Z
+SUMMARY:Projektowanie systemów produkcyjnych (ćwiczenia)
+UID:c18bc02c-5199-4f9f-835a-271696f01ca8@c18b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20251022T124500Z
+LOCATION:Paw.S sala 11
+DTSTART:20251022T111500Z
+SUMMARY:Projektowanie systemów produkcyjnych (ćwiczenia)
+UID:1b58b5e0-fe26-4685-9117-3cb0399b734a@1b58.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20251210T171500Z
+LOCATION:Paw.F 516
+DTSTART:20251210T154500Z
+SUMMARY:Projektowanie systemów produkcyjnych (wykład)
+UID:e01de443-8d3c-4686-98dc-4060e41a4d21@e01d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20251209T171500Z
+LOCATION:Paw.S sala 11
+DTSTART:20251209T154500Z
+SUMMARY:Projektowanie systemów produkcyjnych (ćwiczenia)
+UID:adb6be4d-a830-4a29-b632-393a0963de9a@adb6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ewa Pyrzyńska
+DTEND:20260113T171500Z
+LOCATION:Paw.F 516
+DTSTART:20260113T154500Z
+SUMMARY:Żywność premium (wykład do wyboru)
+UID:5beec330-b844-433a-b70a-707fc65925e5@5bee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20260115T134500Z
+LOCATION:Paw.S sala 11
+DTSTART:20260115T121500Z
+SUMMARY:Technologie i organizacja czystszej produkcji (ćwiczenia)
+UID:2f79e99c-b195-4416-b9c5-feda8b77e6a9@2f79.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20251008T124500Z
+LOCATION:Paw.S sala 11
+DTSTART:20251008T111500Z
+SUMMARY:Projektowanie systemów produkcyjnych (ćwiczenia)
+UID:69ec6412-bb13-4fc9-965f-6b3e5ac4b951@69ec.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Mateusz Tondera
@@ -799,13 +482,330 @@ DTEND:20251007T180000Z
 LOCATION:Paw.C sala A
 DTSTART:20251007T163000Z
 SUMMARY:Ochrona własności intelektualnej (wykład)
-UID:bd90a06a-16b7-4332-a99c-e424da9f6380@bd90.org
+UID:3cf944c6-4feb-4100-b325-61409c2e1f4c@3cf9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20251127T153000Z
+LOCATION:Paw.F 614
+DTSTART:20251127T140000Z
+SUMMARY:Technologie i organizacja czystszej produkcji (wykład)
+UID:68ac4810-a72b-4f11-b1ee-fda2b052ee5d@68ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20251120T101500Z
+LOCATION:Platforma Moodle
+DTSTART:20251120T084500Z
+SUMMARY:Twórcze rozwiązywanie problemów w biznesie (wykład e-learningowy)
+UID:4ab27896-26dc-4f3f-a64a-105bc2b0a9e7@4ab2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20251211T171500Z
+LOCATION:Paw.C sala A
+DTSTART:20251211T154500Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:e0285b59-899b-4f82-b7ae-3a50ae0903d4@e028.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20251030T153000Z
+LOCATION:Paw.F 614
+DTSTART:20251030T140000Z
+SUMMARY:Technologie i organizacja czystszej produkcji (wykład)
+UID:b3ed0ca0-66d3-4701-8545-651e578a582d@b3ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20251104T190000Z
+LOCATION:Paw.C sala A
+DTSTART:20251104T173000Z
+SUMMARY:Ochrona własności intelektualnej (wykład)
+UID:17e9fd18-1ea0-490e-ab9d-16f911ee60ca@17e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20251023T091500Z
+LOCATION:Platforma Moodle
+DTSTART:20251023T074500Z
+SUMMARY:Twórcze rozwiązywanie problemów w biznesie (wykład e-learningowy)
+UID:482fbfe3-5128-4ff6-99a7-fcd599f2b1c5@482f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20251216T153000Z
+LOCATION:Platforma Moodle
+DTSTART:20251216T140000Z
+SUMMARY:Rachunek kosztów dla inżynierów (wykład e-learningowy)
+UID:e6d9283e-18e6-4ff5-a36a-7c9367bf5bb9@e6d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Lipecki
+DTEND:20260108T120000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20260108T103000Z
+SUMMARY:Work Life Balance (wykład do wyboru)
+UID:5cc3aa8d-83fa-4693-a94e-d2b99bec5f4e@5cc3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Lipecki
+DTEND:20251113T120000Z
+DTSTART:20251113T103000Z
+SUMMARY:Work Life Balance (Przeniesienie zajęć)
+UID:f71b9ced-7f47-41af-9a46-3d2c57de9742@f71b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20251106T134500Z
+LOCATION:Paw.S sala 11
+DTSTART:20251106T121500Z
+SUMMARY:Technologie i organizacja czystszej produkcji (ćwiczenia)
+UID:1204e565-3c98-4ba6-a078-3caa1f6d7fcc@1204.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20251016T143000Z
+LOCATION:Paw.F 614
+DTSTART:20251016T130000Z
+SUMMARY:Technologie i organizacja czystszej produkcji (wykład)
+UID:b3d0ac7c-8645-4f79-8179-1ff73158158a@b3d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20251021T180000Z
+LOCATION:Paw.C sala A
+DTSTART:20251021T163000Z
+SUMMARY:Ochrona własności intelektualnej (wykład)
+UID:9d83e58a-4e39-463d-a732-bf2b4c28c680@9d83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Lipecki
+DTEND:20251015T091500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20251015T074500Z
+SUMMARY:Work Life Balance (wykład do wyboru)
+UID:b099e5e1-30fe-4b24-9285-08a3fccbadb7@b099.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20260121T134500Z
+LOCATION:Paw.S sala 11
+DTSTART:20260121T121500Z
+SUMMARY:Projektowanie systemów produkcyjnych (ćwiczenia)
+UID:3c65b32a-3ad4-4cbf-8643-c3bfbb6044e0@3c65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20251203T190000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20251203T173000Z
+SUMMARY:Rachunek kosztów dla inżynierów (ćwiczenia)
+UID:6d8afd79-392a-40b9-b838-b83333bd1246@6d8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20251204T153000Z
+LOCATION:Paw.S sala 11
+DTSTART:20251204T140000Z
+SUMMARY:Projektowanie systemów produkcyjnych (ćwiczenia)
+UID:c2db9b5d-eab0-4ff9-85ad-bf8c85449c22@c2db.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marcin Rychwalski
 DTEND:20251023T124500Z
 DTSTART:20251023T111500Z
 SUMMARY:Technologie i organizacja czystszej produkcji (Przeniesienie zajęć)
-UID:f9f673f9-8674-46a7-85fb-77e01d9d602f@f9f6.org
+UID:ba83d94b-a371-4629-ba52-4df62df00455@ba83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20251021T143000Z
+LOCATION:Platforma Moodle
+DTSTART:20251021T130000Z
+SUMMARY:Rachunek kosztów dla inżynierów (wykład e-learningowy)
+UID:412589b5-708c-4a3f-941b-c999c3038fdd@4125.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20251118T190000Z
+LOCATION:Paw.C sala A
+DTSTART:20251118T173000Z
+SUMMARY:Ochrona własności intelektualnej (wykład)
+UID:773ac673-00a3-41db-8f66-8ea63f21ddd4@773a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Lipecki
+DTEND:20260115T153000Z
+LOCATION:Paw.S sala 5
+DTSTART:20260115T140000Z
+SUMMARY:Work Life Balance (wykład do wyboru)
+UID:c66d4cb0-f4fd-49d2-86ee-74c56a92a2b9@c66d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20260107T171500Z
+LOCATION:Paw.F 516
+DTSTART:20260107T154500Z
+SUMMARY:Projektowanie systemów produkcyjnych (wykład)
+UID:fe7181a4-1f23-4e84-92c9-62c8f4454a93@fe71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20251009T143000Z
+LOCATION:Paw.G 12
+DTSTART:20251009T130000Z
+SUMMARY:Twórcze rozwiązywanie problemów w biznesie (wykład do wyboru)
+UID:fc39c633-50a6-418d-928d-6e274bcce7ec@fc39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20251113T153000Z
+LOCATION:Paw.F 614
+DTSTART:20251113T140000Z
+SUMMARY:Technologie i organizacja czystszej produkcji (wykład)
+UID:059ac743-f9ea-4dfc-aa79-40f1e1d89315@059a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251217T134500Z
+DTSTART:20251217T121500Z
+SUMMARY: (rezerwacja)
+UID:ee4b5955-008d-4b46-b8a9-21918325c201@ee4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20251015T124500Z
+LOCATION:Paw.S sala 11
+DTSTART:20251015T111500Z
+SUMMARY:Projektowanie systemów produkcyjnych (ćwiczenia)
+UID:515760e8-0e38-46a9-ae45-381ee182ce42@5157.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20260113T194500Z
+LOCATION:Paw.C sala A
+DTSTART:20260113T173000Z
+SUMMARY:Ochrona własności intelektualnej (wykład)
+UID:2b5094cf-c707-485c-bbf7-f2192a67382d@2b50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20251119T134500Z
+DTSTART:20251119T121500Z
+SUMMARY:Projektowanie systemów produkcyjnych (Przeniesienie zajęć)
+UID:b1c17349-006d-4e8c-bbc0-7f8c07b0bd35@b1c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20251204T134500Z
+LOCATION:Paw.S sala 11
+DTSTART:20251204T121500Z
+SUMMARY:Technologie i organizacja czystszej produkcji (ćwiczenia)
+UID:fc85b183-f09e-4d22-a954-43112446ee12@fc85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20251216T190000Z
+LOCATION:Paw.C sala A
+DTSTART:20251216T173000Z
+SUMMARY:Ochrona własności intelektualnej (wykład)
+UID:8f8ed9d7-8346-45d0-9b4c-b90369fec5f7@8f8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20251105T134500Z
+LOCATION:Paw.S sala 11
+DTSTART:20251105T121500Z
+SUMMARY:Projektowanie systemów produkcyjnych (ćwiczenia)
+UID:68aa4291-0c6f-4da8-8cab-2e9a83952eed@68aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20251015T161500Z
+LOCATION:Paw.F 516
+DTSTART:20251015T144500Z
+SUMMARY:Projektowanie systemów produkcyjnych (wykład)
+UID:46636273-64c6-4df2-a8fe-93ff2f516adf@4663.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20251204T101500Z
+LOCATION:Paw.B 251
+DTSTART:20251204T084500Z
+SUMMARY:Twórcze rozwiązywanie problemów w biznesie (wykład do wyboru)
+UID:0a51c93d-d465-4d00-93a4-88adb33cd8d9@0a51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ewa Pyrzyńska
+DTEND:20251104T171500Z
+LOCATION:Paw.F 516
+DTSTART:20251104T154500Z
+SUMMARY:Żywność premium (wykład do wyboru)
+UID:cf8974c7-8cc1-435d-9388-7d06261e8b89@cf89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20251029T134500Z
+LOCATION:Paw.S sala 11
+DTSTART:20251029T121500Z
+SUMMARY:Projektowanie systemów produkcyjnych (ćwiczenia)
+UID:1e2f81e7-5114-4f09-a66c-aa6ae4a7374b@1e2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20251001T124500Z
+LOCATION:Paw.S sala 11
+DTSTART:20251001T111500Z
+SUMMARY:Projektowanie systemów produkcyjnych (ćwiczenia)
+UID:c2f7a933-dff1-4be8-b7a7-0975741e8a56@c2f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20251030T171500Z
+LOCATION:Paw.C sala A
+DTSTART:20251030T154500Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:7502f0b2-a7da-438c-8412-25e9a38b4bdc@7502.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20251022T180000Z
+LOCATION:Platforma Moodle
+DTSTART:20251022T163000Z
+SUMMARY:Rachunek kosztów dla inżynierów (Ćwiczenia e-learningowe)
+UID:d617d5e5-76ae-4c9d-a896-fd8e2716775f@d617.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20260121T181500Z
+LOCATION:Platforma Moodle
+DTSTART:20260121T173000Z
+SUMMARY:Rachunek kosztów dla inżynierów (Ćwiczenia e-learningowe)
+UID:8260c14e-b6d4-46ab-8477-a416e106e3e3@8260.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20251126T134500Z
+LOCATION:Paw.S sala 11
+DTSTART:20251126T121500Z
+SUMMARY:Projektowanie systemów produkcyjnych (ćwiczenia)
+UID:5f49bfc5-fb10-425a-8452-b5da226936e4@5f49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ewa Pyrzyńska
+DTEND:20251007T161500Z
+LOCATION:Paw.F 516
+DTSTART:20251007T144500Z
+SUMMARY:Żywność premium (wykład do wyboru)
+UID:e3161521-f32f-4a97-a900-24c0911935a1@e316.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20251104T153000Z
+LOCATION:Platforma Moodle
+DTSTART:20251104T140000Z
+SUMMARY:Rachunek kosztów dla inżynierów (wykład e-learningowy)
+UID:15174ef6-a8ba-446d-82ee-1f015e4259af@1517.org
 END:VEVENT
 END:VCALENDAR

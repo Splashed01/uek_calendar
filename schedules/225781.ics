@@ -2,20 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Hajdukiewicz
-DTEND:20251112T171500Z
-LOCATION:link do zajęć
-DTSTART:20251112T154500Z
-SUMMARY:Seminarium indywidualne - 20h (seminarium)
-UID:4dbf77d9-d2de-448b-b723-97e91e195895@4dbf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Hajdukiewicz
-DTEND:20251126T171500Z
-LOCATION:link do zajęć
-DTSTART:20251126T154500Z
-SUMMARY:Seminarium indywidualne - 20h (seminarium)
-UID:6469b745-e630-4d6b-abe8-4066912f6a60@6469.org
+DESCRIPTION:Instructor: 
+DTEND:20251016T123000Z
+DTSTART:20251016T093000Z
+SUMMARY: (rezerwacja)
+UID:7ca585ba-97e7-4a62-9d54-dc4781298294@7ca5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Hajdukiewicz
@@ -23,37 +14,22 @@ DTEND:20251210T171500Z
 LOCATION:link do zajęć
 DTSTART:20251210T154500Z
 SUMMARY:Seminarium indywidualne - 20h (seminarium)
-UID:d0786d24-2e57-43e4-a5cb-f9a792b5e3f6@d078.org
+UID:488fe447-a354-446e-b792-f099f6856935@488f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Hajdukiewicz
+DTEND:20251112T171500Z
+LOCATION:link do zajęć
+DTSTART:20251112T154500Z
+SUMMARY:Seminarium indywidualne - 20h (seminarium)
+UID:8cb5d0f2-2ced-4421-b21b-0c330e3388ff@8cb5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Hajdukiewicz
 DTEND:20251029T171500Z
 DTSTART:20251029T154500Z
 SUMMARY:Seminarium indywidualne - 20h (seminarium)
-UID:0d8739d9-4232-48f2-bd15-3da9c26748f0@0d87.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Hajdukiewicz
-DTEND:20251217T171500Z
-LOCATION:link do zajęć
-DTSTART:20251217T154500Z
-SUMMARY:Seminarium indywidualne - 20h (seminarium)
-UID:f1b58eff-8c13-46d7-a6e2-9d482fde7890@f1b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Hajdukiewicz
-DTEND:20251105T171500Z
-LOCATION:link do zajęć
-DTSTART:20251105T154500Z
-SUMMARY:Seminarium indywidualne - 20h (seminarium)
-UID:9a16dc48-111e-4398-9f45-c481e5d194eb@9a16.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251217T134500Z
-DTSTART:20251217T121500Z
-SUMMARY: (rezerwacja)
-UID:50ecaae9-97d3-4136-897e-2140d5d9d9ee@50ec.org
+UID:eaf18273-a799-42ba-bc43-786338e2b5b3@eaf1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Hajdukiewicz
@@ -61,14 +37,38 @@ DTEND:20251203T171500Z
 LOCATION:link do zajęć
 DTSTART:20251203T154500Z
 SUMMARY:Seminarium indywidualne - 20h (seminarium)
-UID:f3d41db8-3ee1-4b8e-a54c-1f91aef73bf8@f3d4.org
+UID:57030fc1-8fd1-473b-94c7-0d07ccce83a6@5703.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: 
-DTEND:20251016T123000Z
-DTSTART:20251016T093000Z
+DTEND:20251217T134500Z
+DTSTART:20251217T121500Z
 SUMMARY: (rezerwacja)
-UID:b0b83384-624b-4777-94a9-a54e2aa4a06e@b0b8.org
+UID:2a99679f-880a-4bd6-a210-40e1c6a743f5@2a99.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Hajdukiewicz
+DTEND:20251217T171500Z
+LOCATION:link do zajęć
+DTSTART:20251217T154500Z
+SUMMARY:Seminarium indywidualne - 20h (seminarium)
+UID:7aca7e7d-b1fc-4ee7-8a4e-227a45a92922@7aca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Hajdukiewicz
+DTEND:20251105T171500Z
+LOCATION:link do zajęć
+DTSTART:20251105T154500Z
+SUMMARY:Seminarium indywidualne - 20h (seminarium)
+UID:a96a3665-e8b9-4be5-9f6b-8f120e7cedd8@a96a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Hajdukiewicz
+DTEND:20251126T171500Z
+LOCATION:link do zajęć
+DTSTART:20251126T154500Z
+SUMMARY:Seminarium indywidualne - 20h (seminarium)
+UID:72e94b98-cd00-4b23-b71d-cbdf4671ed94@72e9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Hajdukiewicz
@@ -76,6 +76,6 @@ DTEND:20251119T171500Z
 LOCATION:link do zajęć
 DTSTART:20251119T154500Z
 SUMMARY:Seminarium indywidualne - 20h (seminarium)
-UID:ebf33e1a-f3f0-4bbf-b343-6ed4c3f137e9@ebf3.org
+UID:fa19c83d-8666-4647-8ac4-cc5f240f783a@fa19.org
 END:VEVENT
 END:VCALENDAR

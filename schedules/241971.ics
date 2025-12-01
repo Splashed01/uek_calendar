@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Tataruch
-DTEND:20251106T083000Z
-LOCATION:link do zajęć
-DTSTART:20251106T070000Z
-SUMMARY:Biochemia (wykład zdalny)
-UID:68951f20-fbd2-487f-8e6d-80a8819803b6@6895.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
-DTEND:20251203T170000Z
-LOCATION:Sienk. 5 pr. spoż. 1
-DTSTART:20251203T140000Z
-SUMMARY:Inżynieria jakości produktów żywnościowych I (laboratorium)
-UID:58ab07ee-596b-40bd-b4a7-fa2d63256887@58ab.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20251205T141500Z
-LOCATION:Sienk. 4 pr. przem. 1\, Sienk. 4 pr. przem. 2
-DTSTART:20251205T111500Z
-SUMMARY:Inżynieria jakości produktów przemysłowych I (laboratorium)
-UID:2e41ae92-d968-4cbb-92b4-baca63f1c6b1@2e41.org
+DTEND:20251118T171500Z
+LOCATION:Paw.F 104
+DTSTART:20251118T154500Z
+SUMMARY:Inżynieria jakości produktów przemysłowych I (wykład)
+UID:e4d20de8-4547-41df-9369-b0055f967b7a@e4d2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
@@ -31,707 +15,7 @@ DTEND:20251021T123000Z
 LOCATION:Paw.H Prac. mikrob.1
 DTSTART:20251021T093000Z
 SUMMARY:Mikrobiologiczne podstawy jakości produktów (laboratorium)
-UID:f1e96e5f-8898-45d6-a9e1-5423e5dcc8a3@f1e9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20251028T171500Z
-LOCATION:Paw.F 104
-DTSTART:20251028T154500Z
-SUMMARY:Inżynieria jakości produktów przemysłowych I (wykład)
-UID:cf37925d-e4aa-4a91-9718-f9a64c16923a@cf37.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
-DTEND:20260113T153000Z
-LOCATION:Paw.F 104
-DTSTART:20260113T140000Z
-SUMMARY:Inżynieria jakości produktów żywnościowych I (wykład)
-UID:b010fc02-b190-425b-b729-f40ae8a3754c@b010.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
-DTEND:20251001T160000Z
-LOCATION:Sienk. 5 pr. spoż. 1
-DTSTART:20251001T130000Z
-SUMMARY:Inżynieria jakości produktów żywnościowych I (laboratorium)
-UID:58894f0b-4c87-4012-aa26-dadff9d350d9@5889.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
-DTEND:20260121T170000Z
-LOCATION:Sienk. 5 pr. spoż. 1
-DTSTART:20260121T140000Z
-SUMMARY:Inżynieria jakości produktów żywnościowych I (laboratorium)
-UID:5fde2109-47a4-4480-8f57-de6b08a1cd2b@5fde.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Tataruch
-DTEND:20251023T073000Z
-LOCATION:Paw.F 104
-DTSTART:20251023T060000Z
-SUMMARY:Biochemia (wykład)
-UID:20f03772-42bd-4510-920f-828c10d798f4@20f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20251017T131500Z
-LOCATION:Sienk. 4 pr. przem. 1\, Sienk. 4 pr. przem. 2
-DTSTART:20251017T101500Z
-SUMMARY:Inżynieria jakości produktów przemysłowych I (laboratorium)
-UID:8046cb17-c126-4235-a035-b1d9dbb8801b@8046.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
-DTEND:20251104T153000Z
-LOCATION:Paw.F 104
-DTSTART:20251104T140000Z
-SUMMARY:Inżynieria jakości produktów żywnościowych I (wykład)
-UID:134c4ee4-eb0a-47a5-b244-2638985de86a@134c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20260120T171500Z
-LOCATION:Paw.F 104
-DTSTART:20260120T154500Z
-SUMMARY:Inżynieria jakości produktów przemysłowych I (wykład)
-UID:1898deed-636d-4a80-80e0-41591beee4ee@1898.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
-DTEND:20251119T170000Z
-LOCATION:Sienk. 5 pr. spoż. 1
-DTSTART:20251119T140000Z
-SUMMARY:Inżynieria jakości produktów żywnościowych I (laboratorium)
-UID:67f890f4-4c12-4a8d-a555-2be09aa74f18@67f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20251114T141500Z
-LOCATION:Sienk. 4 pr. przem. 1\, Sienk. 4 pr. przem. 2
-DTSTART:20251114T111500Z
-SUMMARY:Inżynieria jakości produktów przemysłowych I (laboratorium)
-UID:b4484fd8-834e-403a-a0cd-1bf4ec094d82@b448.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
-DTEND:20251028T133000Z
-LOCATION:Paw.H Prac. mikrob.1
-DTSTART:20251028T103000Z
-SUMMARY:Mikrobiologiczne podstawy jakości produktów (laboratorium)
-UID:0d367431-03c1-442b-a017-f13a58149fbf@0d36.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
-DTEND:20251125T133000Z
-LOCATION:Paw.H Prac. mikrob.1
-DTSTART:20251125T103000Z
-SUMMARY:Mikrobiologiczne podstawy jakości produktów (laboratorium)
-UID:c3a8f8dc-1fca-493f-af5d-d0da78aa0282@c3a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
-DTEND:20251210T170000Z
-LOCATION:Sienk. 5 pr. spoż. 1
-DTSTART:20251210T140000Z
-SUMMARY:Inżynieria jakości produktów żywnościowych I (laboratorium)
-UID:50017e81-4013-468e-9c99-d332b45f8dee@5001.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
-DTEND:20251029T170000Z
-LOCATION:Sienk. 5 pr. spoż. 1
-DTSTART:20251029T140000Z
-SUMMARY:Inżynieria jakości produktów żywnościowych I (laboratorium)
-UID:746d510c-b2e3-47a1-bf9b-293e77749fad@746d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20251031T141500Z
-LOCATION:Sienk. 4 pr. przem. 1\, Sienk. 4 pr. przem. 2
-DTSTART:20251031T111500Z
-SUMMARY:Inżynieria jakości produktów przemysłowych I (laboratorium)
-UID:732c4713-47cf-4019-9810-dbe22064ee4c@732c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20251128T141500Z
-LOCATION:Sienk. 4 pr. przem. 1\, Sienk. 4 pr. przem. 2
-DTSTART:20251128T111500Z
-SUMMARY:Inżynieria jakości produktów przemysłowych I (laboratorium)
-UID:6648e5e3-1a6a-4b0d-b156-294d95580f77@6648.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20251209T171500Z
-LOCATION:Paw.F 104
-DTSTART:20251209T154500Z
-SUMMARY:Inżynieria jakości produktów przemysłowych I (wykład)
-UID:b0235ea5-7366-4d28-aad3-7fb251689f4e@b023.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
-DTEND:20251105T083000Z
-LOCATION:Paw.F 107
-DTSTART:20251105T070000Z
-SUMMARY:Mikrobiologiczne podstawy jakości produktów (wykład)
-UID:83f3f955-320a-4350-b19f-ba43a7b356ef@83f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
-DTEND:20260116T101500Z
-LOCATION:Paw.F 102
-DTSTART:20260116T084500Z
-SUMMARY:Inżynieria jakości produktów żywnościowych I (wykład)
-UID:1df3d905-f983-48dc-9e12-66e224a0ba12@1df3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
-DTEND:20251015T160000Z
-LOCATION:Sienk. 5 pr. spoż. 1
-DTSTART:20251015T130000Z
-SUMMARY:Inżynieria jakości produktów żywnościowych I (laboratorium)
-UID:4529a9f0-3915-4998-892a-c0e7b62f3c7e@4529.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20251010T131500Z
-LOCATION:Sienk. 4 pr. przem. 1\, Sienk. 4 pr. przem. 2
-DTSTART:20251010T101500Z
-SUMMARY:Inżynieria jakości produktów przemysłowych I (laboratorium)
-UID:1bef0526-b4a3-446c-837c-eedd1707e927@1bef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
-DTEND:20251014T143000Z
-LOCATION:Paw.F 104
-DTSTART:20251014T130000Z
-SUMMARY:Inżynieria jakości produktów żywnościowych I (wykład)
-UID:d8a98e9f-ebcc-4130-8f6f-e3dfb0d8d319@d8a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Tataruch
-DTEND:20251002T073000Z
-LOCATION:Paw.F 104
-DTSTART:20251002T060000Z
-SUMMARY:Biochemia (wykład)
-UID:03e62634-ecd6-48e5-9c8a-9cfdc6bf458e@03e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251217T134500Z
-DTSTART:20251217T121500Z
-SUMMARY: (rezerwacja)
-UID:e0c51047-5957-4c92-b85b-f44942ee40a7@e0c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Tataruch
-DTEND:20251020T123000Z
-LOCATION:Sienk. 5 pr. chem. 1
-DTSTART:20251020T101500Z
-SUMMARY:Biochemia (laboratorium)
-UID:d4485448-12e3-4a2b-b1d5-69970927c546@d448.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
-DTEND:20251028T153000Z
-LOCATION:Paw.F 104
-DTSTART:20251028T140000Z
-SUMMARY:Inżynieria jakości produktów żywnościowych I (wykład)
-UID:101b44c8-fe87-4832-9f73-e431f7de2f74@101b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
-DTEND:20260129T101500Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21\, Paw.A 118 lab. Win10\, Office21
-DTSTART:20260129T084500Z
-SUMMARY: (egzamin)
-UID:c586c8f8-0c3c-41f5-8388-dc5a865c1a86@c586.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20251125T171500Z
-LOCATION:Paw.F 104
-DTSTART:20251125T154500Z
-SUMMARY:Inżynieria jakości produktów przemysłowych I (wykład)
-UID:aa830610-fbce-4453-83d8-74e45738012b@aa83.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
-DTEND:20251216T153000Z
-LOCATION:Paw.F 104
-DTSTART:20251216T140000Z
-SUMMARY:Inżynieria jakości produktów żywnościowych I (wykład)
-UID:1dca7a9a-59db-435d-bc91-9b1239b4493f@1dca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
-DTEND:20251105T170000Z
-LOCATION:Sienk. 5 pr. spoż. 1
-DTSTART:20251105T140000Z
-SUMMARY:Inżynieria jakości produktów żywnościowych I (laboratorium)
-UID:d6ffcd76-3691-4b86-8138-ae679924908a@d6ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
-DTEND:20251112T083000Z
-LOCATION:link do zajęć
-DTSTART:20251112T070000Z
-SUMMARY:Mikrobiologiczne podstawy jakości produktów (wykład zdalny)
-UID:01716ae8-2844-43f4-a5c4-f83495703bfb@0171.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20251124T171500Z
-LOCATION:Paw.F 613
-DTSTART:20251124T154500Z
-SUMMARY:Inżynieria jakości produktów przemysłowych I (wykład)
-UID:a3a5c50a-ff81-4fd4-be24-578b2232f1cd@a3a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20251021T161500Z
-LOCATION:Paw.F 104
-DTSTART:20251021T144500Z
-SUMMARY:Inżynieria jakości produktów przemysłowych I (wykład)
-UID:34007fdb-3a76-4600-9981-41185645e42a@3400.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
-DTEND:20251216T120000Z
-LOCATION:Paw.H Prac. mikrob.1
-DTSTART:20251216T103000Z
-SUMMARY:Mikrobiologiczne podstawy jakości produktów (laboratorium)
-UID:ba13e964-d884-42b8-ab63-568b83bcc7c8@ba13.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
-DTEND:20251029T083000Z
-LOCATION:Paw.F 107
-DTSTART:20251029T070000Z
-SUMMARY:Mikrobiologiczne podstawy jakości produktów (wykład)
-UID:fd25b076-c665-477a-ab28-307da2a1e46d@fd25.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
-DTEND:20251119T083000Z
-LOCATION:Paw.F 107
-DTSTART:20251119T070000Z
-SUMMARY:Mikrobiologiczne podstawy jakości produktów (wykład)
-UID:22da6714-2a4f-48f3-a0fa-f0327069d8c7@22da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
-DTEND:20251125T153000Z
-LOCATION:Paw.F 104
-DTSTART:20251125T140000Z
-SUMMARY:Inżynieria jakości produktów żywnościowych I (wykład)
-UID:a692eef4-45a5-4732-ad48-83f4d858c63f@a692.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
-DTEND:20260123T101500Z
-LOCATION:Paw.F 102
-DTSTART:20260123T084500Z
-SUMMARY:Inżynieria jakości produktów żywnościowych I (wykład)
-UID:e7418eb7-6881-4121-864b-9917f62b2681@e741.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
-DTEND:20251008T160000Z
-LOCATION:Sienk. 5 pr. spoż. 1
-DTSTART:20251008T130000Z
-SUMMARY:Inżynieria jakości produktów żywnościowych I (laboratorium)
-UID:fdd1113a-eb74-4689-9d93-77bcdb4c0d74@fdd1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20251024T131500Z
-LOCATION:Sienk. 4 pr. przem. 1\, Sienk. 4 pr. przem. 2
-DTSTART:20251024T101500Z
-SUMMARY:Inżynieria jakości produktów przemysłowych I (laboratorium)
-UID:b85e6820-25ad-4f14-8d99-adf9f72a2c76@b85e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
-DTEND:20251022T160000Z
-LOCATION:Sienk. 5 pr. spoż. 1
-DTSTART:20251022T130000Z
-SUMMARY:Inżynieria jakości produktów żywnościowych I (laboratorium)
-UID:6149409e-22af-4b60-9300-ed2526ed8265@6149.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Tataruch
-DTEND:20251030T083000Z
-DTSTART:20251030T070000Z
-SUMMARY:Biochemia (wykład zdalny)
-UID:5bf69031-c913-476b-a130-89e783f2f538@5bf6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20251003T131500Z
-LOCATION:Sienk. 4 pr. przem. 1\, Sienk. 4 pr. przem. 2
-DTSTART:20251003T101500Z
-SUMMARY:Inżynieria jakości produktów przemysłowych I (laboratorium)
-UID:721e4206-b25f-43f4-87c0-79c121aad0cc@721e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Tataruch
-DTEND:20251103T133000Z
-LOCATION:Sienk. 5 pr. chem. 1
-DTSTART:20251103T111500Z
-SUMMARY:Biochemia (laboratorium)
-UID:4195f647-b90c-4098-824d-d62bf7faa7ea@4195.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20251014T161500Z
-LOCATION:Paw.F 104
-DTSTART:20251014T144500Z
-SUMMARY:Inżynieria jakości produktów przemysłowych I (wykład)
-UID:098746a6-1911-4669-a3ce-a7db3e1ffd79@0987.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
-DTEND:20260114T170000Z
-LOCATION:Sienk. 5 pr. spoż. 1
-DTSTART:20260114T140000Z
-SUMMARY:Inżynieria jakości produktów żywnościowych I (laboratorium)
-UID:261a57d6-0056-4a07-a34d-34fbc4e9abfd@261a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
-DTEND:20251015T073000Z
-LOCATION:Paw.F 107
-DTSTART:20251015T060000Z
-SUMMARY:Mikrobiologiczne podstawy jakości produktów (wykład)
-UID:a345b5f8-10d4-448e-9abe-622e08437769@a345.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
-DTEND:20251202T153000Z
-LOCATION:Paw.F 104
-DTSTART:20251202T140000Z
-SUMMARY:Inżynieria jakości produktów żywnościowych I (wykład)
-UID:bb4ff0ac-5281-43a8-b1d1-18166ea60700@bb4f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
-DTEND:20260109T101500Z
-LOCATION:Paw.F 102
-DTSTART:20260109T084500Z
-SUMMARY:Inżynieria jakości produktów żywnościowych I (wykład)
-UID:e4c9853f-7573-4c12-9a88-3837c4cbb0cf@e4c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Tataruch
-DTEND:20251208T083000Z
-LOCATION:Paw.A 07 lab. Win7\, Office21\, Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20251208T070000Z
-SUMMARY:Biochemia (egzamin)
-UID:cfef610c-dde0-4b29-959a-1205ccdd84f7@cfef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20251007T161500Z
-LOCATION:Paw.F 104
-DTSTART:20251007T144500Z
-SUMMARY:Inżynieria jakości produktów przemysłowych I (wykład)
-UID:c5e8e7fc-c2bd-4fce-98d8-417da72e1808@c5e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
-DTEND:20251126T170000Z
-LOCATION:Sienk. 5 pr. spoż. 1
-DTSTART:20251126T140000Z
-SUMMARY:Inżynieria jakości produktów żywnościowych I (laboratorium)
-UID:c581cdcc-f64a-4d71-8144-b536506b2b1f@c581.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20260113T171500Z
-LOCATION:Paw.F 104
-DTSTART:20260113T154500Z
-SUMMARY:Inżynieria jakości produktów przemysłowych I (wykład)
-UID:115250bd-ba12-4e60-8f87-4e2fe01ade2a@1152.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20260116T141500Z
-LOCATION:Sienk. 4 pr. przem. 1\, Sienk. 4 pr. przem. 2
-DTSTART:20260116T111500Z
-SUMMARY:Inżynieria jakości produktów przemysłowych I (laboratorium)
-UID:f7056494-784a-43c1-8ae3-1f9d543aca9e@f705.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20251202T171500Z
-LOCATION:Paw.F 104
-DTSTART:20251202T154500Z
-SUMMARY:Inżynieria jakości produktów przemysłowych I (wykład)
-UID:74b2fe23-5967-4bd0-a73e-704c03653080@74b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Tataruch
-DTEND:20251027T133000Z
-LOCATION:Sienk. 5 pr. chem. 1
-DTSTART:20251027T111500Z
-SUMMARY:Biochemia (laboratorium)
-UID:866eb35e-783b-4eae-8efc-7cb366570f30@866e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20251201T170000Z
-LOCATION:Paw.F 613
-DTSTART:20251201T140000Z
-SUMMARY:Inżynieria jakości produktów przemysłowych I (wykład)
-UID:70546a55-110c-4ce9-a1b0-3fe872a05afe@7054.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251016T123000Z
-DTSTART:20251016T093000Z
-SUMMARY: (rezerwacja)
-UID:f53c404d-5587-4940-8c3a-b00c223496bd@f53c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20251212T141500Z
-LOCATION:Sienk. 4 pr. przem. 1\, Sienk. 4 pr. przem. 2
-DTSTART:20251212T111500Z
-SUMMARY:Inżynieria jakości produktów przemysłowych I (laboratorium)
-UID:30a42924-08bd-40d7-a637-c9f49845b78d@30a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20251121T141500Z
-LOCATION:Sienk. 4 pr. przem. 1\, Sienk. 4 pr. przem. 2
-DTSTART:20251121T111500Z
-SUMMARY:Inżynieria jakości produktów przemysłowych I (laboratorium)
-UID:79570609-3cdf-4f5d-a10e-3bc9d79b60bb@7957.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
-DTEND:20251202T133000Z
-LOCATION:Paw.H Prac. mikrob.1
-DTSTART:20251202T103000Z
-SUMMARY:Mikrobiologiczne podstawy jakości produktów (laboratorium)
-UID:375e5c89-8ac9-44e5-a32d-6274e714663a@375e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Tataruch
-DTEND:20251009T073000Z
-LOCATION:Paw.F 104
-DTSTART:20251009T060000Z
-SUMMARY:Biochemia (wykład)
-UID:65a3eb5d-fed1-43f3-a72d-a6c29bf957a5@65a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
-DTEND:20251021T143000Z
-LOCATION:Paw.F 104
-DTSTART:20251021T130000Z
-SUMMARY:Inżynieria jakości produktów żywnościowych I (wykład)
-UID:83d9fdcc-42c0-4721-8baa-b786cd68ccf7@83d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Tataruch
-DTEND:20251120T074500Z
-LOCATION:Paw.F 104
-DTSTART:20251120T070000Z
-SUMMARY:Biochemia (wykład)
-UID:a3e76b91-05d6-4401-a74b-7e86aad2d1b5@a3e7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
-DTEND:20251118T153000Z
-LOCATION:Paw.F 104
-DTSTART:20251118T140000Z
-SUMMARY:Inżynieria jakości produktów żywnościowych I (wykład)
-UID:efea22ab-ef15-408f-be80-9a532af47a49@efea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20251118T171500Z
-LOCATION:Paw.F 104
-DTSTART:20251118T154500Z
-SUMMARY:Inżynieria jakości produktów przemysłowych I (wykład)
-UID:91cc9539-332f-4126-8ec0-782e8e5592ac@91cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20251104T171500Z
-LOCATION:Paw.F 104
-DTSTART:20251104T154500Z
-SUMMARY:Inżynieria jakości produktów przemysłowych I (wykład)
-UID:7a3095b6-5d6d-463e-8c72-6ab8798e3286@7a30.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
-DTEND:20260115T133000Z
-LOCATION:Sienk. 5 pr. spoż. 1
-DTSTART:20260115T103000Z
-SUMMARY:Inżynieria jakości produktów żywnościowych I (laboratorium)
-UID:975ba103-b252-4fe3-9919-1b1cc684d7be@975b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
-DTEND:20251022T073000Z
-LOCATION:Paw.F 107
-DTSTART:20251022T060000Z
-SUMMARY:Mikrobiologiczne podstawy jakości produktów (wykład)
-UID:041bf040-afc9-412b-92be-936b899c13a2@041b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20251216T171500Z
-LOCATION:Paw.F 104
-DTSTART:20251216T154500Z
-SUMMARY:Inżynieria jakości produktów przemysłowych I (wykład)
-UID:c255eee9-0e10-4b16-9a4c-b44e5aaf4690@c255.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20251219T141500Z
-LOCATION:Sienk. 4 pr. przem. 1\, Sienk. 4 pr. przem. 2
-DTSTART:20251219T111500Z
-SUMMARY:Inżynieria jakości produktów przemysłowych I (laboratorium)
-UID:c1ae2726-299e-42b6-979d-329705df6635@c1ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
-DTEND:20251007T143000Z
-LOCATION:Paw.F 104
-DTSTART:20251007T130000Z
-SUMMARY:Inżynieria jakości produktów żywnościowych I (wykład)
-UID:d3f9f984-b8b3-48c5-9bcb-234898264bfd@d3f9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Tataruch
-DTEND:20251117T133000Z
-LOCATION:Sienk. 5 pr. chem. 1
-DTSTART:20251117T111500Z
-SUMMARY:Biochemia (laboratorium)
-UID:5d9dd217-00f0-443e-a845-1faa13ae8637@5d9d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
-DTEND:20260107T170000Z
-LOCATION:Sienk. 5 pr. spoż. 1
-DTSTART:20260107T140000Z
-SUMMARY:Inżynieria jakości produktów żywnościowych I (laboratorium)
-UID:f29dfe25-3c16-4127-95c5-a16e5ccb5ec3@f29d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
-DTEND:20251126T083000Z
-LOCATION:Paw.F 107
-DTSTART:20251126T070000Z
-SUMMARY:Mikrobiologiczne podstawy jakości produktów (wykład)
-UID:232e5e7e-d08e-48d2-90e4-3cf1be80452d@232e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
-DTEND:20251112T170000Z
-DTSTART:20251112T140000Z
-SUMMARY:Inżynieria jakości produktów żywnościowych I (Przeniesienie zajęć)
-UID:4c85e034-0173-48f9-8f6c-a81614e6d216@4c85.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
-DTEND:20251217T170000Z
-LOCATION:Sienk. 5 pr. spoż. 1
-DTSTART:20251217T140000Z
-SUMMARY:Inżynieria jakości produktów żywnościowych I (laboratorium)
-UID:b8313832-5e2b-4f11-9e0d-81d985baf6c3@b831.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20260123T141500Z
-LOCATION:Sienk. 4 pr. przem. 1\, Sienk. 4 pr. przem. 2
-DTSTART:20260123T111500Z
-SUMMARY:Inżynieria jakości produktów przemysłowych I (laboratorium)
-UID:bd3a9138-5a96-435f-9fd8-c6b32ec9fc1f@bd3a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
-DTEND:20251203T083000Z
-LOCATION:Paw.F 107
-DTSTART:20251203T074500Z
-SUMMARY:Mikrobiologiczne podstawy jakości produktów (wykład)
-UID:4960aaab-215e-45a7-b238-94b9940c8c46@4960.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20260109T141500Z
-LOCATION:Sienk. 4 pr. przem. 1\, Sienk. 4 pr. przem. 2
-DTSTART:20260109T111500Z
-SUMMARY:Inżynieria jakości produktów przemysłowych I (laboratorium)
-UID:0691d4d5-32bb-400a-964d-46efafd7d1f0@0691.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Tataruch
-DTEND:20251016T073000Z
-LOCATION:Paw.F 104
-DTSTART:20251016T060000Z
-SUMMARY:Biochemia (wykład)
-UID:d1e7334d-cb20-4ba2-a434-ceca775b1515@d1e7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
-DTEND:20260120T153000Z
-LOCATION:Paw.F 104
-DTSTART:20260120T140000Z
-SUMMARY:Inżynieria jakości produktów żywnościowych I (wykład)
-UID:771fa9f1-431c-4069-acd3-20c8aef473ce@771f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
-DTEND:20251118T133000Z
-LOCATION:Paw.H Prac. mikrob.1
-DTSTART:20251118T103000Z
-SUMMARY:Mikrobiologiczne podstawy jakości produktów (laboratorium)
-UID:f6034a86-0890-4845-8c73-0c1e683725ee@f603.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Tataruch
-DTEND:20251113T083000Z
-LOCATION:Paw.F 104
-DTSTART:20251113T070000Z
-SUMMARY:Biochemia (wykład)
-UID:14ced54e-42db-435e-a9f4-17f88f4099a8@14ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
-DTEND:20251209T153000Z
-LOCATION:Paw.F 104
-DTSTART:20251209T140000Z
-SUMMARY:Inżynieria jakości produktów żywnościowych I (wykład)
-UID:1dce449c-7a9e-4701-8c40-289528c0ed0c@1dce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20251107T141500Z
-LOCATION:Sienk. 4 pr. przem. 1\, Sienk. 4 pr. przem. 2
-DTSTART:20251107T111500Z
-SUMMARY:Inżynieria jakości produktów przemysłowych I (laboratorium)
-UID:40fd0faf-f16a-484f-84f6-f64233e89e5a@40fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
-DTEND:20251209T133000Z
-LOCATION:Paw.H Prac. mikrob.1
-DTSTART:20251209T103000Z
-SUMMARY:Mikrobiologiczne podstawy jakości produktów (laboratorium)
-UID:b56ab760-6a1f-4658-a1d5-cf304448ec3d@b56a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Tataruch
-DTEND:20251013T123000Z
-LOCATION:Sienk. 5 pr. chem. 1
-DTSTART:20251013T101500Z
-SUMMARY:Biochemia (laboratorium)
-UID:58431917-747b-4575-9aad-8335496f1a21@5843.org
+UID:4987f81b-f0a5-4b52-b8fc-e72aeaec3a6a@4987.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
@@ -739,6 +23,722 @@ DTEND:20251104T133000Z
 LOCATION:Paw.H Prac. mikrob.1
 DTSTART:20251104T103000Z
 SUMMARY:Mikrobiologiczne podstawy jakości produktów (laboratorium)
-UID:eb797389-bfa2-4cf4-9bdb-6840d8167300@eb79.org
+UID:8c35af75-598a-4aa6-b44c-030abb323529@8c35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Tataruch
+DTEND:20251002T073000Z
+LOCATION:Paw.F 104
+DTSTART:20251002T060000Z
+SUMMARY:Biochemia (wykład)
+UID:d8d6771e-5199-4ea9-bf8c-4ce1469adb50@d8d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20251021T161500Z
+LOCATION:Paw.F 104
+DTSTART:20251021T144500Z
+SUMMARY:Inżynieria jakości produktów przemysłowych I (wykład)
+UID:b39ac7c1-5b2a-438a-a633-32f81d05e8bc@b39a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
+DTEND:20251210T170000Z
+LOCATION:Sienk. 5 pr. spoż. 1
+DTSTART:20251210T140000Z
+SUMMARY:Inżynieria jakości produktów żywnościowych I (laboratorium)
+UID:f17c9854-cfe0-414f-8195-3b4e8f03a025@f17c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20251216T120000Z
+LOCATION:Paw.H Prac. mikrob.1
+DTSTART:20251216T103000Z
+SUMMARY:Mikrobiologiczne podstawy jakości produktów (laboratorium)
+UID:9c1653ff-6073-4ca1-9c17-19742e08b2a9@9c16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20251029T083000Z
+LOCATION:Paw.F 107
+DTSTART:20251029T070000Z
+SUMMARY:Mikrobiologiczne podstawy jakości produktów (wykład)
+UID:91997db9-c7b2-4afc-9e56-9a606e1cb231@9199.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20260109T141500Z
+LOCATION:Sienk. 4 pr. przem. 1\, Sienk. 4 pr. przem. 2
+DTSTART:20260109T111500Z
+SUMMARY:Inżynieria jakości produktów przemysłowych I (laboratorium)
+UID:f81be4b2-d9d7-4800-841c-0257ef60ab55@f81b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20251021T143000Z
+LOCATION:Paw.F 104
+DTSTART:20251021T130000Z
+SUMMARY:Inżynieria jakości produktów żywnościowych I (wykład)
+UID:2907e9cc-875e-4f88-8170-32cf5cf18e45@2907.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
+DTEND:20251105T170000Z
+LOCATION:Sienk. 5 pr. spoż. 1
+DTSTART:20251105T140000Z
+SUMMARY:Inżynieria jakości produktów żywnościowych I (laboratorium)
+UID:4500ad52-5665-4533-8a67-fd335723bfbe@4500.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Tataruch
+DTEND:20251009T073000Z
+LOCATION:Paw.F 104
+DTSTART:20251009T060000Z
+SUMMARY:Biochemia (wykład)
+UID:5dc4cef9-7fd3-4138-b9e9-f33690f76f54@5dc4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20251017T131500Z
+LOCATION:Sienk. 4 pr. przem. 1\, Sienk. 4 pr. przem. 2
+DTSTART:20251017T101500Z
+SUMMARY:Inżynieria jakości produktów przemysłowych I (laboratorium)
+UID:67da3920-4b85-4ca6-be1e-b3842b411887@67da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20251216T171500Z
+LOCATION:Paw.F 104
+DTSTART:20251216T154500Z
+SUMMARY:Inżynieria jakości produktów przemysłowych I (wykład)
+UID:f1777ed3-fcec-4180-99a3-6e4c8d2b1390@f177.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
+DTEND:20251029T170000Z
+LOCATION:Sienk. 5 pr. spoż. 1
+DTSTART:20251029T140000Z
+SUMMARY:Inżynieria jakości produktów żywnościowych I (laboratorium)
+UID:a3a44ea7-4f44-4a87-814a-f41d80dd30ea@a3a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Tataruch
+DTEND:20251106T083000Z
+LOCATION:link do zajęć
+DTSTART:20251106T070000Z
+SUMMARY:Biochemia (wykład zdalny)
+UID:cd68ea8e-8279-4619-89ba-6ac239a239dc@cd68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20251126T083000Z
+LOCATION:Paw.F 107
+DTSTART:20251126T070000Z
+SUMMARY:Mikrobiologiczne podstawy jakości produktów (wykład)
+UID:7cf3f047-8753-4525-8506-c1e4296ec801@7cf3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20251118T153000Z
+LOCATION:Paw.F 104
+DTSTART:20251118T140000Z
+SUMMARY:Inżynieria jakości produktów żywnościowych I (wykład)
+UID:5d9b0513-bfc6-4fd2-a536-dc6ad86dd6b9@5d9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20251022T073000Z
+LOCATION:Paw.F 107
+DTSTART:20251022T060000Z
+SUMMARY:Mikrobiologiczne podstawy jakości produktów (wykład)
+UID:c33dab19-4bb2-4189-97ec-8e0030f7cedf@c33d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
+DTEND:20251001T160000Z
+LOCATION:Sienk. 5 pr. spoż. 1
+DTSTART:20251001T130000Z
+SUMMARY:Inżynieria jakości produktów żywnościowych I (laboratorium)
+UID:987e3d78-0a20-4392-a748-3d2e1c71a38a@987e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20251216T153000Z
+LOCATION:Paw.F 104
+DTSTART:20251216T140000Z
+SUMMARY:Inżynieria jakości produktów żywnościowych I (wykład)
+UID:1d80d677-3d11-4de3-8bf1-f99a87f2666d@1d80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
+DTEND:20260109T101500Z
+LOCATION:Paw.F 102
+DTSTART:20260109T084500Z
+SUMMARY:Inżynieria jakości produktów żywnościowych I (wykład)
+UID:b55d6107-a668-4f96-aa55-2017d2fd8125@b55d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20260113T171500Z
+LOCATION:Paw.F 104
+DTSTART:20260113T154500Z
+SUMMARY:Inżynieria jakości produktów przemysłowych I (wykład)
+UID:fbee4c1a-c558-4a67-9857-85960feb1cd6@fbee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20251104T171500Z
+LOCATION:Paw.F 104
+DTSTART:20251104T154500Z
+SUMMARY:Inżynieria jakości produktów przemysłowych I (wykład)
+UID:759900a2-7081-4947-ad88-9afe6de56ad7@7599.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
+DTEND:20260115T133000Z
+LOCATION:Sienk. 5 pr. spoż. 1
+DTSTART:20260115T103000Z
+SUMMARY:Inżynieria jakości produktów żywnościowych I (laboratorium)
+UID:57df02bb-e6b5-4837-afd4-26dcd6433fbd@57df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20251124T171500Z
+LOCATION:Paw.F 613
+DTSTART:20251124T154500Z
+SUMMARY:Inżynieria jakości produktów przemysłowych I (wykład)
+UID:86f720a2-1fc4-4136-9134-53f7866e4eb5@86f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Tataruch
+DTEND:20251023T073000Z
+LOCATION:Paw.F 104
+DTSTART:20251023T060000Z
+SUMMARY:Biochemia (wykład)
+UID:810a9e6a-8de5-4418-aeb2-e347047564ab@810a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
+DTEND:20260113T153000Z
+LOCATION:Paw.F 104
+DTSTART:20260113T140000Z
+SUMMARY:Inżynieria jakości produktów żywnościowych I (wykład)
+UID:d58a5c2b-8849-40b9-9a7f-5495ba0a7166@d58a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20251028T171500Z
+LOCATION:Paw.F 104
+DTSTART:20251028T154500Z
+SUMMARY:Inżynieria jakości produktów przemysłowych I (wykład)
+UID:cd7decc2-c664-4256-88e4-0440c36c2839@cd7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Tataruch
+DTEND:20251020T123000Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20251020T101500Z
+SUMMARY:Biochemia (laboratorium)
+UID:e3280fe4-7f05-4d6d-bbac-b22f1400a888@e328.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
+DTEND:20251126T170000Z
+LOCATION:Sienk. 5 pr. spoż. 1
+DTSTART:20251126T140000Z
+SUMMARY:Inżynieria jakości produktów żywnościowych I (laboratorium)
+UID:f12f6977-a0dd-43fb-80fa-28ee96f89bd8@f12f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20251125T133000Z
+LOCATION:Paw.H Prac. mikrob.1
+DTSTART:20251125T103000Z
+SUMMARY:Mikrobiologiczne podstawy jakości produktów (laboratorium)
+UID:a7c6ca2c-34c3-4463-9c08-477e92e6ad7b@a7c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20260123T141500Z
+LOCATION:Sienk. 4 pr. przem. 1\, Sienk. 4 pr. przem. 2
+DTSTART:20260123T111500Z
+SUMMARY:Inżynieria jakości produktów przemysłowych I (laboratorium)
+UID:f6030bd3-48a8-4fff-b2e5-7c575354d8c9@f603.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
+DTEND:20251203T170000Z
+LOCATION:Sienk. 5 pr. spoż. 1
+DTSTART:20251203T140000Z
+SUMMARY:Inżynieria jakości produktów żywnościowych I (laboratorium)
+UID:2b2ab6ac-24bf-425a-a76e-0f74298cab54@2b2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20251209T171500Z
+LOCATION:Paw.F 104
+DTSTART:20251209T154500Z
+SUMMARY:Inżynieria jakości produktów przemysłowych I (wykład)
+UID:f1107f56-3d2b-4b19-8679-39c941fb402b@f110.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20251125T171500Z
+LOCATION:Paw.F 104
+DTSTART:20251125T154500Z
+SUMMARY:Inżynieria jakości produktów przemysłowych I (wykład)
+UID:c3ba339b-73be-49f2-b1b2-72177c991c82@c3ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251217T134500Z
+DTSTART:20251217T121500Z
+SUMMARY: (rezerwacja)
+UID:9ab6815d-8360-4d9e-9575-5dbb728a9e2b@9ab6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20251105T083000Z
+LOCATION:Paw.F 107
+DTSTART:20251105T070000Z
+SUMMARY:Mikrobiologiczne podstawy jakości produktów (wykład)
+UID:e87e8802-e30c-4ee0-81eb-eb7a4c754f56@e87e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20251007T161500Z
+LOCATION:Paw.F 104
+DTSTART:20251007T144500Z
+SUMMARY:Inżynieria jakości produktów przemysłowych I (wykład)
+UID:a5ca4e03-3801-49aa-af95-67e08be68721@a5ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20251114T141500Z
+LOCATION:Sienk. 4 pr. przem. 1\, Sienk. 4 pr. przem. 2
+DTSTART:20251114T111500Z
+SUMMARY:Inżynieria jakości produktów przemysłowych I (laboratorium)
+UID:15dfd812-108f-4a09-b49a-d4cec231871c@15df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
+DTEND:20251022T160000Z
+LOCATION:Sienk. 5 pr. spoż. 1
+DTSTART:20251022T130000Z
+SUMMARY:Inżynieria jakości produktów żywnościowych I (laboratorium)
+UID:68965114-a4b9-4ec8-accd-793d8a607c05@6896.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20260129T101500Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21\, Paw.A 118 lab. Win10\, Office21
+DTSTART:20260129T084500Z
+SUMMARY: (egzamin)
+UID:971b5b83-5679-4587-93b0-0bf888eff1f3@971b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20251003T131500Z
+LOCATION:Sienk. 4 pr. przem. 1\, Sienk. 4 pr. przem. 2
+DTSTART:20251003T101500Z
+SUMMARY:Inżynieria jakości produktów przemysłowych I (laboratorium)
+UID:b143cc88-afb7-475c-a89b-39b2008ce091@b143.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20251010T131500Z
+LOCATION:Sienk. 4 pr. przem. 1\, Sienk. 4 pr. przem. 2
+DTSTART:20251010T101500Z
+SUMMARY:Inżynieria jakości produktów przemysłowych I (laboratorium)
+UID:144ea3b3-5948-4087-bfdb-62b0376b9694@144e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20251104T153000Z
+LOCATION:Paw.F 104
+DTSTART:20251104T140000Z
+SUMMARY:Inżynieria jakości produktów żywnościowych I (wykład)
+UID:a04be916-02fd-4056-8858-1ecac16f846f@a04b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Tataruch
+DTEND:20251120T074500Z
+LOCATION:Paw.F 104
+DTSTART:20251120T070000Z
+SUMMARY:Biochemia (wykład)
+UID:646d9aff-4e0c-4cdd-a275-9f11d130fecc@646d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20251014T161500Z
+LOCATION:Paw.F 104
+DTSTART:20251014T144500Z
+SUMMARY:Inżynieria jakości produktów przemysłowych I (wykład)
+UID:1eb8ca2d-690f-4265-9315-477226ed168a@1eb8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
+DTEND:20251112T170000Z
+DTSTART:20251112T140000Z
+SUMMARY:Inżynieria jakości produktów żywnościowych I (Przeniesienie zajęć)
+UID:239ebe5c-a303-42a1-bb13-440b59bab8a2@239e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
+DTEND:20260107T170000Z
+LOCATION:Sienk. 5 pr. spoż. 1
+DTSTART:20260107T140000Z
+SUMMARY:Inżynieria jakości produktów żywnościowych I (laboratorium)
+UID:c17f48ca-3923-4807-b6aa-1fa0f00f7532@c17f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Tataruch
+DTEND:20251027T133000Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20251027T111500Z
+SUMMARY:Biochemia (laboratorium)
+UID:cbdd4b58-92d1-4033-b71e-d77af68e08f7@cbdd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251016T123000Z
+DTSTART:20251016T093000Z
+SUMMARY: (rezerwacja)
+UID:905d0c9d-7d46-4b06-9d0b-ce97998f0d6c@905d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20251212T141500Z
+LOCATION:Sienk. 4 pr. przem. 1\, Sienk. 4 pr. przem. 2
+DTSTART:20251212T111500Z
+SUMMARY:Inżynieria jakości produktów przemysłowych I (laboratorium)
+UID:8b2002f7-dbd0-40ac-9029-4163a0f16396@8b20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Tataruch
+DTEND:20251016T073000Z
+LOCATION:Paw.F 104
+DTSTART:20251016T060000Z
+SUMMARY:Biochemia (wykład)
+UID:c23567d4-df0e-4e4d-92ca-5ebcc3d96e28@c235.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20251107T141500Z
+LOCATION:Sienk. 4 pr. przem. 1\, Sienk. 4 pr. przem. 2
+DTSTART:20251107T111500Z
+SUMMARY:Inżynieria jakości produktów przemysłowych I (laboratorium)
+UID:5ea98a07-ba85-48c8-be9a-f8fe7b2b4a4b@5ea9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20251031T141500Z
+LOCATION:Sienk. 4 pr. przem. 1\, Sienk. 4 pr. przem. 2
+DTSTART:20251031T111500Z
+SUMMARY:Inżynieria jakości produktów przemysłowych I (laboratorium)
+UID:1839c598-7d55-4b7e-ad47-9f1385581cfd@1839.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
+DTEND:20260116T101500Z
+LOCATION:Paw.F 102
+DTSTART:20260116T084500Z
+SUMMARY:Inżynieria jakości produktów żywnościowych I (wykład)
+UID:57857d57-fab4-4975-9c21-a195d402307b@5785.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20251118T133000Z
+LOCATION:Paw.H Prac. mikrob.1
+DTSTART:20251118T103000Z
+SUMMARY:Mikrobiologiczne podstawy jakości produktów (laboratorium)
+UID:05d1b00c-8b14-45de-9711-6ccb8d78828d@05d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20251119T083000Z
+LOCATION:Paw.F 107
+DTSTART:20251119T070000Z
+SUMMARY:Mikrobiologiczne podstawy jakości produktów (wykład)
+UID:dd047235-d29c-4cc5-912c-2f69426edbe4@dd04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
+DTEND:20260123T101500Z
+LOCATION:Paw.F 102
+DTSTART:20260123T084500Z
+SUMMARY:Inżynieria jakości produktów żywnościowych I (wykład)
+UID:4929fb9d-f25b-48a1-b10e-9a5a8280eb8c@4929.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
+DTEND:20251119T170000Z
+LOCATION:Sienk. 5 pr. spoż. 1
+DTSTART:20251119T140000Z
+SUMMARY:Inżynieria jakości produktów żywnościowych I (laboratorium)
+UID:449c0ed2-a246-4e3b-9d2e-6667f2ee7a83@449c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
+DTEND:20260121T170000Z
+LOCATION:Sienk. 5 pr. spoż. 1
+DTSTART:20260121T140000Z
+SUMMARY:Inżynieria jakości produktów żywnościowych I (laboratorium)
+UID:be1a029b-4c3c-444d-976c-71a4f35720b9@be1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20251024T131500Z
+LOCATION:Sienk. 4 pr. przem. 1\, Sienk. 4 pr. przem. 2
+DTSTART:20251024T101500Z
+SUMMARY:Inżynieria jakości produktów przemysłowych I (laboratorium)
+UID:5f3d63f8-ae09-4a74-8467-70bd2c0dc184@5f3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
+DTEND:20251008T160000Z
+LOCATION:Sienk. 5 pr. spoż. 1
+DTSTART:20251008T130000Z
+SUMMARY:Inżynieria jakości produktów żywnościowych I (laboratorium)
+UID:1fc312b6-2cd5-4a63-89ba-72aa6c25e18a@1fc3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20251209T133000Z
+LOCATION:Paw.H Prac. mikrob.1
+DTSTART:20251209T103000Z
+SUMMARY:Mikrobiologiczne podstawy jakości produktów (laboratorium)
+UID:3227c27b-1308-4103-b89e-965410d488ba@3227.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Tataruch
+DTEND:20251117T133000Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20251117T111500Z
+SUMMARY:Biochemia (laboratorium)
+UID:506725e4-bfe2-4ef6-bbba-1bdc847496e3@5067.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20251202T153000Z
+LOCATION:Paw.F 104
+DTSTART:20251202T140000Z
+SUMMARY:Inżynieria jakości produktów żywnościowych I (wykład)
+UID:9079d43a-b92a-4d13-a34f-a613d25a20dc@9079.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Tataruch
+DTEND:20251113T083000Z
+LOCATION:Paw.F 104
+DTSTART:20251113T070000Z
+SUMMARY:Biochemia (wykład)
+UID:e3696442-d9c1-4655-841b-772fcf086ffd@e369.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20251007T143000Z
+LOCATION:Paw.F 104
+DTSTART:20251007T130000Z
+SUMMARY:Inżynieria jakości produktów żywnościowych I (wykład)
+UID:00b7157f-509e-484d-bd0a-a0047dfdd386@00b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Tataruch
+DTEND:20251103T133000Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20251103T111500Z
+SUMMARY:Biochemia (laboratorium)
+UID:fe7573f5-aeae-4d16-aeab-a83e3c7d3fa2@fe75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20251121T141500Z
+LOCATION:Sienk. 4 pr. przem. 1\, Sienk. 4 pr. przem. 2
+DTSTART:20251121T111500Z
+SUMMARY:Inżynieria jakości produktów przemysłowych I (laboratorium)
+UID:acd098fd-bb99-4523-9a46-9a241e61db3d@acd0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20251125T153000Z
+LOCATION:Paw.F 104
+DTSTART:20251125T140000Z
+SUMMARY:Inżynieria jakości produktów żywnościowych I (wykład)
+UID:91aa40b1-a4e2-492a-8068-7f06ad51af9c@91aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20251202T171500Z
+LOCATION:Paw.F 104
+DTSTART:20251202T154500Z
+SUMMARY:Inżynieria jakości produktów przemysłowych I (wykład)
+UID:60ae351b-9dca-40ca-aa3f-8023f9363011@60ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20251128T141500Z
+LOCATION:Sienk. 4 pr. przem. 1\, Sienk. 4 pr. przem. 2
+DTSTART:20251128T111500Z
+SUMMARY:Inżynieria jakości produktów przemysłowych I (laboratorium)
+UID:3450f631-61b2-46de-95e7-924b917ed171@3450.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20251201T170000Z
+LOCATION:Paw.F 613
+DTSTART:20251201T140000Z
+SUMMARY:Inżynieria jakości produktów przemysłowych I (wykład)
+UID:dcbd3a0a-7f70-4cb7-a06f-1741c6dfa595@dcbd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20251014T143000Z
+LOCATION:Paw.F 104
+DTSTART:20251014T130000Z
+SUMMARY:Inżynieria jakości produktów żywnościowych I (wykład)
+UID:1e3f9437-f86f-4dce-92a1-6e8098a2df7c@1e3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20251015T073000Z
+LOCATION:Paw.F 107
+DTSTART:20251015T060000Z
+SUMMARY:Mikrobiologiczne podstawy jakości produktów (wykład)
+UID:1fbe6b64-62fc-488f-8bfb-c9e040dbd5bf@1fbe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20251028T133000Z
+LOCATION:Paw.H Prac. mikrob.1
+DTSTART:20251028T103000Z
+SUMMARY:Mikrobiologiczne podstawy jakości produktów (laboratorium)
+UID:173efa13-9666-48e5-a728-9c14f4137976@173e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20251209T153000Z
+LOCATION:Paw.F 104
+DTSTART:20251209T140000Z
+SUMMARY:Inżynieria jakości produktów żywnościowych I (wykład)
+UID:12ff3afb-d56e-4523-b52a-3dc5c20bdfa2@12ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20251205T141500Z
+LOCATION:Sienk. 4 pr. przem. 1\, Sienk. 4 pr. przem. 2
+DTSTART:20251205T111500Z
+SUMMARY:Inżynieria jakości produktów przemysłowych I (laboratorium)
+UID:5f5dea92-f4d9-4420-b836-4da18ef81ef2@5f5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
+DTEND:20251217T170000Z
+LOCATION:Sienk. 5 pr. spoż. 1
+DTSTART:20251217T140000Z
+SUMMARY:Inżynieria jakości produktów żywnościowych I (laboratorium)
+UID:adde8906-4fc6-458f-ae87-e6afe70d32c8@adde.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20251219T141500Z
+LOCATION:Sienk. 4 pr. przem. 1\, Sienk. 4 pr. przem. 2
+DTSTART:20251219T111500Z
+SUMMARY:Inżynieria jakości produktów przemysłowych I (laboratorium)
+UID:bfc556b5-9f24-4586-a8c7-6de06377f970@bfc5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20260116T141500Z
+LOCATION:Sienk. 4 pr. przem. 1\, Sienk. 4 pr. przem. 2
+DTSTART:20260116T111500Z
+SUMMARY:Inżynieria jakości produktów przemysłowych I (laboratorium)
+UID:60a8beb0-4187-4c6e-81be-d969b098e111@60a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Tataruch
+DTEND:20251030T083000Z
+DTSTART:20251030T070000Z
+SUMMARY:Biochemia (wykład zdalny)
+UID:2fb1f62c-870f-4e5b-af5e-30fb99cc0423@2fb1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20251203T083000Z
+LOCATION:Paw.F 107
+DTSTART:20251203T074500Z
+SUMMARY:Mikrobiologiczne podstawy jakości produktów (wykład)
+UID:fdd0ffe1-2fa7-40be-8547-f83b90f4fdd5@fdd0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Tataruch
+DTEND:20251208T083000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21\, Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20251208T070000Z
+SUMMARY:Biochemia (egzamin)
+UID:9ab7890b-2382-477c-a469-63fb7b65946a@9ab7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
+DTEND:20260120T153000Z
+LOCATION:Paw.F 104
+DTSTART:20260120T140000Z
+SUMMARY:Inżynieria jakości produktów żywnościowych I (wykład)
+UID:48806a23-fdda-47bb-a887-e1a62d4a01bd@4880.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
+DTEND:20251015T160000Z
+LOCATION:Sienk. 5 pr. spoż. 1
+DTSTART:20251015T130000Z
+SUMMARY:Inżynieria jakości produktów żywnościowych I (laboratorium)
+UID:255f20de-c916-4630-9450-e365e9308731@255f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20251112T083000Z
+LOCATION:link do zajęć
+DTSTART:20251112T070000Z
+SUMMARY:Mikrobiologiczne podstawy jakości produktów (wykład zdalny)
+UID:f2685f6b-6c4e-4343-a9da-d626b071619d@f268.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20260120T171500Z
+LOCATION:Paw.F 104
+DTSTART:20260120T154500Z
+SUMMARY:Inżynieria jakości produktów przemysłowych I (wykład)
+UID:404464d7-8176-4a43-88ff-5890ba6ddde5@4044.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20251028T153000Z
+LOCATION:Paw.F 104
+DTSTART:20251028T140000Z
+SUMMARY:Inżynieria jakości produktów żywnościowych I (wykład)
+UID:fc362214-b955-48ca-be02-6a25ede6206c@fc36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20251202T133000Z
+LOCATION:Paw.H Prac. mikrob.1
+DTSTART:20251202T103000Z
+SUMMARY:Mikrobiologiczne podstawy jakości produktów (laboratorium)
+UID:91a59d33-5e6f-4f4b-ace6-174e62cbcb6a@91a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
+DTEND:20260114T170000Z
+LOCATION:Sienk. 5 pr. spoż. 1
+DTSTART:20260114T140000Z
+SUMMARY:Inżynieria jakości produktów żywnościowych I (laboratorium)
+UID:bfffa786-eccc-4b05-a0f4-162468f5b050@bfff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Tataruch
+DTEND:20251013T123000Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20251013T101500Z
+SUMMARY:Biochemia (laboratorium)
+UID:601b8988-1f84-4e58-84bb-3dbb73596232@601b.org
 END:VEVENT
 END:VCALENDAR
