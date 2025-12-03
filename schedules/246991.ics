@@ -2,64 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Łuc
+DTEND:20251026T114500Z
+DTSTART:20251026T093000Z
+SUMMARY:Prawo gospodarcze (wykład)
+UID:6de93da7-fbc6-4758-9e2e-78541ecc2fe4@6de9.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Maciej Kędziera
 DTEND:20251212T194500Z
 LOCATION:Bud.gł. 7
 DTSTART:20251212T173000Z
 SUMMARY:Zarządzanie oparte na wiedzy (ćwiczenia)
-UID:9ae15f72-f592-4736-a61f-487353cf13df@9ae1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Bogusz Mikuła
-DTEND:20251018T104500Z
-DTSTART:20251018T083000Z
-SUMMARY:Zarządzanie oparte na wiedzy (wykład)
-UID:062b2140-12e3-47ec-a8bb-7ff2677b4640@062b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Sławomir Wawak
-DTEND:20251026T091500Z
-DTSTART:20251026T070000Z
-SUMMARY:Metody zarządzania projektami (wykład)
-UID:c2d2cd1e-5c6a-494a-bdbf-5c959fbcb824@c2d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Sławomir Wawak
-DTEND:20251019T133000Z
-DTSTART:20251019T111500Z
-SUMMARY:Metody zarządzania projektami (wykład)
-UID:ec833257-9a79-4c7f-ab4c-39c3e11407cb@ec83.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Łuc
-DTEND:20251221T124500Z
-LOCATION:link do zajęć
-DTSTART:20251221T103000Z
-SUMMARY:Prawo gospodarcze (wykład)
-UID:f1352db9-d545-438e-aead-a9cfc3c0b37c@f135.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Sławomir Wawak
-DTEND:20251019T081500Z
-DTSTART:20251019T060000Z
-SUMMARY:Zarządzanie procesowe (wykład)
-UID:9921e5e4-183f-4968-839b-ca40f622defd@9921.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Sławomir Wawak
-DTEND:20260130T200000Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20260130T191500Z
-SUMMARY:Metody zarządzania projektami (egzamin)
-UID:0b0c2fae-dfaf-41f9-af27-66eb66f71a4e@0b0c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Bogusz Mikuła
-DTEND:20251116T143000Z
-LOCATION:link do zajęć
-DTSTART:20251116T121500Z
-SUMMARY:Zarządzanie oparte na wiedzy (wykład)
-UID:287254c9-3e77-4b3e-bfe8-c0849b14dee5@2872.org
+UID:038f4e7f-f09c-4f46-adfd-c1e2190731ea@038f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Sławomir Wawak
@@ -67,125 +22,15 @@ DTEND:20260206T200000Z
 LOCATION:Paw.A 013 lab. Win10\, Office21
 DTSTART:20260206T191500Z
 SUMMARY:Metody zarządzania projektami (egzamin)
-UID:883b516d-9d44-46bc-9b28-46a48112622f@883b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Maciej Walczak
-DTEND:20260111T091500Z
-LOCATION:link do zajęć
-DTSTART:20260111T070000Z
-SUMMARY:Współczesne koncepcje zarządzania (wykład)
-UID:ea63eda2-90ed-4f5f-b16e-0e925ac135a2@ea63.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Kamila Kwiatkowska
-DTEND:20260110T143000Z
-LOCATION:Paw.F 516
-DTSTART:20260110T121500Z
-SUMMARY:Zarządzanie procesowe (ćwiczenia)
-UID:b205f841-c7ca-4ab4-be08-7df24544d4ce@b205.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Maciej Walczak
-DTEND:20251018T133000Z
-DTSTART:20251018T111500Z
-SUMMARY:Współczesne koncepcje zarządzania (wykład)
-UID:8fbf2bd5-41eb-4a86-b613-79514443d420@8fbf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Kamila Kwiatkowska
-DTEND:20251017T160000Z
-LOCATION:Paw.F 104
-DTSTART:20251017T134500Z
-SUMMARY:Zarządzanie procesowe (ćwiczenia)
-UID:43fcd387-37eb-4fb7-83ab-81fae951e096@43fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Sławomir Wawak
-DTEND:20260116T194500Z
-LOCATION:link do zajęć
-DTSTART:20260116T173000Z
-SUMMARY:Metody zarządzania projektami (wykład)
-UID:1612a0c1-703b-4cd9-880d-1a02268882cc@1612.org
+UID:ebccf7ec-d7d6-438b-b16d-2764a6d462f1@ebcc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Michał Łuc
-DTEND:20260110T170000Z
-LOCATION:Paw.C sala B
-DTSTART:20260110T144500Z
-SUMMARY:Prawo gospodarcze (ćwiczenia)
-UID:33de5868-8ee5-4753-b12e-4338b8301633@33de.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Łuc
-DTEND:20251130T161500Z
+DTEND:20251221T124500Z
 LOCATION:link do zajęć
-DTSTART:20251130T140000Z
+DTSTART:20251221T103000Z
 SUMMARY:Prawo gospodarcze (wykład)
-UID:06b63b7b-0c2e-45ad-9751-841afdb41bcc@06b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Woźniak
-DTEND:20251026T143000Z
-DTSTART:20251026T121500Z
-SUMMARY:Zarządzanie transformacją cyfrową (wykład)
-UID:f14777d6-66fc-4720-ac34-0e520ff23c3f@f147.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Sławomir Wawak
-DTEND:20251130T091500Z
-LOCATION:link do zajęć
-DTSTART:20251130T070000Z
-SUMMARY:Zarządzanie procesowe (wykład)
-UID:cadf901d-0c79-45dd-a299-752ffc052fd7@cadf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Maciej Walczak
-DTEND:20260131T083000Z
-LOCATION:Paw.C sala E
-DTSTART:20260131T070000Z
-SUMMARY:Współczesne koncepcje zarządzania (egzamin)
-UID:6d32ae23-b9d7-46af-b2aa-b63b312acbd7@6d32.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Bogusz Mikuła
-DTEND:20260111T143000Z
-LOCATION:link do zajęć
-DTSTART:20260111T121500Z
-SUMMARY:Zarządzanie oparte na wiedzy (wykład)
-UID:1e9f2f19-7999-4e31-a11d-8380e99f771c@1e9f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Sławomir Wawak
-DTEND:20251214T091500Z
-LOCATION:link do zajęć
-DTSTART:20251214T070000Z
-SUMMARY:Zarządzanie procesowe (wykład)
-UID:e2060c29-4039-4275-888c-6f41a5cfda1e@e206.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Kamila Kwiatkowska
-DTEND:20251129T170000Z
-LOCATION:link do zajęć
-DTSTART:20251129T144500Z
-SUMMARY:Zarządzanie procesowe (ćwiczenia zdalne)
-UID:7aada4da-aea5-4d48-8db1-c44ac620ecf5@7aad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Angelika Wodecka-Hyjek
-DTEND:20251024T184500Z
-LOCATION:Bud.gł. 4
-DTSTART:20251024T163000Z
-SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
-UID:272e013b-8333-4cab-9fd1-ed4298954fa1@272e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Sławomir Wawak
-DTEND:20251130T114500Z
-LOCATION:link do zajęć
-DTSTART:20251130T093000Z
-SUMMARY:Metody zarządzania projektami (wykład)
-UID:85be5ced-cae3-4e22-bb00-a3422cf4216e@85be.org
+UID:15ee3e05-e1f6-4f85-8c20-1c6094eea53c@15ee.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Kamila Kwiatkowska
@@ -193,23 +38,15 @@ DTEND:20251213T114500Z
 LOCATION:Paw.B 351
 DTSTART:20251213T093000Z
 SUMMARY:Zarządzanie procesowe (ćwiczenia)
-UID:9c10be4c-7a47-4425-b6dd-338d5c99897c@9c10.org
+UID:a702a346-24ff-48d8-95a5-4afde40cb34f@a702.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Sławomir Wawak
-DTEND:20260111T114500Z
+DTEND:20251214T091500Z
 LOCATION:link do zajęć
-DTSTART:20260111T093000Z
-SUMMARY:Metody zarządzania projektami (wykład)
-UID:030b4af9-9bd0-4f00-a1c4-1f4fb038954b@030b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Kamila Kwiatkowska
-DTEND:20260117T170000Z
-LOCATION:Paw.F 106
-DTSTART:20260117T144500Z
-SUMMARY:Zarządzanie procesowe (ćwiczenia)
-UID:6ec7be6e-e8c3-40be-bb6c-a5606f9f82fe@6ec7.org
+DTSTART:20251214T070000Z
+SUMMARY:Zarządzanie procesowe (wykład)
+UID:ada26897-130a-4e8d-bb70-95d6a7da7e74@ada2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Angelika Wodecka-Hyjek
@@ -217,31 +54,23 @@ DTEND:20251128T194500Z
 LOCATION:Paw.B 151
 DTSTART:20251128T173000Z
 SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
-UID:faf6bda3-e953-4606-acd3-6723642739ae@faf6.org
+UID:294d3fd1-d37e-47af-8a44-037bc66a1783@294d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Angelika Wodecka-Hyjek
-DTEND:20260109T194500Z
-LOCATION:Paw.F 717
-DTSTART:20260109T173000Z
-SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
-UID:1d2ec4c4-e706-40cd-8d9d-7d8aabe6fe26@1d2e.org
+DESCRIPTION:Instructor: mgr Kamila Kwiatkowska
+DTEND:20251017T160000Z
+LOCATION:Paw.F 104
+DTSTART:20251017T134500Z
+SUMMARY:Zarządzanie procesowe (ćwiczenia)
+UID:9e723078-7eb6-49b7-b54f-eae9737e4cfd@9e72.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Kędziera
-DTEND:20251017T184500Z
-LOCATION:Paw.F 109
-DTSTART:20251017T163000Z
-SUMMARY:Zarządzanie oparte na wiedzy (ćwiczenia)
-UID:3379ee4a-5750-469b-9772-7eb2ee70c0bd@3379.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Woźniak
-DTEND:20251116T114500Z
+DESCRIPTION:Instructor: mgr Kamila Kwiatkowska
+DTEND:20251129T170000Z
 LOCATION:link do zajęć
-DTSTART:20251116T093000Z
-SUMMARY:Zarządzanie transformacją cyfrową (wykład)
-UID:1cbba9a0-86b3-4914-bbad-788456ed90cb@1cbb.org
+DTSTART:20251129T144500Z
+SUMMARY:Zarządzanie procesowe (ćwiczenia zdalne)
+UID:4c4b16ea-96ac-4e57-9e0c-a3d6ac48348c@4c4b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Maciej Kędziera
@@ -249,47 +78,7 @@ DTEND:20260109T170000Z
 LOCATION:Paw.S sala 6
 DTSTART:20260109T144500Z
 SUMMARY:Zarządzanie oparte na wiedzy (ćwiczenia)
-UID:e94766ab-e7aa-4ad8-8911-5ca49dc6b82b@e947.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Woźniak
-DTEND:20251214T143000Z
-LOCATION:link do zajęć
-DTSTART:20251214T121500Z
-SUMMARY:Zarządzanie transformacją cyfrową (wykład)
-UID:6ed41503-0090-4358-9522-71c35fb8f5e6@6ed4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Łuc
-DTEND:20251213T170000Z
-LOCATION:Paw.S sala 10
-DTSTART:20251213T144500Z
-SUMMARY:Prawo gospodarcze (ćwiczenia)
-UID:1907837b-6e7b-4f84-846f-ad25c2d15f81@1907.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Kamila Kwiatkowska
-DTEND:20251025T141500Z
-LOCATION:Paw.B 054 (KSB)
-DTSTART:20251025T120000Z
-SUMMARY:Zarządzanie procesowe (ćwiczenia)
-UID:fb9ff063-883d-47c5-942a-5ba569f7fb7e@fb9f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Maciej Walczak
-DTEND:20251116T091500Z
-LOCATION:link do zajęć
-DTSTART:20251116T070000Z
-SUMMARY:Współczesne koncepcje zarządzania (wykład)
-UID:ee3417cc-ba0d-495d-b36d-f818b4a6ae39@ee34.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Sławomir Wawak
-DTEND:20251214T114500Z
-LOCATION:link do zajęć
-DTSTART:20251214T093000Z
-SUMMARY:Metody zarządzania projektami (wykład)
-UID:1dd62d28-10ff-4994-8ff1-2c798ef08f0f@1dd6.org
+UID:d83dcae1-28b6-41dc-9d4a-9b8b0f3c599b@d83d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Michał Łuc
@@ -297,13 +86,224 @@ DTEND:20251115T170000Z
 LOCATION:Paw.B 351
 DTSTART:20251115T144500Z
 SUMMARY:Prawo gospodarcze (ćwiczenia)
-UID:e2465bf5-8612-4a84-9aa6-57fde00dc736@e246.org
+UID:c86eb120-ec74-4808-8e42-a28fbdd18aa0@c86e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Kamila Kwiatkowska
+DTEND:20260110T143000Z
+LOCATION:Paw.F 516
+DTSTART:20260110T121500Z
+SUMMARY:Zarządzanie procesowe (ćwiczenia)
+UID:7e2e9dbe-ede4-4f38-8c33-0a96f1d90e47@7e2e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Maciej Walczak
+DTEND:20260131T083000Z
+LOCATION:Paw.C sala E
+DTSTART:20260131T070000Z
+SUMMARY:Współczesne koncepcje zarządzania (egzamin)
+UID:2e53982c-5a70-4bd4-8d5f-cedf4a06e05f@2e53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Woźniak
+DTEND:20251214T143000Z
+LOCATION:link do zajęć
+DTSTART:20251214T121500Z
+SUMMARY:Zarządzanie transformacją cyfrową (wykład)
+UID:a6f72e52-5588-4cc0-9064-88762b07f2b2@a6f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Maciej Walczak
+DTEND:20251018T133000Z
+DTSTART:20251018T111500Z
+SUMMARY:Współczesne koncepcje zarządzania (wykład)
+UID:6046d3d9-7ebe-4b1c-af00-ae20100352e1@6046.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kędziera
+DTEND:20251017T184500Z
+LOCATION:Paw.F 109
+DTSTART:20251017T163000Z
+SUMMARY:Zarządzanie oparte na wiedzy (ćwiczenia)
+UID:8173c17e-b9ef-41bd-9454-da805a445b7a@8173.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Woźniak
+DTEND:20251116T114500Z
+LOCATION:link do zajęć
+DTSTART:20251116T093000Z
+SUMMARY:Zarządzanie transformacją cyfrową (wykład)
+UID:6e2a571d-f761-48f6-a6a5-5a48235676f9@6e2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Kamila Kwiatkowska
+DTEND:20251025T141500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20251025T120000Z
+SUMMARY:Zarządzanie procesowe (ćwiczenia)
+UID:42b48c4b-1bca-45be-8939-7f5dd8b9a5e3@42b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bogusz Mikuła
+DTEND:20260111T143000Z
+LOCATION:link do zajęć
+DTSTART:20260111T121500Z
+SUMMARY:Zarządzanie oparte na wiedzy (wykład)
+UID:490c05a5-cb2b-4ae6-9156-93dfce9ce876@490c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Sławomir Wawak
+DTEND:20251214T114500Z
+LOCATION:link do zajęć
+DTSTART:20251214T093000Z
+SUMMARY:Metody zarządzania projektami (wykład)
+UID:3272284e-a6c8-44b2-863d-b28cb2f15da3@3272.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Sławomir Wawak
+DTEND:20251130T114500Z
+LOCATION:link do zajęć
+DTSTART:20251130T093000Z
+SUMMARY:Metody zarządzania projektami (wykład)
+UID:c5d36b99-a7ff-4e33-a337-c8d3d746829b@c5d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Sławomir Wawak
+DTEND:20251019T133000Z
+DTSTART:20251019T111500Z
+SUMMARY:Metody zarządzania projektami (wykład)
+UID:c41b9633-565e-4c14-a214-c8b6f440a965@c41b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Sławomir Wawak
+DTEND:20251019T081500Z
+DTSTART:20251019T060000Z
+SUMMARY:Zarządzanie procesowe (wykład)
+UID:e9c0487f-8c84-43e9-a289-fee14a5725ac@e9c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Sławomir Wawak
+DTEND:20260111T114500Z
+LOCATION:link do zajęć
+DTSTART:20260111T093000Z
+SUMMARY:Metody zarządzania projektami (wykład)
+UID:d8b3c255-6bab-42d2-b876-cf07a2b5c2fe@d8b3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Michał Łuc
-DTEND:20251026T114500Z
-DTSTART:20251026T093000Z
+DTEND:20251130T161500Z
+LOCATION:link do zajęć
+DTSTART:20251130T140000Z
 SUMMARY:Prawo gospodarcze (wykład)
-UID:56525cc6-53e7-47e7-9fe5-d7b547a0d234@5652.org
+UID:a20d5329-7741-4f52-9043-4811008df967@a20d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bogusz Mikuła
+DTEND:20251018T104500Z
+DTSTART:20251018T083000Z
+SUMMARY:Zarządzanie oparte na wiedzy (wykład)
+UID:54dd3a68-a402-4d0c-acba-17a7022cb024@54dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Sławomir Wawak
+DTEND:20260130T200000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20260130T191500Z
+SUMMARY:Metody zarządzania projektami (egzamin)
+UID:c5dedb8b-2cf7-4cdf-a7d5-e361e2158553@c5de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bogusz Mikuła
+DTEND:20251116T143000Z
+LOCATION:link do zajęć
+DTSTART:20251116T121500Z
+SUMMARY:Zarządzanie oparte na wiedzy (wykład)
+UID:8200700d-d887-45f4-b041-905a28273fdd@8200.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Woźniak
+DTEND:20251026T143000Z
+DTSTART:20251026T121500Z
+SUMMARY:Zarządzanie transformacją cyfrową (wykład)
+UID:516d2c30-75c4-4b6f-8a80-acebb9ce1a66@516d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Sławomir Wawak
+DTEND:20251130T091500Z
+LOCATION:link do zajęć
+DTSTART:20251130T070000Z
+SUMMARY:Zarządzanie procesowe (wykład)
+UID:16fdc3d0-1f4c-4ae6-9922-35e497ded775@16fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Angelika Wodecka-Hyjek
+DTEND:20260109T194500Z
+LOCATION:Paw.F 717
+DTSTART:20260109T173000Z
+SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
+UID:6b0be5af-4568-44f9-a2a8-f35f473a1d82@6b0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Maciej Walczak
+DTEND:20251116T091500Z
+LOCATION:link do zajęć
+DTSTART:20251116T070000Z
+SUMMARY:Współczesne koncepcje zarządzania (wykład)
+UID:6e404078-f9be-4d23-a48c-73b19f45cd34@6e40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Angelika Wodecka-Hyjek
+DTEND:20251024T184500Z
+LOCATION:Bud.gł. 4
+DTSTART:20251024T163000Z
+SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
+UID:ef7bdaa8-c7b4-4847-ac59-ebda66a06bc2@ef7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Sławomir Wawak
+DTEND:20260116T194500Z
+LOCATION:link do zajęć
+DTSTART:20260116T173000Z
+SUMMARY:Metody zarządzania projektami (wykład)
+UID:60ec47d0-7a83-42e9-a964-9c399c35ed7f@60ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Kamila Kwiatkowska
+DTEND:20260117T170000Z
+LOCATION:Paw.F 106
+DTSTART:20260117T144500Z
+SUMMARY:Zarządzanie procesowe (ćwiczenia)
+UID:a771e58a-5fdb-4a5c-a301-3a9f9ef9e69b@a771.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Łuc
+DTEND:20260110T170000Z
+LOCATION:Paw.C sala B
+DTSTART:20260110T144500Z
+SUMMARY:Prawo gospodarcze (ćwiczenia)
+UID:4a4f5bee-c14b-4b10-9519-de2cf639b451@4a4f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Maciej Walczak
+DTEND:20260111T091500Z
+LOCATION:link do zajęć
+DTSTART:20260111T070000Z
+SUMMARY:Współczesne koncepcje zarządzania (wykład)
+UID:a4919c58-c88b-4d39-9ac7-36cfb49e82e6@a491.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Łuc
+DTEND:20251213T170000Z
+LOCATION:Paw.S sala 10
+DTSTART:20251213T144500Z
+SUMMARY:Prawo gospodarcze (ćwiczenia)
+UID:a66f04be-a454-4be2-b0c1-d46447a7b162@a66f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Sławomir Wawak
+DTEND:20251026T091500Z
+DTSTART:20251026T070000Z
+SUMMARY:Metody zarządzania projektami (wykład)
+UID:8327054e-45f8-4bc2-a0b6-6f1f016a1e54@8327.org
 END:VEVENT
 END:VCALENDAR
