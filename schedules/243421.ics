@@ -2,27 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251016T123000Z
-DTSTART:20251016T093000Z
-SUMMARY: (rezerwacja)
-UID:060a5680-02aa-4aab-9941-0f1e51bdd3d4@060a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Jan Gadula
-DTEND:20260118T114500Z
-LOCATION:Bud.gł. 6
-DTSTART:20260118T093000Z
-SUMMARY:Controlling projektów (ćwiczenia)
-UID:fe9c8925-ff00-4fdf-974a-e9e5c17a588e@fe9c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Małgorzata Zakrzewska
-DTEND:20251114T170000Z
-LOCATION:Paw.F 111
-DTSTART:20251114T144500Z
-SUMMARY:Zarządzanie ryzykiem projektowym (ćwiczenia)
-UID:72bedb35-e390-4545-984a-d4a2b63f60f5@72be.org
+DESCRIPTION:Instructor: dr Halina Wojnarowska
+DTEND:20251130T091500Z
+LOCATION:link do zajęć
+DTSTART:20251130T070000Z
+SUMMARY:Kreowanie wizerunku przedsiębiorstwa i projektu (wykład)
+UID:1ba63c43-2f2c-4bc6-8564-1b7eaa637be3@1ba6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Zbigniew Jędrzejczyk
@@ -30,23 +15,29 @@ DTEND:20251114T194500Z
 LOCATION:Paw.B 054 (KSB)
 DTSTART:20251114T173000Z
 SUMMARY:Badania operacyjne (konwersatorium)
-UID:44c85ce5-237e-46af-b576-3fe04cf728fb@44c8.org
+UID:4816ab0a-b520-46a1-8efd-25335362274f@4816.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marek Szarucki
-DTEND:20251116T091500Z
-LOCATION:Platforma Moodle
-DTSTART:20251116T070000Z
-SUMMARY:Creativity techniques in project management (wykład e-learningowy)
-UID:cab385fc-01b7-4ef7-9bb1-858e0ed46572@cab3.org
+DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
+DTEND:20251026T091500Z
+DTSTART:20251026T070000Z
+SUMMARY:Zarządzanie zespołami wirtualnymi (wykład)
+UID:865b3080-b498-4208-b330-4bac051c89c7@865b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Zbigniew Jędrzejczyk
-DTEND:20251024T160000Z
-LOCATION:Paw.B 054 (KSB)
-DTSTART:20251024T134500Z
-SUMMARY:Badania operacyjne (konwersatorium)
-UID:781fd705-e208-4831-b82f-11c86bcff29e@781f.org
+DESCRIPTION:Instructor: mgr Małgorzata Zakrzewska
+DTEND:20251114T170000Z
+LOCATION:Paw.F 111
+DTSTART:20251114T144500Z
+SUMMARY:Zarządzanie ryzykiem projektowym (ćwiczenia)
+UID:92ade8d3-be10-4867-8014-8938d8f8dc7d@92ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Wojnarowska
+DTEND:20251011T104500Z
+DTSTART:20251011T083000Z
+SUMMARY:Kreowanie wizerunku przedsiębiorstwa i projektu (Przeniesienie zajęć)
+UID:baed2d4c-58f5-4b93-b768-b9d8f835ed8f@baed.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Marek Szarucki
@@ -54,159 +45,7 @@ DTEND:20251130T143000Z
 LOCATION:link do zajęć
 DTSTART:20251130T121500Z
 SUMMARY:Creativity techniques in project management (wykład do wyboru)
-UID:92dbed4f-3d1b-41bc-8478-ca0ac1d3e642@92db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Jan Gadula
-DTEND:20251129T143000Z
-LOCATION:Paw.S sala 3
-DTSTART:20251129T121500Z
-SUMMARY:Controlling projektów (ćwiczenia)
-UID:da53f08f-9654-46ac-ad2e-b75905fd7b05@da53.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Małkus
-DTEND:20251116T114500Z
-LOCATION:link do zajęć
-DTSTART:20251116T093000Z
-SUMMARY:Zarządzanie ryzykiem projektowym (wykład)
-UID:230ddb32-e24d-498c-bd5a-f3f81e217e33@230d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Krzemiński
-DTEND:20251214T143000Z
-LOCATION:link do zajęć
-DTSTART:20251214T121500Z
-SUMMARY:Controlling projektów (wykład)
-UID:11ae9c29-7582-4e5f-a632-2ba5e0d40b48@11ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Małgorzata Zakrzewska
-DTEND:20260117T143000Z
-LOCATION:Paw.F 415
-DTSTART:20260117T121500Z
-SUMMARY:Zarządzanie ryzykiem projektowym (ćwiczenia)
-UID:8513d2ec-0312-4185-a881-ee8dc1398be9@8513.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Krzemiński
-DTEND:20251011T133000Z
-DTSTART:20251011T111500Z
-SUMMARY:Controlling projektów (wykład)
-UID:8a9d8e14-0d53-4d78-b9c3-8f55eecdefab@8a9d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Zbigniew Jędrzejczyk
-DTEND:20251213T114500Z
-LOCATION:Paw.B 054 (KSB)
-DTSTART:20251213T093000Z
-SUMMARY:Badania operacyjne (konwersatorium)
-UID:261b21e7-5763-458f-91e4-51a934cbaf8d@261b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
-DTEND:20251012T133000Z
-DTSTART:20251012T111500Z
-SUMMARY:Zarządzanie zespołami wirtualnymi (wykład)
-UID:0d9feb20-bdb1-40e1-83eb-f6ac50fe6fad@0d9f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marek Szarucki
-DTEND:20251207T170000Z
-LOCATION:link do zajęć
-DTSTART:20251207T144500Z
-SUMMARY:Creativity techniques in project management (wykład do wyboru)
-UID:a8fd968f-cad9-4347-a354-c57d89202863@a8fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Halina Wojnarowska
-DTEND:20251026T143000Z
-DTSTART:20251026T121500Z
-SUMMARY:Kreowanie wizerunku przedsiębiorstwa i projektu (wykład)
-UID:d42cea35-7aec-42d7-895a-cd672ec333e8@d42c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marek Szarucki
-DTEND:20251026T114500Z
-DTSTART:20251026T093000Z
-SUMMARY:Creativity techniques in project management (wykład do wyboru)
-UID:b98d0352-10c9-4096-9100-f138853a5b04@b98d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
-DTEND:20251026T091500Z
-DTSTART:20251026T070000Z
-SUMMARY:Zarządzanie zespołami wirtualnymi (wykład)
-UID:1de60b99-9fb4-44b7-8daf-c6426f613733@1de6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marek Szarucki
-DTEND:20251214T091500Z
-LOCATION:link do zajęć
-DTSTART:20251214T070000Z
-SUMMARY:Creativity techniques in project management (wykład do wyboru)
-UID:441170ad-5997-416a-a80d-c0b330d56231@4411.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Małkus
-DTEND:20251207T114500Z
-LOCATION:link do zajęć
-DTSTART:20251207T093000Z
-SUMMARY:Zarządzanie ryzykiem projektowym (wykład)
-UID:95d3630f-d9e8-4940-9c83-db43ce78d515@95d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
-DTEND:20251130T114500Z
-LOCATION:link do zajęć
-DTSTART:20251130T093000Z
-SUMMARY:Zarządzanie zespołami wirtualnymi (wykład)
-UID:cfb190f9-df74-400d-9fa5-18252d83f671@cfb1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Halina Wojnarowska
-DTEND:20251011T104500Z
-DTSTART:20251011T083000Z
-SUMMARY:Kreowanie wizerunku przedsiębiorstwa i projektu (Przeniesienie zajęć)
-UID:283b35f6-aef2-4841-9e01-9cc299acd37b@283b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251217T134500Z
-DTSTART:20251217T121500Z
-SUMMARY: (rezerwacja)
-UID:a225d6ea-c022-4bdf-95b5-e0a76b750a71@a225.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Halina Wojnarowska
-DTEND:20251130T091500Z
-LOCATION:link do zajęć
-DTSTART:20251130T070000Z
-SUMMARY:Kreowanie wizerunku przedsiębiorstwa i projektu (wykład)
-UID:ebf45899-5588-4348-a0bf-277948727499@ebf4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marek Szarucki
-DTEND:20260111T143000Z
-DTSTART:20260111T121500Z
-SUMMARY:Creativity techniques in project management (Przeniesienie zajęć)
-UID:e15b794b-e56a-4ed1-a86c-c31fe20f48b7@e15b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Zbigniew Jędrzejczyk
-DTEND:20251205T170000Z
-LOCATION:Paw.B 054 (KSB)
-DTSTART:20251205T144500Z
-SUMMARY:Badania operacyjne (konwersatorium)
-UID:3e023a24-af5d-4c7c-a441-9f4ea666b111@3e02.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Krzemiński
-DTEND:20251116T143000Z
-LOCATION:link do zajęć
-DTSTART:20251116T121500Z
-SUMMARY:Controlling projektów (wykład)
-UID:807bfe6a-f84b-44b1-b887-96ca701f8f3b@807b.org
+UID:36223b78-472b-4e5c-8b87-feb0000b6d7d@3622.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Jan Gadula
@@ -214,69 +53,22 @@ DTEND:20251212T170000Z
 LOCATION:Paw.F 109
 DTSTART:20251212T144500Z
 SUMMARY:Controlling projektów (ćwiczenia)
-UID:3c43ed2b-9cb8-48cf-9b9b-bdf2c2283925@3c43.org
+UID:771ee86e-79df-44c3-bcea-6bc1b8fb0da6@771e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Halina Wojnarowska
-DTEND:20251207T143000Z
+DESCRIPTION:Instructor: dr Paweł Krzemiński
+DTEND:20251116T143000Z
 LOCATION:link do zajęć
-DTSTART:20251207T121500Z
-SUMMARY:Kreowanie wizerunku przedsiębiorstwa i projektu (wykład)
-UID:f232007a-b863-4b76-b4f6-30670dc05aba@f232.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Zbigniew Jędrzejczyk
-DTEND:20260117T114500Z
-LOCATION:Paw.B 054 (KSB)
-DTSTART:20260117T093000Z
-SUMMARY:Badania operacyjne (konwersatorium)
-UID:d50af92b-434b-4f61-af8c-dd004682c4e8@d50a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Małkus
-DTEND:20260111T114500Z
-LOCATION:link do zajęć
-DTSTART:20260111T093000Z
-SUMMARY:Zarządzanie ryzykiem projektowym (wykład)
-UID:84f5c3b3-01a6-4ead-824d-b001a142de06@84f5.org
+DTSTART:20251116T121500Z
+SUMMARY:Controlling projektów (wykład)
+UID:71c15ca5-f23f-49cc-9095-0d1125ec1aac@71c1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
-DTEND:20260111T091500Z
-LOCATION:link do zajęć
-DTSTART:20260111T070000Z
+DTEND:20251012T133000Z
+DTSTART:20251012T111500Z
 SUMMARY:Zarządzanie zespołami wirtualnymi (wykład)
-UID:9cb4e039-e15e-4dcc-8363-f466b2e92e45@9cb4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
-DTEND:20251214T114500Z
-LOCATION:link do zajęć
-DTSTART:20251214T093000Z
-SUMMARY:Zarządzanie zespołami wirtualnymi (wykład)
-UID:fac0761f-bc8a-4afb-9afe-91ad89e04b74@fac0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
-DTEND:20251019T081500Z
-DTSTART:20251019T060000Z
-SUMMARY:Zarządzanie zespołami wirtualnymi (wykład)
-UID:5c6f300d-13df-4622-9deb-654b36866aba@5c6f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marek Szarucki
-DTEND:20251019T104500Z
-DTSTART:20251019T083000Z
-SUMMARY:Creativity techniques in project management (wykład do wyboru)
-UID:b65e37ed-7c92-45d7-bba3-5163a55b310c@b65e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Małgorzata Zakrzewska
-DTEND:20251213T143000Z
-LOCATION:Bud.gł. 4
-DTSTART:20251213T121500Z
-SUMMARY:Zarządzanie ryzykiem projektowym (ćwiczenia)
-UID:95fc8a2a-adc4-4932-a799-3bf03ca1be0b@95fc.org
+UID:f34d5536-020d-496d-97a8-d3f11cea8152@f34d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Zbigniew Jędrzejczyk
@@ -284,6 +76,214 @@ DTEND:20251129T114500Z
 LOCATION:Paw.B 054 (KSB)
 DTSTART:20251129T093000Z
 SUMMARY:Badania operacyjne (konwersatorium)
-UID:efbb0dde-4e44-4fa8-904f-12e8bcd4416b@efbb.org
+UID:2145900f-0654-4924-bb07-77c5eb5d3cdf@2145.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marek Szarucki
+DTEND:20251019T104500Z
+DTSTART:20251019T083000Z
+SUMMARY:Creativity techniques in project management (wykład do wyboru)
+UID:167b3ef9-f3a6-46b9-ac4b-f94d25c185f2@167b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251217T134500Z
+DTSTART:20251217T121500Z
+SUMMARY: (rezerwacja)
+UID:90cf9056-ff92-41b3-bf55-ff4854e01b8b@90cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Małkus
+DTEND:20260111T114500Z
+LOCATION:link do zajęć
+DTSTART:20260111T093000Z
+SUMMARY:Zarządzanie ryzykiem projektowym (wykład)
+UID:d9a4ee7e-d6bc-44a3-a511-04389a8adbd0@d9a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jan Gadula
+DTEND:20260118T114500Z
+LOCATION:Bud.gł. 6
+DTSTART:20260118T093000Z
+SUMMARY:Controlling projektów (ćwiczenia)
+UID:3cde29f2-ad98-4ea8-aecc-15005f4b3f99@3cde.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Jędrzejczyk
+DTEND:20260117T114500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20260117T093000Z
+SUMMARY:Badania operacyjne (konwersatorium)
+UID:14aeb37a-05ca-4927-811e-580abddc5261@14ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Wojnarowska
+DTEND:20251026T143000Z
+DTSTART:20251026T121500Z
+SUMMARY:Kreowanie wizerunku przedsiębiorstwa i projektu (wykład)
+UID:eada152c-8566-43b5-a832-28ef02ead8f6@eada.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
+DTEND:20251130T114500Z
+LOCATION:link do zajęć
+DTSTART:20251130T093000Z
+SUMMARY:Zarządzanie zespołami wirtualnymi (wykład)
+UID:3ff7e31d-9fc7-4233-b650-ae81d89355e0@3ff7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marek Szarucki
+DTEND:20251116T091500Z
+LOCATION:Platforma Moodle
+DTSTART:20251116T070000Z
+SUMMARY:Creativity techniques in project management (wykład e-learningowy)
+UID:2b0945d8-f0fa-4eea-8c08-d7ac06e21661@2b09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Jędrzejczyk
+DTEND:20251205T170000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20251205T144500Z
+SUMMARY:Badania operacyjne (konwersatorium)
+UID:0693e653-62e8-4d3e-9fef-aff579e18f0e@0693.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Wojnarowska
+DTEND:20251207T143000Z
+LOCATION:link do zajęć
+DTSTART:20251207T121500Z
+SUMMARY:Kreowanie wizerunku przedsiębiorstwa i projektu (wykład)
+UID:56aa9622-c762-4c68-941d-b1546ed42654@56aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
+DTEND:20260111T091500Z
+LOCATION:link do zajęć
+DTSTART:20260111T070000Z
+SUMMARY:Zarządzanie zespołami wirtualnymi (wykład)
+UID:a097929d-3cb7-4ef8-85b9-105c78dbc49b@a097.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Małkus
+DTEND:20251116T114500Z
+LOCATION:link do zajęć
+DTSTART:20251116T093000Z
+SUMMARY:Zarządzanie ryzykiem projektowym (wykład)
+UID:232f0088-1dc1-410a-b042-f06f21714e8e@232f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marek Szarucki
+DTEND:20251026T114500Z
+DTSTART:20251026T093000Z
+SUMMARY:Creativity techniques in project management (wykład do wyboru)
+UID:62be1031-e297-417d-bd06-a712608f3238@62be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marek Szarucki
+DTEND:20260111T143000Z
+DTSTART:20260111T121500Z
+SUMMARY:Creativity techniques in project management (Przeniesienie zajęć)
+UID:923c2b38-3618-4c3f-b8d0-610f421caccb@923c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251016T123000Z
+DTSTART:20251016T093000Z
+SUMMARY: (rezerwacja)
+UID:394c6116-b548-4d2a-aa82-0c3bae5c4eeb@394c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Małkus
+DTEND:20251207T114500Z
+LOCATION:link do zajęć
+DTSTART:20251207T093000Z
+SUMMARY:Zarządzanie ryzykiem projektowym (wykład)
+UID:ccd788f3-53e7-470d-b4bc-5087f5175253@ccd7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Krzemiński
+DTEND:20251011T133000Z
+DTSTART:20251011T111500Z
+SUMMARY:Controlling projektów (wykład)
+UID:562b0af8-dc9c-4b96-921a-5562e176bdb8@562b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Jędrzejczyk
+DTEND:20251024T160000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20251024T134500Z
+SUMMARY:Badania operacyjne (konwersatorium)
+UID:80fcddf4-3f50-4112-aa7c-734b604e90f1@80fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
+DTEND:20251214T114500Z
+LOCATION:link do zajęć
+DTSTART:20251214T093000Z
+SUMMARY:Zarządzanie zespołami wirtualnymi (wykład)
+UID:3daba21e-db18-46c7-a904-d6468f569757@3dab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marek Szarucki
+DTEND:20251207T170000Z
+LOCATION:link do zajęć
+DTSTART:20251207T144500Z
+SUMMARY:Creativity techniques in project management (wykład do wyboru)
+UID:a148b2e7-d1cb-48f7-8d05-d22b880fafed@a148.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Jędrzejczyk
+DTEND:20251213T114500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20251213T093000Z
+SUMMARY:Badania operacyjne (konwersatorium)
+UID:65507489-67fb-4fb7-9181-770ad6c32847@6550.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Małgorzata Zakrzewska
+DTEND:20260117T143000Z
+LOCATION:Paw.F 415
+DTSTART:20260117T121500Z
+SUMMARY:Zarządzanie ryzykiem projektowym (ćwiczenia)
+UID:0f1952cb-f1e1-4ad5-9fc5-bdcc200c65a2@0f19.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Małgorzata Zakrzewska
+DTEND:20251213T143000Z
+LOCATION:Bud.gł. 4
+DTSTART:20251213T121500Z
+SUMMARY:Zarządzanie ryzykiem projektowym (ćwiczenia)
+UID:c16f96f4-86f5-4b6c-887e-9388f141e1d3@c16f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marek Szarucki
+DTEND:20251214T091500Z
+LOCATION:link do zajęć
+DTSTART:20251214T070000Z
+SUMMARY:Creativity techniques in project management (wykład do wyboru)
+UID:cf585370-f3a0-4f81-afd8-4a5c916a19dc@cf58.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Krzemiński
+DTEND:20251214T143000Z
+LOCATION:link do zajęć
+DTSTART:20251214T121500Z
+SUMMARY:Controlling projektów (wykład)
+UID:bc133a20-b2cb-4565-84ab-7a501b8bcf29@bc13.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
+DTEND:20251019T081500Z
+DTSTART:20251019T060000Z
+SUMMARY:Zarządzanie zespołami wirtualnymi (wykład)
+UID:93228caa-6bab-49a3-b535-8a1915616b7e@9322.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jan Gadula
+DTEND:20251129T143000Z
+LOCATION:Paw.S sala 3
+DTSTART:20251129T121500Z
+SUMMARY:Controlling projektów (ćwiczenia)
+UID:de12e9bf-c451-4334-ae4a-d56a98f0c4dc@de12.org
 END:VEVENT
 END:VCALENDAR

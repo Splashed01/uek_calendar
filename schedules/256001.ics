@@ -2,20 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jacek Lachner
+DTEND:20251130T100000Z
+LOCATION:Paw.C sala C
+DTSTART:20251130T074500Z
+SUMMARY:�ródła i wykładnia prawa podatkowego (ćwiczenia)
+UID:169ce926-53bd-4bc3-8a9f-723e829a70b5@169c.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Aneta Kaźmierczyk
 DTEND:20251206T100000Z
 LOCATION:link do zajęć
 DTSTART:20251206T074500Z
 SUMMARY:Prawo podatkowe materialne ogólne (wykład)
-UID:2107a081-dad2-4876-b18d-912c0e455679@2107.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Błażej Bugajski
-DTEND:20251114T170000Z
-LOCATION:link do zajęć
-DTSTART:20251114T144500Z
-SUMMARY:Prawo cywilne i handlowe (wykład)
-UID:ec13a2c4-d31e-4c44-8aeb-828f8095db6e@ec13.org
+UID:a84ffd4f-93fc-4515-ae49-4c46a08031b1@a84f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Julia Szwiec
@@ -23,23 +23,7 @@ DTEND:20260109T170000Z
 LOCATION:link do zajęć
 DTSTART:20260109T144500Z
 SUMMARY:Prawo podatkowe materialne ogólne (ćwiczenia zdalne)
-UID:3a5648cf-720c-4976-ac06-7e1bf3e2c679@3a56.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jacek Lachner
-DTEND:20260117T143000Z
-LOCATION:Paw.C sala C
-DTSTART:20260117T121500Z
-SUMMARY:�ródła i wykładnia prawa podatkowego (ćwiczenia)
-UID:c71671d7-04e6-43c3-a16d-2f5b4508cd58@c716.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Kiełbasa
-DTEND:20251213T091500Z
-LOCATION:Paw.F 613
-DTSTART:20251213T070000Z
-SUMMARY:System ubezpieczeń społecznych (konwersatorium)
-UID:c3af5ddc-7529-4429-8881-13e6ffc70feb@c3af.org
+UID:7969b15b-9d03-451e-9158-6bbe6cbf7616@7969.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
@@ -47,163 +31,15 @@ DTEND:20251025T184500Z
 LOCATION:Paw.S sala 4
 DTSTART:20251025T163000Z
 SUMMARY:Rachunkowość i sprawozdawczość finansowa (ćwiczenia)
-UID:25d8958d-36fc-48b2-b3ff-a7096411d195@25d8.org
+UID:b49bc212-370f-421d-bef2-e2c3b89b76b1@b49b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jacek Lachner
-DTEND:20251017T160000Z
-DTSTART:20251017T134500Z
-SUMMARY:�ródła i wykładnia prawa podatkowego (wykład)
-UID:fac2a0c5-a987-4e51-9191-f99f74933073@fac2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
-DTEND:20260131T143000Z
-LOCATION:Paw.C sala E
-DTSTART:20260131T121500Z
-SUMMARY: (egzamin)
-UID:4a6e7275-2d03-49a9-bbdf-1fc67bb2a4e1@4a6e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251016T123000Z
-DTSTART:20251016T093000Z
-SUMMARY: (rezerwacja)
-UID:ca61d9dc-73d5-42cd-a112-78a1c1839c2e@ca61.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
-DTEND:20251221T100000Z
-LOCATION:Paw.F 415
-DTSTART:20251221T074500Z
-SUMMARY:Rachunkowość i sprawozdawczość finansowa (ćwiczenia)
-UID:63d592ec-7f10-4597-8e44-7127366848c2@63d5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
-DTEND:20260111T124500Z
-LOCATION:Bud.gł. 3
-DTSTART:20260111T103000Z
-SUMMARY:Prawo cywilne i handlowe (ćwiczenia)
-UID:59c181e3-e960-4b9b-bce4-0c194211ec4a@59c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Julia Szwiec
-DTEND:20251129T194500Z
-LOCATION:Paw.C sala A
-DTSTART:20251129T173000Z
-SUMMARY:Prawo podatkowe materialne ogólne (ćwiczenia)
-UID:b28b4914-33a8-46a2-9f0a-7a0d7e1616fc@b28b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
-DTEND:20260111T100000Z
-LOCATION:Bud.gł. 3
-DTSTART:20260111T074500Z
-SUMMARY:Prawo cywilne i handlowe (ćwiczenia)
-UID:a14c0151-fdf2-4d38-8178-7c542a27558f@a14c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bartłomiej Wrona
-DTEND:20251128T170000Z
-LOCATION:link do zajęć
-DTSTART:20251128T144500Z
-SUMMARY:Rachunkowość i sprawozdawczość finansowa (wykład)
-UID:809fba28-bebc-4711-b3bb-953bdca15f90@809f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
-DTEND:20251129T091500Z
-LOCATION:Paw.C sala B
-DTSTART:20251129T070000Z
-SUMMARY:Prawo cywilne i handlowe (ćwiczenia)
-UID:97930195-48a0-45e4-a6ac-6a027bb3f0f9@9793.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Julia Szwiec
-DTEND:20251019T160000Z
-LOCATION:Bibl. 440
-DTSTART:20251019T134500Z
-SUMMARY:Prawo podatkowe materialne ogólne (ćwiczenia)
-UID:6641d6d2-db4c-4ec1-b5ea-1c688e0b15a5@6641.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bartłomiej Wrona
-DTEND:20251116T184500Z
-LOCATION:link do zajęć
-DTSTART:20251116T163000Z
-SUMMARY:Rachunkowość i sprawozdawczość finansowa (wykład)
-UID:de67dd34-53de-443b-8e38-25648d219915@de67.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
-DTEND:20251213T143000Z
-LOCATION:Paw.C sala B
-DTSTART:20251213T121500Z
-SUMMARY:Prawo cywilne i handlowe (ćwiczenia)
-UID:8dea6e70-982c-4808-afdd-d96ca61a1c75@8dea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Wiktor Podsiadło
-DTEND:20260110T143000Z
-LOCATION:Bud.gł. 9
-DTSTART:20260110T121500Z
-SUMMARY:Doradztwo podatkowe i etyka (ćwiczenia)
-UID:a7ee8c08-7e81-4e8a-affd-bc385a7adb70@a7ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
-DTEND:20260110T091500Z
-LOCATION:Paw.S sala 4
-DTSTART:20260110T070000Z
-SUMMARY:Rachunkowość i sprawozdawczość finansowa (ćwiczenia)
-UID:6f046b89-2f1c-4faa-9169-5bf8dc79d6db@6f04.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251217T134500Z
-DTSTART:20251217T121500Z
-SUMMARY: (rezerwacja)
-UID:1fa165ae-22bc-4efb-bc8d-8fdf3516cad0@1fa1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Julia Szwiec
-DTEND:20251220T143000Z
-LOCATION:Paw.B 151
-DTSTART:20251220T121500Z
-SUMMARY:Prawo podatkowe materialne ogólne (ćwiczenia)
-UID:3775310d-0974-4079-8a0d-40bf8109989d@3775.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Aneta Kaźmierczyk
-DTEND:20251018T104500Z
-DTSTART:20251018T083000Z
-SUMMARY:Prawo podatkowe materialne ogólne (wykład)
-UID:d12c96e6-76af-4b41-938e-1c8620639170@d12c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
-DTEND:20251214T151500Z
-LOCATION:Paw.C sala B
-DTSTART:20251214T130000Z
-SUMMARY:Prawo celne i dewizowe (konwersatorium)
-UID:25e62818-b481-4c34-847b-4225e1da7283@25e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
-DTEND:20251221T124500Z
+DTEND:20260117T143000Z
 LOCATION:Paw.C sala C
-DTSTART:20251221T103000Z
-SUMMARY:Prawo cywilne i handlowe (ćwiczenia)
-UID:f8fc954a-f444-4daa-9594-5807a839c62d@f8fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jacek Lachner
-DTEND:20251221T151500Z
-LOCATION:Bibl. 443
-DTSTART:20251221T130000Z
+DTSTART:20260117T121500Z
 SUMMARY:�ródła i wykładnia prawa podatkowego (ćwiczenia)
-UID:ef8ac1ce-ea9a-4143-a499-04ff07cbe7c7@ef8a.org
+UID:3f468139-8e5c-4ca9-8ba5-e6b1ff89b06f@3f46.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marcin Kiełbasa
@@ -211,101 +47,14 @@ DTEND:20260116T194500Z
 LOCATION:Paw.F 613
 DTSTART:20260116T173000Z
 SUMMARY:System ubezpieczeń społecznych (konwersatorium)
-UID:23d919d5-c00e-4c4b-85fb-42b707c08bfa@23d9.org
+UID:e7460316-19e6-47d1-bb61-3b6872e587f1@e746.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Aneta Kaźmierczyk
 DTEND:20251024T160000Z
 DTSTART:20251024T134500Z
 SUMMARY:Prawo podatkowe materialne ogólne (wykład)
-UID:12c01df1-1de4-44ef-99c9-e84cb36f2531@12c0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Julia Szwiec
-DTEND:20251115T194500Z
-LOCATION:Paw.C sala A
-DTSTART:20251115T173000Z
-SUMMARY:Prawo podatkowe materialne ogólne (ćwiczenia)
-UID:8ca8625f-2de1-4282-82c1-df39f1f823d2@8ca8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
-DTEND:20251219T194500Z
-LOCATION:Paw.S sala 4
-DTSTART:20251219T173000Z
-SUMMARY:Rachunkowość i sprawozdawczość finansowa (ćwiczenia)
-UID:97f8d4c0-d8c3-4034-b570-8b0eb9ffea7c@97f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Julia Szwiec
-DTEND:20260116T170000Z
-LOCATION:Paw.C sala F
-DTSTART:20260116T144500Z
-SUMMARY:Prawo podatkowe materialne ogólne (ćwiczenia)
-UID:fea8c72e-1f79-4ec6-8124-64fff8b27f20@fea8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Kiełbasa
-DTEND:20251129T170000Z
-LOCATION:Paw.F 613
-DTSTART:20251129T144500Z
-SUMMARY:System ubezpieczeń społecznych (konwersatorium)
-UID:6a3e3b22-5c97-44fd-bc1a-e204f66af30d@6a3e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jacek Lachner
-DTEND:20251018T133000Z
-DTSTART:20251018T111500Z
-SUMMARY:�ródła i wykładnia prawa podatkowego (wykład)
-UID:cd45a337-33dc-4726-8a58-368d6ae0cb40@cd45.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jacek Lachner
-DTEND:20251116T151500Z
-LOCATION:link do zajęć
-DTSTART:20251116T130000Z
-SUMMARY:�ródła i wykładnia prawa podatkowego (wykład)
-UID:424ef95f-fbfb-4898-aba8-d72cf58576c3@424e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Błażej Bugajski
-DTEND:20251221T171500Z
-LOCATION:Paw.S sala 9
-DTSTART:20251221T154500Z
-SUMMARY:Prawo cywilne i handlowe (egzamin)
-UID:a9a84960-2873-4583-b3a7-dad8daa75448@a9a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
-DTEND:20260118T100000Z
-LOCATION:Paw.S sala 1
-DTSTART:20260118T074500Z
-SUMMARY:Prawo cywilne i handlowe (ćwiczenia)
-UID:fcf223b8-f8ef-481a-9aea-4b4399f967b2@fcf2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
-DTEND:20251115T143000Z
-LOCATION:Paw.B 251
-DTSTART:20251115T121500Z
-SUMMARY:Prawo celne i dewizowe (konwersatorium)
-UID:49e50ddc-a037-4c76-a7a2-9198e6925535@49e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jacek Lachner
-DTEND:20251130T100000Z
-LOCATION:Paw.C sala C
-DTSTART:20251130T074500Z
-SUMMARY:�ródła i wykładnia prawa podatkowego (ćwiczenia)
-UID:ef30b810-67f0-4f33-95ce-173ef514c21e@ef30.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
-DTEND:20251220T170000Z
-LOCATION:Paw.B 251
-DTSTART:20251220T144500Z
-SUMMARY:Prawo celne i dewizowe (konwersatorium)
-UID:dd370004-9c53-42e4-b613-244687e8fdb2@dd37.org
+UID:c5ad837e-60d0-443b-b032-81c17bfd4bb2@c5ad.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
@@ -313,15 +62,39 @@ DTEND:20260117T170000Z
 LOCATION:Paw.S sala 4
 DTSTART:20260117T144500Z
 SUMMARY:Rachunkowość i sprawozdawczość finansowa (ćwiczenia)
-UID:f48beb39-eaa4-4556-b77f-5795912eb10a@f48b.org
+UID:3af0cfca-8ce6-4a75-a553-75e0f15d4afc@3af0.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
-DTEND:20251212T194500Z
-LOCATION:Paw.F 008
-DTSTART:20251212T173000Z
-SUMMARY:Rachunkowość i sprawozdawczość finansowa (ćwiczenia)
-UID:ca33e5ed-4362-46fd-b0e7-f23bd6aee1cc@ca33.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
+DTEND:20251214T151500Z
+LOCATION:Paw.C sala B
+DTSTART:20251214T130000Z
+SUMMARY:Prawo celne i dewizowe (konwersatorium)
+UID:27c7e4de-cd8c-40b6-a123-f39a4cf5cd01@27c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wiktor Podsiadło
+DTEND:20260110T143000Z
+LOCATION:Bud.gł. 9
+DTSTART:20260110T121500Z
+SUMMARY:Doradztwo podatkowe i etyka (ćwiczenia)
+UID:ff270896-cb97-41a9-a63f-feeaf0d9598f@ff27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Bugajski
+DTEND:20251221T171500Z
+LOCATION:Paw.S sala 9
+DTSTART:20251221T154500Z
+SUMMARY:Prawo cywilne i handlowe (egzamin)
+UID:a39b0f00-eb78-4dd0-97df-24553a1798f8@a39b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20251213T143000Z
+LOCATION:Paw.C sala B
+DTSTART:20251213T121500Z
+SUMMARY:Prawo cywilne i handlowe (ćwiczenia)
+UID:b33905d3-2086-4466-a8bc-4de4d024a9ee@b339.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Błażej Bugajski
@@ -329,7 +102,7 @@ DTEND:20251128T194500Z
 LOCATION:link do zajęć
 DTSTART:20251128T173000Z
 SUMMARY:Prawo cywilne i handlowe (wykład)
-UID:0ea86f32-2e5b-43fc-96eb-15c950718ee1@0ea8.org
+UID:cee0d2b9-033f-42d8-ac63-773b8fc35420@cee0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Wiktor Podsiadło
@@ -337,7 +110,121 @@ DTEND:20251220T194500Z
 LOCATION:Bud.gł. 9
 DTSTART:20251220T173000Z
 SUMMARY:Doradztwo podatkowe i etyka (ćwiczenia)
-UID:f49bcb73-89b3-4b3d-870a-e448586d704e@f49b.org
+UID:a96209a7-4d6f-4596-bc10-efeb0628e490@a962.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jacek Lachner
+DTEND:20251221T151500Z
+LOCATION:Bibl. 443
+DTSTART:20251221T130000Z
+SUMMARY:�ródła i wykładnia prawa podatkowego (ćwiczenia)
+UID:ccee02f3-3862-4c16-8a16-350ce0967826@ccee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jacek Lachner
+DTEND:20251018T133000Z
+DTSTART:20251018T111500Z
+SUMMARY:�ródła i wykładnia prawa podatkowego (wykład)
+UID:1fe27589-ce02-4cc0-9d7d-5a7ec0cd8237@1fe2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartłomiej Wrona
+DTEND:20251017T184500Z
+DTSTART:20251017T163000Z
+SUMMARY:Rachunkowość i sprawozdawczość finansowa (wykład)
+UID:ab20a008-65e2-47d9-8243-4f51d9073520@ab20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251016T123000Z
+DTSTART:20251016T093000Z
+SUMMARY: (rezerwacja)
+UID:5067642a-7008-4435-9564-db665bfd0550@5067.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20260111T100000Z
+LOCATION:Bud.gł. 3
+DTSTART:20260111T074500Z
+SUMMARY:Prawo cywilne i handlowe (ćwiczenia)
+UID:87a68c87-4680-47a3-b9fb-9855475f9bb5@87a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20251129T091500Z
+LOCATION:Paw.C sala B
+DTSTART:20251129T070000Z
+SUMMARY:Prawo cywilne i handlowe (ćwiczenia)
+UID:168cc207-67d9-47b2-81b6-395cfb29907c@168c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Julia Szwiec
+DTEND:20251115T194500Z
+LOCATION:Paw.C sala A
+DTSTART:20251115T173000Z
+SUMMARY:Prawo podatkowe materialne ogólne (ćwiczenia)
+UID:e7325155-bbef-407c-ba49-69ea9ad6ec2a@e732.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
+DTEND:20251212T194500Z
+LOCATION:Paw.F 008
+DTSTART:20251212T173000Z
+SUMMARY:Rachunkowość i sprawozdawczość finansowa (ćwiczenia)
+UID:3c2e1596-1307-4092-a7aa-552272ffd5ed@3c2e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251217T134500Z
+DTSTART:20251217T121500Z
+SUMMARY: (rezerwacja)
+UID:4bf19bfa-7f38-48d9-8917-3a42b3bff274@4bf1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartłomiej Wrona
+DTEND:20251128T170000Z
+LOCATION:link do zajęć
+DTSTART:20251128T144500Z
+SUMMARY:Rachunkowość i sprawozdawczość finansowa (wykład)
+UID:d9ae7414-31d9-4c5b-83f5-6fdd4db17519@d9ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20260111T124500Z
+LOCATION:Bud.gł. 3
+DTSTART:20260111T103000Z
+SUMMARY:Prawo cywilne i handlowe (ćwiczenia)
+UID:1cd41b99-fb39-4dbb-b710-790450805d06@1cd4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartłomiej Wrona
+DTEND:20251116T184500Z
+LOCATION:link do zajęć
+DTSTART:20251116T163000Z
+SUMMARY:Rachunkowość i sprawozdawczość finansowa (wykład)
+UID:f98a6ad9-f0f9-48d9-ac51-4dbf0efd58f5@f98a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kiełbasa
+DTEND:20251213T091500Z
+LOCATION:Paw.F 613
+DTSTART:20251213T070000Z
+SUMMARY:System ubezpieczeń społecznych (konwersatorium)
+UID:3352952b-0486-4086-bd41-739a412ed02c@3352.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Bugajski
+DTEND:20251018T160000Z
+DTSTART:20251018T134500Z
+SUMMARY:Prawo cywilne i handlowe (wykład)
+UID:67270fac-d2aa-4167-b022-5b5bf99ead1f@6727.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aneta Kaźmierczyk
+DTEND:20251018T104500Z
+DTSTART:20251018T083000Z
+SUMMARY:Prawo podatkowe materialne ogólne (wykład)
+UID:32c6ecb3-5190-4b41-b1de-f3669c4ea2f9@32c6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Wiktor Podsiadło
@@ -345,20 +232,133 @@ DTEND:20251115T091500Z
 LOCATION:Bud.gł. 9
 DTSTART:20251115T070000Z
 SUMMARY:Doradztwo podatkowe i etyka (ćwiczenia)
-UID:9bef544a-9b7a-4200-b534-c18b4625fb43@9bef.org
+UID:c895fc37-24ec-46c8-801c-eba6bcfb84bb@c895.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jacek Lachner
+DTEND:20251017T160000Z
+DTSTART:20251017T134500Z
+SUMMARY:�ródła i wykładnia prawa podatkowego (wykład)
+UID:139e65aa-b4a1-46ff-9200-d4566cf67ca1@139e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
+DTEND:20251219T194500Z
+LOCATION:Paw.S sala 4
+DTSTART:20251219T173000Z
+SUMMARY:Rachunkowość i sprawozdawczość finansowa (ćwiczenia)
+UID:f9ddbb19-06a9-4b50-8519-ac58d35a16d5@f9dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20251221T124500Z
+LOCATION:Paw.C sala C
+DTSTART:20251221T103000Z
+SUMMARY:Prawo cywilne i handlowe (ćwiczenia)
+UID:d481feb6-bb60-4b1e-a32b-b07d9ec21952@d481.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20251220T170000Z
+LOCATION:Paw.B 251
+DTSTART:20251220T144500Z
+SUMMARY:Prawo celne i dewizowe (konwersatorium)
+UID:8956ec94-e2e8-4a57-b80c-8666da2931ed@8956.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
+DTEND:20260110T091500Z
+LOCATION:Paw.S sala 4
+DTSTART:20260110T070000Z
+SUMMARY:Rachunkowość i sprawozdawczość finansowa (ćwiczenia)
+UID:a7fcf115-3ff9-4a9c-bb8c-f3e8c8c94c97@a7fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Julia Szwiec
+DTEND:20251019T160000Z
+LOCATION:Bibl. 440
+DTSTART:20251019T134500Z
+SUMMARY:Prawo podatkowe materialne ogólne (ćwiczenia)
+UID:f0ff2312-b7bc-43f1-ac0d-d2fd123497f7@f0ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Julia Szwiec
+DTEND:20251220T143000Z
+LOCATION:Paw.B 151
+DTSTART:20251220T121500Z
+SUMMARY:Prawo podatkowe materialne ogólne (ćwiczenia)
+UID:2ca5c892-7b97-4963-9921-a4a2a6979d03@2ca5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
+DTEND:20260131T143000Z
+LOCATION:Paw.C sala E
+DTSTART:20260131T121500Z
+SUMMARY: (egzamin)
+UID:8e2218e9-226f-4a61-a1de-deabb1a8e297@8e22.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Błażej Bugajski
-DTEND:20251018T160000Z
-DTSTART:20251018T134500Z
+DTEND:20251114T170000Z
+LOCATION:link do zajęć
+DTSTART:20251114T144500Z
 SUMMARY:Prawo cywilne i handlowe (wykład)
-UID:ced20746-4898-4c05-9cda-90244fcdb917@ced2.org
+UID:a149e436-abb9-43c5-aee1-ee1fb9065f69@a149.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bartłomiej Wrona
-DTEND:20251017T184500Z
-DTSTART:20251017T163000Z
-SUMMARY:Rachunkowość i sprawozdawczość finansowa (wykład)
-UID:eac73109-78ef-4980-beff-dcb4d1c51bff@eac7.org
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20260118T100000Z
+LOCATION:Paw.S sala 1
+DTSTART:20260118T074500Z
+SUMMARY:Prawo cywilne i handlowe (ćwiczenia)
+UID:7e44400a-04c1-4c0c-b145-e17c79aff7cd@7e44.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jacek Lachner
+DTEND:20251116T151500Z
+LOCATION:link do zajęć
+DTSTART:20251116T130000Z
+SUMMARY:�ródła i wykładnia prawa podatkowego (wykład)
+UID:c3b4e65c-34ac-41df-a99e-cded9a1e1a9c@c3b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kiełbasa
+DTEND:20251129T170000Z
+LOCATION:Paw.F 613
+DTSTART:20251129T144500Z
+SUMMARY:System ubezpieczeń społecznych (konwersatorium)
+UID:20975ab8-42d4-45dc-b2e4-bad46c2f02ed@2097.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Julia Szwiec
+DTEND:20260116T170000Z
+LOCATION:Paw.C sala F
+DTSTART:20260116T144500Z
+SUMMARY:Prawo podatkowe materialne ogólne (ćwiczenia)
+UID:0fc61cd1-a34c-40cc-a562-ab7aa175ee57@0fc6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
+DTEND:20251221T100000Z
+LOCATION:Paw.F 415
+DTSTART:20251221T074500Z
+SUMMARY:Rachunkowość i sprawozdawczość finansowa (ćwiczenia)
+UID:ecce9e0f-0d62-429e-847f-47ea8178e85e@ecce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Julia Szwiec
+DTEND:20251129T194500Z
+LOCATION:Paw.C sala A
+DTSTART:20251129T173000Z
+SUMMARY:Prawo podatkowe materialne ogólne (ćwiczenia)
+UID:2a801dcd-1b7e-45f4-b5b9-8946f773d6ed@2a80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20251115T143000Z
+LOCATION:Paw.B 251
+DTSTART:20251115T121500Z
+SUMMARY:Prawo celne i dewizowe (konwersatorium)
+UID:b5d32054-f147-408b-87d4-8d0ef91d74cd@b5d3.org
 END:VEVENT
 END:VCALENDAR
