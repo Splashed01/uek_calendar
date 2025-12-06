@@ -2,12 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Igor Zachariasz
+DTEND:20251122T170000Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20251122T144500Z
+SUMMARY:Postępowanie administracyjne i sądowo-administracyjne (konwersatorium)
+UID:506f1153-cc5a-4f8f-97d1-f7efa9caaa5c@506f.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marcin Piątkowski
-DTEND:20251212T170000Z
-LOCATION:link do zajęć
-DTSTART:20251212T144500Z
-SUMMARY:Podstawy przedsiębiorczości (wykład)
-UID:f96da5c3-9ca9-43a0-8dce-0e22a0b464c9@f96d.org
+DTEND:20251121T170000Z
+DTSTART:20251121T144500Z
+SUMMARY:Podstawy przedsiębiorczości (Przeniesienie zajęć)
+UID:5396018d-1a03-49ba-bdf3-d8ecb94bf8cd@5396.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Arkadiusz Tomaszek
@@ -15,77 +22,7 @@ DTEND:20260110T091500Z
 LOCATION:Rakowicka 16 sala 13
 DTSTART:20260110T070000Z
 SUMMARY:Podstawy przedsiębiorczości (ćwiczenia)
-UID:28a0eed8-3e60-414d-98b2-ba004e4fdac9@28a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Piątkowski
-DTEND:20260123T171500Z
-LOCATION:Paw.C sala F
-DTSTART:20260123T154500Z
-SUMMARY: (egzamin)
-UID:59e0379f-0767-4829-9b91-d44bc69ac7f8@59e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251016T123000Z
-DTSTART:20251016T093000Z
-SUMMARY: (rezerwacja)
-UID:db9df16f-b641-4cf8-9722-fbb316df5390@db9d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Adam Drozdek
-DTEND:20251206T170000Z
-LOCATION:Rakowicka 16 sala 13
-DTSTART:20251206T144500Z
-SUMMARY:System ochrony prawnej UE (konwersatorium do wyboru)
-UID:d9c6392b-c89a-486a-8af1-80d8b2b80b52@d9c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr hab. Igor Zachariasz
-DTEND:20251122T170000Z
-LOCATION:Rakowicka 16 sala 13
-DTSTART:20251122T144500Z
-SUMMARY:Postępowanie administracyjne i sądowo-administracyjne (konwersatorium)
-UID:8de6a32c-169e-468f-baa5-67b72a2b41bc@8de6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Piątkowski
-DTEND:20251205T170000Z
-DTSTART:20251205T144500Z
-SUMMARY:Podstawy przedsiębiorczości (Przeniesienie zajęć)
-UID:ebb6bae9-714e-4320-bf69-5ddf36663196@ebb6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr hab. Igor Zachariasz
-DTEND:20260110T170000Z
-LOCATION:Rakowicka 16 sala 12
-DTSTART:20260110T144500Z
-SUMMARY:Postępowanie administracyjne i sądowo-administracyjne (konwersatorium)
-UID:f805f481-a4e4-46f4-815b-85483ed5cff6@f805.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Adam Drozdek
-DTEND:20251130T143000Z
-LOCATION:Rakowicka 16 sala 13
-DTSTART:20251130T121500Z
-SUMMARY:System ochrony prawnej UE (konwersatorium do wyboru)
-UID:09bff135-9856-4c00-8db0-46af8e04b205@09bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Piątkowski
-DTEND:20251219T170000Z
-LOCATION:link do zajęć
-DTSTART:20251219T144500Z
-SUMMARY:Podstawy przedsiębiorczości (wykład)
-UID:49c14030-8b89-45c3-96d6-15c09541a2f2@49c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ambroży Mituś
-DTEND:20260109T184500Z
-LOCATION:Rakowicka 16 sala 12
-DTSTART:20260109T154500Z
-SUMMARY:Zamówienia publiczne (konwersatorium)
-UID:3ca5ab63-b522-4dc3-97bd-b7548db44aca@3ca5.org
+UID:5fa849fc-0fad-4c7f-9d5e-d61593ff289a@5fa8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Frańczuk
@@ -93,311 +30,7 @@ DTEND:20251115T124500Z
 LOCATION:link do zajęć
 DTSTART:20251115T103000Z
 SUMMARY:Techniki legislacyjne (konwersatorium zdalne)
-UID:12bb80f2-b05c-41c4-a9c2-ffced2b88fb0@12bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Arkadiusz Tomaszek
-DTEND:20251129T143000Z
-LOCATION:Paw.F 111
-DTSTART:20251129T121500Z
-SUMMARY:Podstawy przedsiębiorczości (ćwiczenia)
-UID:0f386068-4fe5-45de-8692-c67a74087490@0f38.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Frańczuk
-DTEND:20260124T170000Z
-LOCATION:Rakowicka 16 sala 12
-DTSTART:20260124T144500Z
-SUMMARY:Techniki legislacyjne (konwersatorium)
-UID:4faf2da3-3657-47d1-a552-cffd21caa808@4faf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Karolina Kotulewicz-Wisińska
-DTEND:20251205T194500Z
-LOCATION:link do zajęć
-DTSTART:20251205T173000Z
-SUMMARY:Politologia i podstawy wiedzy o państwie (wykład)
-UID:d9a888ee-2559-4bbf-aa31-c4c2ca759f73@d9a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Adam Drozdek
-DTEND:20260125T143000Z
-LOCATION:Rakowicka 16 sala 13
-DTSTART:20260125T121500Z
-SUMMARY:System ochrony prawnej UE (konwersatorium do wyboru)
-UID:4da9249a-f441-4c4c-a884-b84e4806c65a@4da9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Frańczuk
-DTEND:20251115T100000Z
-LOCATION:link do zajęć
-DTSTART:20251115T074500Z
-SUMMARY:Prawo cywilne w administracji (konwersatorium zdalne)
-UID:8f4437a5-d72b-41d8-b4fb-a05317af76dd@8f44.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Karolina Kotulewicz-Wisińska
-DTEND:20251212T194500Z
-LOCATION:link do zajęć
-DTSTART:20251212T173000Z
-SUMMARY:Politologia i podstawy wiedzy o państwie (wykład)
-UID:2b44ed0b-3924-4bea-a886-6e45b1c7e61f@2b44.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Olech
-DTEND:20260125T091500Z
-LOCATION:Rakowicka 16 sala 12
-DTSTART:20260125T070000Z
-SUMMARY:Elementy prawa wyborczego (konwersatorium do wyboru)
-UID:0b471040-5242-406a-99c7-379b9622dbce@0b47.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Karolina Kotulewicz-Wisińska
-DTEND:20251005T131500Z
-DTSTART:20251005T101500Z
-SUMMARY:Politologia i podstawy wiedzy o państwie (wykład)
-UID:4d069294-74ba-4dc1-9e0d-6e6f09557c20@4d06.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tadeusz Bartoś
-DTEND:20251024T184500Z
-DTSTART:20251024T163000Z
-SUMMARY:Filozofia z elementami etyki zawodowej (wykład)
-UID:994f419b-643a-4529-b95b-4fc3780549d6@994f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Frańczuk
-DTEND:20251025T133000Z
-LOCATION:Rakowicka 16 sala 12
-DTSTART:20251025T111500Z
-SUMMARY:Prawo cywilne w administracji (konwersatorium)
-UID:9fe93735-c9c5-49c4-80db-912776161bed@9fe9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ambroży Mituś
-DTEND:20251206T143000Z
-LOCATION:Rakowicka 16 sala 12
-DTSTART:20251206T121500Z
-SUMMARY:Zamówienia publiczne (konwersatorium)
-UID:91b63058-67eb-4e31-adab-74b2915c052c@91b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Frańczuk
-DTEND:20251213T143000Z
-LOCATION:Rakowicka 16 sala 12
-DTSTART:20251213T121500Z
-SUMMARY:Prawo cywilne w administracji (konwersatorium)
-UID:7f78e1c2-ae78-4873-8341-5a80ac7d3620@7f78.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Adam Drozdek
-DTEND:20260111T091500Z
-LOCATION:Rakowicka 16 sala 13
-DTSTART:20260111T070000Z
-SUMMARY:System ochrony prawnej UE (konwersatorium do wyboru)
-UID:594964f9-b4a1-4254-82ad-0c5078a6cb9a@5949.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Karolina Kotulewicz-Wisińska
-DTEND:20251114T174500Z
-LOCATION:link do zajęć
-DTSTART:20251114T144500Z
-SUMMARY:Politologia i podstawy wiedzy o państwie (wykład)
-UID:a5b4647f-effd-4e74-997f-6d130c0ad2c9@a5b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Karolina Kotulewicz-Wisińska
-DTEND:20251018T104500Z
-DTSTART:20251018T074500Z
-SUMMARY:Politologia i podstawy wiedzy o państwie (wykład)
-UID:16f11ded-221b-4c64-8e79-2ffccf087d20@16f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Olech
-DTEND:20260111T143000Z
-LOCATION:Rakowicka 16 sala 12
-DTSTART:20260111T121500Z
-SUMMARY:Elementy prawa wyborczego (konwersatorium do wyboru)
-UID:31c5a88c-a04c-491c-a304-201d143c4742@31c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ambroży Mituś
-DTEND:20251220T174500Z
-LOCATION:Rakowicka 16 sala 12
-DTSTART:20251220T144500Z
-SUMMARY:Zamówienia publiczne (konwersatorium)
-UID:f3222496-c49d-4e4b-a148-3e6acffca32f@f322.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tadeusz Bartoś
-DTEND:20251128T184500Z
-LOCATION:link do zajęć
-DTSTART:20251128T154500Z
-SUMMARY:Filozofia z elementami etyki zawodowej (wykład)
-UID:b9733ad5-b62f-4604-90cf-45bbba91b538@b973.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Olech
-DTEND:20251123T151500Z
-LOCATION:Rakowicka 16 sala 12
-DTSTART:20251123T121500Z
-SUMMARY:Elementy prawa wyborczego (konwersatorium do wyboru)
-UID:9d6f8a57-90eb-4308-a71e-00dcbf84f666@9d6f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Frańczuk
-DTEND:20251025T160000Z
-LOCATION:Rakowicka 16 sala 12
-DTSTART:20251025T134500Z
-SUMMARY:Techniki legislacyjne (konwersatorium)
-UID:6b5266f8-5acb-4d0e-a642-b1e48eab0f37@6b52.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Piątkowski
-DTEND:20251121T170000Z
-DTSTART:20251121T144500Z
-SUMMARY:Podstawy przedsiębiorczości (Przeniesienie zajęć)
-UID:ae51f566-58ac-4b48-a47f-d4ace7574a75@ae51.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tadeusz Bartoś
-DTEND:20251017T174500Z
-DTSTART:20251017T144500Z
-SUMMARY:Filozofia z elementami etyki zawodowej (wykład)
-UID:cd9516b2-d6a6-47d3-81d8-34bfc49a450a@cd95.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tadeusz Bartoś
-DTEND:20251121T194500Z
-LOCATION:link do zajęć
-DTSTART:20251121T173000Z
-SUMMARY:Filozofia z elementami etyki zawodowej (wykład)
-UID:81876e68-ae2b-4262-b411-e9be427814fc@8187.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Frańczuk
-DTEND:20260110T143000Z
-LOCATION:Rakowicka 16 sala 12
-DTSTART:20260110T121500Z
-SUMMARY:Prawo cywilne w administracji (konwersatorium)
-UID:68817eae-ac05-47cf-9816-daa52549dec5@6881.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Frańczuk
-DTEND:20260110T114500Z
-LOCATION:Rakowicka 16 sala 13
-DTSTART:20260110T093000Z
-SUMMARY:Techniki legislacyjne (konwersatorium)
-UID:32316683-e061-4138-a585-227c03454a0a@3231.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Frańczuk
-DTEND:20260124T143000Z
-LOCATION:Rakowicka 16 sala 12
-DTSTART:20260124T121500Z
-SUMMARY:Prawo cywilne w administracji (konwersatorium)
-UID:11eabf2e-48a9-4f7e-a135-7ad5523db4cf@11ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Adam Drozdek
-DTEND:20251026T143000Z
-LOCATION:Rakowicka 16 sala 13
-DTSTART:20251026T121500Z
-SUMMARY:System ochrony prawnej UE (konwersatorium do wyboru)
-UID:002fb657-702c-4324-a7a4-bc47ed60f1a7@002f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Piątkowski
-DTEND:20251206T114500Z
-DTSTART:20251206T093000Z
-SUMMARY:Podstawy przedsiębiorczości (Przeniesienie zajęć)
-UID:1b5963f3-52c8-4129-bdfb-1f33f9ab8508@1b59.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Olech
-DTEND:20251214T151500Z
-LOCATION:Rakowicka 16 sala 12
-DTSTART:20251214T121500Z
-SUMMARY:Elementy prawa wyborczego (konwersatorium do wyboru)
-UID:2aa2823f-29f3-4563-9ac7-3bb8645a2cc6@2aa2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Adam Drozdek
-DTEND:20251220T143000Z
-LOCATION:Rakowicka 16 sala 13
-DTSTART:20251220T121500Z
-SUMMARY:System ochrony prawnej UE (konwersatorium do wyboru)
-UID:88365b53-9eea-4f87-99ed-f7232c9fd381@8836.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Arkadiusz Tomaszek
-DTEND:20260124T114500Z
-LOCATION:Rakowicka 16 sala 12
-DTSTART:20260124T093000Z
-SUMMARY:Podstawy przedsiębiorczości (zaliczenie)
-UID:e5f77531-474c-43e8-b721-fb43f642c0da@e5f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tadeusz Bartoś
-DTEND:20251005T094500Z
-DTSTART:20251005T064500Z
-SUMMARY:Filozofia z elementami etyki zawodowej (wykład)
-UID:4a414cb5-96ac-479c-89d8-84c655c1f30b@4a41.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Olech
-DTEND:20251116T151500Z
-LOCATION:Rakowicka 16 sala 12
-DTSTART:20251116T121500Z
-SUMMARY:Elementy prawa wyborczego (konwersatorium do wyboru)
-UID:5001fef4-32bc-4964-af71-de15e50aa442@5001.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ambroży Mituś
-DTEND:20251214T091500Z
-LOCATION:Rakowicka 16 sala 12
-DTSTART:20251214T070000Z
-SUMMARY:Zamówienia publiczne (konwersatorium)
-UID:9842d104-995e-490f-a58e-76c2b83d7440@9842.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Frańczuk
-DTEND:20251122T114500Z
-LOCATION:Rakowicka 16 sala 13
-DTSTART:20251122T093000Z
-SUMMARY:Techniki legislacyjne (konwersatorium)
-UID:2a0d7671-256d-40fb-ae75-c73763f43f52@2a0d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Arkadiusz Tomaszek
-DTEND:20251220T114500Z
-LOCATION:Rakowicka 16 sala 12
-DTSTART:20251220T093000Z
-SUMMARY:Podstawy przedsiębiorczości (ćwiczenia)
-UID:7a7839b3-681a-4001-9947-1c3e18a6525b@7a78.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Piątkowski
-DTEND:20251024T160000Z
-DTSTART:20251024T134500Z
-SUMMARY:Podstawy przedsiębiorczości (wykład)
-UID:c35afba4-c1b7-4cbf-bdf3-46932689fff6@c35a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Frańczuk
-DTEND:20251213T170000Z
-LOCATION:Rakowicka 16 sala 12
-DTSTART:20251213T144500Z
-SUMMARY:Techniki legislacyjne (konwersatorium)
-UID:81554799-80cf-4315-beb9-b9f282219dfe@8155.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr hab. Igor Zachariasz
-DTEND:20251207T151500Z
-LOCATION:Rakowicka 16 sala 13
-DTSTART:20251207T121500Z
-SUMMARY:Postępowanie administracyjne i sądowo-administracyjne (konwersatorium)
-UID:c8e30e9f-7e74-464f-bb2f-a051f066b71d@c8e3.org
+UID:d7087ebd-5ded-4b43-9b01-ca77d096ba0b@d708.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Frańczuk
@@ -405,22 +38,15 @@ DTEND:20251122T143000Z
 LOCATION:Rakowicka 16 sala 12
 DTSTART:20251122T121500Z
 SUMMARY:Prawo cywilne w administracji (konwersatorium)
-UID:9658d59b-aced-44ba-b517-952139782155@9658.org
+UID:e7d4f47f-c2bf-478c-8cd2-355e735f1d75@e7d4.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251217T134500Z
-DTSTART:20251217T121500Z
-SUMMARY: (rezerwacja)
-UID:4848856f-4846-49a9-aa38-f9283c4b3ca3@4848.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ambroży Mituś
-DTEND:20251019T141500Z
-LOCATION:Rakowicka 16 sala 12
-DTSTART:20251019T111500Z
-SUMMARY:Zamówienia publiczne (konwersatorium)
-UID:e58206e9-ca80-4084-a83d-2854d5f8c1ee@e582.org
+DESCRIPTION:Instructor: dr Adam Drozdek
+DTEND:20251206T170000Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20251206T144500Z
+SUMMARY:System ochrony prawnej UE (konwersatorium do wyboru)
+UID:300d7e19-e707-410f-8d11-2123b40270a7@300d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr hab. Igor Zachariasz
@@ -428,7 +54,271 @@ DTEND:20251221T151500Z
 LOCATION:Rakowicka 16 sala 13
 DTSTART:20251221T121500Z
 SUMMARY:Postępowanie administracyjne i sądowo-administracyjne (konwersatorium)
-UID:47c43fa4-2e50-4442-99b8-9c040073de84@47c4.org
+UID:36642d61-9bfe-4560-9ed0-7d776c5c5fb8@3664.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Frańczuk
+DTEND:20260110T143000Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20260110T121500Z
+SUMMARY:Prawo cywilne w administracji (konwersatorium)
+UID:11a4cdb8-84a4-4bdc-8266-e77aa32d52cc@11a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karolina Kotulewicz-Wisińska
+DTEND:20251114T174500Z
+LOCATION:link do zajęć
+DTSTART:20251114T144500Z
+SUMMARY:Politologia i podstawy wiedzy o państwie (wykład)
+UID:ce2dd427-71c2-4f96-b818-388b93e84cfb@ce2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Adam Drozdek
+DTEND:20251130T143000Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20251130T121500Z
+SUMMARY:System ochrony prawnej UE (konwersatorium do wyboru)
+UID:c943b958-127c-41f3-806f-b80e6be39d5a@c943.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Frańczuk
+DTEND:20260124T170000Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20260124T144500Z
+SUMMARY:Techniki legislacyjne (konwersatorium)
+UID:24ec2b15-db03-4e5c-834d-4c155b9acc32@24ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tadeusz Bartoś
+DTEND:20251005T094500Z
+DTSTART:20251005T064500Z
+SUMMARY:Filozofia z elementami etyki zawodowej (wykład)
+UID:5632b1bc-7942-4df5-b54f-b835f8f6d7f1@5632.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Arkadiusz Tomaszek
+DTEND:20251220T114500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20251220T093000Z
+SUMMARY:Podstawy przedsiębiorczości (ćwiczenia)
+UID:dac3e694-6ce6-4f77-98ac-3df1b6836a74@dac3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251217T134500Z
+DTSTART:20251217T121500Z
+SUMMARY: (rezerwacja)
+UID:3d0349ef-ca84-4190-a53e-99b0b79c691d@3d03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Piątkowski
+DTEND:20260123T171500Z
+LOCATION:Paw.C sala F
+DTSTART:20260123T154500Z
+SUMMARY: (egzamin)
+UID:0124440b-98f4-4693-a209-bb72c36d6ac2@0124.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Frańczuk
+DTEND:20251213T170000Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20251213T144500Z
+SUMMARY:Techniki legislacyjne (konwersatorium)
+UID:ead99841-aa1a-413b-af6a-9e1a6cf471f6@ead9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Frańczuk
+DTEND:20251115T100000Z
+LOCATION:link do zajęć
+DTSTART:20251115T074500Z
+SUMMARY:Prawo cywilne w administracji (konwersatorium zdalne)
+UID:1562f81c-f1a9-438e-a6b1-1b24fbcf2f99@1562.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Frańczuk
+DTEND:20251025T133000Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20251025T111500Z
+SUMMARY:Prawo cywilne w administracji (konwersatorium)
+UID:32025177-3b21-427e-85a5-71132f83c2c4@3202.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Adam Drozdek
+DTEND:20260125T143000Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20260125T121500Z
+SUMMARY:System ochrony prawnej UE (konwersatorium do wyboru)
+UID:76cbca8d-f085-4ef4-abee-989db3976fb7@76cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ambroży Mituś
+DTEND:20251019T141500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20251019T111500Z
+SUMMARY:Zamówienia publiczne (konwersatorium)
+UID:7072918d-2cf6-4a4c-b72e-a1c4b328417a@7072.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Frańczuk
+DTEND:20251025T160000Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20251025T134500Z
+SUMMARY:Techniki legislacyjne (konwersatorium)
+UID:da59a4e4-09bc-40fb-b7cf-bff4a3872ee8@da59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tadeusz Bartoś
+DTEND:20251024T184500Z
+DTSTART:20251024T163000Z
+SUMMARY:Filozofia z elementami etyki zawodowej (wykład)
+UID:e9fc88ad-4f40-437d-93ce-65dfbd01d3ff@e9fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Igor Zachariasz
+DTEND:20260110T170000Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20260110T144500Z
+SUMMARY:Postępowanie administracyjne i sądowo-administracyjne (konwersatorium)
+UID:e4192b2b-f1a0-47be-834f-f0f434cb437f@e419.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karolina Kotulewicz-Wisińska
+DTEND:20251205T194500Z
+LOCATION:link do zajęć
+DTSTART:20251205T173000Z
+SUMMARY:Politologia i podstawy wiedzy o państwie (wykład)
+UID:c930955b-b958-4392-b0f7-4bbe7f3a5a0a@c930.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Olech
+DTEND:20251116T151500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20251116T121500Z
+SUMMARY:Elementy prawa wyborczego (konwersatorium do wyboru)
+UID:f5d08697-e3dd-40e2-80dd-26e4bd2ff9b2@f5d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Adam Drozdek
+DTEND:20251220T143000Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20251220T121500Z
+SUMMARY:System ochrony prawnej UE (konwersatorium do wyboru)
+UID:f803f74a-273c-4a18-9e6c-1a8e5fc1adc7@f803.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Adam Drozdek
+DTEND:20260111T091500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20260111T070000Z
+SUMMARY:System ochrony prawnej UE (konwersatorium do wyboru)
+UID:3afd5ec2-1b2e-45e0-90e2-23ac86b35fb5@3afd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karolina Kotulewicz-Wisińska
+DTEND:20251018T104500Z
+DTSTART:20251018T074500Z
+SUMMARY:Politologia i podstawy wiedzy o państwie (wykład)
+UID:f8085f62-e742-43f7-a027-df5b39aded19@f808.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Igor Zachariasz
+DTEND:20251207T151500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20251207T121500Z
+SUMMARY:Postępowanie administracyjne i sądowo-administracyjne (konwersatorium)
+UID:5db3f30c-9383-46ef-aba0-0370c1f40519@5db3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Piątkowski
+DTEND:20251212T170000Z
+LOCATION:link do zajęć
+DTSTART:20251212T144500Z
+SUMMARY:Podstawy przedsiębiorczości (wykład)
+UID:da651560-3f40-480f-8d64-c8a032c86a45@da65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Olech
+DTEND:20251123T151500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20251123T121500Z
+SUMMARY:Elementy prawa wyborczego (konwersatorium do wyboru)
+UID:d91ae7a4-0651-4d87-abec-444aba582e2b@d91a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Frańczuk
+DTEND:20251122T114500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20251122T093000Z
+SUMMARY:Techniki legislacyjne (konwersatorium)
+UID:940ecf7b-8f69-4ea9-8f60-fa443190edfd@940e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Olech
+DTEND:20260125T091500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20260125T070000Z
+SUMMARY:Elementy prawa wyborczego (konwersatorium do wyboru)
+UID:b56dcbbb-15ae-4895-b1ff-dafd603f07b0@b56d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251016T123000Z
+DTSTART:20251016T093000Z
+SUMMARY: (rezerwacja)
+UID:83525438-a7d7-4f62-a2c9-2895ae5b8cb1@8352.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Piątkowski
+DTEND:20251205T170000Z
+DTSTART:20251205T144500Z
+SUMMARY:Podstawy przedsiębiorczości (Przeniesienie zajęć)
+UID:15e8e9ac-9627-4d74-8933-bb4d7262e3b2@15e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Adam Drozdek
+DTEND:20251026T143000Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20251026T121500Z
+SUMMARY:System ochrony prawnej UE (konwersatorium do wyboru)
+UID:4273d818-d0de-4fe9-94dc-579d2aa6e8fa@4273.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tadeusz Bartoś
+DTEND:20251121T194500Z
+LOCATION:link do zajęć
+DTSTART:20251121T173000Z
+SUMMARY:Filozofia z elementami etyki zawodowej (wykład)
+UID:6d2ac69e-f4d7-4597-8e0e-762cc188e0a7@6d2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karolina Kotulewicz-Wisińska
+DTEND:20251005T131500Z
+DTSTART:20251005T101500Z
+SUMMARY:Politologia i podstawy wiedzy o państwie (wykład)
+UID:5919f0fa-b39e-4b04-9f8c-050a25699079@5919.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Frańczuk
+DTEND:20260110T114500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20260110T093000Z
+SUMMARY:Techniki legislacyjne (konwersatorium)
+UID:a16c9190-073c-4779-a96e-9683329dca73@a16c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Olech
+DTEND:20260111T143000Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20260111T121500Z
+SUMMARY:Elementy prawa wyborczego (konwersatorium do wyboru)
+UID:bbd321ea-ab5c-49dc-a8dc-baa96c9f8dfd@bbd3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tadeusz Bartoś
+DTEND:20251017T174500Z
+DTSTART:20251017T144500Z
+SUMMARY:Filozofia z elementami etyki zawodowej (wykład)
+UID:a894d1fe-03f6-4cb6-9b66-5dd4afd47044@a894.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr hab. Igor Zachariasz
@@ -436,6 +326,116 @@ DTEND:20251129T114500Z
 LOCATION:Rakowicka 16 sala 13
 DTSTART:20251129T084500Z
 SUMMARY:Postępowanie administracyjne i sądowo-administracyjne (konwersatorium)
-UID:8d654726-9e9f-41cc-a2f0-ad453c669f84@8d65.org
+UID:2cb758ed-2715-4c82-8153-ea1ef5208e27@2cb7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karolina Kotulewicz-Wisińska
+DTEND:20251212T194500Z
+LOCATION:link do zajęć
+DTSTART:20251212T173000Z
+SUMMARY:Politologia i podstawy wiedzy o państwie (wykład)
+UID:9cb69a1e-d790-4ed8-85c3-cad049f6fea4@9cb6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ambroży Mituś
+DTEND:20260109T184500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20260109T154500Z
+SUMMARY:Zamówienia publiczne (konwersatorium)
+UID:6ff5ef94-8115-45ab-96f9-df69b3fea8a0@6ff5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Frańczuk
+DTEND:20260124T143000Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20260124T121500Z
+SUMMARY:Prawo cywilne w administracji (konwersatorium)
+UID:50234bf1-4fe0-4a5a-8d56-0c68445adc0e@5023.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Arkadiusz Tomaszek
+DTEND:20260124T114500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20260124T093000Z
+SUMMARY:Podstawy przedsiębiorczości (zaliczenie)
+UID:bf59f917-514a-4c9e-a0db-59a8f869d0bf@bf59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Piątkowski
+DTEND:20251024T160000Z
+DTSTART:20251024T134500Z
+SUMMARY:Podstawy przedsiębiorczości (wykład)
+UID:e6f26c69-2d72-43c1-8e3a-61c931f28032@e6f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tadeusz Bartoś
+DTEND:20251128T184500Z
+LOCATION:link do zajęć
+DTSTART:20251128T154500Z
+SUMMARY:Filozofia z elementami etyki zawodowej (wykład)
+UID:cf114cc5-3ada-4edc-a366-f77c049c2e73@cf11.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Frańczuk
+DTEND:20251213T143000Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20251213T121500Z
+SUMMARY:Prawo cywilne w administracji (konwersatorium)
+UID:70b33e12-9044-47cd-ae06-62103749370a@70b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Piątkowski
+DTEND:20251219T170000Z
+LOCATION:link do zajęć
+DTSTART:20251219T144500Z
+SUMMARY:Podstawy przedsiębiorczości (wykład)
+UID:88c6cccc-06bb-449d-b740-5f1644152e41@88c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ambroży Mituś
+DTEND:20251206T143000Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20251206T121500Z
+SUMMARY:Zamówienia publiczne (konwersatorium)
+UID:87e71e94-b791-4e38-b0e3-13ab5255c008@87e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ambroży Mituś
+DTEND:20251220T174500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20251220T144500Z
+SUMMARY:Zamówienia publiczne (konwersatorium)
+UID:412f195e-4c01-4398-8f7f-d92c09ff6606@412f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Olech
+DTEND:20251214T151500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20251214T121500Z
+SUMMARY:Elementy prawa wyborczego (konwersatorium do wyboru)
+UID:28a659a6-56f7-4998-a104-ca7b15e4d9a5@28a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ambroży Mituś
+DTEND:20251214T091500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20251214T070000Z
+SUMMARY:Zamówienia publiczne (konwersatorium)
+UID:cc9459ae-d1c8-43a1-ba0e-5dd54bdbdc53@cc94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Piątkowski
+DTEND:20251206T114500Z
+DTSTART:20251206T093000Z
+SUMMARY:Podstawy przedsiębiorczości (Przeniesienie zajęć)
+UID:b6d5b773-0794-41d7-9e8c-f4a3693c64f3@b6d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Arkadiusz Tomaszek
+DTEND:20251129T143000Z
+LOCATION:Paw.F 111
+DTSTART:20251129T121500Z
+SUMMARY:Podstawy przedsiębiorczości (ćwiczenia)
+UID:77348efc-2bfd-4043-9682-e520e224a0e6@7734.org
 END:VEVENT
 END:VCALENDAR

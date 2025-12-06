@@ -2,26 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251016T123000Z
-DTSTART:20251016T093000Z
-SUMMARY: (rezerwacja)
-UID:ac77b0ee-f765-4778-a1d4-4ba53eeb9202@ac77.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
-DTEND:20251128T194500Z
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20251214T170000Z
 LOCATION:Paw.U sala N
-DTSTART:20251128T173000Z
-SUMMARY:Narzędzia sterowania projektem (ćwiczenia)
-UID:c62d536d-2fff-4e78-bf76-6d0a8a8a6032@c62d.org
+DTSTART:20251214T144500Z
+SUMMARY:Podstawy zarządzania projektami (ćwiczenia)
+UID:39fd7fb8-65fe-4602-83aa-615c1681581e@39fd.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
-DTEND:20251024T184500Z
-DTSTART:20251024T163000Z
-SUMMARY:Systemowe zarządzanie w projektach (wykład)
-UID:d0cfed33-329d-4c60-9787-6ee6d36c4afc@d0cf.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20251011T104500Z
+DTSTART:20251011T083000Z
+SUMMARY:Proces zarządzania (wykład do wyboru)
+UID:d5bbf318-a8c2-4c95-b795-bd433a1d1473@d5bb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Mateusz Tondera
@@ -29,53 +22,7 @@ DTEND:20251121T170000Z
 LOCATION:link do zajęć
 DTSTART:20251121T144500Z
 SUMMARY:Prawne aspekty w projektach (wykład)
-UID:17b99293-e8e2-49da-9f81-13888d5c1abb@17b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
-DTEND:20251024T160000Z
-DTSTART:20251024T134500Z
-SUMMARY:Podstawy zarządzania projektami (wykład)
-UID:01b47209-e694-4004-85bd-b7ca997bbafd@01b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Marzena Wójcik
-DTEND:20251026T114500Z
-LOCATION:Paw.C sala F
-DTSTART:20251026T093000Z
-SUMMARY:Zarządzanie zespołem projektowym (konwersatorium)
-UID:03f52d49-f841-4987-be53-fbe5e15df29f@03f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Marzena Wójcik
-DTEND:20251130T114500Z
-LOCATION:Paw.F 102
-DTSTART:20251130T093000Z
-SUMMARY:Zarządzanie zespołem projektowym (konwersatorium)
-UID:6c928f0a-f490-42f0-98bd-3b611dbca826@6c92.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dariusz Firszt
-DTEND:20251123T114500Z
-LOCATION:Paw.U sala K
-DTSTART:20251123T093000Z
-SUMMARY:�ródła finansowania projektów (konwersatorium)
-UID:3b932ea8-be9d-42c0-a457-d644e37ced51@3b93.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bernard Bińczycki
-DTEND:20251129T100000Z
-LOCATION:Platforma Moodle
-DTSTART:20251129T074500Z
-SUMMARY:Zarządzanie talentami (wykład e-learningowy)
-UID:40fdeba6-12b5-4a46-aec0-6c5221e5eec8@40fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Tondera
-DTEND:20251010T184500Z
-DTSTART:20251010T163000Z
-SUMMARY:Prawne aspekty w projektach (wykład)
-UID:c8b5d768-b31e-4ed6-b1e1-e078a0db75aa@c8b5.org
+UID:e630eeef-4855-4d17-b16c-eb3abcecfa94@e630.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Marzena Wójcik
@@ -83,7 +30,22 @@ DTEND:20251214T114500Z
 LOCATION:Paw.F 109
 DTSTART:20251214T093000Z
 SUMMARY:Zarządzanie zespołem projektowym (konwersatorium)
-UID:d745061c-6a31-435a-9ce2-93cdf2c71e46@d745.org
+UID:c86fdc05-7b69-4d37-a182-2b11b28200cb@c86f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
+DTEND:20251128T194500Z
+LOCATION:Paw.U sala N
+DTSTART:20251128T173000Z
+SUMMARY:Narzędzia sterowania projektem (ćwiczenia)
+UID:44989555-46de-4232-a808-0079ef325d2b@4498.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251217T134500Z
+DTSTART:20251217T121500Z
+SUMMARY: (rezerwacja)
+UID:87df4156-fdef-4bbe-8d41-3935325f09b0@87df.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
@@ -91,127 +53,7 @@ DTEND:20251122T143000Z
 LOCATION:link do zajęć
 DTSTART:20251122T121500Z
 SUMMARY:Podstawy zarządzania projektami (wykład)
-UID:2fd67bf0-99ff-4f5b-aec5-97a7feab27b0@2fd6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251217T134500Z
-DTSTART:20251217T121500Z
-SUMMARY: (rezerwacja)
-UID:90f760c5-4a1f-4b2c-8fb3-adfc4681a9f8@90f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
-DTEND:20260111T170000Z
-LOCATION:Paw.U sala M
-DTSTART:20260111T144500Z
-SUMMARY:Narzędzia sterowania projektem (ćwiczenia)
-UID:ca06ac73-fb5f-4d4c-ab63-848e9bedf2a0@ca06.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
-DTEND:20251122T114500Z
-LOCATION:link do zajęć
-DTSTART:20251122T093000Z
-SUMMARY:Narzędzia sterowania projektem (wykład)
-UID:e144559c-5110-456b-afbb-506be1bc263a@e144.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
-DTEND:20251025T081500Z
-DTSTART:20251025T060000Z
-SUMMARY:Proces zarządzania (wykład do wyboru)
-UID:496e379e-ff0a-44f8-8be4-7ab60dc09c0d@496e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
-DTEND:20251011T133000Z
-DTSTART:20251011T111500Z
-SUMMARY:Podstawy zarządzania projektami (wykład)
-UID:9f7df802-d219-4eeb-bdb2-1e7f21c1fd8f@9f7d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
-DTEND:20251214T170000Z
-LOCATION:Paw.U sala N
-DTSTART:20251214T144500Z
-SUMMARY:Podstawy zarządzania projektami (ćwiczenia)
-UID:1825c43d-1359-4876-837e-f0a7bfb5ca65@1825.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bernard Bińczycki
-DTEND:20251025T141500Z
-DTSTART:20251025T120000Z
-SUMMARY:Zarządzanie talentami (wykład do wyboru)
-UID:4aaeab7e-8198-47c8-9c60-a54ddfcd7473@4aae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bernard Bińczycki
-DTEND:20251213T151500Z
-LOCATION:Platforma Moodle
-DTSTART:20251213T130000Z
-SUMMARY:Zarządzanie talentami (wykład e-learningowy)
-UID:7f705e53-d5e1-4fff-a421-90a2a977690d@7f70.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
-DTEND:20251123T091500Z
-LOCATION:Paw.U sala N
-DTSTART:20251123T070000Z
-SUMMARY:Podstawy zarządzania projektami (ćwiczenia)
-UID:176bba4c-7566-4ffa-9551-6e56da5dcca9@176b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
-DTEND:20251025T104500Z
-DTSTART:20251025T083000Z
-SUMMARY:Narzędzia sterowania projektem (wykład)
-UID:4d52c4ce-3e9a-4540-91d0-4b760b0383c8@4d52.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dariusz Firszt
-DTEND:20251214T091500Z
-LOCATION:Paw.A 301b
-DTSTART:20251214T070000Z
-SUMMARY:�ródła finansowania projektów (konwersatorium)
-UID:92ddeb91-413f-4958-af4a-48f3212520a3@92dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dariusz Firszt
-DTEND:20260111T114500Z
-LOCATION:Paw.U sala N
-DTSTART:20260111T093000Z
-SUMMARY:�ródła finansowania projektów (konwersatorium)
-UID:675e1195-8f1d-4f97-98e8-550646f6e6d5@675e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
-DTEND:20251011T104500Z
-DTSTART:20251011T083000Z
-SUMMARY:Proces zarządzania (wykład do wyboru)
-UID:fca4fe1e-a719-448f-a939-47ced246a870@fca4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
-DTEND:20251130T091500Z
-LOCATION:Paw.U sala M
-DTSTART:20251130T070000Z
-SUMMARY:Narzędzia sterowania projektem (ćwiczenia)
-UID:51bfb9c9-8dcf-4381-9f85-15b6d42d2d59@51bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
-DTEND:20260111T091500Z
-DTSTART:20260111T070000Z
-SUMMARY:Narzędzia sterowania projektem (Przeniesienie zajęć)
-UID:55711b0d-0c50-4650-9d2a-e80983f4d0a0@5571.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
-DTEND:20251010T160000Z
-DTSTART:20251010T134500Z
-SUMMARY:Systemowe zarządzanie w projektach (wykład)
-UID:66727677-a08d-45a9-8842-1627351b1959@6672.org
+UID:be62b27a-230a-48e8-97b4-1707058a336a@be62.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
@@ -219,23 +61,82 @@ DTEND:20251026T091500Z
 LOCATION:Paw.U sala M
 DTSTART:20251026T070000Z
 SUMMARY:Podstawy zarządzania projektami (ćwiczenia)
-UID:1f00e391-0cfa-408d-86c4-489b65542178@1f00.org
+UID:8fc8caaa-de3a-48e7-bd48-4fa0a2c635b1@8fc8.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
-DTEND:20251122T091500Z
-LOCATION:link do zajęć
-DTSTART:20251122T070000Z
-SUMMARY:Proces zarządzania (wykład do wyboru)
-UID:05c1e053-b481-4d69-9b36-af04fdf63e0d@05c1.org
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20251123T091500Z
+LOCATION:Paw.U sala N
+DTSTART:20251123T070000Z
+SUMMARY:Podstawy zarządzania projektami (ćwiczenia)
+UID:789c70fd-34be-4461-8d10-168ddd3fe7e2@789c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Mateusz Tondera
-DTEND:20251212T194500Z
-LOCATION:link do zajęć
-DTSTART:20251212T173000Z
+DTEND:20251010T184500Z
+DTSTART:20251010T163000Z
 SUMMARY:Prawne aspekty w projektach (wykład)
-UID:4d0f534d-562f-4801-bce2-dc8a7a9cf502@4d0f.org
+UID:8405a754-b3c4-44db-8c7d-051e7fcd60bc@8405.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
+DTEND:20251130T091500Z
+LOCATION:Paw.U sala M
+DTSTART:20251130T070000Z
+SUMMARY:Narzędzia sterowania projektem (ćwiczenia)
+UID:0cd0d463-bac4-4c88-a16e-d5a7608cee36@0cd0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marzena Wójcik
+DTEND:20251130T114500Z
+LOCATION:Paw.F 102
+DTSTART:20251130T093000Z
+SUMMARY:Zarządzanie zespołem projektowym (konwersatorium)
+UID:14172df0-cedd-47a7-ab2f-dff9ca92266a@1417.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
+DTEND:20251011T081500Z
+DTSTART:20251011T060000Z
+SUMMARY:Narzędzia sterowania projektem (wykład)
+UID:5167ada4-f49a-4c99-870a-5b5c3664bf12@5167.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20251213T151500Z
+LOCATION:Platforma Moodle
+DTSTART:20251213T130000Z
+SUMMARY:Zarządzanie talentami (wykład e-learningowy)
+UID:a4262fe3-2b0a-489a-b26f-4f2f9388f88d@a426.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marzena Wójcik
+DTEND:20251026T114500Z
+LOCATION:Paw.C sala F
+DTSTART:20251026T093000Z
+SUMMARY:Zarządzanie zespołem projektowym (konwersatorium)
+UID:ee2a3de5-81dc-4f94-9a7c-66338c53f416@ee2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
+DTEND:20260111T091500Z
+DTSTART:20260111T070000Z
+SUMMARY:Narzędzia sterowania projektem (Przeniesienie zajęć)
+UID:8edad29f-268b-4ddc-b4db-aa4965fe59dd@8eda.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251016T123000Z
+DTSTART:20251016T093000Z
+SUMMARY: (rezerwacja)
+UID:ed58ddc5-c378-4280-89ca-c7a3d91ada74@ed58.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20251011T133000Z
+DTSTART:20251011T111500Z
+SUMMARY:Podstawy zarządzania projektami (wykład)
+UID:6bc182fe-420b-4206-bb2c-fa3b2df22922@6bc1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
@@ -243,13 +144,112 @@ DTEND:20251121T194500Z
 LOCATION:link do zajęć
 DTSTART:20251121T173000Z
 SUMMARY:Systemowe zarządzanie w projektach (wykład)
-UID:39f0f694-7e1f-453d-b330-c6cc62bd35f4@39f0.org
+UID:0d997a06-7203-47a1-8b4e-cb4f7ce47384@0d99.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20251212T194500Z
+LOCATION:link do zajęć
+DTSTART:20251212T173000Z
+SUMMARY:Prawne aspekty w projektach (wykład)
+UID:f38209a7-aa86-4c71-b76e-6225ab46992e@f382.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
-DTEND:20251011T081500Z
-DTSTART:20251011T060000Z
+DTEND:20251024T184500Z
+DTSTART:20251024T163000Z
+SUMMARY:Systemowe zarządzanie w projektach (wykład)
+UID:7d7ffd8b-1133-44b5-9945-b17be674760e@7d7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20251129T100000Z
+LOCATION:Platforma Moodle
+DTSTART:20251129T074500Z
+SUMMARY:Zarządzanie talentami (wykład e-learningowy)
+UID:8e5dc8be-7bed-48c1-b2b2-f22b34cbecb2@8e5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
+DTEND:20251122T114500Z
+LOCATION:link do zajęć
+DTSTART:20251122T093000Z
 SUMMARY:Narzędzia sterowania projektem (wykład)
-UID:1d9a5d45-966e-4a79-93eb-e4390a81e51e@1d9a.org
+UID:9491fa84-b685-493f-9dc2-cd43afea62c4@9491.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
+DTEND:20260111T170000Z
+LOCATION:Paw.U sala M
+DTSTART:20260111T144500Z
+SUMMARY:Narzędzia sterowania projektem (ćwiczenia)
+UID:b3e66749-f677-4ad4-a38c-23e2c7f81e94@b3e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20251123T114500Z
+LOCATION:Paw.U sala K
+DTSTART:20251123T093000Z
+SUMMARY:�ródła finansowania projektów (konwersatorium)
+UID:32773cca-a05a-4269-be62-63e57b3c0d66@3277.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20251122T091500Z
+LOCATION:link do zajęć
+DTSTART:20251122T070000Z
+SUMMARY:Proces zarządzania (wykład do wyboru)
+UID:d838f404-63a5-4d19-b9ad-b46fca6e829b@d838.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20251025T141500Z
+DTSTART:20251025T120000Z
+SUMMARY:Zarządzanie talentami (wykład do wyboru)
+UID:24d6f2c2-a0d5-4138-939f-d42e9f593968@24d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20260111T114500Z
+LOCATION:Paw.U sala N
+DTSTART:20260111T093000Z
+SUMMARY:�ródła finansowania projektów (konwersatorium)
+UID:046940ec-f9e6-4b06-9b06-9acdfcf5becd@0469.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20251025T081500Z
+DTSTART:20251025T060000Z
+SUMMARY:Proces zarządzania (wykład do wyboru)
+UID:dec4f537-99b8-4014-a5c7-8fbd4b02d94f@dec4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20251214T091500Z
+LOCATION:Paw.A 301b
+DTSTART:20251214T070000Z
+SUMMARY:�ródła finansowania projektów (konwersatorium)
+UID:c4423c1b-0924-4b43-9c13-f910932016f6@c442.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
+DTEND:20251025T104500Z
+DTSTART:20251025T083000Z
+SUMMARY:Narzędzia sterowania projektem (wykład)
+UID:2873c7c7-b310-4a6b-bbba-b44b4f9ea935@2873.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
+DTEND:20251010T160000Z
+DTSTART:20251010T134500Z
+SUMMARY:Systemowe zarządzanie w projektach (wykład)
+UID:c10b8b1d-9fcb-46c7-8eef-e433aa390902@c10b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20251024T160000Z
+DTSTART:20251024T134500Z
+SUMMARY:Podstawy zarządzania projektami (wykład)
+UID:c2ce83f7-3501-440c-b047-d8e789f54270@c2ce.org
 END:VEVENT
 END:VCALENDAR
