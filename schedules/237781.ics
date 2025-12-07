@@ -2,25 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Sołtysik
-DTEND:20251129T114500Z
-DTSTART:20251129T093000Z
-SUMMARY:Zarządzanie zasobami ludzkimi (Przeniesienie zajęć)
-UID:ca63a23b-1d4f-4c76-93a3-5c0ad5c785d5@ca63.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20251004T081500Z
-DTSTART:20251004T060000Z
-SUMMARY:Rachunkowość finansowa (wykład)
-UID:2f8c1af4-5eea-484f-be37-492dcf1c7d4f@2f8c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20251116T133000Z
-DTSTART:20251116T103000Z
-SUMMARY:Rachunkowość finansowa (Przeniesienie zajęć)
-UID:58e494df-fcc0-4d9f-95d6-cc0ed41262fe@58e4.org
+DTEND:20260124T133000Z
+LOCATION:Paw.U sala M
+DTSTART:20260124T103000Z
+SUMMARY:Rachunkowość finansowa (ćwiczenia)
+UID:6be1bd85-4960-4862-9817-3a5928a54dfe@6be1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Karolina Santin
@@ -28,443 +15,21 @@ DTEND:20260111T114500Z
 LOCATION:Paw.B 451
 DTSTART:20260111T093000Z
 SUMMARY:Podatki pośrednie i bezpośrednie (ćwiczenia)
-UID:737ce7c5-5c28-4006-8b15-59af9df8d84c@737c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251217T134500Z
-DTSTART:20251217T121500Z
-SUMMARY: (rezerwacja)
-UID:17154d32-95d2-4c00-9555-cd72f5bd34f2@1715.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20251115T130000Z
-LOCATION:Paw.U sala K
-DTSTART:20251115T121500Z
-SUMMARY:Rachunkowość finansowa (ćwiczenia)
-UID:1a60fe86-1bb8-4ccb-9d6e-a46ca6f9d54e@1a60.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Jędrzejczyk
-DTEND:20251019T081500Z
-DTSTART:20251019T060000Z
-SUMMARY:Rozwój teorii rachunkowości (wykład)
-UID:ce02f664-fdd2-4a14-afa0-830640f259fc@ce02.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20251123T100000Z
-DTSTART:20251123T070000Z
-SUMMARY:Rachunkowość finansowa (Przeniesienie zajęć)
-UID:c515b098-cd94-433b-abf4-89a24f3107cf@c515.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Dziura
-DTEND:20260117T143000Z
-LOCATION:Paw.E sala J
-DTSTART:20260117T121500Z
-SUMMARY:Ekonomika przedsiębiorstwa (ćwiczenia)
-UID:6587fcce-9743-421d-a76e-313ea221c604@6587.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Knawa
-DTEND:20251005T081500Z
-DTSTART:20251005T060000Z
-SUMMARY:Podatki pośrednie i bezpośrednie (wykład)
-UID:6d1d5568-cdf7-4915-8295-eccd14d41ad2@6d1d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
-DTEND:20260117T091500Z
-LOCATION:Paw.B 451
-DTSTART:20260117T070000Z
-SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
-UID:03d4cd72-0e51-4d15-a70c-e048b7347e8e@03d4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
-DTEND:20251206T100000Z
-LOCATION:Paw.C sala F
-DTSTART:20251206T070000Z
-SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
-UID:f2f5de4a-9720-4544-9e85-fe1349e34ac1@f2f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Jędrzejczyk
-DTEND:20251026T143000Z
-DTSTART:20251026T121500Z
-SUMMARY:Rozwój teorii rachunkowości (wykład)
-UID:5ec73e5c-4fd0-450b-ab8b-96a06b9ccb74@5ec7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20251017T160000Z
-LOCATION:Paw.U sala M
-DTSTART:20251017T134500Z
-SUMMARY:Rachunkowość finansowa (ćwiczenia)
-UID:b4f17b60-783d-4fe4-a770-1588da4053dc@b4f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Karolina Santin
-DTEND:20251115T114500Z
-DTSTART:20251115T093000Z
-SUMMARY:Podatki pośrednie i bezpośrednie (Przeniesienie zajęć)
-UID:eb29f963-ed79-4e74-bf44-499d516ddd78@eb29.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20251115T120000Z
-LOCATION:Paw.S sala 7
-DTSTART:20251115T111500Z
-SUMMARY:Rachunkowość finansowa (ćwiczenia)
-UID:80549f53-4e23-4559-b598-e6a2194af4b6@8054.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
-DTEND:20251003T160000Z
-DTSTART:20251003T134500Z
-SUMMARY:Zarządzanie finansami przedsiębiorstwa (wykład)
-UID:2ab409e7-3da5-444f-9ae4-dc54cd555002@2ab4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20260110T123000Z
-LOCATION:Paw.U sala M
-DTSTART:20260110T093000Z
-SUMMARY:Rachunkowość finansowa (ćwiczenia)
-UID:2f93a5a5-2bc0-433c-830a-c81f5362b970@2f93.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
-DTEND:20251128T170000Z
-LOCATION:Bibl. 443
-DTSTART:20251128T144500Z
-SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
-UID:d2cfebe2-0eec-44fe-bf97-a1186c07c62a@d2cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Dziura
-DTEND:20251214T091500Z
-LOCATION:Paw.B 451
-DTSTART:20251214T070000Z
-SUMMARY:Ekonomika przedsiębiorstwa (ćwiczenia)
-UID:93759a1b-fc68-4c29-8238-bff94e56aff6@9375.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20260124T133000Z
-LOCATION:Paw.U sala M
-DTSTART:20260124T103000Z
-SUMMARY:Rachunkowość finansowa (ćwiczenia)
-UID:1d5b4183-dd2e-4a3b-819a-c7a3a1a6fcd6@1d5b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Karolina Santin
-DTEND:20251206T124500Z
-LOCATION:Paw.C sala F
-DTSTART:20251206T103000Z
-SUMMARY:Podatki pośrednie i bezpośrednie (ćwiczenia)
-UID:d8c77be6-ce29-4054-8986-62c366cb3638@d8c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20251018T104500Z
-DTSTART:20251018T083000Z
-SUMMARY:Rachunkowość finansowa (wykład)
-UID:83aee4f5-037c-4f0f-8d45-e39c3b8c0eee@83ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Sołtysik
-DTEND:20251025T081500Z
-DTSTART:20251025T060000Z
-SUMMARY:Zarządzanie zasobami ludzkimi (wykład)
-UID:22538606-8886-4952-be61-47ef6bdbd3ce@2253.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
-DTEND:20251025T104500Z
-DTSTART:20251025T083000Z
-SUMMARY:Zarządzanie finansami przedsiębiorstwa (wykład)
-UID:6857fb4d-c1c7-4ef3-ab44-118142878ba2@6857.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
-DTEND:20251213T123000Z
-LOCATION:Paw.S sala 1
-DTSTART:20251213T093000Z
-SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
-UID:913ae239-9727-4ae0-a418-ab6076a5e91f@913a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Knawa
-DTEND:20251130T091500Z
-LOCATION:link do zajęć
-DTSTART:20251130T070000Z
-SUMMARY:Podatki pośrednie i bezpośrednie (wykład)
-UID:67bfbbbd-bf62-4d65-ac2c-7ee41b6bbdaf@67bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
-DTEND:20260131T101500Z
-LOCATION:Paw.A 013 lab. Win10\, Office21
-DTSTART:20260131T084500Z
-SUMMARY:Zarządzanie finansami przedsiębiorstwa (egzamin)
-UID:69810473-1c89-4b28-9a38-1c4d2beebd11@6981.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20251018T081500Z
-DTSTART:20251018T060000Z
-SUMMARY:Rachunkowość finansowa (wykład)
-UID:4372bf83-fbb3-4017-bbab-273603d006a4@4372.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
-DTEND:20251121T170000Z
-LOCATION:Paw.C sala B
-DTSTART:20251121T144500Z
-SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
-UID:a7f4ca6c-51e7-4401-84ee-6ff1c992c975@a7f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
-DTEND:20251019T133000Z
-DTSTART:20251019T111500Z
-SUMMARY:Zarządzanie finansami przedsiębiorstwa (wykład)
-UID:97153dcb-ad6e-4ba3-a214-3967ef645a8f@9715.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20251122T170000Z
-LOCATION:Paw.U sala K
-DTSTART:20251122T140000Z
-SUMMARY:Rachunkowość finansowa (ćwiczenia)
-UID:b4bd8be0-3816-4277-8cd6-60595cf2fee7@b4bd.org
+UID:964ebe9b-beb3-465d-bc92-066a9b988090@964e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
 DTEND:20251004T133000Z
 DTSTART:20251004T111500Z
 SUMMARY:Zarządzanie finansami przedsiębiorstwa (wykład)
-UID:94543493-2357-4009-9e7b-314999d2d54b@9454.org
+UID:08541e68-48b7-45f8-8c9c-c095257a2a96@0854.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20251130T114500Z
-LOCATION:link do zajęć
-DTSTART:20251130T093000Z
-SUMMARY:Rachunkowość finansowa (wykład)
-UID:f63fb7e9-b058-4f7c-a311-c3d19677bc21@f63f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Sołtysik
-DTEND:20251026T091500Z
-DTSTART:20251026T070000Z
-SUMMARY:Zarządzanie zasobami ludzkimi (wykład)
-UID:9e6f5be4-b301-48c1-ba89-fb29b01a0f89@9e6f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Knawa
-DTEND:20251026T114500Z
-DTSTART:20251026T093000Z
-SUMMARY:Podatki pośrednie i bezpośrednie (wykład)
-UID:43b83f94-a8f8-405b-b27e-54ea7d577d1d@43b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
-DTEND:20251130T143000Z
-LOCATION:link do zajęć
-DTSTART:20251130T121500Z
-SUMMARY:Zarządzanie finansami przedsiębiorstwa (wykład)
-UID:b106a217-a96a-4388-896d-0017337b3a18@b106.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Dziura
-DTEND:20251206T170000Z
-LOCATION:Bibl. 441
-DTSTART:20251206T144500Z
-SUMMARY:Ekonomika przedsiębiorstwa (ćwiczenia)
-UID:2ca10e7f-a7b8-4c9b-a2e7-59cbb7f0cd39@2ca1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
-DTEND:20260109T170000Z
-LOCATION:Paw.B 351
-DTSTART:20260109T144500Z
-SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
-UID:3d7f0437-09c7-4e03-ace2-c43c20562af5@3d7f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251016T123000Z
-DTSTART:20251016T093000Z
-SUMMARY: (rezerwacja)
-UID:c7b1b210-a6e9-475e-b543-5bf2383e9fc0@c7b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20260118T124500Z
-LOCATION:Paw.U sala M
-DTSTART:20260118T103000Z
-SUMMARY:Rachunkowość finansowa (ćwiczenia)
-UID:484e431c-2306-4958-8c0e-fe99ecc8bd73@484e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Karolina Santin
-DTEND:20251214T114500Z
-LOCATION:Bibl. 441
-DTSTART:20251214T093000Z
-SUMMARY:Podatki pośrednie i bezpośrednie (ćwiczenia)
-UID:d931300e-cb8a-40a1-90a6-730e80f08b39@d931.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
-DTEND:20251122T100000Z
-LOCATION:Paw.C sala B
-DTSTART:20251122T070000Z
-SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
-UID:231928f0-916c-464e-90d2-8cd52ee450b8@2319.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20251129T143000Z
-DTSTART:20251129T121500Z
+DTEND:20251116T133000Z
+DTSTART:20251116T103000Z
 SUMMARY:Rachunkowość finansowa (Przeniesienie zajęć)
-UID:cc0cedaf-dd7e-4534-bdf9-e6c4c627e547@cc0c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Karol Małecki
-DTEND:20260125T091500Z
-LOCATION:Paw.C sala B
-DTSTART:20260125T070000Z
-SUMMARY:Zarządzanie zasobami ludzkimi (ćwiczenia)
-UID:06085672-334f-45e9-8bb2-28ac63aa2b17@0608.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Dziura
-DTEND:20251025T133000Z
-DTSTART:20251025T111500Z
-SUMMARY:Ekonomika przedsiębiorstwa (wykład)
-UID:13b44013-4ddb-44b7-ab0c-1f1bc446348d@13b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20251115T110000Z
-LOCATION:Paw.S sala 7
-DTSTART:20251115T093000Z
-SUMMARY:Rachunkowość finansowa (ćwiczenia)
-UID:1c9726c6-3a01-420f-91b3-c119e486f9c0@1c97.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Karol Małecki
-DTEND:20251115T151500Z
-LOCATION:Paw.C sala D
-DTSTART:20251115T130000Z
-SUMMARY:Zarządzanie zasobami ludzkimi (ćwiczenia)
-UID:40e03294-cc3b-4754-92b9-6f1fa5d1cdd1@40e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
-DTEND:20251129T091500Z
-LOCATION:link do zajęć
-DTSTART:20251129T070000Z
-SUMMARY:Zarządzanie finansami przedsiębiorstwa (wykład)
-UID:bbfcb19a-67f9-4142-8209-3a0f90815611@bbfc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20251122T133000Z
-LOCATION:Paw.U sala M
-DTSTART:20251122T103000Z
-SUMMARY:Rachunkowość finansowa (ćwiczenia)
-UID:c5e634f4-cd48-48fb-9769-b32af2f507b3@c5e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
-DTEND:20251205T170000Z
-LOCATION:Bibl. 443
-DTSTART:20251205T144500Z
-SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
-UID:de34602e-c598-4470-b7b8-b19671a9d441@de34.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20251213T160000Z
-LOCATION:Paw.U sala M
-DTSTART:20251213T130000Z
-SUMMARY:Rachunkowość finansowa (ćwiczenia)
-UID:cd6d86d7-6889-42de-a9e7-68c92604470b@cd6d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Karol Małecki
-DTEND:20260111T091500Z
-LOCATION:Paw.C sala C
-DTSTART:20260111T070000Z
-SUMMARY:Zarządzanie zasobami ludzkimi (ćwiczenia)
-UID:88bf0582-6f9c-4d1f-be16-480e2e390847@88bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
-DTEND:20260116T170000Z
-LOCATION:Paw.C sala B
-DTSTART:20260116T144500Z
-SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
-UID:c0b21925-dd61-4734-bedb-8add7fa7b1e6@c0b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Dziura
-DTEND:20251207T091500Z
-LOCATION:link do zajęć
-DTSTART:20251207T070000Z
-SUMMARY:Ekonomika przedsiębiorstwa (wykład)
-UID:ebabc92f-2ec0-47b9-9420-53406f6d931f@ebab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
-DTEND:20251115T091500Z
-LOCATION:Paw.B 451
-DTSTART:20251115T070000Z
-SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
-UID:e2b1ad3b-285f-4eb1-a294-c443920e23b1@e2b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
-DTEND:20260110T091500Z
-LOCATION:Paw.B 251
-DTSTART:20260110T070000Z
-SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
-UID:51355fd4-4040-4aa4-bf03-5563b0fa88cc@5135.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Sołtysik
-DTEND:20251005T133000Z
-DTSTART:20251005T111500Z
-SUMMARY:Zarządzanie zasobami ludzkimi (wykład)
-UID:feddcdeb-0bc6-472c-943e-e2bc1bc717c2@fedd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Karolina Santin
-DTEND:20251123T124500Z
-LOCATION:Bibl. 443
-DTSTART:20251123T103000Z
-SUMMARY:Podatki pośrednie i bezpośrednie (ćwiczenia)
-UID:09b9c9f9-121c-4517-a7e4-ee7e593c164f@09b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Karolina Santin
-DTEND:20251212T170000Z
-LOCATION:Paw.S sala 1
-DTSTART:20251212T144500Z
-SUMMARY:Podatki pośrednie i bezpośrednie (ćwiczenia)
-UID:70f439eb-93b5-453d-9318-102d9a19f66e@70f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Dziura
-DTEND:20251004T104500Z
-DTSTART:20251004T083000Z
-SUMMARY:Ekonomika przedsiębiorstwa (wykład)
-UID:3dfa52e6-0203-4442-892b-e5225aa32853@3dfa.org
+UID:e9625151-bdca-4496-8b98-b54f5974d614@e962.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Katarzyna Knawa
@@ -472,37 +37,255 @@ DTEND:20251207T114500Z
 LOCATION:link do zajęć
 DTSTART:20251207T093000Z
 SUMMARY:Podatki pośrednie i bezpośrednie (wykład)
-UID:901c53b3-d547-412d-a4bf-0f4ed4a43f2b@901c.org
+UID:f346e00d-7e26-46f6-9758-5caa6d0e151f@f346.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Dziura
+DTEND:20251004T104500Z
+DTSTART:20251004T083000Z
+SUMMARY:Ekonomika przedsiębiorstwa (wykład)
+UID:edc9f120-b3de-45f7-beda-6a0bc7712b44@edc9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20251213T160000Z
+LOCATION:Paw.U sala M
+DTSTART:20251213T130000Z
+SUMMARY:Rachunkowość finansowa (ćwiczenia)
+UID:d5b76dd2-ea46-4907-b903-4781fed25b79@d5b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Santin
+DTEND:20251214T114500Z
+LOCATION:Bibl. 441
+DTSTART:20251214T093000Z
+SUMMARY:Podatki pośrednie i bezpośrednie (ćwiczenia)
+UID:3d5cdb88-7d6c-4245-95f3-2bcbb2057a1c@3d5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
+DTEND:20251019T133000Z
+DTSTART:20251019T111500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (wykład)
+UID:fecda8e6-df1d-4bc0-a732-cefa5d0154c8@fecd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20260118T124500Z
+LOCATION:Paw.U sala M
+DTSTART:20260118T103000Z
+SUMMARY:Rachunkowość finansowa (ćwiczenia)
+UID:c4be53ff-1a59-457b-8b05-e0844876424c@c4be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
+DTEND:20251003T160000Z
+DTSTART:20251003T134500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (wykład)
+UID:909a692a-4197-4445-b3b9-41c208369e13@909a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Katarzyna Knawa
 DTEND:20251018T133000Z
 DTSTART:20251018T111500Z
 SUMMARY:Podatki pośrednie i bezpośrednie (wykład)
-UID:d2682d8d-7465-4ae2-98b8-716d520c78ba@d268.org
+UID:da8281bd-3ff6-4775-8911-1086b4b86429@da82.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20251114T170000Z
-LOCATION:Paw.U sala M
-DTSTART:20251114T144500Z
-SUMMARY:Rachunkowość finansowa (ćwiczenia)
-UID:c3e3c6fc-a2eb-47dd-b18f-e11a0a98a016@c3e3.org
+DESCRIPTION:Instructor: mgr Karol Małecki
+DTEND:20260125T091500Z
+LOCATION:Paw.C sala B
+DTSTART:20260125T070000Z
+SUMMARY:Zarządzanie zasobami ludzkimi (ćwiczenia)
+UID:1f3b6875-ed7d-4137-81e8-1b97e7c9f746@1f3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Dziura
+DTEND:20251214T091500Z
+LOCATION:Paw.B 451
+DTSTART:20251214T070000Z
+SUMMARY:Ekonomika przedsiębiorstwa (ćwiczenia)
+UID:725e931e-0e1b-408b-bd68-cf0419176554@725e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Karolina Santin
-DTEND:20260117T114500Z
-LOCATION:Paw.C sala B
-DTSTART:20260117T093000Z
+DTEND:20251123T124500Z
+LOCATION:Bibl. 443
+DTSTART:20251123T103000Z
 SUMMARY:Podatki pośrednie i bezpośrednie (ćwiczenia)
-UID:b98d9eb7-1d16-4124-8e3f-12d36af29dab@b98d.org
+UID:9ca27e45-d578-4f75-859d-ac6b0cb10a2b@9ca2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Dziura
+DTEND:20251206T170000Z
+LOCATION:Bibl. 441
+DTSTART:20251206T144500Z
+SUMMARY:Ekonomika przedsiębiorstwa (ćwiczenia)
+UID:5f22bee4-9ba7-4c6f-ae65-c5872fd3a6ba@5f22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Knawa
+DTEND:20251003T184500Z
+DTSTART:20251003T163000Z
+SUMMARY:Podatki pośrednie i bezpośrednie (wykład)
+UID:7c0adfa3-ff48-4144-85bb-69c0ea67b2ad@7c0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Sołtysik
+DTEND:20251026T091500Z
+DTSTART:20251026T070000Z
+SUMMARY:Zarządzanie zasobami ludzkimi (wykład)
+UID:5306d773-3b33-4d7c-9adc-96a5ee9ca4c1@5306.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Sołtysik
+DTEND:20251129T114500Z
+DTSTART:20251129T093000Z
+SUMMARY:Zarządzanie zasobami ludzkimi (Przeniesienie zajęć)
+UID:dfb8eae5-7e41-48f9-a54a-1ba61f2e3273@dfb8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Dziura
+DTEND:20251025T133000Z
+DTSTART:20251025T111500Z
+SUMMARY:Ekonomika przedsiębiorstwa (wykład)
+UID:cc85fa84-fcc5-4217-a66c-4056318aa760@cc85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Knawa
+DTEND:20251026T114500Z
+DTSTART:20251026T093000Z
+SUMMARY:Podatki pośrednie i bezpośrednie (wykład)
+UID:2cb8f93c-25d4-4683-aac4-1d2cefc36baf@2cb8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
+DTEND:20251128T170000Z
+LOCATION:Bibl. 443
+DTSTART:20251128T144500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
+UID:ec2a414a-8684-478f-8f1b-18ef39776dea@ec2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
+DTEND:20251205T170000Z
+LOCATION:Bibl. 443
+DTSTART:20251205T144500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
+UID:7196da50-a7f5-4667-9c35-cc3873903adf@7196.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
+DTEND:20260117T091500Z
+LOCATION:Paw.B 451
+DTSTART:20260117T070000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
+UID:a0fb83a1-0209-4829-bddf-165c32b916b1@a0fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
+DTEND:20251129T091500Z
+LOCATION:link do zajęć
+DTSTART:20251129T070000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (wykład)
+UID:35ee3314-4f31-4181-adbd-f3b203345fe6@35ee.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20251019T104500Z
-DTSTART:20251019T083000Z
-SUMMARY:Rachunkowość finansowa (Przeniesienie zajęć)
-UID:42384905-cd1c-4cb3-9c2e-fcac0c1e7444@4238.org
+DTEND:20251130T114500Z
+LOCATION:link do zajęć
+DTSTART:20251130T093000Z
+SUMMARY:Rachunkowość finansowa (wykład)
+UID:d9306019-67a0-42d5-b517-33c9d1e7b2e0@d930.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
+DTEND:20251213T123000Z
+LOCATION:Paw.S sala 1
+DTSTART:20251213T093000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
+UID:90b9490f-4acb-4e4c-b4d0-a081d097eaff@90b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Sołtysik
+DTEND:20251025T081500Z
+DTSTART:20251025T060000Z
+SUMMARY:Zarządzanie zasobami ludzkimi (wykład)
+UID:8f6f9c8b-4723-4279-94a2-4b09492f8b8d@8f6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20251004T081500Z
+DTSTART:20251004T060000Z
+SUMMARY:Rachunkowość finansowa (wykład)
+UID:d80d8354-f9f6-4452-aeac-cbc0e28bdbe1@d80d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karol Małecki
+DTEND:20260111T091500Z
+LOCATION:Paw.C sala C
+DTSTART:20260111T070000Z
+SUMMARY:Zarządzanie zasobami ludzkimi (ćwiczenia)
+UID:38d33c93-9887-4ce4-83b4-c3c81da9c986@38d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
+DTEND:20251025T104500Z
+DTSTART:20251025T083000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (wykład)
+UID:208fe6ef-a45c-467f-b309-b06850d843ac@208f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251016T123000Z
+DTSTART:20251016T093000Z
+SUMMARY: (rezerwacja)
+UID:589bcbef-34ec-4bce-94b3-325e98b4e8bd@589b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20251017T160000Z
+LOCATION:Paw.U sala M
+DTSTART:20251017T134500Z
+SUMMARY:Rachunkowość finansowa (ćwiczenia)
+UID:aea12421-5e67-43a3-b954-974df4e60e9c@aea1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20251018T081500Z
+DTSTART:20251018T060000Z
+SUMMARY:Rachunkowość finansowa (wykład)
+UID:32fa2f93-bc8a-489b-8bb6-3a0ee2a0d7f0@32fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Knawa
+DTEND:20251130T091500Z
+LOCATION:link do zajęć
+DTSTART:20251130T070000Z
+SUMMARY:Podatki pośrednie i bezpośrednie (wykład)
+UID:70f04384-efaa-4cfb-aef4-5c1b4d41089a@70f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
+DTEND:20251130T143000Z
+LOCATION:link do zajęć
+DTSTART:20251130T121500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (wykład)
+UID:a5a191c7-fb7c-4603-aa70-483e62c313c1@a5a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Knawa
+DTEND:20251005T081500Z
+DTSTART:20251005T060000Z
+SUMMARY:Podatki pośrednie i bezpośrednie (wykład)
+UID:0d84afa7-f76c-4446-adb8-149a3b4467d3@0d84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Jędrzejczyk
+DTEND:20251019T081500Z
+DTSTART:20251019T060000Z
+SUMMARY:Rozwój teorii rachunkowości (wykład)
+UID:7a0545d6-9ec2-4a10-ba82-03cf78d07d42@7a05.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Jędrzejczyk
@@ -510,7 +293,131 @@ DTEND:20251207T143000Z
 LOCATION:link do zajęć
 DTSTART:20251207T121500Z
 SUMMARY:Rozwój teorii rachunkowości (wykład)
-UID:c216d562-9819-4668-93c2-9e5c3080f008@c216.org
+UID:cf2f092d-8505-4359-8500-791dc011a690@cf2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karol Małecki
+DTEND:20251115T151500Z
+LOCATION:Paw.C sala D
+DTSTART:20251115T130000Z
+SUMMARY:Zarządzanie zasobami ludzkimi (ćwiczenia)
+UID:405392c2-9a85-405c-b3bf-3b064b36efe4@4053.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
+DTEND:20260131T101500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20260131T084500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (egzamin)
+UID:e1eef407-f86c-4cb0-b394-5c463c168a0f@e1ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
+DTEND:20260116T170000Z
+LOCATION:Paw.C sala B
+DTSTART:20260116T144500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
+UID:c1a476e8-822b-415b-b28d-741f35d9d477@c1a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Dziura
+DTEND:20260117T143000Z
+LOCATION:Paw.E sala J
+DTSTART:20260117T121500Z
+SUMMARY:Ekonomika przedsiębiorstwa (ćwiczenia)
+UID:55701de7-d9aa-454a-a76e-ab636f970ade@5570.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251217T134500Z
+DTSTART:20251217T121500Z
+SUMMARY: (rezerwacja)
+UID:e91437a0-7e82-42a0-b049-48320ddf6847@e914.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20251123T100000Z
+DTSTART:20251123T070000Z
+SUMMARY:Rachunkowość finansowa (Przeniesienie zajęć)
+UID:6b3d236c-b81c-4c64-ab16-bfd7fd2e90fb@6b3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Santin
+DTEND:20251206T124500Z
+LOCATION:Paw.C sala F
+DTSTART:20251206T103000Z
+SUMMARY:Podatki pośrednie i bezpośrednie (ćwiczenia)
+UID:32127795-43a1-4e58-961e-5cbac2c528cf@3212.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20251115T120000Z
+LOCATION:Paw.S sala 7
+DTSTART:20251115T111500Z
+SUMMARY:Rachunkowość finansowa (ćwiczenia)
+UID:cdac4efd-2775-4270-8f5b-3c2322c61917@cdac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20251114T170000Z
+LOCATION:Paw.U sala M
+DTSTART:20251114T144500Z
+SUMMARY:Rachunkowość finansowa (ćwiczenia)
+UID:08b70bc0-7c4e-485e-95ec-52ca9925b39d@08b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20251115T110000Z
+LOCATION:Paw.S sala 7
+DTSTART:20251115T093000Z
+SUMMARY:Rachunkowość finansowa (ćwiczenia)
+UID:b18ace3e-47fa-459b-b2f5-cf3963924da2@b18a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20251115T130000Z
+LOCATION:Paw.U sala K
+DTSTART:20251115T121500Z
+SUMMARY:Rachunkowość finansowa (ćwiczenia)
+UID:3a6df38a-d4ab-444c-8839-869d583547e2@3a6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20251018T104500Z
+DTSTART:20251018T083000Z
+SUMMARY:Rachunkowość finansowa (wykład)
+UID:a7bb060f-52a2-45e7-9440-08d657a64bdd@a7bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
+DTEND:20251121T170000Z
+LOCATION:Paw.C sala B
+DTSTART:20251121T144500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
+UID:e7e7c1fe-8474-463f-afd3-e6a9a3d195c1@e7e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
+DTEND:20251122T100000Z
+LOCATION:Paw.C sala B
+DTSTART:20251122T070000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
+UID:6e4c1392-c9d0-4062-a4c6-dd41fa21bf07@6e4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20251122T170000Z
+LOCATION:Paw.U sala K
+DTSTART:20251122T140000Z
+SUMMARY:Rachunkowość finansowa (ćwiczenia)
+UID:a4c99e25-0dd2-4b17-8dfb-ae90e7d5fd91@a4c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Sołtysik
+DTEND:20251005T133000Z
+DTSTART:20251005T111500Z
+SUMMARY:Zarządzanie zasobami ludzkimi (wykład)
+UID:42eb9f14-0cff-4471-82ab-d958524ca8cb@42eb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
@@ -518,20 +425,113 @@ DTEND:20251129T114500Z
 LOCATION:link do zajęć
 DTSTART:20251129T093000Z
 SUMMARY:Rachunkowość finansowa (wykład)
-UID:733c7efa-88cd-471a-bb71-8b45622a0617@733c.org
+UID:fc156852-68ca-473a-bcc1-99c3e589d769@fc15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
+DTEND:20251206T100000Z
+LOCATION:Paw.C sala F
+DTSTART:20251206T070000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
+UID:fa642499-23bc-4fa4-8b5e-55d78a417263@fa64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Jędrzejczyk
+DTEND:20251026T143000Z
+DTSTART:20251026T121500Z
+SUMMARY:Rozwój teorii rachunkowości (wykład)
+UID:95795435-7f34-466f-b16d-128d16440d82@9579.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
+DTEND:20260110T091500Z
+LOCATION:Paw.B 251
+DTSTART:20260110T070000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
+UID:bb9d9679-de2a-45e4-8a03-e628c98216f1@bb9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Santin
+DTEND:20251115T114500Z
+DTSTART:20251115T093000Z
+SUMMARY:Podatki pośrednie i bezpośrednie (Przeniesienie zajęć)
+UID:36459e4d-8095-4ea7-93be-9a0e417b864d@3645.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
+DTEND:20260109T170000Z
+LOCATION:Paw.B 351
+DTSTART:20260109T144500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
+UID:dd537d9e-4779-4530-a3f5-52bb0696c6f2@dd53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20260110T123000Z
+LOCATION:Paw.U sala M
+DTSTART:20260110T093000Z
+SUMMARY:Rachunkowość finansowa (ćwiczenia)
+UID:b1b0ec02-1644-403f-a623-31ee96e320cc@b1b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Dziura
+DTEND:20251207T091500Z
+LOCATION:link do zajęć
+DTSTART:20251207T070000Z
+SUMMARY:Ekonomika przedsiębiorstwa (wykład)
+UID:7b2a36f1-3f0c-49f3-a060-cb0642cd852a@7b2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20251019T104500Z
+DTSTART:20251019T083000Z
+SUMMARY:Rachunkowość finansowa (Przeniesienie zajęć)
+UID:7c8b769c-859d-4385-9f1d-5810e034e519@7c8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
+DTEND:20251115T091500Z
+LOCATION:Paw.B 451
+DTSTART:20251115T070000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
+UID:ed52be20-f614-4b99-94f5-a333c095c804@ed52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Santin
+DTEND:20251212T170000Z
+LOCATION:Paw.S sala 1
+DTSTART:20251212T144500Z
+SUMMARY:Podatki pośrednie i bezpośrednie (ćwiczenia)
+UID:aaae06c4-3e7e-4042-9f26-38c1d3bba14e@aaae.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
 DTEND:20251005T104500Z
 DTSTART:20251005T083000Z
 SUMMARY:Rachunkowość finansowa (wykład)
-UID:fc6eec85-56e0-46de-bb34-c0ef2db25ecb@fc6e.org
+UID:4b0ee1e1-7075-4977-a551-ff4b7a8cd910@4b0e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Knawa
-DTEND:20251003T184500Z
-DTSTART:20251003T163000Z
-SUMMARY:Podatki pośrednie i bezpośrednie (wykład)
-UID:6088aab2-c86c-41b8-924e-22156c8793d5@6088.org
+DESCRIPTION:Instructor: mgr Karolina Santin
+DTEND:20260117T114500Z
+LOCATION:Paw.C sala B
+DTSTART:20260117T093000Z
+SUMMARY:Podatki pośrednie i bezpośrednie (ćwiczenia)
+UID:8d3fca36-7169-4df5-b8f8-a9879ad8ddda@8d3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20251129T143000Z
+DTSTART:20251129T121500Z
+SUMMARY:Rachunkowość finansowa (Przeniesienie zajęć)
+UID:2d52303a-e2d8-45b1-a920-07971eb9588a@2d52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20251122T133000Z
+LOCATION:Paw.U sala M
+DTSTART:20251122T103000Z
+SUMMARY:Rachunkowość finansowa (ćwiczenia)
+UID:0ad353a2-0986-4d94-b235-74175c7b2f72@0ad3.org
 END:VEVENT
 END:VCALENDAR
