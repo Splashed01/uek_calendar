@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20251018T103000Z
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20251019T103000Z
 LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251018T064500Z
-SUMMARY:Podstawy relacyjnych baz danych (Studia podyplomowe)
-UID:e38bca82-3296-4501-b938-cfb2f7d3ec07@e38b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Przemysław Niedziela
-DTEND:20251220T141500Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20251220T103000Z
-SUMMARY:Przetwarzanie dokumentów i wielkich zbiorów danych (Studia podyplomowe)
-UID:d53bf6ef-bf45-4635-8e25-f06c496b0640@d53b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Wójcik
-DTEND:20260221T100000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260221T074500Z
-SUMMARY:Eksploracyjna analiza dokumentów tekstowych (Studia podyplomowe)
-UID:e1bc6d26-b975-4965-abd9-50e426774a5e@e1bc.org
+DTSTART:20251019T064500Z
+SUMMARY:Wprowadzenie do programowania w językach R i Python (Studia podyplomowe)
+UID:cd5a60c9-256c-4311-b953-d85612068f7c@cd5a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. dr hab. Sławomir Śmiech
@@ -31,79 +15,7 @@ DTEND:20251220T100000Z
 LOCATION:Paw.A 014 lab. Win8.1 Office21
 DTSTART:20251220T074500Z
 SUMMARY:Elementy wnioskowania statystycznego (Studia podyplomowe)
-UID:d810fdae-9062-4e8a-bc58-57e0b92d4369@d810.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Przemysław Jaśko
-DTEND:20260221T133000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260221T103000Z
-SUMMARY:Podstawy uczenia maszynowego i eksploracyjnej analizy danych (Studia podyplomowe)
-UID:be923628-11fa-4286-badf-427bf5900bcb@be92.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20251004T103000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251004T064500Z
-SUMMARY:Podstawy relacyjnych baz danych (Studia podyplomowe)
-UID:f813cd10-148b-439b-af32-65523e959c35@f813.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Przemysław Niedziela
-DTEND:20251206T141500Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20251206T111500Z
-SUMMARY:Przetwarzanie dokumentów i wielkich zbiorów danych (Studia podyplomowe)
-UID:3b2dc1e4-b2b9-48c4-ab2a-9e7678571d01@3b2d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20251004T133000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251004T111500Z
-SUMMARY:Wprowadzenie do programowania w językach R i Python (Studia podyplomowe)
-UID:2587f968-c15f-4863-b213-29765a5cf400@2587.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20251108T113000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251108T074500Z
-SUMMARY:Wprowadzenie do programowania w językach R i Python (Studia podyplomowe)
-UID:9c1aa3dc-f9b6-4057-87f3-fc010319e670@9c1a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Przemysław Niedziela
-DTEND:20251107T193000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251107T154500Z
-SUMMARY:Przetwarzanie dokumentów i wielkich zbiorów danych (Studia podyplomowe)
-UID:0beda5d2-79de-470c-89aa-687221c64094@0bed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20251005T103000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251005T064500Z
-SUMMARY:Wprowadzenie do programowania w językach R i Python (Studia podyplomowe)
-UID:df46ae81-b373-4f4c-bad4-51e26b63534b@df46.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Przemysław Niedziela
-DTEND:20251122T141500Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20251122T111500Z
-SUMMARY:Przetwarzanie dokumentów i wielkich zbiorów danych (Studia podyplomowe)
-UID:6f200a91-363f-4cb2-9c6b-c155ff044ce6@6f20.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Sławomir Śmiech
-DTEND:20260220T193000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260220T154500Z
-SUMMARY:Statystyczne metody wielowymiarowej analizy danych (Studia podyplomowe)
-UID:0ffcd5d8-3969-4e12-8399-2b11dacff70f@0ffc.org
+UID:43e75d66-a264-4288-a6d3-364465fc35c2@43e7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
@@ -111,47 +23,23 @@ DTEND:20251018T133000Z
 LOCATION:Paw.A 121 lab. Win10\, Office21
 DTSTART:20251018T111500Z
 SUMMARY:Wprowadzenie do programowania w językach R i Python (Studia podyplomowe)
-UID:3a562e31-ea34-4d71-9eb2-7258ecd6dc66@3a56.org
+UID:88b7dd8a-5981-4301-a8f2-89cdaeb32915@88b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Przemysław Niedziela
+DTEND:20251122T141500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20251122T111500Z
+SUMMARY:Przetwarzanie dokumentów i wielkich zbiorów danych (Studia podyplomowe)
+UID:56c15889-78cb-4261-bfc9-5f588f3dc02a@56c1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20251019T103000Z
+DTEND:20251108T113000Z
 LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251019T064500Z
+DTSTART:20251108T074500Z
 SUMMARY:Wprowadzenie do programowania w językach R i Python (Studia podyplomowe)
-UID:cbe9676e-f159-4ee2-baa0-e43c12fa35dc@cbe9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20251017T183000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251017T144500Z
-SUMMARY:Podstawy relacyjnych baz danych (Studia podyplomowe)
-UID:16dd2549-b9a4-40e4-8e57-d0fcb94144cf@16dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20251121T193000Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20251121T154500Z
-SUMMARY:Wprowadzenie do programowania w językach R i Python (Studia podyplomowe)
-UID:95474ed0-05db-4f48-a518-1bf0554413cf@9547.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Sławomir Śmiech
-DTEND:20251206T104500Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20251206T074500Z
-SUMMARY:Elementy wnioskowania statystycznego (Studia podyplomowe)
-UID:96224b12-4912-483b-aac1-fff14f58612a@9622.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Sławomir Śmiech
-DTEND:20251122T104500Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20251122T074500Z
-SUMMARY:Elementy wnioskowania statystycznego (Studia podyplomowe)
-UID:50909af7-a2ad-4f26-a6ad-443c88674270@5090.org
+UID:b6ce8bd1-9206-428f-bf86-46d5b09773d4@b6ce.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. dr hab. Sławomir Śmiech
@@ -159,15 +47,55 @@ DTEND:20251205T184500Z
 LOCATION:Paw.A 014 lab. Win8.1 Office21
 DTSTART:20251205T154500Z
 SUMMARY:Elementy wnioskowania statystycznego (Studia podyplomowe)
-UID:5ee0669a-2b23-4cf7-95a4-18b01e910aee@5ee0.org
+UID:12dbe768-e671-4074-a0a3-b6b1117cf059@12db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20251005T103000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251005T064500Z
+SUMMARY:Wprowadzenie do programowania w językach R i Python (Studia podyplomowe)
+UID:5500ac48-88bb-47f2-9e8c-20c3c58fb017@5500.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20251004T133000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251004T111500Z
+SUMMARY:Wprowadzenie do programowania w językach R i Python (Studia podyplomowe)
+UID:aced909c-535f-42ff-a206-94de01555653@aced.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20251003T183000Z
+DTEND:20251004T103000Z
 LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251003T144500Z
+DTSTART:20251004T064500Z
 SUMMARY:Podstawy relacyjnych baz danych (Studia podyplomowe)
-UID:44c1cf99-09d0-4475-9f80-d204f3504a28@44c1.org
+UID:6efb7a72-6ca7-44d9-a057-39aa07b59889@6efb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Wójcik
+DTEND:20260221T100000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260221T074500Z
+SUMMARY:Eksploracyjna analiza dokumentów tekstowych (Studia podyplomowe)
+UID:a0829cdb-92b7-487c-a7c9-27f721ee6989@a082.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20251121T193000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20251121T154500Z
+SUMMARY:Wprowadzenie do programowania w językach R i Python (Studia podyplomowe)
+UID:86c77274-f284-4791-9361-3b57e4956471@86c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Sławomir Śmiech
+DTEND:20251206T104500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20251206T074500Z
+SUMMARY:Elementy wnioskowania statystycznego (Studia podyplomowe)
+UID:9b05f514-2974-4884-a8ac-f3f69f640aed@9b05.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
@@ -175,6 +103,78 @@ DTEND:20260110T083000Z
 LOCATION:Paw.A 121 lab. Win10\, Office21
 DTSTART:20260110T074500Z
 SUMMARY:Egzamin semestralny (Studia podyplomowe)
-UID:12b89aaa-5728-477c-a44c-9691bc6c951e@12b8.org
+UID:6417d3c4-e5d1-41f1-8e11-42f58756edef@6417.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20251017T183000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251017T144500Z
+SUMMARY:Podstawy relacyjnych baz danych (Studia podyplomowe)
+UID:9cc85227-afa1-43f9-ba5b-244d9651c6be@9cc8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Przemysław Niedziela
+DTEND:20251107T193000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251107T154500Z
+SUMMARY:Przetwarzanie dokumentów i wielkich zbiorów danych (Studia podyplomowe)
+UID:3dadcafa-f7fb-4c3d-9d62-d078a045070a@3dad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Sławomir Śmiech
+DTEND:20251122T104500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20251122T074500Z
+SUMMARY:Elementy wnioskowania statystycznego (Studia podyplomowe)
+UID:525abc65-a0c3-411a-a040-20439e46f252@525a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20251003T183000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251003T144500Z
+SUMMARY:Podstawy relacyjnych baz danych (Studia podyplomowe)
+UID:136041a1-a7e6-425a-8317-9db944e202d8@1360.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Przemysław Niedziela
+DTEND:20251220T141500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20251220T103000Z
+SUMMARY:Przetwarzanie dokumentów i wielkich zbiorów danych (Studia podyplomowe)
+UID:ab21ddf5-3505-4317-886b-6fa180cef07e@ab21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Przemysław Niedziela
+DTEND:20251206T141500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20251206T111500Z
+SUMMARY:Przetwarzanie dokumentów i wielkich zbiorów danych (Studia podyplomowe)
+UID:ad2999ca-b2c5-42c4-a7c5-b43b7bdd9252@ad29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Przemysław Jaśko
+DTEND:20260221T133000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260221T103000Z
+SUMMARY:Podstawy uczenia maszynowego i eksploracyjnej analizy danych (Studia podyplomowe)
+UID:69df9784-8513-4bf9-801d-a5b7a555ee31@69df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Sławomir Śmiech
+DTEND:20260220T193000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260220T154500Z
+SUMMARY:Statystyczne metody wielowymiarowej analizy danych (Studia podyplomowe)
+UID:cb40a074-4ab1-4ef5-93a6-032ef06922bf@cb40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20251018T103000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251018T064500Z
+SUMMARY:Podstawy relacyjnych baz danych (Studia podyplomowe)
+UID:495f3896-45be-4232-b917-18e80dc6ecad@495f.org
 END:VEVENT
 END:VCALENDAR
