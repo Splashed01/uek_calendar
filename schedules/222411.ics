@@ -2,57 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Bernard Kociołek
-DTEND:20251220T091500Z
-LOCATION:Paw.C sala A
-DTSTART:20251220T070000Z
-SUMMARY:Prawo własności intelektualnej (ćwiczenia)
-UID:400da6f2-1845-4192-a014-0da5635f214e@400d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Bernard Kociołek
-DTEND:20260110T114500Z
-LOCATION:Paw.C sala A
-DTSTART:20260110T093000Z
-SUMMARY:Prawo własności intelektualnej (ćwiczenia)
-UID:f5ddc935-2ba1-46da-852e-f0af8b19aa28@f5dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Karol Ryszkowski
-DTEND:20251116T124500Z
-LOCATION:link do zajęć
-DTSTART:20251116T103000Z
-SUMMARY:Prawo spółek (wykład do wyboru)
-UID:34be4384-de0e-4495-a163-e1574cb394af@34be.org
+DESCRIPTION:Instructor: mgr Jusyna Zając-Wysocka
+DTEND:20251213T143000Z
+DTSTART:20251213T121500Z
+SUMMARY:Podatki i opłaty lokalne w praktyce (Przeniesienie zajęć)
+UID:97407be7-c58d-46e8-a3f5-23f07682450b@9740.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
 DTEND:20251005T114500Z
 DTSTART:20251005T093000Z
 SUMMARY:Prawo prywatne międzynarodowe (wykład)
-UID:7178865b-f42b-4452-9e31-89c9e9ef42a9@7178.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Karol Ryszkowski
-DTEND:20251212T194500Z
-DTSTART:20251212T173000Z
-SUMMARY:Prawo spółek (Przeniesienie zajęć)
-UID:2ca88448-a9e5-4390-8974-e2e5c0bf4839@2ca8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Aleksandra Nowak-Gruca
-DTEND:20251214T100000Z
-LOCATION:Platforma Moodle
-DTSTART:20251214T074500Z
-SUMMARY:Prawo własności intelektualnej (wykład e-learningowy)
-UID:e72d829f-f2c3-45c4-8495-49ed947adb90@e72d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Jusyna Zając-Wysocka
-DTEND:20251213T143000Z
-DTSTART:20251213T121500Z
-SUMMARY:Podatki i opłaty lokalne w praktyce (Przeniesienie zajęć)
-UID:911f3e58-4a01-4911-b43a-0795abc706fd@911f.org
+UID:b23e5aca-263d-4026-a6c5-5dc3acd90c9c@b23e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Jusyna Zając-Wysocka
@@ -60,22 +21,14 @@ DTEND:20251220T114500Z
 LOCATION:Paw.C sala A
 DTSTART:20251220T093000Z
 SUMMARY:Podatki i opłaty lokalne w praktyce (konwersatorium do wyboru)
-UID:2a355c30-7b56-49a1-b411-3897e4668580@2a35.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Karol Ryszkowski
-DTEND:20251128T194500Z
-DTSTART:20251128T173000Z
-SUMMARY:Prawo spółek (Przeniesienie zajęć)
-UID:c4f3790d-4bc9-426f-873e-21584921f20f@c4f3.org
+UID:b29a2064-dfce-4661-890b-72f36f3c6ef7@b29a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20251130T161500Z
-LOCATION:link do zajęć
-DTSTART:20251130T140000Z
+DTEND:20251026T124500Z
+DTSTART:20251026T103000Z
 SUMMARY:Prawo restrukturyzacyjne (wykład do wyboru)
-UID:00594c57-5765-4b86-9661-f87549949adc@0059.org
+UID:a6867b54-04b0-40d5-a98b-cd46618aec75@a686.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
@@ -83,108 +36,7 @@ DTEND:20260118T101500Z
 LOCATION:Paw.C sala A
 DTSTART:20260118T093000Z
 SUMMARY:Prawo restrukturyzacyjne (egzamin)
-UID:3c5545c7-497d-4e57-8511-1d38009d7684@3c55.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
-DTEND:20260118T124500Z
-LOCATION:Paw.S sala 1
-DTSTART:20260118T103000Z
-SUMMARY:Prawo prywatne międzynarodowe (ćwiczenia)
-UID:0ca1c267-b3d4-4c51-84a2-e3934e566da2@0ca1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20251005T090000Z
-DTSTART:20251005T064500Z
-SUMMARY:Prawo restrukturyzacyjne (wykład do wyboru)
-UID:27c895db-e6ed-4620-90b2-ffd66b4e37fa@27c8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
-DTEND:20251129T114500Z
-LOCATION:Paw.C sala C
-DTSTART:20251129T093000Z
-SUMMARY:Prawo prywatne międzynarodowe (ćwiczenia)
-UID:e9a43f0b-a27e-43ff-86e0-fd78873df82a@e9a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Aleksandra Nowak-Gruca
-DTEND:20251018T104500Z
-LOCATION:Platforma Moodle
-DTSTART:20251018T083000Z
-SUMMARY:Prawo własności intelektualnej (wykład e-learningowy)
-UID:9cf5dcd0-745b-4e83-91cc-ee5acf2274fa@9cf5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Bernard Kociołek
-DTEND:20251213T143000Z
-LOCATION:Paw.F 107
-DTSTART:20251213T121500Z
-SUMMARY:Prawo własności intelektualnej (ćwiczenia)
-UID:57705995-d5ff-49c8-8ba7-a5f0eef56777@5770.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Jusyna Zając-Wysocka
-DTEND:20251114T194500Z
-DTSTART:20251114T173000Z
-SUMMARY:Podatki i opłaty lokalne w praktyce (Przeniesienie zajęć)
-UID:b4bb7bed-55f1-4eb2-883e-e6417338038d@b4bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Karol Ryszkowski
-DTEND:20251219T170000Z
-LOCATION:link do zajęć
-DTSTART:20251219T144500Z
-SUMMARY:Prawo spółek (wykład do wyboru)
-UID:31f4734e-55e7-4738-8500-60ca9e006825@31f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Aleksandra Nowak-Gruca
-DTEND:20251024T143000Z
-LOCATION:Platforma Moodle
-DTSTART:20251024T134500Z
-SUMMARY:Prawo własności intelektualnej (wykład e-learningowy)
-UID:fa8a0946-3e7d-463e-9bad-d4e5e19a7ee3@fa8a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
-DTEND:20251213T114500Z
-LOCATION:L 413 bib
-DTSTART:20251213T093000Z
-SUMMARY:Prawo prywatne międzynarodowe (ćwiczenia)
-UID:f71ceb91-2030-435b-b133-f23e2d0eeddc@f71c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Jusyna Zając-Wysocka
-DTEND:20251129T170000Z
-DTSTART:20251129T144500Z
-SUMMARY:Podatki i opłaty lokalne w praktyce (Przeniesienie zajęć)
-UID:a0b27d9c-37c1-46cf-88c6-81e47956e299@a0b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Jusyna Zając-Wysocka
-DTEND:20251212T170000Z
-LOCATION:Bud.gł. Stara Aula
-DTSTART:20251212T144500Z
-SUMMARY:Podatki i opłaty lokalne w praktyce (konwersatorium do wyboru)
-UID:cab288cb-6551-43de-9ad9-8c5f8a599819@cab2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Jusyna Zając-Wysocka
-DTEND:20251025T104500Z
-LOCATION:Paw.C sala A
-DTSTART:20251025T083000Z
-SUMMARY:Podatki i opłaty lokalne w praktyce (konwersatorium do wyboru)
-UID:c343f77f-81f2-4196-9538-a66376b2d9cd@c343.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20260221T111500Z
-LOCATION:Bibl. 443
-DTSTART:20260221T103000Z
-SUMMARY:Prawo restrukturyzacyjne (egzamin)
-UID:7cb93493-8758-449a-abb5-c7b2725f869e@7cb9.org
+UID:763f2f4d-d6d8-4706-823e-f3d8e76750d2@763f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Karol Ryszkowski
@@ -192,286 +44,14 @@ DTEND:20251121T194500Z
 LOCATION:link do zajęć
 DTSTART:20251121T173000Z
 SUMMARY:Prawo spółek (wykład do wyboru)
-UID:3a058e67-6c85-4829-b883-f92ed332aa60@3a05.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20251026T124500Z
-DTSTART:20251026T103000Z
-SUMMARY:Prawo restrukturyzacyjne (wykład do wyboru)
-UID:606e0567-977a-4fa1-98c8-5009f43c993f@606e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Aleksandra Nowak-Gruca
-DTEND:20251114T170000Z
-LOCATION:Platforma Moodle
-DTSTART:20251114T144500Z
-SUMMARY:Prawo własności intelektualnej (wykład e-learningowy)
-UID:29521603-a43c-4a28-86dc-3a61c6310a86@2952.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Bernard Kociołek
-DTEND:20251129T143000Z
-LOCATION:Paw.E sala J
-DTSTART:20251129T121500Z
-SUMMARY:Prawo własności intelektualnej (ćwiczenia)
-UID:ba160941-11b4-4acc-8635-4b333fad6668@ba16.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Jusyna Zając-Wysocka
-DTEND:20260110T143000Z
-DTSTART:20260110T121500Z
-SUMMARY:Podatki i opłaty lokalne w praktyce (Przeniesienie zajęć)
-UID:5c358a9e-fd1c-4257-a280-53ebef0d5537@5c35.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Jusyna Zając-Wysocka
-DTEND:20260117T170000Z
-LOCATION:Paw.B 351
-DTSTART:20260117T144500Z
-SUMMARY:Podatki i opłaty lokalne w praktyce (konwersatorium do wyboru)
-UID:0b39de92-2da4-4eb2-8024-6a24521b103a@0b39.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20251214T124500Z
-LOCATION:link do zajęć
-DTSTART:20251214T103000Z
-SUMMARY:Prawo restrukturyzacyjne (wykład do wyboru)
-UID:29cc2ed2-84d6-4d4d-a4f2-380ad9065b2f@29cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
-DTEND:20251213T170000Z
-DTSTART:20251213T144500Z
-SUMMARY:Prawo prywatne międzynarodowe (Przeniesienie zajęć)
-UID:f781c714-9051-404f-b43a-385ad847a782@f781.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
-DTEND:20251018T133000Z
-DTSTART:20251018T111500Z
-SUMMARY:Prawo prywatne międzynarodowe (wykład)
-UID:123643a9-5f10-4904-8f6c-c0c3fe34203f@1236.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251016T123000Z
-DTSTART:20251016T093000Z
-SUMMARY: (rezerwacja)
-UID:5073567e-e755-48b8-b68c-4ea9ae26eeee@5073.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
-DTEND:20251004T104500Z
-DTSTART:20251004T083000Z
-SUMMARY:Prawo prywatne międzynarodowe (wykład)
-UID:16699aa9-7031-438a-adcc-5e079ae3abe7@1669.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
-DTEND:20251116T151500Z
-LOCATION:link do zajęć
-DTSTART:20251116T130000Z
-SUMMARY:Prawo prywatne międzynarodowe (wykład)
-UID:b4d4cfcf-b5ab-4582-90b7-cd253d99b10e@b4d4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
-DTEND:20260124T104500Z
-LOCATION:Paw.S sala 6
-DTSTART:20260124T074500Z
-SUMMARY:Prawo prywatne międzynarodowe (kolokwium)
-UID:b73071af-e7d8-4cd6-92a4-48970a17ac2d@b730.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Karol Ryszkowski
-DTEND:20260111T124500Z
-LOCATION:link do zajęć
-DTSTART:20260111T103000Z
-SUMMARY:Prawo spółek (wykład do wyboru)
-UID:d221c1ee-fca5-4629-ac19-9d4d1b223679@d221.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Bernard Kociołek
-DTEND:20251025T133000Z
-LOCATION:Paw.E sala J
-DTSTART:20251025T111500Z
-SUMMARY:Prawo własności intelektualnej (ćwiczenia)
-UID:12824e40-09b0-4e36-9223-506878aff7fa@1282.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Karol Ryszkowski
-DTEND:20260116T170000Z
-LOCATION:link do zajęć
-DTSTART:20260116T144500Z
-SUMMARY:Prawo spółek (wykład do wyboru)
-UID:c1916484-9efe-4dd8-8741-cbc5471a4a9d@c191.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Jusyna Zając-Wysocka
-DTEND:20260118T151500Z
-LOCATION:Paw.S sala 1
-DTSTART:20260118T130000Z
-SUMMARY:Podatki i opłaty lokalne w praktyce (konwersatorium do wyboru)
-UID:77a6cfd2-dbd4-47e7-bed5-8d235c162350@77a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Bernard Kociołek
-DTEND:20251115T101500Z
-LOCATION:Paw.S sala 8
-DTSTART:20251115T093000Z
-SUMMARY:Prawo własności intelektualnej (ćwiczenia)
-UID:3338e2bc-6971-4816-8a5f-69b777dcc260@3338.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
-DTEND:20251212T170000Z
-DTSTART:20251212T144500Z
-SUMMARY:Prawo prywatne międzynarodowe (Przeniesienie zajęć)
-UID:e3888a4f-642c-41d4-9e0d-51da053bf057@e388.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
-DTEND:20260111T161500Z
-LOCATION:link do zajęć
-DTSTART:20260111T140000Z
-SUMMARY:Prawo prywatne międzynarodowe (wykład)
-UID:fc8cd09e-cdd6-4379-86b3-4f5651630100@fc8c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Bernard Kociołek
-DTEND:20251115T120000Z
-LOCATION:Paw.S sala 4
-DTSTART:20251115T103000Z
-SUMMARY:Prawo własności intelektualnej (ćwiczenia)
-UID:392b39ce-3183-4870-815b-cd883cae1e60@392b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20260111T100000Z
-LOCATION:link do zajęć
-DTSTART:20260111T074500Z
-SUMMARY:Prawo restrukturyzacyjne (wykład do wyboru)
-UID:f328b32b-2d79-4b35-bcd9-fb327223ebe9@f328.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Jusyna Zając-Wysocka
-DTEND:20251115T143000Z
-LOCATION:Paw.E sala J
-DTSTART:20251115T121500Z
-SUMMARY:Podatki i opłaty lokalne w praktyce (konwersatorium do wyboru)
-UID:27d7a6de-2087-4d98-b120-1c36012632e4@27d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20251116T100000Z
-LOCATION:link do zajęć
-DTSTART:20251116T074500Z
-SUMMARY:Prawo restrukturyzacyjne (wykład do wyboru)
-UID:938dd2ac-ff1d-47a1-afcd-db449a315629@938d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
-DTEND:20251026T100000Z
-DTSTART:20251026T074500Z
-SUMMARY:Prawo prywatne międzynarodowe (Przeniesienie zajęć)
-UID:0d418a0e-ae68-454d-b934-2dbbc2950a89@0d41.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251217T134500Z
-DTSTART:20251217T121500Z
-SUMMARY: (rezerwacja)
-UID:e18e49a5-d82d-464b-a207-8ae5c4d24528@e18e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
-DTEND:20260208T101500Z
-LOCATION:Bibl. 441
-DTSTART:20260208T084500Z
-SUMMARY:Prawo prywatne międzynarodowe (egzamin)
-UID:aa086f12-1324-431a-993e-9b9cb3cd066a@aa08.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Aleksandra Nowak-Gruca
-DTEND:20251004T133000Z
-DTSTART:20251004T111500Z
-SUMMARY:Prawo własności intelektualnej (wykład)
-UID:4604366a-f776-4840-848c-75458c5a0a3b@4604.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Karol Ryszkowski
-DTEND:20251017T184500Z
-DTSTART:20251017T163000Z
-SUMMARY:Prawo spółek (wykład do wyboru)
-UID:9459431b-3547-4723-bb41-2cb35b324481@9459.org
+UID:c52c5e4d-65a7-45b3-9207-160da08cd6ad@c52c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Jusyna Zając-Wysocka
 DTEND:20260110T091500Z
 DTSTART:20260110T070000Z
 SUMMARY:Podatki i opłaty lokalne w praktyce (Przeniesienie zajęć)
-UID:25c5ccf3-35b1-4bea-84f2-13885eba0f35@25c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Bernard Kociołek
-DTEND:20251213T114500Z
-DTSTART:20251213T093000Z
-SUMMARY:Prawo własności intelektualnej (Przeniesienie zajęć)
-UID:cbe3494e-af50-4e1c-9aba-c896a1bccca2@cbe3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Aleksandra Nowak-Gruca
-DTEND:20251024T161500Z
-DTSTART:20251024T144500Z
-SUMMARY:Prawo własności intelektualnej (wykład)
-UID:88147e8f-7842-4418-ba2f-200207683150@8814.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
-DTEND:20251114T194500Z
-DTSTART:20251114T173000Z
-SUMMARY:Prawo prywatne międzynarodowe (Przeniesienie zajęć)
-UID:bfe3ca47-7e61-41f3-bad4-14dce6af81eb@bfe3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
-DTEND:20251130T124500Z
-LOCATION:link do zajęć
-DTSTART:20251130T103000Z
-SUMMARY:Prawo prywatne międzynarodowe (wykład)
-UID:4631caae-6256-4a26-b665-eaab714ccea0@4631.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Bernard Kociołek
-DTEND:20251115T143000Z
-DTSTART:20251115T121500Z
-SUMMARY:Prawo własności intelektualnej (Przeniesienie zajęć)
-UID:1959d345-c340-42ce-92c3-3e8981a6993a@1959.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Karol Ryszkowski
-DTEND:20260130T194500Z
-LOCATION:Paw.S sala 8
-DTSTART:20260130T173000Z
-SUMMARY:Prawo spółek (egzamin)
-UID:bf1c191b-6054-4093-9b2c-212f98097cd1@bf1c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
-DTEND:20251214T151500Z
-DTSTART:20251214T130000Z
-SUMMARY:Prawo prywatne międzynarodowe (Przeniesienie zajęć)
-UID:f0e6bc9a-dcf8-4930-a9b6-242c13fb9095@f0e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
-DTEND:20260221T101500Z
-LOCATION:Paw.C sala B
-DTSTART:20260221T084500Z
-SUMMARY:Prawo prywatne międzynarodowe (egzamin)
-UID:26bf82f5-ade4-4a1c-b880-21f9a92f2787@26bf.org
+UID:e5427d63-a1ea-4506-924f-a1806dfdf41a@e542.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Aleksandra Nowak-Gruca
@@ -479,7 +59,266 @@ DTEND:20251130T100000Z
 LOCATION:link do zajęć
 DTSTART:20251130T074500Z
 SUMMARY:Prawo własności intelektualnej (wykład)
-UID:f84e2594-8b01-4e74-bb2f-0daa8a43a35c@f84e.org
+UID:84255356-16f7-4600-8669-8145a68e310c@8425.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jusyna Zając-Wysocka
+DTEND:20260118T151500Z
+LOCATION:Paw.S sala 1
+DTSTART:20260118T130000Z
+SUMMARY:Podatki i opłaty lokalne w praktyce (konwersatorium do wyboru)
+UID:89414926-832e-4b0b-a58e-f221ca1a9865@8941.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251016T123000Z
+DTSTART:20251016T093000Z
+SUMMARY: (rezerwacja)
+UID:a71d9b7e-afb7-4d99-ae37-f7f74f7162dc@a71d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20251214T151500Z
+DTSTART:20251214T130000Z
+SUMMARY:Prawo prywatne międzynarodowe (Przeniesienie zajęć)
+UID:60073cb7-fabc-4060-8710-8150611684f7@6007.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jusyna Zając-Wysocka
+DTEND:20251212T170000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20251212T144500Z
+SUMMARY:Podatki i opłaty lokalne w praktyce (konwersatorium do wyboru)
+UID:92ac64bc-719d-4778-aa1f-67a89a802742@92ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bernard Kociołek
+DTEND:20251115T143000Z
+DTSTART:20251115T121500Z
+SUMMARY:Prawo własności intelektualnej (Przeniesienie zajęć)
+UID:3b77a92e-62ca-433a-86f4-9f44b274caf9@3b77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bernard Kociołek
+DTEND:20251213T114500Z
+DTSTART:20251213T093000Z
+SUMMARY:Prawo własności intelektualnej (Przeniesienie zajęć)
+UID:ed4b3526-d0e2-4ab4-815a-38b9c108ed21@ed4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aleksandra Nowak-Gruca
+DTEND:20251018T104500Z
+LOCATION:Platforma Moodle
+DTSTART:20251018T083000Z
+SUMMARY:Prawo własności intelektualnej (wykład e-learningowy)
+UID:bb860746-2fc8-4aae-861a-ffc11bcdc77c@bb86.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Ryszkowski
+DTEND:20260130T194500Z
+LOCATION:Paw.S sala 8
+DTSTART:20260130T173000Z
+SUMMARY:Prawo spółek (egzamin)
+UID:86021a52-5c52-4ffc-a940-ae2d7ffe889d@8602.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20251212T170000Z
+DTSTART:20251212T144500Z
+SUMMARY:Prawo prywatne międzynarodowe (Przeniesienie zajęć)
+UID:a0adbcb8-c286-4af3-8ec7-a96e2acaa3cf@a0ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jusyna Zając-Wysocka
+DTEND:20251025T104500Z
+LOCATION:Paw.C sala A
+DTSTART:20251025T083000Z
+SUMMARY:Podatki i opłaty lokalne w praktyce (konwersatorium do wyboru)
+UID:e19c491a-c6b4-4b4c-80ca-e656555f3df4@e19c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jusyna Zając-Wysocka
+DTEND:20260110T143000Z
+DTSTART:20260110T121500Z
+SUMMARY:Podatki i opłaty lokalne w praktyce (Przeniesienie zajęć)
+UID:af1afcb6-6957-4194-b28a-029b7d1a7985@af1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20260208T101500Z
+LOCATION:Bibl. 441
+DTSTART:20260208T084500Z
+SUMMARY:Prawo prywatne międzynarodowe (egzamin)
+UID:6862f162-9044-4a75-be1a-fdcffe9b496e@6862.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aleksandra Nowak-Gruca
+DTEND:20251024T161500Z
+DTSTART:20251024T144500Z
+SUMMARY:Prawo własności intelektualnej (wykład)
+UID:40e676a5-c669-4e24-b13b-0d753e984f2f@40e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bernard Kociołek
+DTEND:20251129T143000Z
+LOCATION:Paw.E sala J
+DTSTART:20251129T121500Z
+SUMMARY:Prawo własności intelektualnej (ćwiczenia)
+UID:1b817509-3e4d-4f6f-b708-886c4d2b7cc4@1b81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20251005T090000Z
+DTSTART:20251005T064500Z
+SUMMARY:Prawo restrukturyzacyjne (wykład do wyboru)
+UID:a7fd8f02-e0c4-44c0-ad82-db7b07791552@a7fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bernard Kociołek
+DTEND:20251213T143000Z
+LOCATION:Paw.F 107
+DTSTART:20251213T121500Z
+SUMMARY:Prawo własności intelektualnej (ćwiczenia)
+UID:d764ce88-d73d-4f5e-914a-7ff81a8b4487@d764.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jusyna Zając-Wysocka
+DTEND:20251115T143000Z
+LOCATION:Paw.E sala J
+DTSTART:20251115T121500Z
+SUMMARY:Podatki i opłaty lokalne w praktyce (konwersatorium do wyboru)
+UID:2c2ad985-920c-4d63-97e8-12a240579b56@2c2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Ryszkowski
+DTEND:20251212T194500Z
+DTSTART:20251212T173000Z
+SUMMARY:Prawo spółek (Przeniesienie zajęć)
+UID:b2fd35cb-85e3-4379-9037-4d39332d6f3f@b2fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bernard Kociołek
+DTEND:20251220T091500Z
+LOCATION:Paw.C sala A
+DTSTART:20251220T070000Z
+SUMMARY:Prawo własności intelektualnej (ćwiczenia)
+UID:008dfcbf-8e85-4c8c-a63f-7962081ad777@008d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bernard Kociołek
+DTEND:20260110T114500Z
+LOCATION:Paw.C sala A
+DTSTART:20260110T093000Z
+SUMMARY:Prawo własności intelektualnej (ćwiczenia)
+UID:6c0b6df3-9c69-4d32-bfec-883017afaa69@6c0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Ryszkowski
+DTEND:20251219T170000Z
+LOCATION:link do zajęć
+DTSTART:20251219T144500Z
+SUMMARY:Prawo spółek (wykład do wyboru)
+UID:6d1b531a-6069-4b87-9a89-6c3311e0695e@6d1b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Ryszkowski
+DTEND:20251128T194500Z
+DTSTART:20251128T173000Z
+SUMMARY:Prawo spółek (Przeniesienie zajęć)
+UID:de040789-4eca-4403-89d9-b18568217620@de04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aleksandra Nowak-Gruca
+DTEND:20251004T133000Z
+DTSTART:20251004T111500Z
+SUMMARY:Prawo własności intelektualnej (wykład)
+UID:45879f94-c55a-45d5-8e5a-27af0081ede4@4587.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jusyna Zając-Wysocka
+DTEND:20251114T194500Z
+DTSTART:20251114T173000Z
+SUMMARY:Podatki i opłaty lokalne w praktyce (Przeniesienie zajęć)
+UID:11c7c3a0-8208-4d47-890b-9760925f0055@11c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20251116T100000Z
+LOCATION:link do zajęć
+DTSTART:20251116T074500Z
+SUMMARY:Prawo restrukturyzacyjne (wykład do wyboru)
+UID:72675fe1-8f95-4bb6-b5cd-a5b34743b124@7267.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20251213T114500Z
+LOCATION:L 413 bib
+DTSTART:20251213T093000Z
+SUMMARY:Prawo prywatne międzynarodowe (ćwiczenia)
+UID:5169f9d6-152c-4902-9d5e-8e3e9fb9ce3a@5169.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20251214T124500Z
+LOCATION:link do zajęć
+DTSTART:20251214T103000Z
+SUMMARY:Prawo restrukturyzacyjne (wykład do wyboru)
+UID:3ebd44e2-fd34-4b02-b9a2-52c0c43fe916@3ebd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bernard Kociołek
+DTEND:20251115T101500Z
+LOCATION:Paw.S sala 8
+DTSTART:20251115T093000Z
+SUMMARY:Prawo własności intelektualnej (ćwiczenia)
+UID:fbada600-09c0-4cd3-995f-ddd8e48a3299@fbad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20260111T100000Z
+LOCATION:link do zajęć
+DTSTART:20260111T074500Z
+SUMMARY:Prawo restrukturyzacyjne (wykład do wyboru)
+UID:f43de5c5-4ec4-4b44-ae68-04dfc6f71c6f@f43d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jusyna Zając-Wysocka
+DTEND:20260117T170000Z
+LOCATION:Paw.B 351
+DTSTART:20260117T144500Z
+SUMMARY:Podatki i opłaty lokalne w praktyce (konwersatorium do wyboru)
+UID:82f49044-3fa9-46d1-889e-ce12c6a4d8ff@82f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Ryszkowski
+DTEND:20260111T124500Z
+LOCATION:link do zajęć
+DTSTART:20260111T103000Z
+SUMMARY:Prawo spółek (wykład do wyboru)
+UID:3105fcbe-2969-4403-9b9e-5b67e8f714da@3105.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20251018T133000Z
+DTSTART:20251018T111500Z
+SUMMARY:Prawo prywatne międzynarodowe (wykład)
+UID:ddb0cea4-3ae6-42f7-9428-f8139a112ddf@ddb0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20260221T101500Z
+LOCATION:Paw.C sala B
+DTSTART:20260221T084500Z
+SUMMARY:Prawo prywatne międzynarodowe (egzamin)
+UID:4b6a009b-0c17-4ac3-970c-bf8f14f5f08d@4b6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20251130T161500Z
+LOCATION:link do zajęć
+DTSTART:20251130T140000Z
+SUMMARY:Prawo restrukturyzacyjne (wykład do wyboru)
+UID:18c29468-e3e6-4108-8cab-a38cce252ed4@18c2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
@@ -487,6 +326,167 @@ DTEND:20260131T101500Z
 LOCATION:Bibl. 443
 DTSTART:20260131T093000Z
 SUMMARY:Prawo restrukturyzacyjne (egzamin)
-UID:a4ba4303-9fcb-4f04-a140-e19046b76c6b@a4ba.org
+UID:d9ebb2d5-2342-4449-a635-990885249fcd@d9eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aleksandra Nowak-Gruca
+DTEND:20251214T100000Z
+LOCATION:Platforma Moodle
+DTSTART:20251214T074500Z
+SUMMARY:Prawo własności intelektualnej (wykład e-learningowy)
+UID:f814e1e3-d789-455f-854b-f81db2ce87be@f814.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251217T134500Z
+DTSTART:20251217T121500Z
+SUMMARY: (rezerwacja)
+UID:dc789f0b-605f-43ef-abc0-9d1ad238b2b8@dc78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20260221T111500Z
+LOCATION:Bibl. 443
+DTSTART:20260221T103000Z
+SUMMARY:Prawo restrukturyzacyjne (egzamin)
+UID:790b1d77-8cb7-4111-9818-bb5ffdd53609@790b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aleksandra Nowak-Gruca
+DTEND:20251024T143000Z
+LOCATION:Platforma Moodle
+DTSTART:20251024T134500Z
+SUMMARY:Prawo własności intelektualnej (wykład e-learningowy)
+UID:56f55617-bcb0-4dea-a32b-7e8f9eda3efb@56f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bernard Kociołek
+DTEND:20251025T133000Z
+LOCATION:Paw.E sala J
+DTSTART:20251025T111500Z
+SUMMARY:Prawo własności intelektualnej (ćwiczenia)
+UID:9da6be76-1c12-44c9-9f36-c13f14690b5d@9da6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20251213T170000Z
+DTSTART:20251213T144500Z
+SUMMARY:Prawo prywatne międzynarodowe (Przeniesienie zajęć)
+UID:59b37923-745b-44aa-b1b6-cf23ecee1fe7@59b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20260118T124500Z
+LOCATION:Paw.S sala 1
+DTSTART:20260118T103000Z
+SUMMARY:Prawo prywatne międzynarodowe (ćwiczenia)
+UID:ee9e2446-92cd-465f-afd8-05d5aab06a37@ee9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Ryszkowski
+DTEND:20251116T124500Z
+LOCATION:link do zajęć
+DTSTART:20251116T103000Z
+SUMMARY:Prawo spółek (wykład do wyboru)
+UID:e22eaa78-c137-49a2-ac40-4139b5a3bfc9@e22e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Ryszkowski
+DTEND:20260116T170000Z
+LOCATION:link do zajęć
+DTSTART:20260116T144500Z
+SUMMARY:Prawo spółek (wykład do wyboru)
+UID:ef1cc74a-489b-4bda-ad4e-04e7f2dc7ff6@ef1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20251130T124500Z
+LOCATION:link do zajęć
+DTSTART:20251130T103000Z
+SUMMARY:Prawo prywatne międzynarodowe (wykład)
+UID:4425cd0c-eecf-478b-913b-a0e2a7f4bf36@4425.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20251129T114500Z
+LOCATION:Paw.C sala C
+DTSTART:20251129T093000Z
+SUMMARY:Prawo prywatne międzynarodowe (ćwiczenia)
+UID:f2334363-1422-4189-a8f5-397499892248@f233.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Ryszkowski
+DTEND:20251017T184500Z
+DTSTART:20251017T163000Z
+SUMMARY:Prawo spółek (wykład do wyboru)
+UID:0047bdc5-89c2-40a5-8825-cf5619eade94@0047.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20251004T104500Z
+DTSTART:20251004T083000Z
+SUMMARY:Prawo prywatne międzynarodowe (wykład)
+UID:e02ad08d-c304-4a47-9f9a-e190cdf12b37@e02a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aleksandra Nowak-Gruca
+DTEND:20251114T170000Z
+LOCATION:Platforma Moodle
+DTSTART:20251114T144500Z
+SUMMARY:Prawo własności intelektualnej (wykład e-learningowy)
+UID:9cc4bb23-43d9-40d6-b671-9ff8e6d579d5@9cc4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bernard Kociołek
+DTEND:20251115T120000Z
+LOCATION:Paw.S sala 4
+DTSTART:20251115T103000Z
+SUMMARY:Prawo własności intelektualnej (ćwiczenia)
+UID:4d299931-e1c4-41f4-b6a6-55d58a7f7ecf@4d29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20251116T151500Z
+LOCATION:link do zajęć
+DTSTART:20251116T130000Z
+SUMMARY:Prawo prywatne międzynarodowe (wykład)
+UID:35f2b6ff-b04f-40bc-93d7-c3f00d3de034@35f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20260124T104500Z
+LOCATION:Paw.S sala 6
+DTSTART:20260124T074500Z
+SUMMARY:Prawo prywatne międzynarodowe (kolokwium)
+UID:0f768951-f609-40d4-b633-0da523ffce52@0f76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20251026T100000Z
+DTSTART:20251026T074500Z
+SUMMARY:Prawo prywatne międzynarodowe (Przeniesienie zajęć)
+UID:b2fe19b4-b6a1-4496-a9b9-4e337e331dec@b2fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20260111T161500Z
+LOCATION:link do zajęć
+DTSTART:20260111T140000Z
+SUMMARY:Prawo prywatne międzynarodowe (wykład)
+UID:f89fcd19-226e-43c9-af01-0e70a722f080@f89f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20251114T194500Z
+DTSTART:20251114T173000Z
+SUMMARY:Prawo prywatne międzynarodowe (Przeniesienie zajęć)
+UID:2ad9244d-d19d-4ccb-b54d-584a149ea98b@2ad9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jusyna Zając-Wysocka
+DTEND:20251129T170000Z
+DTSTART:20251129T144500Z
+SUMMARY:Podatki i opłaty lokalne w praktyce (Przeniesienie zajęć)
+UID:a56d370c-ab94-43fb-b94d-0f5d97cc1807@a56d.org
 END:VEVENT
 END:VCALENDAR
