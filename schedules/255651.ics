@@ -2,12 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marian Gola
+DTEND:20251011T154500Z
+LOCATION:Paw.F 713a (Kat.Bank)
+DTSTART:20251011T120000Z
+SUMMARY:Regulacje bankowe w UE (Studia podyplomowe)
+UID:16c5c591-c439-4332-b11e-0c519b91529e@16c5.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Piotr Ubych
 DTEND:20251115T113000Z
 LOCATION:Zajęcia Online
 DTSTART:20251115T074500Z
 SUMMARY:Nowe technologie w bankowości (Studia podyplomowe)
-UID:0f67acb4-91c6-40fc-996d-3b505856ed44@0f67.org
+UID:48fc883c-375a-4bdc-8c9a-1d65987fe8e0@48fc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Przemysław Kulik
@@ -15,7 +23,7 @@ DTEND:20251129T164500Z
 LOCATION:Zajęcia Online
 DTSTART:20251129T130000Z
 SUMMARY:Programy ESG i zmiany klimatyczne na rynku finansowym (Studia podyplomowe)
-UID:463498c9-dff3-4fed-a112-a964af15bfd6@4634.org
+UID:ccc591b0-2b15-4a22-bc87-8886e53b0877@ccc5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Michał Pastuszak
@@ -23,79 +31,7 @@ DTEND:20251004T154500Z
 LOCATION:Zajęcia Online
 DTSTART:20251004T120000Z
 SUMMARY:Klient cyfrowy: diagnozowanie potrzeb i efektywna komunikacja (Studia podyplomowe)
-UID:ab044a2b-d4e7-4385-9463-6bd9dafbecfe@ab04.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Piotr Ubych
-DTEND:20251129T113000Z
-LOCATION:Zajęcia Online
-DTSTART:20251129T074500Z
-SUMMARY:Nowe technologie w bankowości (Studia podyplomowe)
-UID:2f163057-dd05-4921-bd3a-27c2deb3bcb5@2f16.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Radosław Ciukaj
-DTEND:20251220T083000Z
-LOCATION:Paw.F 713a (Kat.Bank)
-DTSTART:20251220T074500Z
-SUMMARY:Egzamin semestralny (Studia podyplomowe)
-UID:8222e809-0a89-49f4-8bae-f04d9d5e5e9f@8222.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Marian Gola
-DTEND:20251011T154500Z
-LOCATION:Paw.F 713a (Kat.Bank)
-DTSTART:20251011T120000Z
-SUMMARY:Regulacje bankowe w UE (Studia podyplomowe)
-UID:0bd2383e-0d10-4749-bf7b-44e0fc18b8f1@0bd2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: Prof. UJ dr hab. Piotr Łasak
-DTEND:20251122T113000Z
-LOCATION:Zajęcia Online
-DTSTART:20251122T074500Z
-SUMMARY:Zastosowanie sztucznej inteligencji w sektorze finansowym (Studia podyplomowe)
-UID:4983ac2c-b5f4-4e8a-ac5e-cad59a2b8eb3@4983.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Michał Pastuszak
-DTEND:20251004T103000Z
-LOCATION:Zajęcia Online
-DTSTART:20251004T064500Z
-SUMMARY:Klient cyfrowy: diagnozowanie potrzeb i efektywna komunikacja (Studia podyplomowe)
-UID:586940ec-e216-4cda-a798-e848b0a47d93@5869.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Radosław Ciukaj
-DTEND:20251220T110000Z
-LOCATION:Paw.F 713a (Kat.Bank)
-DTSTART:20251220T084500Z
-SUMMARY:Egzamin końcowy (Studia podyplomowe)
-UID:48e8d84a-8432-4587-a13a-4f4808b9d770@48e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
-DTEND:20251213T164500Z
-LOCATION:Zajęcia Online
-DTSTART:20251213T130000Z
-SUMMARY:Zagrożenia cybernetyczne w bankowości (Studia podyplomowe)
-UID:ae6850e1-15b1-4e89-9832-8303a99db256@ae68.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Marian Gola
-DTEND:20251011T103000Z
-LOCATION:Paw.F 713a (Kat.Bank)
-DTSTART:20251011T064500Z
-SUMMARY:Regulacje bankowe w UE (Studia podyplomowe)
-UID:3dee6fb4-62af-46b7-a92e-a3edca89bd5f@3dee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: Prof. UJ dr hab. Piotr Łasak
-DTEND:20251122T164500Z
-LOCATION:Zajęcia Online
-DTSTART:20251122T130000Z
-SUMMARY:Zastosowanie sztucznej inteligencji w sektorze finansowym (Studia podyplomowe)
-UID:af990ae0-7f17-4751-83ee-63bad0d44061@af99.org
+UID:b6c856ac-742a-465e-bf2a-a51871a0b172@b6c8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Przemysław Kulik
@@ -103,7 +39,47 @@ DTEND:20251115T164500Z
 LOCATION:Zajęcia Online
 DTSTART:20251115T130000Z
 SUMMARY:Programy ESG i zmiany klimatyczne na rynku finansowym (Studia podyplomowe)
-UID:8e8d94ba-2dbf-4780-9770-e8ed1808ebc7@8e8d.org
+UID:24c2d13e-74b0-4c07-ac6a-0a9b3e200633@24c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20251213T164500Z
+LOCATION:Zajęcia Online
+DTSTART:20251213T130000Z
+SUMMARY:Zagrożenia cybernetyczne w bankowości (Studia podyplomowe)
+UID:51597776-d056-450d-a83c-74f83973c5aa@5159.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Radosław Ciukaj
+DTEND:20251220T083000Z
+LOCATION:Paw.F 713a (Kat.Bank)
+DTSTART:20251220T074500Z
+SUMMARY:Egzamin semestralny (Studia podyplomowe)
+UID:be01bf81-a285-499a-8e2b-27f297497533@be01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: Prof. UJ dr hab. Piotr Łasak
+DTEND:20251122T164500Z
+LOCATION:Zajęcia Online
+DTSTART:20251122T130000Z
+SUMMARY:Zastosowanie sztucznej inteligencji w sektorze finansowym (Studia podyplomowe)
+UID:d0c675f2-f2a2-4968-ad53-199fd3f041f1@d0c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Piotr Ubych
+DTEND:20251129T113000Z
+LOCATION:Zajęcia Online
+DTSTART:20251129T074500Z
+SUMMARY:Nowe technologie w bankowości (Studia podyplomowe)
+UID:c792c8d3-8793-4ba4-89b4-a45320f66ded@c792.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marian Gola
+DTEND:20251011T103000Z
+LOCATION:Paw.F 713a (Kat.Bank)
+DTSTART:20251011T064500Z
+SUMMARY:Regulacje bankowe w UE (Studia podyplomowe)
+UID:492352d5-3dc6-4f48-a602-e80800a9dcac@4923.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Andrzej Walitza
@@ -111,6 +87,30 @@ DTEND:20251213T113000Z
 LOCATION:Zajęcia Online
 DTSTART:20251213T074500Z
 SUMMARY:Zarządzanie ryzykiem kredytowym i rynkowym (Studia podyplomowe)
-UID:826edc1e-6d7f-41b1-8c07-fe7acb4c0177@826e.org
+UID:6ca867aa-19a8-488b-9b12-a392f16bd128@6ca8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Radosław Ciukaj
+DTEND:20251220T110000Z
+LOCATION:Paw.F 713a (Kat.Bank)
+DTSTART:20251220T084500Z
+SUMMARY:Egzamin końcowy (Studia podyplomowe)
+UID:d5688678-58c1-48c2-bfe0-b6b88d89b254@d568.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Michał Pastuszak
+DTEND:20251004T103000Z
+LOCATION:Zajęcia Online
+DTSTART:20251004T064500Z
+SUMMARY:Klient cyfrowy: diagnozowanie potrzeb i efektywna komunikacja (Studia podyplomowe)
+UID:990f0eea-e860-47d0-8533-b956cc711261@990f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: Prof. UJ dr hab. Piotr Łasak
+DTEND:20251122T113000Z
+LOCATION:Zajęcia Online
+DTSTART:20251122T074500Z
+SUMMARY:Zastosowanie sztucznej inteligencji w sektorze finansowym (Studia podyplomowe)
+UID:4dbf7424-0841-435f-9e3c-16e64c3069cc@4dbf.org
 END:VEVENT
 END:VCALENDAR
