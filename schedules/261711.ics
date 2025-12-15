@@ -2,26 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Pająk
+DTEND:20260131T121500Z
+DTSTART:20260131T074500Z
+SUMMARY:Zarządzanie zmianą (Studia podyplomowe)
+UID:231dc822-1759-43ef-973a-be8ab2c6c589@231d.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Piotr Sedlak
 DTEND:20260110T121500Z
 LOCATION:Paw.G  7
 DTSTART:20260110T074500Z
 SUMMARY:Zarządzanie projektami (Studia podyplomowe)
-UID:c454729b-8cd9-414b-9d1e-dc4de62f43f9@c454.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Karniej
-DTEND:20260222T143000Z
-DTSTART:20260222T074500Z
-SUMMARY:Prawne aspekty funkcjonowania podmiotów medycznych (Studia podyplomowe)
-UID:d91dbe69-ff08-4c65-8f0d-0958c0c32259@d91d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Wojciech Pająk
-DTEND:20260131T121500Z
-DTSTART:20260131T074500Z
-SUMMARY:Zarządzanie zmianą (Studia podyplomowe)
-UID:4e58acda-2dac-43da-b22f-dc4657e7ddcf@4e58.org
+UID:17e11b0e-0fe6-4f86-8488-e1375cd6a186@17e1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Bartosz Kurek
@@ -29,21 +22,35 @@ DTEND:20260110T173000Z
 LOCATION:Paw.G  7
 DTSTART:20260110T130000Z
 SUMMARY: (Studia podyplomowe)
-UID:0b176f85-a89e-468c-af8d-09103b7e4af0@0b17.org
+UID:cf0dcdd1-cbb3-4a7c-9a38-bd1cf00d1289@cf0d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Jończyk
-DTEND:20260201T134500Z
-DTSTART:20260201T074500Z
-SUMMARY:Komunikacja interpersonalna (Studia podyplomowe)
-UID:170f1322-a8a0-4b28-bc31-0de0bb8d195d@170f.org
+DESCRIPTION:Instructor: dr Piotr Karniej
+DTEND:20260222T143000Z
+DTSTART:20260222T074500Z
+SUMMARY:Prawne aspekty funkcjonowania podmiotów medycznych (Studia podyplomowe)
+UID:81d2f23b-5b4b-4e76-b56f-0a35f4cbf37f@81d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Pająk
+DTEND:20260130T191500Z
+DTSTART:20260130T144500Z
+SUMMARY:Zarządzanie zmianą (Studia podyplomowe)
+UID:5bc35e05-8662-4f12-9adb-27fbce0701bc@5bc3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Tomasz Filarski
 DTEND:20260220T191500Z
 DTSTART:20260220T144500Z
 SUMMARY:Prawne aspekty funkcjonowania podmiotów medycznych (Studia podyplomowe)
-UID:80a6ddbc-a115-4cfc-8509-1198d2a4d715@80a6.org
+UID:04c778d4-e885-4b32-8ece-367fcb2358d2@04c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Jończyk
+DTEND:20260131T160000Z
+DTSTART:20260131T130000Z
+SUMMARY:Komunikacja interpersonalna (Studia podyplomowe)
+UID:8e1fd8bf-ec44-4757-a298-1c71dc49fc2a@8e1f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Bartosz Kurek
@@ -51,21 +58,14 @@ DTEND:20260111T121500Z
 LOCATION:Paw.G  7
 DTSTART:20260111T074500Z
 SUMMARY: (Studia podyplomowe)
-UID:5a06e915-9387-408b-a91c-483e99715876@5a06.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Jończyk
-DTEND:20260131T160000Z
-DTSTART:20260131T130000Z
-SUMMARY:Komunikacja interpersonalna (Studia podyplomowe)
-UID:b0126726-927b-494c-9c0c-2d43220bc325@b012.org
+UID:122c9af0-a8a1-4e67-b5bb-8f89950e264f@122c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
 DTEND:20260221T143000Z
 DTSTART:20260221T074500Z
 SUMMARY:Prawne aspekty funkcjonowania podmiotów medycznych (Studia podyplomowe)
-UID:49746d43-3c80-4f0c-baaa-b16b358a6f64@4974.org
+UID:df665c9b-3a28-43c6-a91b-1051d4b51faa@df66.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Piotr Sedlak
@@ -73,13 +73,13 @@ DTEND:20260109T191500Z
 LOCATION:Paw.G  7
 DTSTART:20260109T144500Z
 SUMMARY:Zarządzanie projektami (Studia podyplomowe)
-UID:b5f89caa-2795-4a97-93af-9ac3a9111dc7@b5f8.org
+UID:45227cea-236a-49ca-b671-fa2ca5674c37@4522.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Wojciech Pająk
-DTEND:20260130T191500Z
-DTSTART:20260130T144500Z
-SUMMARY:Zarządzanie zmianą (Studia podyplomowe)
-UID:586442c3-e309-4920-98bf-20b1a5a0870e@5864.org
+DESCRIPTION:Instructor: dr Joanna Jończyk
+DTEND:20260201T134500Z
+DTSTART:20260201T074500Z
+SUMMARY:Komunikacja interpersonalna (Studia podyplomowe)
+UID:e4d50c59-786c-4341-b435-283ec79ebfba@e4d5.org
 END:VEVENT
 END:VCALENDAR
