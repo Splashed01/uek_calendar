@@ -2,27 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sabina Augustyn
+DTEND:20251220T134500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20251220T121500Z
+SUMMARY:Wnioskowanie statystyczne (laboratorium)
+UID:7839a581-00da-4a2b-a19c-fc9269efccdb@7839.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
-DTEND:20251221T091500Z
-LOCATION:Paw.A 122 lab. Win10\, Office21
-DTSTART:20251221T070000Z
-SUMMARY:Nienadzorowane uczenie statystyczne (laboratorium)
-UID:3c8789a1-b74c-47d2-b3a0-79c206d09dcf@3c87.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Halina Stańdo-Górowska
-DTEND:20251011T141500Z
-DTSTART:20251011T120000Z
-SUMMARY:Podstawy rachunkowości (wykład do wyboru)
-UID:c987c099-f15b-4bf6-a62c-af8ea33d3ba0@c987.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grażyna Sordyl
-DTEND:20251115T114500Z
-LOCATION:Paw.U sala S(Kat.Opak.)
-DTSTART:20251115T093000Z
-SUMMARY:Podstawy ubezpieczeń (ćwiczenia)
-UID:ba0d80da-0c50-4668-b536-6f0acb58c660@ba0d.org
+DTEND:20251122T143000Z
+DTSTART:20251122T121500Z
+SUMMARY:Nienadzorowane uczenie statystyczne (Przeniesienie zajęć)
+UID:e9eafa7a-57d7-4a6d-8895-b46c05eb0ff6@e9ea.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Sabina Augustyn
@@ -30,310 +22,7 @@ DTEND:20251130T091500Z
 LOCATION:208 paw.U (tylko Kat. Rach)
 DTSTART:20251130T070000Z
 SUMMARY:Wnioskowanie statystyczne (laboratorium)
-UID:2761442d-31db-4f97-9458-1a270f1905bf@2761.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
-DTEND:20251206T143000Z
-LOCATION:Paw.A 122 lab. Win10\, Office21
-DTSTART:20251206T121500Z
-SUMMARY:Nienadzorowane uczenie statystyczne (laboratorium)
-UID:ce95f615-0f59-4198-b962-3f1c86d62c34@ce95.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251016T123000Z
-DTSTART:20251016T093000Z
-SUMMARY: (rezerwacja)
-UID:cd2fe187-2523-4883-8a46-b73c551f9aa9@cd2f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20251213T170000Z
-LOCATION:Paw.A 07 lab. Win7\, Office21
-DTSTART:20251213T144500Z
-SUMMARY:Inżynieria danych (laboratorium)
-UID:43e622a4-a37c-40ab-a976-73b5623bf791@43e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sabina Augustyn
-DTEND:20251206T091500Z
-DTSTART:20251206T070000Z
-SUMMARY:Wnioskowanie statystyczne (Przeniesienie zajęć)
-UID:47cf523f-6ddc-42e4-88c0-db5142120120@47cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
-DTEND:20260124T133000Z
-LOCATION:Paw.A 122 lab. Win10\, Office21
-DTSTART:20260124T111500Z
-SUMMARY:Nienadzorowane uczenie statystyczne (laboratorium)
-UID:4180670b-2b95-4ff1-a6bb-b1c47362080a@4180.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sabina Augustyn
-DTEND:20251219T170000Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251219T144500Z
-SUMMARY:Wnioskowanie statystyczne (laboratorium)
-UID:2739f635-e13e-4845-9c97-47014fe0093a@2739.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
-DTEND:20260125T091500Z
-LOCATION:Paw.A 122 lab. Win10\, Office21
-DTSTART:20260125T070000Z
-SUMMARY:Nienadzorowane uczenie statystyczne (laboratorium)
-UID:490b13fb-2a28-447b-8047-25b38998e32a@490b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Halina Stańdo-Górowska
-DTEND:20251019T133000Z
-LOCATION:Paw.U sala M
-DTSTART:20251019T111500Z
-SUMMARY:Podstawy rachunkowości (ćwiczenia do wyboru)
-UID:c5a4a4dc-c03a-4733-9520-f3a0ce40c400@c5a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grażyna Sordyl
-DTEND:20251024T160000Z
-DTSTART:20251024T134500Z
-SUMMARY:Podstawy ubezpieczeń (wykład)
-UID:228e7207-c8a8-47bb-92f6-316351482d6f@228e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
-DTEND:20251018T114500Z
-DTSTART:20251018T093000Z
-SUMMARY:Nienadzorowane uczenie statystyczne (wykład)
-UID:a5617673-c30c-4413-abda-c651f56d4875@a561.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Barbara Grabińska
-DTEND:20251024T184500Z
-DTSTART:20251024T163000Z
-SUMMARY:Podstawy finansów (wykład)
-UID:310f0fbf-2107-4f76-bb44-e45c7d5080bb@310f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Wójcik
-DTEND:20251025T133000Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251025T111500Z
-SUMMARY:Advanced Excel (laboratorium)
-UID:cb737bd9-1632-4bba-b012-fb33b4b5893d@cb73.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Snarska
-DTEND:20251123T091500Z
-LOCATION:Paw.A 122 lab. Win10\, Office21
-DTSTART:20251123T070000Z
-SUMMARY:Finanse obliczeniowe (konwersatorium do wyboru)
-UID:26bde2db-3981-4f38-bb06-c418682c811a@26bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sabina Augustyn
-DTEND:20260124T083000Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20260124T074500Z
-SUMMARY:Wnioskowanie statystyczne (laboratorium)
-UID:23387f03-4df9-4269-92f0-90418395de1c@2338.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Barbara Grabińska
-DTEND:20251122T114500Z
-LOCATION:link do zajęć
-DTSTART:20251122T093000Z
-SUMMARY:Podstawy finansów (wykład)
-UID:a79fba93-6090-4025-bc1e-90b4f93b7810@a79f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
-DTEND:20251214T091500Z
-LOCATION:Paw.A 122 lab. Win10\, Office21
-DTSTART:20251214T070000Z
-SUMMARY:Nienadzorowane uczenie statystyczne (laboratorium)
-UID:6b32f50b-3cd2-43c6-9c16-d2a4e0b52eef@6b32.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
-DTEND:20260110T100000Z
-LOCATION:link do zajęć
-DTSTART:20260110T074500Z
-SUMMARY:Nienadzorowane uczenie statystyczne (wykład)
-UID:500b068f-178c-4c4b-8ee5-e0ce234b6125@500b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sabina Augustyn
-DTEND:20251128T170000Z
-LOCATION:link do zajęć
-DTSTART:20251128T144500Z
-SUMMARY:Wnioskowanie statystyczne (wykład)
-UID:80268608-f0eb-4461-b057-ba25e825adf7@8026.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
-DTEND:20251205T170000Z
-LOCATION:link do zajęć
-DTSTART:20251205T144500Z
-SUMMARY:Nienadzorowane uczenie statystyczne (wykład)
-UID:d3e12d19-f3f2-4831-9710-cc064b6f2343@d3e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sabina Augustyn
-DTEND:20251212T194500Z
-DTSTART:20251212T173000Z
-SUMMARY:Wnioskowanie statystyczne (Przeniesienie zajęć)
-UID:b879e6b6-d2b2-4714-98f1-b6c9cef7de0f@b879.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sabina Augustyn
-DTEND:20260109T170000Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260109T144500Z
-SUMMARY:Wnioskowanie statystyczne (laboratorium)
-UID:304da442-6097-4b05-af2a-3e9c5ecb20e8@304d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Snarska
-DTEND:20251206T180000Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20251206T154500Z
-SUMMARY:Finanse obliczeniowe (konwersatorium do wyboru)
-UID:e4449e0d-50f3-43b4-85ad-d8ccdcc749ee@e444.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251217T134500Z
-DTSTART:20251217T121500Z
-SUMMARY: (rezerwacja)
-UID:185ba4b4-635b-4b03-887c-9ad70bdfc87f@185b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
-DTEND:20251116T091500Z
-LOCATION:Paw.A 122 lab. Win10\, Office21
-DTSTART:20251116T070000Z
-SUMMARY:Nienadzorowane uczenie statystyczne (laboratorium)
-UID:6b03ab09-37e1-4023-acd9-ec96aafd6dc5@6b03.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Halina Stańdo-Górowska
-DTEND:20251207T091500Z
-LOCATION:Paw.U sala M
-DTSTART:20251207T070000Z
-SUMMARY:Podstawy rachunkowości (ćwiczenia do wyboru)
-UID:5b44d1c4-39a3-43c3-b091-610d167b30e5@5b44.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sabina Augustyn
-DTEND:20251128T194500Z
-LOCATION:link do zajęć
-DTSTART:20251128T173000Z
-SUMMARY:Wnioskowanie statystyczne (wykład)
-UID:28d84043-73d6-4627-a142-410fa71c5b90@28d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
-DTEND:20260110T170000Z
-LOCATION:Paw.A 122 lab. Win10\, Office21
-DTSTART:20260110T144500Z
-SUMMARY:Nienadzorowane uczenie statystyczne (laboratorium)
-UID:cfc14a4a-7ab4-4ed0-bd4b-316712cb5497@cfc1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20251115T143000Z
-LOCATION:309  paw. U (tylko KatHZ)
-DTSTART:20251115T121500Z
-SUMMARY:Wizualizacja danych (laboratorium)
-UID:fedece8a-0239-4e27-a983-3a7c401aab97@fede.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sabina Augustyn
-DTEND:20260124T110000Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20260124T084500Z
-SUMMARY:Wnioskowanie statystyczne (laboratorium)
-UID:9bd3c4d8-935f-495f-95c2-223c8f5a72a2@9bd3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sabina Augustyn
-DTEND:20251018T090000Z
-DTSTART:20251018T064500Z
-SUMMARY:Wnioskowanie statystyczne (Przeniesienie zajęć)
-UID:b5ff7475-380d-4778-aac5-a3a3decd2d4d@b5ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Katarzyna Stawiarska
-DTEND:20251221T170000Z
-LOCATION:Paw.F 616
-DTSTART:20251221T144500Z
-SUMMARY:Podstawy finansów (ćwiczenia)
-UID:1dd1bd40-b385-4c86-82e7-00cca9b94909@1dd1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Wójcik
-DTEND:20251116T143000Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251116T121500Z
-SUMMARY:Advanced Excel (laboratorium)
-UID:7cd86cba-7785-4340-a6ec-503050925235@7cd8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20251025T160000Z
-LOCATION:Paw.A 122 lab. Win10\, Office21
-DTSTART:20251025T134500Z
-SUMMARY:Inżynieria danych (laboratorium)
-UID:a4dc360d-c3d4-4668-8e2c-739c8e858254@a4dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Snarska
-DTEND:20251114T170000Z
-LOCATION:Paw.A 122 lab. Win10\, Office21
-DTSTART:20251114T144500Z
-SUMMARY:Finanse obliczeniowe (konwersatorium do wyboru)
-UID:9d7c615e-2784-4f2a-bc58-2e909665b20c@9d7c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
-DTEND:20260111T091500Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20260111T070000Z
-SUMMARY:Nienadzorowane uczenie statystyczne (laboratorium)
-UID:7fe83b1c-9007-41d5-ad28-8cedd9a700b7@7fe8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Barbara Grabińska
-DTEND:20251011T090000Z
-DTSTART:20251011T064500Z
-SUMMARY:Podstawy finansów (wykład)
-UID:0cf5e32d-1ca1-4ff7-8423-4dcabdb93ad5@0cf5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Snarska
-DTEND:20251219T194500Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20251219T173000Z
-SUMMARY:Finanse obliczeniowe (konwersatorium do wyboru)
-UID:0af69187-612b-4d49-87ae-c22e64752748@0af6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Katarzyna Stawiarska
-DTEND:20251129T091500Z
-LOCATION:Paw.F 616
-DTSTART:20251129T070000Z
-SUMMARY:Podstawy finansów (ćwiczenia)
-UID:0975b893-eafc-482d-97e6-846fe529a652@0975.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20251220T114500Z
-LOCATION:Bibl.425
-DTSTART:20251220T093000Z
-SUMMARY:Wizualizacja danych (laboratorium)
-UID:e804d429-d3eb-40ad-9c17-1d33bb865005@e804.org
+UID:233ee74f-6686-484c-944b-3a866188b3a6@233e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Grażyna Sordyl
@@ -341,130 +30,30 @@ DTEND:20251025T104500Z
 LOCATION:Paw.S sala 8
 DTSTART:20251025T083000Z
 SUMMARY:Podstawy ubezpieczeń (ćwiczenia)
-UID:fb8e83d8-27ca-418b-90b4-2a5c6c4b83a1@fb8e.org
+UID:eb66805b-7e26-4bc9-81a3-5e0523625b5a@eb66.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Sabina Augustyn
-DTEND:20251205T194500Z
+DTEND:20251128T194500Z
 LOCATION:link do zajęć
-DTSTART:20251205T173000Z
+DTSTART:20251128T173000Z
 SUMMARY:Wnioskowanie statystyczne (wykład)
-UID:a50092e9-8e18-4631-8f19-e287bbbf1ca3@a500.org
+UID:51d01fe4-bcc7-4ea1-8bb9-fe985b40ad9b@51d0.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Halina Stańdo-Górowska
-DTEND:20251122T091500Z
-LOCATION:link do zajęć
-DTSTART:20251122T070000Z
-SUMMARY:Podstawy rachunkowości (wykład do wyboru)
-UID:743aac7c-68e2-4836-b82c-a13dde1c2cba@743a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sabina Augustyn
-DTEND:20251220T144500Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20251220T140000Z
-SUMMARY:Wnioskowanie statystyczne (laboratorium)
-UID:6f494b6f-34fa-45ca-8841-4589c65cebf5@6f49.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Wójcik
-DTEND:20251214T143000Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251214T121500Z
-SUMMARY:Advanced Excel (laboratorium)
-UID:10dbd38b-2331-4adc-a0c6-42b271c8b9f7@10db.org
+DESCRIPTION:Instructor: dr Grażyna Sordyl
+DTEND:20251024T160000Z
+DTSTART:20251024T134500Z
+SUMMARY:Podstawy ubezpieczeń (wykład)
+UID:37e3150d-de71-4e78-aa2d-c041feda629e@37e3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
-DTEND:20251212T170000Z
+DTEND:20251206T143000Z
 LOCATION:Paw.A 122 lab. Win10\, Office21
-DTSTART:20251212T144500Z
+DTSTART:20251206T121500Z
 SUMMARY:Nienadzorowane uczenie statystyczne (laboratorium)
-UID:235c63ba-02ce-4111-9f94-daed503da7a3@235c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20251130T143000Z
-LOCATION:Paw.A 122 lab. Win10\, Office21
-DTSTART:20251130T121500Z
-SUMMARY:Inżynieria danych (laboratorium)
-UID:d8980b76-f5b0-4bb2-a1cb-b4772c121cc5@d898.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20251207T143000Z
-LOCATION:Bibl.425
-DTSTART:20251207T121500Z
-SUMMARY:Wizualizacja danych (laboratorium)
-UID:8fa55f32-4769-41e3-9e54-d6b34aa0a558@8fa5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sabina Augustyn
-DTEND:20251116T170000Z
-DTSTART:20251116T144500Z
-SUMMARY:Wnioskowanie statystyczne (Przeniesienie zajęć)
-UID:8eb44be9-b3fc-4de8-bbcf-7dd3660da482@8eb4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sabina Augustyn
-DTEND:20251213T134500Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20251213T121500Z
-SUMMARY:Wnioskowanie statystyczne (laboratorium)
-UID:cea77ea9-0559-440c-870f-25230b9378bd@cea7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Katarzyna Stawiarska
-DTEND:20251123T143000Z
-DTSTART:20251123T121500Z
-SUMMARY:Podstawy finansów (Przeniesienie zajęć)
-UID:7301198a-d777-42ee-a80c-4f18b670567d@7301.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grażyna Sordyl
-DTEND:20251011T114500Z
-DTSTART:20251011T093000Z
-SUMMARY:Podstawy ubezpieczeń (wykład)
-UID:b0670181-42cf-4751-af01-c95a2cbd29d9@b067.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grażyna Sordyl
-DTEND:20251121T170000Z
-LOCATION:link do zajęć
-DTSTART:20251121T144500Z
-SUMMARY:Podstawy ubezpieczeń (wykład)
-UID:f97cd7f0-2374-4fc2-92cf-dc2d3ce66814@f97c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Halina Stańdo-Górowska
-DTEND:20251018T141500Z
-DTSTART:20251018T120000Z
-SUMMARY:Podstawy rachunkowości (wykład do wyboru)
-UID:96779f60-d989-44c5-9a4f-b9801d902963@9677.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
-DTEND:20251122T143000Z
-DTSTART:20251122T121500Z
-SUMMARY:Nienadzorowane uczenie statystyczne (Przeniesienie zajęć)
-UID:7599de52-8491-4978-9365-44816abd8e7d@7599.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grażyna Sordyl
-DTEND:20251129T114500Z
-LOCATION:Paw.U sala S(Kat.Opak.)
-DTSTART:20251129T093000Z
-SUMMARY:Podstawy ubezpieczeń (ćwiczenia)
-UID:0c0fb37a-e5a0-4357-ba77-15af59864563@0c0f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sabina Augustyn
-DTEND:20251220T134500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20251220T121500Z
-SUMMARY:Wnioskowanie statystyczne (laboratorium)
-UID:8021dcb3-6e73-42c7-b18d-c628c73c4f0e@8021.org
+UID:6cf1ee37-d439-4669-863f-0eb566802e31@6cf1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr Halina Stańdo-Górowska
@@ -472,22 +61,116 @@ DTEND:20251115T091500Z
 LOCATION:Paw.U sala L(prac.rys. tech.)
 DTSTART:20251115T070000Z
 SUMMARY:Podstawy rachunkowości (ćwiczenia do wyboru)
-UID:36e916b7-85fd-4b70-80c5-e91d8e9ad74e@36e9.org
+UID:68945f71-2dd8-48a4-8cfa-dbee38eb809e@6894.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grażyna Sordyl
+DTEND:20251115T114500Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20251115T093000Z
+SUMMARY:Podstawy ubezpieczeń (ćwiczenia)
+UID:f9a0fdfd-5eb9-4a93-87db-57e47a14fefd@f9a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Halina Stańdo-Górowska
+DTEND:20251122T091500Z
+LOCATION:link do zajęć
+DTSTART:20251122T070000Z
+SUMMARY:Podstawy rachunkowości (wykład do wyboru)
+UID:d4731651-3f0a-4191-8866-8fc5c4bc197b@d473.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Grabińska
+DTEND:20251011T090000Z
+DTSTART:20251011T064500Z
+SUMMARY:Podstawy finansów (wykład)
+UID:9731639b-61b2-41a1-a8ef-45e446d52fde@9731.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Katarzyna Stawiarska
+DTEND:20251123T143000Z
+DTSTART:20251123T121500Z
+SUMMARY:Podstawy finansów (Przeniesienie zajęć)
+UID:40485d47-f036-4ffc-a4e5-70ddfa314003@4048.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
+DTEND:20251116T091500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20251116T070000Z
+SUMMARY:Nienadzorowane uczenie statystyczne (laboratorium)
+UID:f06c3c37-0ed4-47e9-8d22-978c014583f5@f06c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sabina Augustyn
+DTEND:20260109T170000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260109T144500Z
+SUMMARY:Wnioskowanie statystyczne (laboratorium)
+UID:47efd213-659c-4122-a000-e4f9ca2cb562@47ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20251025T160000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20251025T134500Z
+SUMMARY:Inżynieria danych (laboratorium)
+UID:399a6fc2-1ae8-48c5-b21f-da2920f3ffee@399a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Sabina Augustyn
 DTEND:20251122T180000Z
 DTSTART:20251122T154500Z
 SUMMARY:Wnioskowanie statystyczne (Przeniesienie zajęć)
-UID:359cb72c-7a87-40b4-b924-65a42360b9cc@359c.org
+UID:e89952ca-5f76-4f79-ac3d-b2f8ba899c6b@e899.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Snarska
-DTEND:20260125T143000Z
+DESCRIPTION:Instructor: mgr Katarzyna Stawiarska
+DTEND:20251221T170000Z
+LOCATION:Paw.F 616
+DTSTART:20251221T144500Z
+SUMMARY:Podstawy finansów (ćwiczenia)
+UID:0ae0fbc1-aea2-49bd-aaa2-ba035f4a1cf6@0ae0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sabina Augustyn
+DTEND:20251128T170000Z
+LOCATION:link do zajęć
+DTSTART:20251128T144500Z
+SUMMARY:Wnioskowanie statystyczne (wykład)
+UID:6a3b1d31-4ec8-4465-b60e-4bc2c6960dcf@6a3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Wójcik
+DTEND:20251116T143000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251116T121500Z
+SUMMARY:Advanced Excel (laboratorium)
+UID:21185728-5057-4151-90d2-bff6348a8266@2118.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Halina Stańdo-Górowska
+DTEND:20251207T091500Z
+LOCATION:Paw.U sala M
+DTSTART:20251207T070000Z
+SUMMARY:Podstawy rachunkowości (ćwiczenia do wyboru)
+UID:cbea16fe-3c81-4547-9ffa-742125b04740@cbea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sabina Augustyn
+DTEND:20251213T134500Z
 LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20260125T121500Z
-SUMMARY:Finanse obliczeniowe (konwersatorium do wyboru)
-UID:5d965235-f9b0-426a-8165-458761ae12b2@5d96.org
+DTSTART:20251213T121500Z
+SUMMARY:Wnioskowanie statystyczne (laboratorium)
+UID:ef960ff2-1ea3-49fe-9044-6f8bcda1c42d@ef96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
+DTEND:20251214T091500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20251214T070000Z
+SUMMARY:Nienadzorowane uczenie statystyczne (laboratorium)
+UID:3c277576-dfd9-4e1a-9b51-315a2e792050@3c27.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Sabina Augustyn
@@ -495,7 +178,268 @@ DTEND:20260207T101500Z
 LOCATION:Paw.A 301a lab.Win10\, Office21
 DTSTART:20260207T084500Z
 SUMMARY: (egzamin)
-UID:b269ddba-cffd-4545-981c-57ae279a5635@b269.org
+UID:3f920af5-bea5-45c2-9a52-959a2f921cb4@3f92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sabina Augustyn
+DTEND:20251206T091500Z
+DTSTART:20251206T070000Z
+SUMMARY:Wnioskowanie statystyczne (Przeniesienie zajęć)
+UID:e156f3b4-709c-4b59-b8e1-59517db61f80@e156.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20251207T143000Z
+LOCATION:Bibl.425
+DTSTART:20251207T121500Z
+SUMMARY:Wizualizacja danych (laboratorium)
+UID:c1e44e98-fd9e-4dbf-8a80-449e1539a616@c1e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
+DTEND:20251018T114500Z
+DTSTART:20251018T093000Z
+SUMMARY:Nienadzorowane uczenie statystyczne (wykład)
+UID:5340c9a2-47e1-4b0b-be98-c40e9f58cbe6@5340.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Halina Stańdo-Górowska
+DTEND:20251019T133000Z
+LOCATION:Paw.U sala M
+DTSTART:20251019T111500Z
+SUMMARY:Podstawy rachunkowości (ćwiczenia do wyboru)
+UID:bb561124-c907-46f0-97b2-b446b30b2c22@bb56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sabina Augustyn
+DTEND:20260124T083000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20260124T074500Z
+SUMMARY:Wnioskowanie statystyczne (laboratorium)
+UID:62fe4293-e1b5-47b8-ae46-ab3385d296a1@62fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sabina Augustyn
+DTEND:20251219T170000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251219T144500Z
+SUMMARY:Wnioskowanie statystyczne (laboratorium)
+UID:cdf9523d-fada-4bdc-8e93-f54681fcf752@cdf9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sabina Augustyn
+DTEND:20251212T194500Z
+DTSTART:20251212T173000Z
+SUMMARY:Wnioskowanie statystyczne (Przeniesienie zajęć)
+UID:cd9998be-d4df-4366-909c-60725be19be3@cd99.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Halina Stańdo-Górowska
+DTEND:20251018T141500Z
+DTSTART:20251018T120000Z
+SUMMARY:Podstawy rachunkowości (wykład do wyboru)
+UID:8f518137-e3ce-4fd5-9d79-7e3eab95eb26@8f51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
+DTEND:20260110T100000Z
+LOCATION:link do zajęć
+DTSTART:20260110T074500Z
+SUMMARY:Nienadzorowane uczenie statystyczne (wykład)
+UID:5ca893b5-08f8-40c3-886b-2327715532b1@5ca8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Snarska
+DTEND:20260125T143000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20260125T121500Z
+SUMMARY:Finanse obliczeniowe (konwersatorium do wyboru)
+UID:a47eb06a-1ba2-4ec4-927d-90d803de6008@a47e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251016T123000Z
+DTSTART:20251016T093000Z
+SUMMARY: (rezerwacja)
+UID:f2cf1882-ea66-4bec-be48-3da1f1717877@f2cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
+DTEND:20260110T170000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20260110T144500Z
+SUMMARY:Nienadzorowane uczenie statystyczne (laboratorium)
+UID:6e3dd969-2bcf-4589-ad99-b8f31b1cbad9@6e3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
+DTEND:20251212T170000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20251212T144500Z
+SUMMARY:Nienadzorowane uczenie statystyczne (laboratorium)
+UID:9d35f9be-a28a-4fd1-b843-10151c9b5311@9d35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grażyna Sordyl
+DTEND:20251129T114500Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20251129T093000Z
+SUMMARY:Podstawy ubezpieczeń (ćwiczenia)
+UID:a5e5aecb-474c-4e0b-b672-89626a2c94b6@a5e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Grabińska
+DTEND:20251122T114500Z
+LOCATION:link do zajęć
+DTSTART:20251122T093000Z
+SUMMARY:Podstawy finansów (wykład)
+UID:05316e17-c4f2-42d7-9290-1de3c2b5df30@0531.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sabina Augustyn
+DTEND:20251220T144500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20251220T140000Z
+SUMMARY:Wnioskowanie statystyczne (laboratorium)
+UID:3aff5d73-ac43-404c-abaf-05234bce3134@3aff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grażyna Sordyl
+DTEND:20251121T170000Z
+LOCATION:link do zajęć
+DTSTART:20251121T144500Z
+SUMMARY:Podstawy ubezpieczeń (wykład)
+UID:3306c256-f894-448c-b7bd-f64ca6d849ae@3306.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
+DTEND:20260111T091500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20260111T070000Z
+SUMMARY:Nienadzorowane uczenie statystyczne (laboratorium)
+UID:091fbcd4-600c-41e0-9bdb-c3a06faa0530@091f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Snarska
+DTEND:20251123T091500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20251123T070000Z
+SUMMARY:Finanse obliczeniowe (konwersatorium do wyboru)
+UID:7bba78d1-e0b2-45f3-a494-fe9a9ea25940@7bba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
+DTEND:20260124T133000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20260124T111500Z
+SUMMARY:Nienadzorowane uczenie statystyczne (laboratorium)
+UID:b1d83f71-0eb8-42d4-a0d2-7c6abc9801ac@b1d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sabina Augustyn
+DTEND:20251018T090000Z
+DTSTART:20251018T064500Z
+SUMMARY:Wnioskowanie statystyczne (Przeniesienie zajęć)
+UID:742a36b5-de31-4811-b4bc-d84b06b796b3@742a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Halina Stańdo-Górowska
+DTEND:20251011T141500Z
+DTSTART:20251011T120000Z
+SUMMARY:Podstawy rachunkowości (wykład do wyboru)
+UID:b7dd273d-00d8-44df-be82-436f4c3485db@b7dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20251213T170000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20251213T144500Z
+SUMMARY:Inżynieria danych (laboratorium)
+UID:789b2100-f933-43a5-8a03-95dd287a46b5@789b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251217T134500Z
+DTSTART:20251217T121500Z
+SUMMARY: (rezerwacja)
+UID:9a725e5f-e3dc-4da8-84fb-572a32075963@9a72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Snarska
+DTEND:20251219T194500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20251219T173000Z
+SUMMARY:Finanse obliczeniowe (konwersatorium do wyboru)
+UID:9d07d6f4-2363-4c71-8129-42d3ecd633d8@9d07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
+DTEND:20260125T091500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20260125T070000Z
+SUMMARY:Nienadzorowane uczenie statystyczne (laboratorium)
+UID:3f8e5bbb-9f4b-43e3-9b97-6e25439eae16@3f8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grażyna Sordyl
+DTEND:20251011T114500Z
+DTSTART:20251011T093000Z
+SUMMARY:Podstawy ubezpieczeń (wykład)
+UID:8d03b4b4-ba23-4f0f-aaf3-d1083b811626@8d03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20251130T143000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20251130T121500Z
+SUMMARY:Inżynieria danych (laboratorium)
+UID:b884c506-f10e-42af-97e8-560c75fb67a9@b884.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Grabińska
+DTEND:20251024T184500Z
+DTSTART:20251024T163000Z
+SUMMARY:Podstawy finansów (wykład)
+UID:1e71b45f-0b55-4cdc-b5b6-77ef9a189f95@1e71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sabina Augustyn
+DTEND:20251116T170000Z
+DTSTART:20251116T144500Z
+SUMMARY:Wnioskowanie statystyczne (Przeniesienie zajęć)
+UID:04b4d3b8-c4b1-4c18-8f73-b20ddf577d36@04b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
+DTEND:20251205T170000Z
+LOCATION:link do zajęć
+DTSTART:20251205T144500Z
+SUMMARY:Nienadzorowane uczenie statystyczne (wykład)
+UID:ec42280b-4cf4-4266-b695-34f1b0b5f221@ec42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Snarska
+DTEND:20251206T180000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20251206T154500Z
+SUMMARY:Finanse obliczeniowe (konwersatorium do wyboru)
+UID:8b2358b6-7f09-4eaf-b63b-6293c22de3e5@8b23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20251115T143000Z
+LOCATION:309  paw. U (tylko KatHZ)
+DTSTART:20251115T121500Z
+SUMMARY:Wizualizacja danych (laboratorium)
+UID:028dcab6-96ab-4d38-ab6d-9cea8958e20e@028d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Katarzyna Stawiarska
+DTEND:20251129T091500Z
+LOCATION:Paw.F 616
+DTSTART:20251129T070000Z
+SUMMARY:Podstawy finansów (ćwiczenia)
+UID:526a7894-1c59-4044-a650-01e487aefa56@526a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Katarzyna Stawiarska
@@ -503,7 +447,7 @@ DTEND:20251115T170000Z
 LOCATION:Paw.S sala 6
 DTSTART:20251115T144500Z
 SUMMARY:Podstawy finansów (ćwiczenia)
-UID:24617423-88d7-4299-a5c2-e7fe1542f157@2461.org
+UID:eae2ecd4-ff8b-4395-906d-cbcf211c7802@eae2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Małgorzata Snarska
@@ -511,6 +455,62 @@ DTEND:20251220T091500Z
 LOCATION:Paw.A 122 lab. Win10\, Office21
 DTSTART:20251220T070000Z
 SUMMARY:Finanse obliczeniowe (konwersatorium do wyboru)
-UID:55c44c00-1d35-4756-9eca-887a28875fd1@55c4.org
+UID:b3060a35-ef25-408d-92f0-b975b647d584@b306.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sabina Augustyn
+DTEND:20260124T110000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20260124T084500Z
+SUMMARY:Wnioskowanie statystyczne (laboratorium)
+UID:3b906a5e-0eb1-4a0a-b7da-99d7accd8dfa@3b90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Snarska
+DTEND:20251114T170000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20251114T144500Z
+SUMMARY:Finanse obliczeniowe (konwersatorium do wyboru)
+UID:5ff06f9b-367f-4892-a63a-cc0fb6ba4bd6@5ff0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Wójcik
+DTEND:20251025T133000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251025T111500Z
+SUMMARY:Advanced Excel (laboratorium)
+UID:3c405d80-dc3f-4b79-a79d-18c6e7aa5413@3c40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Wójcik
+DTEND:20251214T143000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251214T121500Z
+SUMMARY:Advanced Excel (laboratorium)
+UID:dee46176-0e9d-48d3-8c8d-57a7b22e5b52@dee4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
+DTEND:20251221T091500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20251221T070000Z
+SUMMARY:Nienadzorowane uczenie statystyczne (laboratorium)
+UID:7df84b26-28d9-40b2-88bc-1ff5479038c5@7df8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sabina Augustyn
+DTEND:20251205T194500Z
+LOCATION:link do zajęć
+DTSTART:20251205T173000Z
+SUMMARY:Wnioskowanie statystyczne (wykład)
+UID:3f6a75dd-14b5-4f55-a841-b0d9e294393f@3f6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20251220T114500Z
+LOCATION:Bibl.425
+DTSTART:20251220T093000Z
+SUMMARY:Wizualizacja danych (laboratorium)
+UID:2f72a608-4e26-4ba9-9b4f-98ddc0c574b1@2f72.org
 END:VEVENT
 END:VCALENDAR

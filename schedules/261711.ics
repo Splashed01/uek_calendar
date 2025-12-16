@@ -3,10 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Wojciech Pająk
-DTEND:20260131T121500Z
-DTSTART:20260131T074500Z
+DTEND:20260130T191500Z
+DTSTART:20260130T144500Z
 SUMMARY:Zarządzanie zmianą (Studia podyplomowe)
-UID:231dc822-1759-43ef-973a-be8ab2c6c589@231d.org
+UID:110f109a-4bce-4847-840e-ef7ab8cebb9f@110f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20260221T143000Z
+DTSTART:20260221T074500Z
+SUMMARY:Prawne aspekty funkcjonowania podmiotów medycznych (Studia podyplomowe)
+UID:58845519-1033-408f-95f7-6affed2083c6@5884.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Piotr Sedlak
@@ -14,43 +21,7 @@ DTEND:20260110T121500Z
 LOCATION:Paw.G  7
 DTSTART:20260110T074500Z
 SUMMARY:Zarządzanie projektami (Studia podyplomowe)
-UID:17e11b0e-0fe6-4f86-8488-e1375cd6a186@17e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Bartosz Kurek
-DTEND:20260110T173000Z
-LOCATION:Paw.G  7
-DTSTART:20260110T130000Z
-SUMMARY: (Studia podyplomowe)
-UID:cf0dcdd1-cbb3-4a7c-9a38-bd1cf00d1289@cf0d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Karniej
-DTEND:20260222T143000Z
-DTSTART:20260222T074500Z
-SUMMARY:Prawne aspekty funkcjonowania podmiotów medycznych (Studia podyplomowe)
-UID:81d2f23b-5b4b-4e76-b56f-0a35f4cbf37f@81d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Wojciech Pająk
-DTEND:20260130T191500Z
-DTSTART:20260130T144500Z
-SUMMARY:Zarządzanie zmianą (Studia podyplomowe)
-UID:5bc35e05-8662-4f12-9adb-27fbce0701bc@5bc3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Tomasz Filarski
-DTEND:20260220T191500Z
-DTSTART:20260220T144500Z
-SUMMARY:Prawne aspekty funkcjonowania podmiotów medycznych (Studia podyplomowe)
-UID:04c778d4-e885-4b32-8ece-367fcb2358d2@04c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Jończyk
-DTEND:20260131T160000Z
-DTSTART:20260131T130000Z
-SUMMARY:Komunikacja interpersonalna (Studia podyplomowe)
-UID:8e1fd8bf-ec44-4757-a298-1c71dc49fc2a@8e1f.org
+UID:42870aa2-7fa6-4887-b7a8-9e49209ff5e4@4287.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Bartosz Kurek
@@ -58,14 +29,36 @@ DTEND:20260111T121500Z
 LOCATION:Paw.G  7
 DTSTART:20260111T074500Z
 SUMMARY: (Studia podyplomowe)
-UID:122c9af0-a8a1-4e67-b5bb-8f89950e264f@122c.org
+UID:9c15e0b2-ba8a-40eb-b2ba-dab4579020d8@9c15.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
-DTEND:20260221T143000Z
-DTSTART:20260221T074500Z
+DESCRIPTION:Instructor: prof. UEK dr hab. Bartosz Kurek
+DTEND:20260110T173000Z
+LOCATION:Paw.G  7
+DTSTART:20260110T130000Z
+SUMMARY: (Studia podyplomowe)
+UID:4fa06f47-7450-45ac-9bf5-ebe03b0ea061@4fa0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Karniej
+DTEND:20260222T143000Z
+DTSTART:20260222T074500Z
 SUMMARY:Prawne aspekty funkcjonowania podmiotów medycznych (Studia podyplomowe)
-UID:df665c9b-3a28-43c6-a91b-1051d4b51faa@df66.org
+UID:8d9bf1bc-03ed-4607-8805-876b6064c7bc@8d9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Tomasz Filarski
+DTEND:20260220T191500Z
+DTSTART:20260220T144500Z
+SUMMARY:Prawne aspekty funkcjonowania podmiotów medycznych (Studia podyplomowe)
+UID:d198a053-0f7a-45d8-b158-5fca20e56b52@d198.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Jończyk
+DTEND:20260201T134500Z
+DTSTART:20260201T074500Z
+SUMMARY:Komunikacja interpersonalna (Studia podyplomowe)
+UID:64cda165-c6e2-4692-ba44-241ca3d4414c@64cd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Piotr Sedlak
@@ -73,13 +66,20 @@ DTEND:20260109T191500Z
 LOCATION:Paw.G  7
 DTSTART:20260109T144500Z
 SUMMARY:Zarządzanie projektami (Studia podyplomowe)
-UID:45227cea-236a-49ca-b671-fa2ca5674c37@4522.org
+UID:1191646d-157e-4fc4-93d4-a4409e8458e9@1191.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Pająk
+DTEND:20260131T121500Z
+DTSTART:20260131T074500Z
+SUMMARY:Zarządzanie zmianą (Studia podyplomowe)
+UID:f5cd0eeb-c3ad-45ca-b10c-06d2b435aa14@f5cd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Joanna Jończyk
-DTEND:20260201T134500Z
-DTSTART:20260201T074500Z
+DTEND:20260131T160000Z
+DTSTART:20260131T130000Z
 SUMMARY:Komunikacja interpersonalna (Studia podyplomowe)
-UID:e4d50c59-786c-4341-b435-283ec79ebfba@e4d5.org
+UID:588707bd-6361-4dcb-9294-037d6b0bbbea@5887.org
 END:VEVENT
 END:VCALENDAR
