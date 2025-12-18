@@ -2,59 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Małgorzata Zakrzewska
-DTEND:20260110T133000Z
-LOCATION:Paw.U sala K
-DTSTART:20260110T111500Z
-SUMMARY:Zarządzanie projektami (konwersatorium)
-UID:5e016dd6-5ab3-4720-8009-5bfd0822612b@5e01.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Piotr Zając
-DTEND:20260124T170000Z
-LOCATION:Paw.E sala J
-DTSTART:20260124T140000Z
-SUMMARY:Planowanie zasobów ludzkich (konwersatorium)
-UID:3a7eb691-7fc8-4de7-beba-b6f692485459@3a7e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Kamila Kwiatkowska
-DTEND:20251025T090000Z
-LOCATION:Paw.U sala K
-DTSTART:20251025T064500Z
-SUMMARY:Zarządzanie procesami (konwersatorium)
-UID:b6cd8848-c020-418c-a88b-2617393c1bf0@b6cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Maria Foryś
-DTEND:20260111T143000Z
-LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
-DTSTART:20260111T121500Z
-SUMMARY:Podstawy socjologii i psychologii pracy (ćwiczenia)
-UID:5304937b-b323-4407-a2f6-0901f52ba641@5304.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Kamila Kwiatkowska
-DTEND:20251129T114500Z
-LOCATION:Paw.U sala K
-DTSTART:20251129T093000Z
-SUMMARY:Zarządzanie procesami (konwersatorium)
-UID:e0b8c594-8d09-40b5-a162-2b5d8fc6e6a7@e0b8.org
+DESCRIPTION:Instructor: dr Justyna Pawlak
+DTEND:20251011T114500Z
+DTSTART:20251011T093000Z
+SUMMARY:Podstawy socjologii i psychologii pracy (wykład)
+UID:348f3d3e-7ae4-4682-af1a-4945c8f5cff8@348f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Justyna Pawlak
 DTEND:20251026T161500Z
 DTSTART:20251026T140000Z
 SUMMARY:Podstawy socjologii i psychologii pracy (wykład)
-UID:6e5adcb1-7711-4215-a3b8-c86c9fe5f2cd@6e5a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marta Szklarska
-DTEND:20251025T141500Z
-LOCATION:Bud.gł. 6
-DTSTART:20251025T120000Z
-SUMMARY:Matematyka w zarządzaniu - powtarzanie przedmiotu (ćwiczenia)
-UID:6b1ed64f-c633-45d0-9416-f56901fa18fc@6b1e.org
+UID:50de4937-5112-49b5-8d83-99739891eb25@50de.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Magdalena Prorok
@@ -62,61 +21,7 @@ DTEND:20251212T170000Z
 LOCATION:Paw.F 713  Kat.Bank./sala dyd.
 DTSTART:20251212T144500Z
 SUMMARY:Zarządzanie wiedzą (ćwiczenia)
-UID:b54863e0-0a09-4371-9db0-0f2957e934f4@b548.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marta Szklarska
-DTEND:20260124T100000Z
-LOCATION:Paw.F 613
-DTSTART:20260124T074500Z
-SUMMARY:Matematyka w zarządzaniu - powtarzanie przedmiotu (ćwiczenia)
-UID:604f6a28-14e4-41c0-9f97-3dde1320fa18@604f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Małgorzata Zakrzewska
-DTEND:20251129T143000Z
-LOCATION:Paw.U sala K
-DTSTART:20251129T121500Z
-SUMMARY:Zarządzanie projektami (konwersatorium)
-UID:8ef00630-f614-48da-836c-eb9b3108e5b0@8ef0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Pawlak
-DTEND:20251011T114500Z
-DTSTART:20251011T093000Z
-SUMMARY:Podstawy socjologii i psychologii pracy (wykład)
-UID:f3c5f01b-db0a-43f2-8cee-678c5cb422ee@f3c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Piotr Zając
-DTEND:20251130T133000Z
-LOCATION:L Paw.A 401
-DTSTART:20251130T111500Z
-SUMMARY:Rynek pracy (ćwiczenia)
-UID:22a8ff91-8074-4643-ac2e-40b00650b6d7@22a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marta Szklarska
-DTEND:20251214T133000Z
-LOCATION:link do zajęć
-DTSTART:20251214T111500Z
-SUMMARY:Matematyka w zarządzaniu - powtarzanie przedmiotu (wykład)
-UID:fba4c347-62c1-4c3d-aa10-40b920a27fe3@fba4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Piotr Zając
-DTEND:20251019T114500Z
-DTSTART:20251019T093000Z
-SUMMARY:Rynek pracy (wykład)
-UID:4fdecdeb-613a-453a-8600-0cc6fceb931a@4fde.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Magdalena Prorok
-DTEND:20260109T170000Z
-LOCATION:Paw.F 713  Kat.Bank./sala dyd.
-DTSTART:20260109T144500Z
-SUMMARY:Zarządzanie wiedzą (ćwiczenia)
-UID:e690d770-5268-47ae-81ce-89715e4dfa90@e690.org
+UID:ed0ec895-acd2-4b26-bb5b-e2e3402dc30d@ed0e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr Piotr Zając
@@ -124,297 +29,14 @@ DTEND:20251130T110000Z
 LOCATION:L Paw.A 401
 DTSTART:20251130T084500Z
 SUMMARY:Planowanie zasobów ludzkich (konwersatorium)
-UID:f7ae418a-4260-4e22-bc40-214323d709e0@f7ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Bogusz Mikuła
-DTEND:20251026T100000Z
-DTSTART:20251026T074500Z
-SUMMARY:Zarządzanie wiedzą (wykład)
-UID:813e9620-72ec-4b25-aef5-84d5d20a3b59@813e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Maria Foryś
-DTEND:20260117T124500Z
-LOCATION:L Paw.A 401
-DTSTART:20260117T103000Z
-SUMMARY:Podstawy socjologii i psychologii pracy (ćwiczenia)
-UID:5b5f6f57-ec78-4fb8-8c2d-282122820922@5b5f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Małgorzata Zakrzewska
-DTEND:20260124T124500Z
-LOCATION:Paw.U sala K
-DTSTART:20260124T103000Z
-SUMMARY:Zarządzanie projektami (konwersatorium)
-UID:cbe594fe-c2c7-41f0-922a-0cbd53881a0d@cbe5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marta Szklarska
-DTEND:20260118T100000Z
-LOCATION:Paw.S sala 3
-DTSTART:20260118T074500Z
-SUMMARY:Matematyka w zarządzaniu - powtarzanie przedmiotu (ćwiczenia)
-UID:1f336dc6-db36-4288-8886-f38bc1b45282@1f33.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Urban Pauli
-DTEND:20251206T133000Z
-LOCATION:Paw.U sala T (Kat. ZKL)
-DTSTART:20251206T103000Z
-SUMMARY:Struktury organizacyjne (konwersatorium)
-UID:b4b1448b-a688-48aa-b175-f4bfa13402cb@b4b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Małgorzata Zakrzewska
-DTEND:20251213T184500Z
-LOCATION:Paw.U sala K
-DTSTART:20251213T163000Z
-SUMMARY:Zarządzanie projektami (konwersatorium)
-UID:268ce61a-8e99-4ec6-9982-38744d514f9c@268c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Piotr Zając
-DTEND:20251115T184500Z
-DTSTART:20251115T163000Z
-SUMMARY:Planowanie zasobów ludzkich (Przeniesienie zajęć)
-UID:4642a1e0-fa9e-4e91-aaf0-090e467e51d5@4642.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Piotr Zając
-DTEND:20251205T170000Z
-LOCATION:Paw.B 058 (KSB)
-DTSTART:20251205T144500Z
-SUMMARY:Rynek pracy (ćwiczenia)
-UID:1abc2b5c-e934-471a-81d7-4bfeaa0a6e28@1abc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Chałupczak
-DTEND:20251115T124500Z
-DTSTART:20251115T103000Z
-SUMMARY:Wirtualizacja pracy (Przeniesienie zajęć)
-UID:0459174c-4660-4bcc-915c-c6bee4f337c7@0459.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Chałupczak
-DTEND:20260117T161500Z
-LOCATION:Paw.U sala M
-DTSTART:20260117T140000Z
-SUMMARY:Wirtualizacja pracy (konwersatorium)
-UID:53b33ff5-4aa1-4d40-8ce7-beeb9729a942@53b3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Bogusz Mikuła
-DTEND:20251019T090000Z
-DTSTART:20251019T064500Z
-SUMMARY:Zarządzanie wiedzą (wykład)
-UID:20c017c8-2741-4c09-8dee-4e42aa5871c5@20c0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Maria Foryś
-DTEND:20251213T124500Z
-DTSTART:20251213T103000Z
-SUMMARY:Podstawy socjologii i psychologii pracy (Przeniesienie zajęć)
-UID:359d7234-a24c-4a34-904e-253858b108db@359d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Maria Foryś
-DTEND:20251207T100000Z
-LOCATION:L Paw.A 401
-DTSTART:20251207T074500Z
-SUMMARY:Podstawy socjologii i psychologii pracy (ćwiczenia)
-UID:ebd1dfc0-1fec-49a6-8d3d-0c1bf099c701@ebd1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Małgorzata Zakrzewska
-DTEND:20260117T100000Z
-LOCATION:Paw.U sala K
-DTSTART:20260117T074500Z
-SUMMARY:Zarządzanie projektami (konwersatorium)
-UID:24cc8d6d-f8fa-4f46-bed4-ac6c4843446a@24cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Pawlak
-DTEND:20251116T143000Z
-DTSTART:20251116T121500Z
-SUMMARY:Podstawy socjologii i psychologii pracy (wykład)
-UID:c3119e1a-9539-4c6a-9c32-98c036a5146b@c311.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Piotr Zając
-DTEND:20251116T114500Z
-DTSTART:20251116T093000Z
-SUMMARY:Rynek pracy (Przeniesienie zajęć)
-UID:30b8d412-7f28-4a2d-9ba9-b58f97fdb2af@30b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Małgorzata Zakrzewska
-DTEND:20251206T091500Z
-DTSTART:20251206T070000Z
-SUMMARY:Zarządzanie projektami (Przeniesienie zajęć)
-UID:df57ddea-734a-49ff-b63c-5f1d2740889a@df57.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Urban Pauli
-DTEND:20251024T160000Z
-LOCATION:Paw.U sala T (Kat. ZKL)
-DTSTART:20251024T134500Z
-SUMMARY:Struktury organizacyjne (konwersatorium)
-UID:32bf6279-432c-44d3-aa69-315c70a878f3@32bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Piotr Zając
-DTEND:20260110T174500Z
-LOCATION:Paw.E sala J
-DTSTART:20260110T144500Z
-SUMMARY:Planowanie zasobów ludzkich (konwersatorium)
-UID:1877e84a-3c5a-4afe-8b79-eb9a20ed30b2@1877.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251016T123000Z
-DTSTART:20251016T093000Z
-SUMMARY: (rezerwacja)
-UID:ceb67b70-1757-4222-9303-1d0c9ce15e5d@ceb6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Pawlak
-DTEND:20260131T134500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260131T121500Z
-SUMMARY:Podstawy socjologii i psychologii pracy (egzamin)
-UID:4b170a44-5cc4-4362-b33e-1f2e74bf9560@4b17.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Chałupczak
-DTEND:20251018T114500Z
-LOCATION:Paw.U sala O
-DTSTART:20251018T093000Z
-SUMMARY:Wirtualizacja pracy (konwersatorium)
-UID:a2f899c2-fb5f-4e29-9eec-2038b89c97fd@a2f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marta Szklarska
-DTEND:20260111T114500Z
-LOCATION:Bud.gł. 6
-DTSTART:20260111T093000Z
-SUMMARY:Matematyka w zarządzaniu - powtarzanie przedmiotu (ćwiczenia)
-UID:29f1aaf0-390b-43e0-b17b-390b2d5834ae@29f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Chałupczak
-DTEND:20251207T161500Z
-LOCATION:Paw.U sala O
-DTSTART:20251207T140000Z
-SUMMARY:Wirtualizacja pracy (konwersatorium)
-UID:b6805adf-f5bf-4914-8ba3-6fb0ff4f7f67@b680.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Urban Pauli
-DTEND:20251017T160000Z
-LOCATION:Paw.U sala T (Kat. ZKL)
-DTSTART:20251017T134500Z
-SUMMARY:Struktury organizacyjne (konwersatorium)
-UID:12129bc3-3089-4c72-a8fc-111916b7a453@1212.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marta Szklarska
-DTEND:20251115T151500Z
-LOCATION:Paw.S sala 3
-DTSTART:20251115T130000Z
-SUMMARY:Matematyka w zarządzaniu - powtarzanie przedmiotu (ćwiczenia)
-UID:0333aa6f-882c-4bff-be9e-d969db70ef7a@0333.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marta Szklarska
-DTEND:20251123T114500Z
-LOCATION:link do zajęć
-DTSTART:20251123T093000Z
-SUMMARY:Matematyka w zarządzaniu - powtarzanie przedmiotu (wykład)
-UID:9465396a-1f2c-49c6-bea0-08e026a43ec8@9465.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marta Szklarska
-DTEND:20251019T151500Z
-DTSTART:20251019T130000Z
-SUMMARY:Matematyka w zarządzaniu - powtarzanie przedmiotu (wykład)
-UID:e09002ed-ca4d-4cc0-a82e-b9126e51f423@e090.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Kamila Kwiatkowska
-DTEND:20251213T091500Z
-LOCATION:Paw.U sala K
-DTSTART:20251213T070000Z
-SUMMARY:Zarządzanie procesami (konwersatorium)
-UID:586f24b9-117f-480c-8adc-efdc78a96123@586f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Bogusz Mikuła
-DTEND:20251011T090000Z
-DTSTART:20251011T064500Z
-SUMMARY:Zarządzanie wiedzą (wykład)
-UID:d44c8c18-990a-45fb-9686-c0eb16dc58a9@d44c.org
+UID:e35f3718-7f46-49e8-b4db-e5653a4dfe2b@e35f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr Piotr Zając
 DTEND:20251122T100000Z
 DTSTART:20251122T074500Z
 SUMMARY:Rynek pracy (Przeniesienie zajęć)
-UID:77e6cda4-01cf-4c03-924c-27e2e132d1ba@77e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Piotr Zając
-DTEND:20251214T110000Z
-LOCATION:link do zajęć
-DTSTART:20251214T084500Z
-SUMMARY:Rynek pracy (wykład)
-UID:cf842815-0d3c-4e4d-aca2-11e79ec98d54@cf84.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Piotr Zając
-DTEND:20251018T174500Z
-LOCATION:Paw.E sala J
-DTSTART:20251018T153000Z
-SUMMARY:Rynek pracy (ćwiczenia)
-UID:798c7b0c-3059-4f97-9f0d-1e0c7050a02c@798c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Kamila Kwiatkowska
-DTEND:20260116T170000Z
-LOCATION:Paw.F 713  Kat.Bank./sala dyd.
-DTSTART:20260116T144500Z
-SUMMARY:Zarządzanie procesami (konwersatorium)
-UID:6f26f45a-64ed-4ddf-8fce-f3b31e16b30e@6f26.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Piotr Zając
-DTEND:20251122T124500Z
-DTSTART:20251122T103000Z
-SUMMARY:Planowanie zasobów ludzkich (Przeniesienie zajęć)
-UID:0c1ff83c-6574-4dc1-9912-d2ac21a3fb69@0c1f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Chałupczak
-DTEND:20251025T114500Z
-DTSTART:20251025T093000Z
-SUMMARY:Wirtualizacja pracy (konwersatorium zdalne)
-UID:20dd6934-f2bd-4452-a49f-56a971d4840f@20dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Kamila Kwiatkowska
-DTEND:20251115T100000Z
-LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
-DTSTART:20251115T074500Z
-SUMMARY:Zarządzanie procesami (konwersatorium)
-UID:e54483c3-3d1f-4066-bd87-5deb665ca6a8@e544.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Urban Pauli
-DTEND:20251010T174500Z
-LOCATION:Paw.U sala T (Kat. ZKL)
-DTSTART:20251010T144500Z
-SUMMARY:Struktury organizacyjne (konwersatorium)
-UID:4ec9cbf0-20f1-43af-a466-031454731fa4@4ec9.org
+UID:35156155-a8f8-4b9f-9b40-77e672dfe8ed@3515.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Małgorzata Zakrzewska
@@ -422,116 +44,7 @@ DTEND:20251206T100000Z
 LOCATION:Bud.gł. 6
 DTSTART:20251206T074500Z
 SUMMARY:Zarządzanie projektami (konwersatorium)
-UID:e324bcac-cde4-41b2-81cc-7d3c77a99766@e324.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Maria Foryś
-DTEND:20260110T110000Z
-LOCATION:L Paw.A 401
-DTSTART:20260110T084500Z
-SUMMARY:Podstawy socjologii i psychologii pracy (ćwiczenia)
-UID:e2185517-54f8-48cd-9310-d76f3096bfe4@e218.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marta Szklarska
-DTEND:20251129T091500Z
-LOCATION:Paw.C sala D
-DTSTART:20251129T070000Z
-SUMMARY:Matematyka w zarządzaniu - powtarzanie przedmiotu (ćwiczenia)
-UID:c68ddb7b-929a-48b0-bdf1-1b000c9d858d@c68d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Piotr Zając
-DTEND:20251206T170000Z
-LOCATION:Paw.E sala J
-DTSTART:20251206T140000Z
-SUMMARY:Planowanie zasobów ludzkich (konwersatorium)
-UID:39d8f706-28b1-470e-a42f-82e2c1efb7c3@39d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Chałupczak
-DTEND:20251121T170000Z
-LOCATION:Paw.F 416
-DTSTART:20251121T144500Z
-SUMMARY:Wirtualizacja pracy (konwersatorium)
-UID:40d97930-3c7d-47f1-b77e-ed93290145b2@40d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251217T134500Z
-DTSTART:20251217T121500Z
-SUMMARY: (rezerwacja)
-UID:5c714f93-1a2f-436c-a968-96864d6831ec@5c71.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Magdalena Prorok
-DTEND:20251128T170000Z
-LOCATION:Paw.F 713  Kat.Bank./sala dyd.
-DTSTART:20251128T144500Z
-SUMMARY:Zarządzanie wiedzą (ćwiczenia)
-UID:844588e3-c949-42de-9f42-e8411b443271@8445.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Piotr Zając
-DTEND:20251018T151500Z
-LOCATION:Paw.E sala J
-DTSTART:20251018T130000Z
-SUMMARY:Planowanie zasobów ludzkich (konwersatorium)
-UID:5bc93b31-c60d-4b27-965f-c30a7b7b5a6d@5bc9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Piotr Zając
-DTEND:20251115T161500Z
-DTSTART:20251115T140000Z
-SUMMARY:Rynek pracy (Przeniesienie zajęć)
-UID:893e6a03-b87b-4c70-bf47-24e422944c6e@893e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Urban Pauli
-DTEND:20251114T170000Z
-LOCATION:Paw.U sala T (Kat. ZKL)
-DTSTART:20251114T144500Z
-SUMMARY:Struktury organizacyjne (konwersatorium)
-UID:a61b4769-213a-4624-b809-fa11e3fb5b93@a61b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Chałupczak
-DTEND:20251213T161500Z
-LOCATION:Paw.U sala N
-DTSTART:20251213T140000Z
-SUMMARY:Wirtualizacja pracy (konwersatorium)
-UID:6aeba90d-e480-4874-b6f0-35be4987a88f@6aeb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Piotr Zając
-DTEND:20251026T124500Z
-DTSTART:20251026T103000Z
-SUMMARY:Rynek pracy (wykład)
-UID:b890e974-60c3-425e-85d9-322fba273de1@b890.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Maria Foryś
-DTEND:20260124T194500Z
-LOCATION:L Paw.A 401
-DTSTART:20260124T173000Z
-SUMMARY:Podstawy socjologii i psychologii pracy (ćwiczenia)
-UID:6db1dab0-f9b0-415d-8094-2bcbd63f49df@6db1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Piotr Zając
-DTEND:20260117T184500Z
-LOCATION:Paw.E sala G (KSB)
-DTSTART:20260117T163000Z
-SUMMARY:Planowanie zasobów ludzkich (konwersatorium)
-UID:68fefdb4-f978-491d-95bf-dc0d2645aec5@68fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Kamila Kwiatkowska
-DTEND:20251207T124500Z
-LOCATION:Paw.U sala K
-DTSTART:20251207T103000Z
-SUMMARY:Zarządzanie procesami (konwersatorium)
-UID:7188d0f2-3d7b-47f4-aa38-b9fc99c3a981@7188.org
+UID:2fdb75d2-3750-4307-913f-f8bf8a6da354@2fdb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Maria Foryś
@@ -539,7 +52,52 @@ DTEND:20251129T170000Z
 LOCATION:L Paw.A 401
 DTSTART:20251129T144500Z
 SUMMARY:Podstawy socjologii i psychologii pracy (ćwiczenia)
-UID:4fa50521-e4e8-4e79-9991-fd08b8f38a88@4fa5.org
+UID:9099aa07-9411-4087-aca0-d57a74694e6a@9099.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Kamila Kwiatkowska
+DTEND:20251213T091500Z
+LOCATION:Paw.U sala K
+DTSTART:20251213T070000Z
+SUMMARY:Zarządzanie procesami (konwersatorium)
+UID:e5d0e6cf-bb15-4bf8-a13c-97ffc837d18b@e5d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251217T134500Z
+DTSTART:20251217T121500Z
+SUMMARY: (rezerwacja)
+UID:de27bcbe-8936-4f78-b1a1-adbf1931783e@de27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Magdalena Prorok
+DTEND:20260109T170000Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20260109T144500Z
+SUMMARY:Zarządzanie wiedzą (ćwiczenia)
+UID:4b295b72-092a-41ff-b46f-81439eb9577c@4b29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251016T123000Z
+DTSTART:20251016T093000Z
+SUMMARY: (rezerwacja)
+UID:3ba10446-e413-42e1-8700-18648156a334@3ba1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Szklarska
+DTEND:20260111T114500Z
+LOCATION:Bud.gł. 6
+DTSTART:20260111T093000Z
+SUMMARY:Matematyka w zarządzaniu - powtarzanie przedmiotu (ćwiczenia)
+UID:6bdb1748-b96c-41d7-b3aa-b19ffcbe4264@6bdb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Pawlak
+DTEND:20251116T143000Z
+DTSTART:20251116T121500Z
+SUMMARY:Podstawy socjologii i psychologii pracy (wykład)
+UID:973745bc-7e2f-49ae-ad01-0f37625b73ba@9737.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Urban Pauli
@@ -547,6 +105,448 @@ DTEND:20251122T170000Z
 LOCATION:Paw.U sala T (Kat. ZKL)
 DTSTART:20251122T140000Z
 SUMMARY:Struktury organizacyjne (konwersatorium)
-UID:f98e7e46-97fc-4c6d-8069-d2f1c8f71b21@f98e.org
+UID:db63d3c7-7dda-4447-9e5e-480d53cefe9e@db63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Szklarska
+DTEND:20251025T141500Z
+LOCATION:Bud.gł. 6
+DTSTART:20251025T120000Z
+SUMMARY:Matematyka w zarządzaniu - powtarzanie przedmiotu (ćwiczenia)
+UID:2f8b45f1-9a6c-4fe7-9099-da2b881988b9@2f8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Piotr Zając
+DTEND:20251115T184500Z
+DTSTART:20251115T163000Z
+SUMMARY:Planowanie zasobów ludzkich (Przeniesienie zajęć)
+UID:c6baff17-d9ea-475f-8ae3-bdf8e787d1a0@c6ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Szklarska
+DTEND:20260124T100000Z
+LOCATION:Paw.F 613
+DTSTART:20260124T074500Z
+SUMMARY:Matematyka w zarządzaniu - powtarzanie przedmiotu (ćwiczenia)
+UID:88ec4268-de69-4952-9802-35a0b71d108c@88ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Piotr Zając
+DTEND:20251214T110000Z
+LOCATION:link do zajęć
+DTSTART:20251214T084500Z
+SUMMARY:Rynek pracy (wykład)
+UID:95b17c6f-697c-41f6-9bff-3d42ecb0f9bd@95b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Maria Foryś
+DTEND:20251213T124500Z
+DTSTART:20251213T103000Z
+SUMMARY:Podstawy socjologii i psychologii pracy (Przeniesienie zajęć)
+UID:fbfbfed6-0806-4607-b79d-e09f91ccb8dd@fbfb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Maria Foryś
+DTEND:20260111T143000Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20260111T121500Z
+SUMMARY:Podstawy socjologii i psychologii pracy (ćwiczenia)
+UID:18dce55f-6892-4358-b7e2-4ff905422211@18dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Piotr Zając
+DTEND:20251018T174500Z
+LOCATION:Paw.E sala J
+DTSTART:20251018T153000Z
+SUMMARY:Rynek pracy (ćwiczenia)
+UID:eb8dd975-bdce-4d45-8327-96135b8f2839@eb8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Piotr Zając
+DTEND:20251116T114500Z
+DTSTART:20251116T093000Z
+SUMMARY:Rynek pracy (Przeniesienie zajęć)
+UID:91cd1dcf-83d3-461f-ab43-3588b2583ea7@91cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Szklarska
+DTEND:20251123T114500Z
+LOCATION:link do zajęć
+DTSTART:20251123T093000Z
+SUMMARY:Matematyka w zarządzaniu - powtarzanie przedmiotu (wykład)
+UID:0bb19b40-d6b6-4474-a6f4-f19a81dd50b2@0bb1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Piotr Zając
+DTEND:20251205T170000Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20251205T144500Z
+SUMMARY:Rynek pracy (ćwiczenia)
+UID:b7d6cb51-75a5-4158-9039-593539dfb0b6@b7d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Urban Pauli
+DTEND:20251017T160000Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20251017T134500Z
+SUMMARY:Struktury organizacyjne (konwersatorium)
+UID:9cdbeadf-bf0f-43ec-91ab-3114627b3e81@9cdb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Małgorzata Zakrzewska
+DTEND:20251206T091500Z
+DTSTART:20251206T070000Z
+SUMMARY:Zarządzanie projektami (Przeniesienie zajęć)
+UID:6abc3c1f-25d5-4a41-9648-86730f17b749@6abc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bogusz Mikuła
+DTEND:20251026T100000Z
+DTSTART:20251026T074500Z
+SUMMARY:Zarządzanie wiedzą (wykład)
+UID:94789550-6738-4aa3-ba37-aeed074edb31@9478.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20251121T170000Z
+LOCATION:Paw.F 416
+DTSTART:20251121T144500Z
+SUMMARY:Wirtualizacja pracy (konwersatorium)
+UID:ffdd7560-aae1-4059-8d50-de0e385225d0@ffdd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Urban Pauli
+DTEND:20251024T160000Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20251024T134500Z
+SUMMARY:Struktury organizacyjne (konwersatorium)
+UID:55b42928-4267-4e9f-a3af-44ea46f3c78f@55b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Piotr Zając
+DTEND:20251026T124500Z
+DTSTART:20251026T103000Z
+SUMMARY:Rynek pracy (wykład)
+UID:0154cef4-5122-432b-bd57-b4256394f2f8@0154.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Szklarska
+DTEND:20251129T091500Z
+LOCATION:Paw.C sala D
+DTSTART:20251129T070000Z
+SUMMARY:Matematyka w zarządzaniu - powtarzanie przedmiotu (ćwiczenia)
+UID:516372b9-578a-486a-8542-5e771abae207@5163.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Piotr Zając
+DTEND:20251018T151500Z
+LOCATION:Paw.E sala J
+DTSTART:20251018T130000Z
+SUMMARY:Planowanie zasobów ludzkich (konwersatorium)
+UID:3c5dd82e-40c6-4dbb-83c9-6a0a9e39896c@3c5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Kamila Kwiatkowska
+DTEND:20251207T124500Z
+LOCATION:Paw.U sala K
+DTSTART:20251207T103000Z
+SUMMARY:Zarządzanie procesami (konwersatorium)
+UID:c48beb2d-c304-4bb8-8d43-b662040914a9@c48b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Szklarska
+DTEND:20251214T133000Z
+LOCATION:link do zajęć
+DTSTART:20251214T111500Z
+SUMMARY:Matematyka w zarządzaniu - powtarzanie przedmiotu (wykład)
+UID:cd0ab1b0-c84e-4f5a-ab51-b12b28e6493b@cd0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Piotr Zając
+DTEND:20260117T184500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20260117T163000Z
+SUMMARY:Planowanie zasobów ludzkich (konwersatorium)
+UID:9c3c6db3-62b0-410e-b2c4-210c596de95e@9c3c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Maria Foryś
+DTEND:20260124T194500Z
+LOCATION:L Paw.A 401
+DTSTART:20260124T173000Z
+SUMMARY:Podstawy socjologii i psychologii pracy (ćwiczenia)
+UID:4c0c636d-b4af-4cc2-836f-12a475435fc7@4c0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Urban Pauli
+DTEND:20251206T133000Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20251206T103000Z
+SUMMARY:Struktury organizacyjne (konwersatorium)
+UID:7240ac93-222b-4913-a7a0-cff3696144f4@7240.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Kamila Kwiatkowska
+DTEND:20260116T170000Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20260116T144500Z
+SUMMARY:Zarządzanie procesami (konwersatorium)
+UID:1a9a29b6-5bc8-451b-91ba-61c57d086e04@1a9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Urban Pauli
+DTEND:20251114T170000Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20251114T144500Z
+SUMMARY:Struktury organizacyjne (konwersatorium)
+UID:e8ca6074-2fe3-4b0a-a894-c05f8b33d806@e8ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Magdalena Prorok
+DTEND:20251128T170000Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20251128T144500Z
+SUMMARY:Zarządzanie wiedzą (ćwiczenia)
+UID:95b0011c-2596-47c5-8837-e067b5641864@95b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bogusz Mikuła
+DTEND:20251019T090000Z
+DTSTART:20251019T064500Z
+SUMMARY:Zarządzanie wiedzą (wykład)
+UID:268cc614-d0a4-4fa4-b8df-90adcca02085@268c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Maria Foryś
+DTEND:20260110T110000Z
+LOCATION:L Paw.A 401
+DTSTART:20260110T084500Z
+SUMMARY:Podstawy socjologii i psychologii pracy (ćwiczenia)
+UID:6e49937f-768f-4973-9837-2897a8d29f01@6e49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Piotr Zając
+DTEND:20251206T170000Z
+LOCATION:Paw.E sala J
+DTSTART:20251206T140000Z
+SUMMARY:Planowanie zasobów ludzkich (konwersatorium)
+UID:95bd14e8-5671-4d1c-bdee-a0bacf1a65bc@95bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20251115T124500Z
+DTSTART:20251115T103000Z
+SUMMARY:Wirtualizacja pracy (Przeniesienie zajęć)
+UID:2af0ac25-1814-4cc2-bab7-4c1f19eab72e@2af0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Małgorzata Zakrzewska
+DTEND:20260117T100000Z
+LOCATION:Paw.U sala K
+DTSTART:20260117T074500Z
+SUMMARY:Zarządzanie projektami (konwersatorium)
+UID:06eebd43-aca4-47f0-a9e1-4133e247cdda@06ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Piotr Zając
+DTEND:20251130T133000Z
+LOCATION:L Paw.A 401
+DTSTART:20251130T111500Z
+SUMMARY:Rynek pracy (ćwiczenia)
+UID:94ff052d-512f-47cc-9742-ddd83c7c422b@94ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Piotr Zając
+DTEND:20260124T170000Z
+LOCATION:Paw.E sala J
+DTSTART:20260124T140000Z
+SUMMARY:Planowanie zasobów ludzkich (konwersatorium)
+UID:f560e3ce-447a-4d0f-8e10-1d36b7f1998d@f560.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Małgorzata Zakrzewska
+DTEND:20260110T133000Z
+LOCATION:Paw.U sala K
+DTSTART:20260110T111500Z
+SUMMARY:Zarządzanie projektami (konwersatorium)
+UID:bed98302-915c-431b-9b20-8b983c9c99f2@bed9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Małgorzata Zakrzewska
+DTEND:20260124T124500Z
+LOCATION:Paw.U sala K
+DTSTART:20260124T103000Z
+SUMMARY:Zarządzanie projektami (konwersatorium)
+UID:abf891f8-6870-4904-a28f-94cd31979598@abf8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Piotr Zając
+DTEND:20251122T124500Z
+DTSTART:20251122T103000Z
+SUMMARY:Planowanie zasobów ludzkich (Przeniesienie zajęć)
+UID:d46a2eb2-b9c6-4cca-baea-a98a383aa586@d46a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Szklarska
+DTEND:20260118T100000Z
+LOCATION:Paw.S sala 3
+DTSTART:20260118T074500Z
+SUMMARY:Matematyka w zarządzaniu - powtarzanie przedmiotu (ćwiczenia)
+UID:e88aa00c-2078-4801-8def-6adb95e9149b@e88a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bogusz Mikuła
+DTEND:20251011T090000Z
+DTSTART:20251011T064500Z
+SUMMARY:Zarządzanie wiedzą (wykład)
+UID:667be18c-feef-4e84-a031-e0ee593449b7@667b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Urban Pauli
+DTEND:20251010T174500Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20251010T144500Z
+SUMMARY:Struktury organizacyjne (konwersatorium)
+UID:dfb573e8-c05a-40ed-ae46-e75539203e3a@dfb5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Szklarska
+DTEND:20251019T151500Z
+DTSTART:20251019T130000Z
+SUMMARY:Matematyka w zarządzaniu - powtarzanie przedmiotu (wykład)
+UID:39ac1e82-cd33-42dd-a51c-6ba144430beb@39ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Kamila Kwiatkowska
+DTEND:20251129T114500Z
+LOCATION:Paw.U sala K
+DTSTART:20251129T093000Z
+SUMMARY:Zarządzanie procesami (konwersatorium)
+UID:77283d3e-9c98-4ddd-83c1-72be71fd98b2@7728.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Piotr Zając
+DTEND:20251019T114500Z
+DTSTART:20251019T093000Z
+SUMMARY:Rynek pracy (wykład)
+UID:033cc16e-7ba9-4521-805c-3851741b3b29@033c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20251213T161500Z
+LOCATION:Paw.U sala N
+DTSTART:20251213T140000Z
+SUMMARY:Wirtualizacja pracy (konwersatorium)
+UID:45c5b216-a65c-4b4b-a225-ca0d6c8c273c@45c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Maria Foryś
+DTEND:20260117T124500Z
+LOCATION:L Paw.A 401
+DTSTART:20260117T103000Z
+SUMMARY:Podstawy socjologii i psychologii pracy (ćwiczenia)
+UID:2cd345ba-52e5-41ce-9c7e-811b83869b4e@2cd3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Kamila Kwiatkowska
+DTEND:20251025T090000Z
+LOCATION:Paw.U sala K
+DTSTART:20251025T064500Z
+SUMMARY:Zarządzanie procesami (konwersatorium)
+UID:bc1f2f8a-09c1-4556-b011-c3e56c275e7d@bc1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Piotr Zając
+DTEND:20251115T161500Z
+DTSTART:20251115T140000Z
+SUMMARY:Rynek pracy (Przeniesienie zajęć)
+UID:3e8dd8ce-be64-4f0a-a782-4968f66bf001@3e8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20251207T161500Z
+LOCATION:Paw.U sala O
+DTSTART:20251207T140000Z
+SUMMARY:Wirtualizacja pracy (konwersatorium)
+UID:26c30485-b5ae-48a5-b196-28ed8b6ae399@26c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Małgorzata Zakrzewska
+DTEND:20251213T184500Z
+LOCATION:Paw.U sala K
+DTSTART:20251213T163000Z
+SUMMARY:Zarządzanie projektami (konwersatorium)
+UID:1629e87b-6a31-46d9-a17f-e1c0d695b4e9@1629.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Piotr Zając
+DTEND:20260110T174500Z
+LOCATION:Paw.E sala J
+DTSTART:20260110T144500Z
+SUMMARY:Planowanie zasobów ludzkich (konwersatorium)
+UID:bfa9bff4-8ba2-4bb2-bc7c-1645971d19e5@bfa9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20251018T114500Z
+LOCATION:Paw.U sala O
+DTSTART:20251018T093000Z
+SUMMARY:Wirtualizacja pracy (konwersatorium)
+UID:a445af4f-a561-4fb9-b1c0-4753a30352a9@a445.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Małgorzata Zakrzewska
+DTEND:20251129T143000Z
+LOCATION:Paw.U sala K
+DTSTART:20251129T121500Z
+SUMMARY:Zarządzanie projektami (konwersatorium)
+UID:2cc6a88e-1e91-45dd-af66-0fcd6cc7ee33@2cc6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Maria Foryś
+DTEND:20251207T100000Z
+LOCATION:L Paw.A 401
+DTSTART:20251207T074500Z
+SUMMARY:Podstawy socjologii i psychologii pracy (ćwiczenia)
+UID:08156c95-8357-4eb5-9cb1-833d070dafcc@0815.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Pawlak
+DTEND:20260131T134500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260131T121500Z
+SUMMARY:Podstawy socjologii i psychologii pracy (egzamin)
+UID:cef3339d-0677-4032-9cb0-d2d38f7893d1@cef3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Szklarska
+DTEND:20251115T151500Z
+LOCATION:Paw.S sala 3
+DTSTART:20251115T130000Z
+SUMMARY:Matematyka w zarządzaniu - powtarzanie przedmiotu (ćwiczenia)
+UID:ed09a0bd-c3f3-4c54-ab89-13d9e42f4083@ed09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Kamila Kwiatkowska
+DTEND:20251115T100000Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20251115T074500Z
+SUMMARY:Zarządzanie procesami (konwersatorium)
+UID:e89a99c5-394c-40c3-8536-90824d35c242@e89a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20260117T161500Z
+LOCATION:Paw.U sala M
+DTSTART:20260117T140000Z
+SUMMARY:Wirtualizacja pracy (konwersatorium)
+UID:806eb0d6-9bf4-43cf-abdf-77c3a533f15d@806e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20251025T114500Z
+DTSTART:20251025T093000Z
+SUMMARY:Wirtualizacja pracy (konwersatorium zdalne)
+UID:842642dc-a205-4797-a92e-fa6e19ccef0a@8426.org
 END:VEVENT
 END:VCALENDAR
