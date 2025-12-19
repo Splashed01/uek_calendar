@@ -2,76 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grażyna Sordyl
-DTEND:20251211T134500Z
-LOCATION:Paw.F 516
-DTSTART:20251211T121500Z
-SUMMARY:Podstawy ubezpieczeń (wykład)
-UID:de9fcd1a-27b2-4f98-a8c8-91b6664ca0f7@de9f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
-DTEND:20251211T161500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251211T140000Z
-SUMMARY:Nienadzorowane uczenie statystyczne (laboratorium)
-UID:220151a0-d4ba-4155-b963-a49e6d571064@2201.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
-DTEND:20260122T161500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260122T140000Z
-SUMMARY:Nienadzorowane uczenie statystyczne (laboratorium)
-UID:4e48cfb7-469f-4963-abb7-804a6a0e242e@4e48.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grażyna Sordyl
-DTEND:20251106T120000Z
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20251016T180000Z
 LOCATION:Paw.B 251
-DTSTART:20251106T103000Z
-SUMMARY:Podstawy ubezpieczeń (ćwiczenia)
-UID:2d025740-da9f-4bcb-ab96-2ad5d1ebcd2a@2d02.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Barbara Grabińska
-DTEND:20251124T153000Z
-LOCATION:Paw.S sala 7
-DTSTART:20251124T140000Z
-SUMMARY:Podstawy finansów (wykład)
-UID:03f75bd5-651b-45b0-815d-9640b7769120@03f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
-DTEND:20251119T120000Z
-LOCATION:Paw.U sala M
-DTSTART:20251119T103000Z
-SUMMARY:Podstawy rachunkowości (ćwiczenia do wyboru)
-UID:ef38fa67-c666-42a4-bac7-5c11800621b5@ef38.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
-DTEND:20260121T083000Z
-LOCATION:Paw.U sala M
-DTSTART:20260121T074500Z
-SUMMARY:Podstawy rachunkowości (ćwiczenia do wyboru)
-UID:f274a62c-1428-4f09-a306-8cd879a73343@f274.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Katarzyna Stawiarska
-DTEND:20251022T161500Z
-LOCATION:Paw.F 307
-DTSTART:20251022T144500Z
-SUMMARY:Podstawy finansów (ćwiczenia)
-UID:b266d08a-d2d1-47ce-893c-7cff4e14e55e@b266.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grażyna Sordyl
-DTEND:20260109T134500Z
-LOCATION:Paw.F 717
-DTSTART:20260109T121500Z
-SUMMARY:Podstawy ubezpieczeń (wykład)
-UID:c60a2c46-29be-45a6-9f35-0f6318e59c5d@c60a.org
+DTSTART:20251016T163000Z
+SUMMARY:Wizualizacja danych (laboratorium)
+UID:c820c9a6-8842-4282-a104-a263a336f599@c820.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
@@ -79,703 +15,7 @@ DTEND:20251212T120000Z
 LOCATION:Paw.S sala 8
 DTSTART:20251212T103000Z
 SUMMARY:Podstawy rachunkowości (wykład do wyboru)
-UID:9888f16f-f0e6-4444-862e-76c5c9470da3@9888.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Wójcik
-DTEND:20260120T130000Z
-LOCATION:Bibl.425
-DTSTART:20260120T121500Z
-SUMMARY:Advanced Excel (laboratorium)
-UID:b8346a7e-0232-4c46-9993-7ec3070212ff@b834.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Katarzyna Stawiarska
-DTEND:20260121T163000Z
-LOCATION:Paw.F 307
-DTSTART:20260121T154500Z
-SUMMARY:Podstawy finansów (ćwiczenia)
-UID:2e7e3883-a2c5-4bf2-935d-cffa393e91ea@2e7e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Barbara Grabińska
-DTEND:20260126T120000Z
-LOCATION:Paw.S sala 6
-DTSTART:20260126T103000Z
-SUMMARY: (egzamin)
-UID:d99e8e21-ef71-4a75-9380-997782d1f15d@d99e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
-DTEND:20251022T110000Z
-LOCATION:Paw.U sala M
-DTSTART:20251022T093000Z
-SUMMARY:Podstawy rachunkowości (ćwiczenia do wyboru)
-UID:fb839f80-8499-4fa6-af41-dc8aea03c217@fb83.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
-DTEND:20251008T110000Z
-LOCATION:Paw.U sala M
-DTSTART:20251008T093000Z
-SUMMARY:Podstawy rachunkowości (ćwiczenia do wyboru)
-UID:24eabb20-b3de-428c-b17e-403c13625b34@24ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
-DTEND:20260121T194500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260121T173000Z
-SUMMARY:Nienadzorowane uczenie statystyczne (laboratorium)
-UID:7d05af73-423b-4e94-a580-24d4c6f9a430@7d05.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Katarzyna Stawiarska
-DTEND:20251105T171500Z
-LOCATION:Paw.F 307
-DTSTART:20251105T154500Z
-SUMMARY:Podstawy finansów (ćwiczenia)
-UID:81fa6e4d-eedf-4dec-a7df-ddae2747c66a@81fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
-DTEND:20251127T161500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251127T140000Z
-SUMMARY:Nienadzorowane uczenie statystyczne (laboratorium)
-UID:44be98c0-487a-4b2a-9426-e58b0b434f31@44be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Baran
-DTEND:20251202T083000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20251202T070000Z
-SUMMARY:GitHub\,czyli wprowadzenie do systemów kontroli wersji\,zarz. projek. (konwersatorium)
-UID:2fee7957-043b-42a7-a47b-a9c39e032d8a@2fee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Katarzyna Stawiarska
-DTEND:20251119T171500Z
-LOCATION:Paw.F 307
-DTSTART:20251119T154500Z
-SUMMARY:Podstawy finansów (ćwiczenia)
-UID:51cf932b-4b4e-471e-9241-7080ea95b72a@51cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grażyna Sordyl
-DTEND:20260116T120000Z
-LOCATION:Bud.gł. Stara Aula
-DTSTART:20260116T103000Z
-SUMMARY:Podstawy ubezpieczeń (wykład)
-UID:c009c4e6-b1e0-4298-b5a6-2fb6961cb59b@c009.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grażyna Sordyl
-DTEND:20251009T110000Z
-LOCATION:Paw.B 251
-DTSTART:20251009T093000Z
-SUMMARY:Podstawy ubezpieczeń (ćwiczenia)
-UID:e7f492f8-c056-4175-9ac2-ffe100dec5f9@e7f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
-DTEND:20260123T111500Z
-LOCATION:Paw.S sala 8
-DTSTART:20260123T103000Z
-SUMMARY:Podstawy rachunkowości (wykład do wyboru)
-UID:b116b2f4-bc6c-47b9-8e16-ae8c4e2feb5e@b116.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20251126T134500Z
-DTSTART:20251126T121500Z
-SUMMARY:Inżynieria danych (Przeniesienie zajęć)
-UID:39cc5df8-2815-4633-9841-d27ebbeae724@39cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Roman Huptas
-DTEND:20251020T110000Z
-LOCATION:Paw.S sala 7
-DTSTART:20251020T093000Z
-SUMMARY:Wnioskowanie statystyczne (wykład)
-UID:19b46923-8a1e-4799-98f5-2556e12f3310@19b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Roman Huptas
-DTEND:20251208T134500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251208T121500Z
-SUMMARY:Wnioskowanie statystyczne (laboratorium)
-UID:9fd8e57b-b19d-4896-be46-066721459bb2@9fd8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251217T134500Z
-DTSTART:20251217T121500Z
-SUMMARY: (rezerwacja)
-UID:4aa0cf56-b572-41e1-b764-b6534ac99c95@4aa0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
-DTEND:20251008T143000Z
-LOCATION:Paw.C sala A
-DTSTART:20251008T130000Z
-SUMMARY:Nienadzorowane uczenie statystyczne (wykład)
-UID:2c60b1a0-8c11-49ca-b985-c832687d1b9a@2c60.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Baran
-DTEND:20251216T083000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20251216T070000Z
-SUMMARY:GitHub\,czyli wprowadzenie do systemów kontroli wersji\,zarz. projek. (konwersatorium)
-UID:a6bcebb1-857e-4c95-a2a2-57a9c68ab495@a6bc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
-DTEND:20260109T120000Z
-LOCATION:Paw.S sala 8
-DTSTART:20260109T103000Z
-SUMMARY:Podstawy rachunkowości (wykład do wyboru)
-UID:67b4238f-8aa3-45d4-abee-9b4ffbc47a81@67b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Barbara Grabińska
-DTEND:20251222T153000Z
-LOCATION:Paw.S sala 7
-DTSTART:20251222T140000Z
-SUMMARY:Podstawy finansów (wykład)
-UID:db5831b0-8a59-4639-b245-59906c2799a0@db58.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grażyna Sordyl
-DTEND:20251113T134500Z
-LOCATION:Paw.F 516
-DTSTART:20251113T121500Z
-SUMMARY:Podstawy ubezpieczeń (wykład)
-UID:f7ae431a-d6bd-4a8b-b6fa-2a604d225712@f7ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20251113T190000Z
-LOCATION:Paw.B 251
-DTSTART:20251113T173000Z
-SUMMARY:Wizualizacja danych (laboratorium)
-UID:92fe2e13-cc37-4d2f-942a-e0f031907610@92fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Roman Huptas
-DTEND:20251020T124500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251020T111500Z
-SUMMARY:Wnioskowanie statystyczne (laboratorium)
-UID:de5a09cd-eeef-45dc-9395-88d1e0a32b35@de5a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
-DTEND:20251217T083000Z
-LOCATION:Paw.U sala M
-DTSTART:20251217T070000Z
-SUMMARY:Podstawy rachunkowości (ćwiczenia do wyboru)
-UID:ba0f26a1-bf41-4ed9-b259-3a1838049b8a@ba0f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grażyna Sordyl
-DTEND:20260122T130000Z
-LOCATION:Paw.F 516
-DTSTART:20260122T121500Z
-SUMMARY:Podstawy ubezpieczeń (wykład)
-UID:2e4a0a74-7f2b-4e98-882d-711fb20174a5@2e4a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
-DTEND:20260116T161500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260116T140000Z
-SUMMARY:Nienadzorowane uczenie statystyczne (laboratorium)
-UID:661184ff-1759-428c-94f6-471ffc11cc7a@6611.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Roman Huptas
-DTEND:20251103T134500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251103T121500Z
-SUMMARY:Wnioskowanie statystyczne (laboratorium)
-UID:d3950578-1b3f-449d-ac73-4fab3361a2c8@d395.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20251029T134500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251029T121500Z
-SUMMARY:Inżynieria danych (laboratorium)
-UID:41ec2f36-2325-48e1-a7e7-4bf8d8e889d1@41ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
-DTEND:20260204T154500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260204T103000Z
-SUMMARY:Nienadzorowane uczenie statystyczne (egzamin)
-UID:d4ea947f-c264-4d14-91c2-e0806216dcd4@d4ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
-DTEND:20251003T110000Z
-LOCATION:Paw.S sala 8
-DTSTART:20251003T093000Z
-SUMMARY:Podstawy rachunkowości (wykład do wyboru)
-UID:16fa83b0-5ffb-488a-b9f3-8c12a0db3606@16fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Wójcik
-DTEND:20251202T134500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251202T121500Z
-SUMMARY:Advanced Excel (laboratorium)
-UID:fe64a7d8-9b2f-4b20-9250-b16e3f101f7e@fe64.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Roman Huptas
-DTEND:20251124T134500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251124T121500Z
-SUMMARY:Wnioskowanie statystyczne (laboratorium)
-UID:222ebab2-9a9f-4ba3-9f83-5d931af19a58@222e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251016T123000Z
-DTSTART:20251016T093000Z
-SUMMARY: (rezerwacja)
-UID:87a5b8e3-c061-4dc7-8a3a-fdba4baf6807@87a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Katarzyna Stawiarska
-DTEND:20260114T171500Z
-LOCATION:Paw.F 307
-DTSTART:20260114T154500Z
-SUMMARY:Podstawy finansów (ćwiczenia)
-UID:ec492195-c7e8-4147-86ad-831bb7dab0be@ec49.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20251009T180000Z
-LOCATION:Paw.B 251
-DTSTART:20251009T163000Z
-SUMMARY:Wizualizacja danych (laboratorium)
-UID:84ed07f5-604f-45b8-8b64-24c57adcd5be@84ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Katarzyna Stawiarska
-DTEND:20251008T161500Z
-LOCATION:Paw.F 307
-DTSTART:20251008T144500Z
-SUMMARY:Podstawy finansów (ćwiczenia)
-UID:9b20091c-4560-4305-b5ab-213b23defeea@9b20.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20251015T124500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251015T111500Z
-SUMMARY:Inżynieria danych (laboratorium)
-UID:3f1b80b7-bb75-45c0-a2df-55cb25d77ba1@3f1b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Barbara Grabińska
-DTEND:20251117T120000Z
-LOCATION:Paw.S sala 7
-DTSTART:20251117T103000Z
-SUMMARY:Podstawy finansów (wykład)
-UID:b874fa9c-2e3e-4016-a0f2-7afa7026ed19@b874.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Wójcik
-DTEND:20251118T134500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251118T121500Z
-SUMMARY:Advanced Excel (laboratorium)
-UID:cc4a1078-c233-4fbe-a7f9-8cb03d9c3bb9@cc4a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
-DTEND:20251217T120000Z
-DTSTART:20251217T103000Z
-SUMMARY:Podstawy rachunkowości (Przeniesienie zajęć)
-UID:fb99599b-ea3a-4b9d-82c0-a15e3a9cf57e@fb99.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grażyna Sordyl
-DTEND:20251204T120000Z
-LOCATION:Paw.B 251
-DTSTART:20251204T103000Z
-SUMMARY:Podstawy ubezpieczeń (ćwiczenia)
-UID:0928eb57-23f8-4cc4-b9dc-ea677ec3fe68@0928.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Roman Huptas
-DTEND:20251117T134500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251117T121500Z
-SUMMARY:Wnioskowanie statystyczne (laboratorium)
-UID:4539fe8b-f9d3-42f3-a395-d0402fefe682@4539.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grażyna Sordyl
-DTEND:20260115T120000Z
-LOCATION:.
-DTSTART:20260115T103000Z
-SUMMARY:Podstawy ubezpieczeń (ćwiczenia)
-UID:7bab8450-2f75-4b2b-ba0c-8e1131e74ba2@7bab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
-DTEND:20251218T161500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251218T140000Z
-SUMMARY:Nienadzorowane uczenie statystyczne (laboratorium)
-UID:8204edd8-9ee8-45f9-b3f0-f203d32c1bac@8204.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Baran
-DTEND:20251125T083000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20251125T070000Z
-SUMMARY:GitHub\,czyli wprowadzenie do systemów kontroli wersji\,zarz. projek. (konwersatorium)
-UID:28bd2267-a367-4d14-b3e2-1dc2a86b0384@28bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
-DTEND:20251204T161500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251204T140000Z
-SUMMARY:Nienadzorowane uczenie statystyczne (laboratorium)
-UID:f48a5a6c-680f-4e40-83e9-6d56ae13734b@f48a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
-DTEND:20260121T153000Z
-LOCATION:Bibl. 443
-DTSTART:20260121T144500Z
-SUMMARY:Nienadzorowane uczenie statystyczne (wykład)
-UID:7c3941fd-17ad-4554-bc24-051f0e79a70a@7c39.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Roman Huptas
-DTEND:20260108T083000Z
-LOCATION:Paw.C sala A
-DTSTART:20260108T070000Z
-SUMMARY:Wnioskowanie statystyczne (wykład)
-UID:75e1a71b-a6e5-4594-9445-5b1e317f0e8e@75e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
-DTEND:20251017T124500Z
-DTSTART:20251017T111500Z
-SUMMARY:Nienadzorowane uczenie statystyczne (Przeniesienie zajęć)
-UID:1caf6f7f-b99c-4a8c-8ff7-43b108e53b37@1caf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Roman Huptas
-DTEND:20251013T110000Z
-LOCATION:Paw.B 251
-DTSTART:20251013T093000Z
-SUMMARY:Wnioskowanie statystyczne (wykład)
-UID:754219e4-704f-4c52-94ae-ee159d2e1eaf@7542.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Baran
-DTEND:20251028T083000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20251028T070000Z
-SUMMARY:GitHub\,czyli wprowadzenie do systemów kontroli wersji\,zarz. projek. (konwersatorium)
-UID:1da0e82c-b9c2-46a9-a98b-6d84783fd9b0@1da0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Roman Huptas
-DTEND:20251027T134500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251027T121500Z
-SUMMARY:Wnioskowanie statystyczne (laboratorium)
-UID:6d6454f2-95b3-42e4-8a65-6b3a912d956e@6d64.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Wójcik
-DTEND:20251007T124500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251007T111500Z
-SUMMARY:Advanced Excel (laboratorium)
-UID:ef5387ee-cbc0-4490-8891-06941f534d93@ef53.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
-DTEND:20251119T153000Z
-LOCATION:Paw.C sala A
-DTSTART:20251119T140000Z
-SUMMARY:Nienadzorowane uczenie statystyczne (wykład)
-UID:f9da6840-d250-48b5-9677-9b1b9c15b3f9@f9da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Wójcik
-DTEND:20251021T124500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251021T111500Z
-SUMMARY:Advanced Excel (laboratorium)
-UID:888ae646-9abd-456c-9fb1-af356309f463@888a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Roman Huptas
-DTEND:20260119T083000Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20260119T070000Z
-SUMMARY:Wnioskowanie statystyczne (laboratorium)
-UID:241ce956-7a0a-47a9-8f03-5905168eb362@241c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grażyna Sordyl
-DTEND:20260122T134500Z
-LOCATION:Paw.B 251
-DTSTART:20260122T130000Z
-SUMMARY:Podstawy ubezpieczeń (ćwiczenia)
-UID:ace7f329-891d-4cd5-9e29-3c81490a90fb@ace7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Baran
-DTEND:20260109T083000Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260109T070000Z
-SUMMARY:GitHub\,czyli wprowadzenie do systemów kontroli wersji\,zarz. projek. (konwersatorium)
-UID:249a3a7b-f754-4e05-8b98-a524ad97c14a@249a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20251030T190000Z
-LOCATION:Paw.B 251
-DTSTART:20251030T173000Z
-SUMMARY:Wizualizacja danych (laboratorium)
-UID:ba699811-2b55-44d5-9782-db688c8afe3b@ba69.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
-DTEND:20260114T120000Z
-LOCATION:Paw.U sala M
-DTSTART:20260114T103000Z
-SUMMARY:Podstawy rachunkowości (ćwiczenia do wyboru)
-UID:2410ad78-7ed9-426d-8c6f-ad0ca775d21e@2410.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Roman Huptas
-DTEND:20260112T083000Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20260112T070000Z
-SUMMARY:Wnioskowanie statystyczne (laboratorium)
-UID:8cf58e0a-7c9f-4387-bc94-5a4f8a8108b8@8cf5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Roman Huptas
-DTEND:20251215T134500Z
-DTSTART:20251215T121500Z
-SUMMARY:Wnioskowanie statystyczne (Przeniesienie zajęć)
-UID:86a294d6-89bd-4d9a-93a0-4ff66cb4f5a9@86a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Baran
-DTEND:20251216T120000Z
-LOCATION:Paw.U sala S(Kat.Opak.)
-DTSTART:20251216T103000Z
-SUMMARY:GitHub\,czyli wprowadzenie do systemów kontroli wersji\,zarz. projek. (konwersatorium)
-UID:bdb1c00a-cd07-4e5e-8c06-9d4148b07d94@bdb1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
-DTEND:20251120T161500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251120T140000Z
-SUMMARY:Nienadzorowane uczenie statystyczne (laboratorium)
-UID:1fc61726-bb6f-4bc7-9a5d-2fd2dd4a296f@1fc6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Roman Huptas
-DTEND:20251117T083000Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20251117T070000Z
-SUMMARY:Wnioskowanie statystyczne (laboratorium)
-UID:15b14d1e-4b8b-44ac-a0c3-fb8c37c00909@15b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Baran
-DTEND:20251118T120000Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20251118T103000Z
-SUMMARY:GitHub\,czyli wprowadzenie do systemów kontroli wersji\,zarz. projek. (konwersatorium)
-UID:adbedfec-7df8-4380-bf6c-baba13b51f92@adbe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Roman Huptas
-DTEND:20260119T111500Z
-LOCATION:Paw.B 251
-DTSTART:20260119T103000Z
-SUMMARY:Wnioskowanie statystyczne (wykład)
-UID:1def8a48-5a29-42e3-89b5-7a95f6596f1f@1def.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Baran
-DTEND:20251209T083000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20251209T070000Z
-SUMMARY:GitHub\,czyli wprowadzenie do systemów kontroli wersji\,zarz. projek. (konwersatorium)
-UID:d7ca235e-5c89-46e6-aab6-834bfbb7babc@d7ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20251210T134500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251210T121500Z
-SUMMARY:Inżynieria danych (laboratorium)
-UID:3ac5728f-2f4b-4f37-b521-a455f8a37bae@3ac5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Barbara Grabińska
-DTEND:20260112T120000Z
-LOCATION:Paw.S sala 7
-DTSTART:20260112T103000Z
-SUMMARY:Podstawy finansów (wykład)
-UID:ccd988d0-92ea-4704-95aa-14f1c9934118@ccd9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20251106T190000Z
-LOCATION:Paw.B 251
-DTSTART:20251106T173000Z
-SUMMARY:Wizualizacja danych (laboratorium)
-UID:49b2dd2a-e080-41d9-880d-0ca8f34d4d07@49b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Barbara Grabińska
-DTEND:20260119T144500Z
-LOCATION:Paw.S sala 7
-DTSTART:20260119T140000Z
-SUMMARY:Podstawy finansów (wykład)
-UID:ca86bce6-e6bd-4feb-926d-2cbc5e3e8820@ca86.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Baran
-DTEND:20251021T073000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20251021T060000Z
-SUMMARY:GitHub\,czyli wprowadzenie do systemów kontroli wersji\,zarz. projek. (konwersatorium)
-UID:2fd022e5-afc9-4d73-879b-7bd145084141@2fd0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grażyna Sordyl
-DTEND:20251120T120000Z
-LOCATION:Paw.B 251
-DTSTART:20251120T103000Z
-SUMMARY:Podstawy ubezpieczeń (ćwiczenia)
-UID:7d58aa2b-75e8-44cb-99e4-ead899a31ef6@7d58.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Baran
-DTEND:20251104T083000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20251104T070000Z
-SUMMARY:GitHub\,czyli wprowadzenie do systemów kontroli wersji\,zarz. projek. (konwersatorium)
-UID:111095c7-4ed1-4b06-9555-d419784237b8@1110.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
-DTEND:20251203T153000Z
-LOCATION:Paw.C sala A
-DTSTART:20251203T140000Z
-SUMMARY:Nienadzorowane uczenie statystyczne (wykład)
-UID:ef05f7f6-994f-4a31-bacb-15f1ea0b8b5d@ef05.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
-DTEND:20251112T120000Z
-LOCATION:Paw.B 058 (KSB)
-DTSTART:20251112T103000Z
-SUMMARY:Podstawy rachunkowości (ćwiczenia do wyboru)
-UID:57607a6f-d972-43a4-8c77-1c406247fb85@5760.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Baran
-DTEND:20251118T083000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20251118T070000Z
-SUMMARY:GitHub\,czyli wprowadzenie do systemów kontroli wersji\,zarz. projek. (konwersatorium)
-UID:16c1b6f8-f5ce-4421-9b34-27a639758a68@16c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Roman Huptas
-DTEND:20251215T083000Z
-DTSTART:20251215T070000Z
-SUMMARY:Wnioskowanie statystyczne (Przeniesienie zajęć)
-UID:b280bf3f-234f-416b-a6a6-be07bfa2e716@b280.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
-DTEND:20251128T120000Z
-LOCATION:Paw.S sala 8
-DTSTART:20251128T103000Z
-SUMMARY:Podstawy rachunkowości (wykład do wyboru)
-UID:a5717fcc-a748-457d-8ba4-827380b81943@a571.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Baran
-DTEND:20251209T120000Z
-LOCATION:Paw.B 059 (KSB)
-DTSTART:20251209T103000Z
-SUMMARY:GitHub\,czyli wprowadzenie do systemów kontroli wersji\,zarz. projek. (konwersatorium)
-UID:cf7b6d91-34c9-407d-970f-4ff713aa8b70@cf7b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
-DTEND:20251105T153000Z
-LOCATION:Paw.C sala A
-DTSTART:20251105T140000Z
-SUMMARY:Nienadzorowane uczenie statystyczne (wykład)
-UID:73e6c179-acad-4dba-b618-3a16f1e9959c@73e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grażyna Sordyl
-DTEND:20251127T134500Z
-LOCATION:Paw.F 516
-DTSTART:20251127T121500Z
-SUMMARY:Podstawy ubezpieczeń (wykład)
-UID:7877407a-26f0-496a-939f-0c67187fd163@7877.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
-DTEND:20251106T161500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251106T140000Z
-SUMMARY:Nienadzorowane uczenie statystyczne (laboratorium)
-UID:026ce80a-10de-4d11-b41e-ea537b262213@026c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grażyna Sordyl
-DTEND:20251002T124500Z
-DTSTART:20251002T111500Z
-SUMMARY:Podstawy ubezpieczeń (Przeniesienie zajęć)
-UID:fa175acc-bc44-49ca-a030-420e71ee49c6@fa17.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grażyna Sordyl
-DTEND:20251023T110000Z
-LOCATION:Paw.B 251
-DTSTART:20251023T093000Z
-SUMMARY:Podstawy ubezpieczeń (ćwiczenia)
-UID:131cd7ba-efd4-4e90-81a7-cdc5e317a300@131c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Roman Huptas
-DTEND:20260202T114500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20260202T084500Z
-SUMMARY: (egzamin)
-UID:dbade073-7e4c-4f00-ac0e-ee9c7771f0e6@dbad.org
+UID:fe80f717-4537-4f63-9bdc-e8743a863fc8@fe80.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Roman Huptas
@@ -783,214 +23,7 @@ DTEND:20251222T134500Z
 LOCATION:Paw.A 301a lab.Win10\, Office21
 DTSTART:20251222T121500Z
 SUMMARY:Wnioskowanie statystyczne (laboratorium)
-UID:fc20617e-8f11-4b85-90cd-e8a843368487@fc20.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
-DTEND:20251114T120000Z
-LOCATION:Paw.S sala 8
-DTSTART:20251114T103000Z
-SUMMARY:Podstawy rachunkowości (wykład do wyboru)
-UID:704fc7b0-2d8f-4153-9a65-e6d0496114fc@704f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
-DTEND:20260108T161500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260108T140000Z
-SUMMARY:Nienadzorowane uczenie statystyczne (laboratorium)
-UID:27c78219-ea2d-4f0b-9f77-7ac198bc1d34@27c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
-DTEND:20251031T120000Z
-DTSTART:20251031T103000Z
-SUMMARY:Podstawy rachunkowości (wykład do wyboru)
-UID:b681c2af-4a66-4533-bc0b-2bab2a75f7cc@b681.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
-DTEND:20260115T161500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260115T140000Z
-SUMMARY:Nienadzorowane uczenie statystyczne (laboratorium)
-UID:1f80ca99-7c3d-42a2-9f1c-b801b52ba6af@1f80.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Wójcik
-DTEND:20260113T134500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260113T121500Z
-SUMMARY:Advanced Excel (laboratorium)
-UID:c295efe0-592e-4f3c-8c6b-234f5dfa3e03@c295.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Roman Huptas
-DTEND:20251201T134500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251201T121500Z
-SUMMARY:Wnioskowanie statystyczne (laboratorium)
-UID:da12cc6e-311b-4d65-a122-ce9e69057a14@da12.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grażyna Sordyl
-DTEND:20251030T134500Z
-LOCATION:Paw.F 516
-DTSTART:20251030T121500Z
-SUMMARY:Podstawy ubezpieczeń (wykład)
-UID:d24d5119-85f0-4218-9151-bdaf77e04a6c@d24d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20251016T180000Z
-LOCATION:Paw.B 251
-DTSTART:20251016T163000Z
-SUMMARY:Wizualizacja danych (laboratorium)
-UID:20bf203f-9798-4fc7-913d-e54dd312bea7@20bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Katarzyna Stawiarska
-DTEND:20251217T171500Z
-LOCATION:Paw.F 307
-DTSTART:20251217T154500Z
-SUMMARY:Podstawy finansów (ćwiczenia)
-UID:3098d993-9ac6-4c59-9925-2c01e1cc771b@3098.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
-DTEND:20260114T153000Z
-LOCATION:Paw.C sala A
-DTSTART:20260114T140000Z
-SUMMARY:Nienadzorowane uczenie statystyczne (wykład)
-UID:585619c8-66ed-4ed5-950d-ca4449650348@5856.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20260107T134500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260107T121500Z
-SUMMARY:Inżynieria danych (laboratorium)
-UID:a2ba48d9-7f39-4d39-874a-030e12b1a063@a2ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Roman Huptas
-DTEND:20260112T134500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260112T121500Z
-SUMMARY:Wnioskowanie statystyczne (laboratorium)
-UID:e7c4fd6b-0b58-4438-ab2e-613322fa1bbe@e7c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Katarzyna Stawiarska
-DTEND:20251203T171500Z
-LOCATION:Paw.F 307
-DTSTART:20251203T154500Z
-SUMMARY:Podstawy finansów (ćwiczenia)
-UID:d0d8cd5d-9a94-408d-8565-ab541a7ab418@d0d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Baran
-DTEND:20251007T073000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20251007T060000Z
-SUMMARY:GitHub\,czyli wprowadzenie do systemów kontroli wersji\,zarz. projek. (konwersatorium)
-UID:081d63f1-bf4b-4a98-80b2-e2baad7ab2ae@081d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Roman Huptas
-DTEND:20251103T120000Z
-LOCATION:Paw.C sala A
-DTSTART:20251103T103000Z
-SUMMARY:Wnioskowanie statystyczne (wykład)
-UID:777597b2-73b8-415e-a89a-55cb08e7d583@7775.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20251120T190000Z
-LOCATION:Paw.B 251
-DTSTART:20251120T173000Z
-SUMMARY:Wizualizacja danych (laboratorium)
-UID:abdf48c6-65d9-4468-a4b8-4e8adb88e58e@abdf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20251204T190000Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20251204T173000Z
-SUMMARY:Inżynieria danych (laboratorium)
-UID:54034723-4c30-4275-8b41-c148e9b0c9eb@5403.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Roman Huptas
-DTEND:20251027T120000Z
-LOCATION:Paw.B 251
-DTSTART:20251027T103000Z
-SUMMARY:Wnioskowanie statystyczne (wykład)
-UID:bdccd942-df53-4abe-91d8-ecfa580a4fba@bdcc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20251001T124500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251001T111500Z
-SUMMARY:Inżynieria danych (laboratorium)
-UID:6a9d615e-ab8f-494f-b1b9-9e813e4f4931@6a9d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Barbara Grabińska
-DTEND:20251002T143000Z
-LOCATION:Paw.S sala 7
-DTSTART:20251002T130000Z
-SUMMARY:Podstawy finansów (wykład)
-UID:0c82ab0e-5ffa-45b4-aaca-a38f6d728791@0c82.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
-DTEND:20251203T120000Z
-LOCATION:Paw.U sala M
-DTSTART:20251203T103000Z
-SUMMARY:Podstawy rachunkowości (ćwiczenia do wyboru)
-UID:03b63007-870d-41be-a098-19e6536be4a2@03b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grażyna Sordyl
-DTEND:20260108T134500Z
-LOCATION:Paw.F 516
-DTSTART:20260108T121500Z
-SUMMARY:Podstawy ubezpieczeń (wykład)
-UID:80329f2a-5843-407a-93ca-39a208433e44@8032.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
-DTEND:20251010T110000Z
-LOCATION:Paw.U sala O
-DTSTART:20251010T093000Z
-SUMMARY:Podstawy rachunkowości (wykład do wyboru)
-UID:bd0e571f-025a-48e4-9b1c-eccf51644e84@bd0e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Wójcik
-DTEND:20251104T134500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251104T121500Z
-SUMMARY:Advanced Excel (laboratorium)
-UID:612b56e0-54cb-4285-9219-5e9327c86fc0@612b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Baran
-DTEND:20251202T120000Z
-LOCATION:Paw.B 052 (KSB)
-DTSTART:20251202T103000Z
-SUMMARY:GitHub\,czyli wprowadzenie do systemów kontroli wersji\,zarz. projek. (konwersatorium)
-UID:b53918d6-6b3e-4156-a11d-24c0e93075b3@b539.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Barbara Grabińska
-DTEND:20251027T153000Z
-LOCATION:Paw.S sala 7
-DTSTART:20251027T140000Z
-SUMMARY:Podstawy finansów (wykład)
-UID:3f780fa7-287f-4b75-a6ec-74b0e56577ac@3f78.org
+UID:263e4e23-1755-48e5-90ca-cb45a1c71359@263e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
@@ -998,142 +31,148 @@ DTEND:20251030T161500Z
 LOCATION:Paw.A 301a lab.Win10\, Office21
 DTSTART:20251030T140000Z
 SUMMARY:Nienadzorowane uczenie statystyczne (laboratorium)
-UID:fe96ae0a-d7df-436d-98d1-0a20f368d7a6@fe96.org
+UID:3bf3f7ac-61d3-40e5-89ea-ff14d8c5eeea@3bf3.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Roman Huptas
-DTEND:20251201T120000Z
-LOCATION:Paw.S sala 7
-DTSTART:20251201T103000Z
-SUMMARY:Wnioskowanie statystyczne (wykład)
-UID:376f5c20-bbfa-4428-9978-c39fc64db838@376f.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
+DTEND:20251218T161500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251218T140000Z
+SUMMARY:Nienadzorowane uczenie statystyczne (laboratorium)
+UID:a40138a9-8d00-4813-bc19-018c1d045abf@a401.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20260121T134500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260121T130000Z
-SUMMARY:Inżynieria danych (laboratorium)
-UID:6684b744-87db-4b1d-a004-96488d077e47@6684.org
+DTEND:20251126T134500Z
+DTSTART:20251126T121500Z
+SUMMARY:Inżynieria danych (Przeniesienie zajęć)
+UID:526bfd12-75ed-4df4-8763-bb6b1c543883@526b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
-DTEND:20251217T153000Z
-LOCATION:Paw.C sala A
-DTSTART:20251217T140000Z
-SUMMARY:Nienadzorowane uczenie statystyczne (wykład)
-UID:5872dcbb-15a1-49ea-b2cc-969652e9322f@5872.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
-DTEND:20251009T151500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251009T130000Z
-SUMMARY:Nienadzorowane uczenie statystyczne (laboratorium)
-UID:43a05bcd-6016-4dd3-b3d8-b76055bc2315@43a0.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
+DTEND:20251114T120000Z
+LOCATION:Paw.S sala 8
+DTSTART:20251114T103000Z
+SUMMARY:Podstawy rachunkowości (wykład do wyboru)
+UID:6f370e8c-8d12-4499-b0a2-10515c816ca9@6f37.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Sebastian Baran
-DTEND:20251014T073000Z
+DTEND:20251007T073000Z
 LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20251014T060000Z
+DTSTART:20251007T060000Z
 SUMMARY:GitHub\,czyli wprowadzenie do systemów kontroli wersji\,zarz. projek. (konwersatorium)
-UID:6be7e44f-1f38-4788-97f7-117c542ede00@6be7.org
+UID:ba630b41-c82c-4bc0-97f6-6aba4c35ad37@ba63.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20251023T180000Z
+DTEND:20251106T190000Z
 LOCATION:Paw.B 251
-DTSTART:20251023T163000Z
+DTSTART:20251106T173000Z
 SUMMARY:Wizualizacja danych (laboratorium)
-UID:63c77cbd-c64e-4271-a39b-5e9b26f26004@63c7.org
+UID:def73a30-0571-42dd-a78a-3440498d39e2@def7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
-DTEND:20251113T161500Z
+DTEND:20251204T161500Z
 LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251113T140000Z
+DTSTART:20251204T140000Z
 SUMMARY:Nienadzorowane uczenie statystyczne (laboratorium)
-UID:cd1ba89e-9684-4c8e-a179-bb4d8c4369ab@cd1b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
-DTEND:20251209T161500Z
-LOCATION:link do zajęć
-DTSTART:20251209T140000Z
-SUMMARY:Nienadzorowane uczenie statystyczne (laboratorium zdalne)
-UID:5630612c-8353-4d12-8151-f9706ae68f23@5630.org
+UID:6ac99bae-f80d-4445-af51-922440c160ce@6ac9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Grażyna Sordyl
-DTEND:20251218T120000Z
+DTEND:20251120T120000Z
 LOCATION:Paw.B 251
-DTSTART:20251218T103000Z
+DTSTART:20251120T103000Z
 SUMMARY:Podstawy ubezpieczeń (ćwiczenia)
-UID:adb71ade-78ba-4255-8c3e-733dbf95208d@adb7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Wójcik
-DTEND:20251216T134500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251216T121500Z
-SUMMARY:Advanced Excel (laboratorium)
-UID:b31de7dd-eb39-469d-a6cd-7947c688173d@b31d.org
+UID:a7acd31d-829d-45ac-96f5-f2b00c3ac0f2@a7ac.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20251127T181500Z
+DTEND:20251113T190000Z
 LOCATION:Paw.B 251
-DTSTART:20251127T173000Z
+DTSTART:20251113T173000Z
 SUMMARY:Wizualizacja danych (laboratorium)
-UID:0bacabde-d949-4430-97c4-059111ead63e@0bac.org
+UID:be5e8d60-2dcf-4820-9c04-f0aa1ef7095c@be5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
+DTEND:20251119T153000Z
+LOCATION:Paw.C sala A
+DTSTART:20251119T140000Z
+SUMMARY:Nienadzorowane uczenie statystyczne (wykład)
+UID:45b4d2e4-e988-431b-9d46-1f8b55f32bb5@45b4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Roman Huptas
-DTEND:20251124T120000Z
-LOCATION:Paw.B 251
-DTSTART:20251124T103000Z
-SUMMARY:Wnioskowanie statystyczne (wykład)
-UID:6616c4cb-c24e-42f6-81ff-d25527547691@6616.org
+DTEND:20251215T083000Z
+DTSTART:20251215T070000Z
+SUMMARY:Wnioskowanie statystyczne (Przeniesienie zajęć)
+UID:b9ebf507-5a71-4b67-b94c-e08cd876fe72@b9eb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Roman Huptas
 DTEND:20251208T120000Z
 DTSTART:20251208T103000Z
 SUMMARY:Wnioskowanie statystyczne (Przeniesienie zajęć)
-UID:c73afeda-1f22-4ffb-a860-fc455fa3919a@c73a.org
+UID:5a6dbdc3-7a18-4d28-9c63-5c42ed648ecd@5a6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
+DTEND:20251003T110000Z
+LOCATION:Paw.S sala 8
+DTSTART:20251003T093000Z
+SUMMARY:Podstawy rachunkowości (wykład do wyboru)
+UID:35542464-4a6a-4a9a-9395-9e3f4143651a@3554.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
+DTEND:20251008T110000Z
+LOCATION:Paw.U sala M
+DTSTART:20251008T093000Z
+SUMMARY:Podstawy rachunkowości (ćwiczenia do wyboru)
+UID:f4da1258-4596-404d-98b9-a93ae9db11bd@f4da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grażyna Sordyl
+DTEND:20251023T110000Z
+LOCATION:Paw.B 251
+DTSTART:20251023T093000Z
+SUMMARY:Podstawy ubezpieczeń (ćwiczenia)
+UID:1197e41c-b252-41a2-a438-f80878da3332@1197.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Roman Huptas
-DTEND:20251013T124500Z
+DTEND:20251117T134500Z
 LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251013T111500Z
+DTSTART:20251117T121500Z
 SUMMARY:Wnioskowanie statystyczne (laboratorium)
-UID:4d0b7a36-8f48-4a8f-ad35-c6bdec376c2d@4d0b.org
+UID:cecd6291-05d1-42f2-a732-6b0ba2eb95f2@cecd.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Roman Huptas
-DTEND:20251203T083000Z
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
+DTEND:20251105T153000Z
+LOCATION:Paw.C sala A
+DTSTART:20251105T140000Z
+SUMMARY:Nienadzorowane uczenie statystyczne (wykład)
+UID:3c3f7602-46f7-4fb9-8c56-0a8c181ff28c@3c3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20260109T083000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260109T070000Z
+SUMMARY:GitHub\,czyli wprowadzenie do systemów kontroli wersji\,zarz. projek. (konwersatorium)
+UID:892c0e65-b74c-4efa-bf7e-f9ca4d4778fe@892c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Wójcik
+DTEND:20251104T134500Z
 LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251203T070000Z
-SUMMARY:Wnioskowanie statystyczne (laboratorium)
-UID:371c3497-cbdb-46ad-bfee-b47c79d075ba@371c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20251112T134500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251112T121500Z
-SUMMARY:Inżynieria danych (laboratorium)
-UID:d9f1e2c0-1081-476d-aadb-b26468520c21@d9f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Roman Huptas
-DTEND:20260107T190000Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20260107T173000Z
-SUMMARY:Wnioskowanie statystyczne (laboratorium)
-UID:742beb40-cef5-4e26-b72c-5a7441fb13ac@742b.org
+DTSTART:20251104T121500Z
+SUMMARY:Advanced Excel (laboratorium)
+UID:60a459d8-84c0-4ede-855e-ad5e66ad2990@60a4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Barbara Grabińska
@@ -1141,6 +180,967 @@ DTEND:20251208T153000Z
 LOCATION:Paw.S sala 7
 DTSTART:20251208T140000Z
 SUMMARY:Podstawy finansów (wykład)
-UID:68587477-b442-4cc2-94d2-eae63f4badc3@6858.org
+UID:bc56692b-cc47-4f06-a502-ab26a13aae22@bc56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251016T123000Z
+DTSTART:20251016T093000Z
+SUMMARY: (rezerwacja)
+UID:19b801e8-d8c8-4674-8a46-9ecd1aa49079@19b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Katarzyna Stawiarska
+DTEND:20260121T163000Z
+LOCATION:Paw.F 307
+DTSTART:20260121T154500Z
+SUMMARY:Podstawy finansów (ćwiczenia)
+UID:237835e0-2b4e-4d01-b34c-17aabf3e6d18@2378.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Roman Huptas
+DTEND:20251117T083000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20251117T070000Z
+SUMMARY:Wnioskowanie statystyczne (laboratorium)
+UID:ed4d3209-3886-4871-ac8c-a034e8175684@ed4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Roman Huptas
+DTEND:20260119T111500Z
+LOCATION:Paw.B 251
+DTSTART:20260119T103000Z
+SUMMARY:Wnioskowanie statystyczne (wykład)
+UID:941fc753-71d7-4412-b712-41afe590ecfb@941f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20251015T124500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251015T111500Z
+SUMMARY:Inżynieria danych (laboratorium)
+UID:7dafae48-ad41-433f-9d2b-91a281e55f08@7daf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grażyna Sordyl
+DTEND:20251218T120000Z
+LOCATION:Paw.B 251
+DTSTART:20251218T103000Z
+SUMMARY:Podstawy ubezpieczeń (ćwiczenia)
+UID:df989656-a8ac-44eb-8387-8240b3ee6d4c@df98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
+DTEND:20251112T120000Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20251112T103000Z
+SUMMARY:Podstawy rachunkowości (ćwiczenia do wyboru)
+UID:74b28c7c-347b-4a30-82d5-e6f543756e5b@74b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Katarzyna Stawiarska
+DTEND:20251008T161500Z
+LOCATION:Paw.F 307
+DTSTART:20251008T144500Z
+SUMMARY:Podstawy finansów (ćwiczenia)
+UID:44b7a0f9-259d-4b7a-bfd0-3b7b2a13b157@44b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
+DTEND:20260121T194500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260121T173000Z
+SUMMARY:Nienadzorowane uczenie statystyczne (laboratorium)
+UID:34f74e17-9c27-423f-954f-8399460b9e76@34f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
+DTEND:20251211T161500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251211T140000Z
+SUMMARY:Nienadzorowane uczenie statystyczne (laboratorium)
+UID:1cdc473e-1945-4025-8582-4d8745d07d19@1cdc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20260107T134500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260107T121500Z
+SUMMARY:Inżynieria danych (laboratorium)
+UID:fbed4e4a-8227-4320-961b-ad375c349a50@fbed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
+DTEND:20260204T154500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260204T103000Z
+SUMMARY:Nienadzorowane uczenie statystyczne (egzamin)
+UID:90ba5752-1299-41a0-afef-1adae6f0de3e@90ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20251216T120000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20251216T103000Z
+SUMMARY:GitHub\,czyli wprowadzenie do systemów kontroli wersji\,zarz. projek. (konwersatorium)
+UID:355c8a66-6d89-4acd-b6c0-c8d5ee610dc1@355c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20251125T083000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20251125T070000Z
+SUMMARY:GitHub\,czyli wprowadzenie do systemów kontroli wersji\,zarz. projek. (konwersatorium)
+UID:393ae2c0-2887-400e-a6b7-f5d953762866@393a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20251204T190000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20251204T173000Z
+SUMMARY:Inżynieria danych (laboratorium)
+UID:b98d1c4e-8153-4738-8937-b5483bbf5a71@b98d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grażyna Sordyl
+DTEND:20260122T130000Z
+LOCATION:Paw.F 516
+DTSTART:20260122T121500Z
+SUMMARY:Podstawy ubezpieczeń (wykład)
+UID:7e7b6612-469f-4afe-86ad-fa635017b81f@7e7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20251009T180000Z
+LOCATION:Paw.B 251
+DTSTART:20251009T163000Z
+SUMMARY:Wizualizacja danych (laboratorium)
+UID:227ef22c-c3bb-4ed6-81d9-e8055f23f0f4@227e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20251104T083000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20251104T070000Z
+SUMMARY:GitHub\,czyli wprowadzenie do systemów kontroli wersji\,zarz. projek. (konwersatorium)
+UID:0158f567-329d-4743-8da9-7203036ac09c@0158.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Grabińska
+DTEND:20251117T120000Z
+LOCATION:Paw.S sala 7
+DTSTART:20251117T103000Z
+SUMMARY:Podstawy finansów (wykład)
+UID:3610b599-b94a-4dee-b230-5b7834e4b34a@3610.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Katarzyna Stawiarska
+DTEND:20251105T171500Z
+LOCATION:Paw.F 307
+DTSTART:20251105T154500Z
+SUMMARY:Podstawy finansów (ćwiczenia)
+UID:313476d6-96ac-45b5-93a8-1ea2f6318981@3134.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Katarzyna Stawiarska
+DTEND:20251022T161500Z
+LOCATION:Paw.F 307
+DTSTART:20251022T144500Z
+SUMMARY:Podstawy finansów (ćwiczenia)
+UID:a47fcd33-93de-42c3-ac87-a3bc8e8a963c@a47f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
+DTEND:20251209T161500Z
+LOCATION:link do zajęć
+DTSTART:20251209T140000Z
+SUMMARY:Nienadzorowane uczenie statystyczne (laboratorium zdalne)
+UID:c517bcb6-1665-4f7c-b8ce-81ddc0914fe8@c517.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
+DTEND:20260123T111500Z
+LOCATION:Paw.S sala 8
+DTSTART:20260123T103000Z
+SUMMARY:Podstawy rachunkowości (wykład do wyboru)
+UID:86681e44-e4d9-4a9d-814c-86d32b6c6c64@8668.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
+DTEND:20251009T151500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251009T130000Z
+SUMMARY:Nienadzorowane uczenie statystyczne (laboratorium)
+UID:8bc20063-feab-444c-b01c-d72302a6908f@8bc2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Grabińska
+DTEND:20260119T144500Z
+LOCATION:Paw.S sala 7
+DTSTART:20260119T140000Z
+SUMMARY:Podstawy finansów (wykład)
+UID:ed37cda6-c67d-45da-bac3-a98caed48282@ed37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
+DTEND:20251113T161500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251113T140000Z
+SUMMARY:Nienadzorowane uczenie statystyczne (laboratorium)
+UID:ef3b0630-ca5c-4e24-b686-1e29dea85ef2@ef3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
+DTEND:20260114T120000Z
+LOCATION:Paw.U sala M
+DTSTART:20260114T103000Z
+SUMMARY:Podstawy rachunkowości (ćwiczenia do wyboru)
+UID:50e50111-3784-4d47-8a56-1aefab0128a2@50e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grażyna Sordyl
+DTEND:20251030T134500Z
+LOCATION:Paw.F 516
+DTSTART:20251030T121500Z
+SUMMARY:Podstawy ubezpieczeń (wykład)
+UID:de6d48aa-5b94-440e-805d-8649191dc27f@de6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grażyna Sordyl
+DTEND:20251127T134500Z
+LOCATION:Paw.F 516
+DTSTART:20251127T121500Z
+SUMMARY:Podstawy ubezpieczeń (wykład)
+UID:89366969-2ca8-4e6b-9f3e-572f36897a4b@8936.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Roman Huptas
+DTEND:20251215T134500Z
+DTSTART:20251215T121500Z
+SUMMARY:Wnioskowanie statystyczne (Przeniesienie zajęć)
+UID:3a2865f7-ab85-4b3b-882c-72e9a0814e68@3a28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20251014T073000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20251014T060000Z
+SUMMARY:GitHub\,czyli wprowadzenie do systemów kontroli wersji\,zarz. projek. (konwersatorium)
+UID:5abfa3d6-1b66-40c2-ac36-4778dcecba39@5abf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Roman Huptas
+DTEND:20251013T110000Z
+LOCATION:Paw.B 251
+DTSTART:20251013T093000Z
+SUMMARY:Wnioskowanie statystyczne (wykład)
+UID:c63c9d71-8655-4874-9b72-84d0827c5ec1@c63c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
+DTEND:20260121T153000Z
+LOCATION:Bibl. 443
+DTSTART:20260121T144500Z
+SUMMARY:Nienadzorowane uczenie statystyczne (wykład)
+UID:ce3294e4-feed-470b-bb08-d6f74c14c832@ce32.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
+DTEND:20251128T120000Z
+LOCATION:Paw.S sala 8
+DTSTART:20251128T103000Z
+SUMMARY:Podstawy rachunkowości (wykład do wyboru)
+UID:bd262b88-9c26-45b5-ac89-a4ddcf4bb0e4@bd26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grażyna Sordyl
+DTEND:20260108T134500Z
+LOCATION:Paw.F 516
+DTSTART:20260108T121500Z
+SUMMARY:Podstawy ubezpieczeń (wykład)
+UID:b84497ed-d8de-4c9e-94a6-4cdb9b8d83fd@b844.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
+DTEND:20251106T161500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251106T140000Z
+SUMMARY:Nienadzorowane uczenie statystyczne (laboratorium)
+UID:3184db36-2230-4e6d-814b-b3e9d660ab23@3184.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20251001T124500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251001T111500Z
+SUMMARY:Inżynieria danych (laboratorium)
+UID:5363ad15-6a0d-4a71-9be2-719f41deb5d2@5363.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grażyna Sordyl
+DTEND:20260116T120000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20260116T103000Z
+SUMMARY:Podstawy ubezpieczeń (wykład)
+UID:ef3fee79-a2ea-49a7-ae58-68d7bc6352bc@ef3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grażyna Sordyl
+DTEND:20260115T120000Z
+LOCATION:.
+DTSTART:20260115T103000Z
+SUMMARY:Podstawy ubezpieczeń (ćwiczenia)
+UID:682c7a3c-7754-442a-a73c-ce83d9a94df7@682c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Roman Huptas
+DTEND:20251124T120000Z
+LOCATION:Paw.B 251
+DTSTART:20251124T103000Z
+SUMMARY:Wnioskowanie statystyczne (wykład)
+UID:40c1450d-25bd-428c-9a85-c5f44dd79ec9@40c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20251112T134500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251112T121500Z
+SUMMARY:Inżynieria danych (laboratorium)
+UID:3b3f5d2f-9cad-46b1-9d10-67912eb00a78@3b3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Katarzyna Stawiarska
+DTEND:20251203T171500Z
+LOCATION:Paw.F 307
+DTSTART:20251203T154500Z
+SUMMARY:Podstawy finansów (ćwiczenia)
+UID:bab2b6c4-e31c-4642-bd5b-11edb293d250@bab2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Wójcik
+DTEND:20260120T130000Z
+LOCATION:Bibl.425
+DTSTART:20260120T121500Z
+SUMMARY:Advanced Excel (laboratorium)
+UID:75be5129-47a6-4d03-97ef-b1dc92a30406@75be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20251202T083000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20251202T070000Z
+SUMMARY:GitHub\,czyli wprowadzenie do systemów kontroli wersji\,zarz. projek. (konwersatorium)
+UID:7ed175a3-748b-40eb-8ba9-afff8a74f817@7ed1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20251209T120000Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20251209T103000Z
+SUMMARY:GitHub\,czyli wprowadzenie do systemów kontroli wersji\,zarz. projek. (konwersatorium)
+UID:063d23c6-b059-4374-bbbc-d20a49a995ed@063d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20251202T120000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20251202T103000Z
+SUMMARY:GitHub\,czyli wprowadzenie do systemów kontroli wersji\,zarz. projek. (konwersatorium)
+UID:abf41495-dcf0-43dc-ad4e-5588a4d3e22f@abf4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Roman Huptas
+DTEND:20251203T083000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251203T070000Z
+SUMMARY:Wnioskowanie statystyczne (laboratorium)
+UID:6ff6208a-d78b-4581-8843-2e80d80e5e75@6ff6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grażyna Sordyl
+DTEND:20251009T110000Z
+LOCATION:Paw.B 251
+DTSTART:20251009T093000Z
+SUMMARY:Podstawy ubezpieczeń (ćwiczenia)
+UID:42db27d5-48fe-4582-933e-15c43ee63127@42db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
+DTEND:20260116T161500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260116T140000Z
+SUMMARY:Nienadzorowane uczenie statystyczne (laboratorium)
+UID:977d1ff8-0990-4863-a1af-e2436ffd913a@977d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Katarzyna Stawiarska
+DTEND:20251119T171500Z
+LOCATION:Paw.F 307
+DTSTART:20251119T154500Z
+SUMMARY:Podstawy finansów (ćwiczenia)
+UID:c19fc529-fd56-4a75-b6b5-45c73d9cdfb3@c19f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20251023T180000Z
+LOCATION:Paw.B 251
+DTSTART:20251023T163000Z
+SUMMARY:Wizualizacja danych (laboratorium)
+UID:04d692b8-21ae-4352-a336-1ca1d3ca58ca@04d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
+DTEND:20251017T124500Z
+DTSTART:20251017T111500Z
+SUMMARY:Nienadzorowane uczenie statystyczne (Przeniesienie zajęć)
+UID:cba9ff74-cd99-4920-892a-cfb3d64616d5@cba9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Roman Huptas
+DTEND:20251020T110000Z
+LOCATION:Paw.S sala 7
+DTSTART:20251020T093000Z
+SUMMARY:Wnioskowanie statystyczne (wykład)
+UID:7fce2ad7-91b5-4b51-9448-dd2ec4cd84de@7fce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Roman Huptas
+DTEND:20260119T083000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20260119T070000Z
+SUMMARY:Wnioskowanie statystyczne (laboratorium)
+UID:a914ca04-db42-40cb-8f2a-aa474296039f@a914.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20251118T120000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20251118T103000Z
+SUMMARY:GitHub\,czyli wprowadzenie do systemów kontroli wersji\,zarz. projek. (konwersatorium)
+UID:5db9d580-e507-49b9-8d0b-efdab898c0b8@5db9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grażyna Sordyl
+DTEND:20260109T134500Z
+LOCATION:Paw.F 717
+DTSTART:20260109T121500Z
+SUMMARY:Podstawy ubezpieczeń (wykład)
+UID:a5156b81-79bb-4b66-afb3-858b5c657fd5@a515.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Wójcik
+DTEND:20251021T124500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251021T111500Z
+SUMMARY:Advanced Excel (laboratorium)
+UID:1311e566-d4ed-4c5c-af91-35f7d56051c7@1311.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20251118T083000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20251118T070000Z
+SUMMARY:GitHub\,czyli wprowadzenie do systemów kontroli wersji\,zarz. projek. (konwersatorium)
+UID:41eb485b-dc26-411c-b370-6d180e10afdd@41eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Roman Huptas
+DTEND:20251013T124500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251013T111500Z
+SUMMARY:Wnioskowanie statystyczne (laboratorium)
+UID:313789f6-fdaf-4c63-b7e7-ffe69bb52825@3137.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Roman Huptas
+DTEND:20251027T120000Z
+LOCATION:Paw.B 251
+DTSTART:20251027T103000Z
+SUMMARY:Wnioskowanie statystyczne (wykład)
+UID:61b4ae75-1f26-4e65-a896-dc3e7aca2cae@61b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
+DTEND:20251008T143000Z
+LOCATION:Paw.C sala A
+DTSTART:20251008T130000Z
+SUMMARY:Nienadzorowane uczenie statystyczne (wykład)
+UID:320de042-6a6c-4653-bfe2-ccf8c7523f44@320d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
+DTEND:20260115T161500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260115T140000Z
+SUMMARY:Nienadzorowane uczenie statystyczne (laboratorium)
+UID:cf196f68-b470-45c0-9dad-ab23943d8643@cf19.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grażyna Sordyl
+DTEND:20251002T124500Z
+DTSTART:20251002T111500Z
+SUMMARY:Podstawy ubezpieczeń (Przeniesienie zajęć)
+UID:02da5e53-dcb1-4638-a9c4-af8f4cb9924e@02da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Roman Huptas
+DTEND:20260107T190000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20260107T173000Z
+SUMMARY:Wnioskowanie statystyczne (laboratorium)
+UID:3c341d62-7802-47de-a948-ba23ece60a8a@3c34.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Wójcik
+DTEND:20251118T134500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251118T121500Z
+SUMMARY:Advanced Excel (laboratorium)
+UID:6e6e36f5-6483-4a77-af8b-a02177629046@6e6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Grabińska
+DTEND:20251222T153000Z
+LOCATION:Paw.S sala 7
+DTSTART:20251222T140000Z
+SUMMARY:Podstawy finansów (wykład)
+UID:98fde038-865f-40fa-beef-744ed35687b3@98fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20251210T134500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251210T121500Z
+SUMMARY:Inżynieria danych (laboratorium)
+UID:fff63a7b-d997-4484-b8a8-0622107cf3f0@fff6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
+DTEND:20260114T153000Z
+LOCATION:Paw.C sala A
+DTSTART:20260114T140000Z
+SUMMARY:Nienadzorowane uczenie statystyczne (wykład)
+UID:09f91316-8c01-4d93-a08e-4704d1d12b40@09f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20251028T083000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20251028T070000Z
+SUMMARY:GitHub\,czyli wprowadzenie do systemów kontroli wersji\,zarz. projek. (konwersatorium)
+UID:ff291c7a-4871-404d-b1bc-9844578f8c08@ff29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Katarzyna Stawiarska
+DTEND:20251217T171500Z
+LOCATION:Paw.F 307
+DTSTART:20251217T154500Z
+SUMMARY:Podstawy finansów (ćwiczenia)
+UID:290dc803-9f41-4644-8fa8-59db2548b899@290d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Grabińska
+DTEND:20251002T143000Z
+LOCATION:Paw.S sala 7
+DTSTART:20251002T130000Z
+SUMMARY:Podstawy finansów (wykład)
+UID:cc2a6daa-183b-4e17-a731-dbcfa4568739@cc2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20251127T181500Z
+LOCATION:Paw.B 251
+DTSTART:20251127T173000Z
+SUMMARY:Wizualizacja danych (laboratorium)
+UID:266ed0e7-1765-4a6a-ae2a-b90216b5bfdb@266e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grażyna Sordyl
+DTEND:20251113T134500Z
+LOCATION:Paw.F 516
+DTSTART:20251113T121500Z
+SUMMARY:Podstawy ubezpieczeń (wykład)
+UID:616e84b5-0ac3-4bbb-994b-acbe1e950482@616e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Roman Huptas
+DTEND:20260112T083000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20260112T070000Z
+SUMMARY:Wnioskowanie statystyczne (laboratorium)
+UID:7c6bcd61-897a-44b3-862f-a7665056d299@7c6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Roman Huptas
+DTEND:20251208T134500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251208T121500Z
+SUMMARY:Wnioskowanie statystyczne (laboratorium)
+UID:598925d8-ab3e-42cf-94a3-591447726c97@5989.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
+DTEND:20251022T110000Z
+LOCATION:Paw.U sala M
+DTSTART:20251022T093000Z
+SUMMARY:Podstawy rachunkowości (ćwiczenia do wyboru)
+UID:13b1d7d3-2a77-42f6-8ae6-cf360f6f3b7d@13b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Roman Huptas
+DTEND:20251103T134500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251103T121500Z
+SUMMARY:Wnioskowanie statystyczne (laboratorium)
+UID:9a431a9d-ad94-4272-8303-19bcde4eea13@9a43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grażyna Sordyl
+DTEND:20251211T134500Z
+LOCATION:Paw.F 516
+DTSTART:20251211T121500Z
+SUMMARY:Podstawy ubezpieczeń (wykład)
+UID:35299225-1c7c-46be-8340-13f1e577bc57@3529.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
+DTEND:20260109T120000Z
+LOCATION:Paw.S sala 8
+DTSTART:20260109T103000Z
+SUMMARY:Podstawy rachunkowości (wykład do wyboru)
+UID:36e95f98-579d-4216-a955-10989029a035@36e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
+DTEND:20251119T120000Z
+LOCATION:Paw.U sala M
+DTSTART:20251119T103000Z
+SUMMARY:Podstawy rachunkowości (ćwiczenia do wyboru)
+UID:baa0e470-fe4c-4db6-860d-b15c1afd648b@baa0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
+DTEND:20251031T120000Z
+DTSTART:20251031T103000Z
+SUMMARY:Podstawy rachunkowości (wykład do wyboru)
+UID:c594e862-62e0-4304-8226-b5306b8a6491@c594.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Roman Huptas
+DTEND:20260112T134500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260112T121500Z
+SUMMARY:Wnioskowanie statystyczne (laboratorium)
+UID:651b0cc9-a786-427a-820a-8de5d18ec927@651b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Wójcik
+DTEND:20251007T124500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251007T111500Z
+SUMMARY:Advanced Excel (laboratorium)
+UID:139fd113-f6e9-4556-97ed-27eaf81056d5@139f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
+DTEND:20251217T153000Z
+LOCATION:Paw.C sala A
+DTSTART:20251217T140000Z
+SUMMARY:Nienadzorowane uczenie statystyczne (wykład)
+UID:12ed8071-2120-4ea1-8deb-7f30ceca17a9@12ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
+DTEND:20251217T120000Z
+DTSTART:20251217T103000Z
+SUMMARY:Podstawy rachunkowości (Przeniesienie zajęć)
+UID:868dd197-2502-495c-9983-f0035b16e563@868d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Roman Huptas
+DTEND:20251201T120000Z
+LOCATION:Paw.S sala 7
+DTSTART:20251201T103000Z
+SUMMARY:Wnioskowanie statystyczne (wykład)
+UID:ec17e850-2456-4085-95e4-ad6578d738fc@ec17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
+DTEND:20251120T161500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251120T140000Z
+SUMMARY:Nienadzorowane uczenie statystyczne (laboratorium)
+UID:c67058ff-c37d-49cf-af2e-ca5be8d8cc6e@c670.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Roman Huptas
+DTEND:20251124T134500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251124T121500Z
+SUMMARY:Wnioskowanie statystyczne (laboratorium)
+UID:05c938bd-c62a-4ba0-95ba-60ad0f857c94@05c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20251021T073000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20251021T060000Z
+SUMMARY:GitHub\,czyli wprowadzenie do systemów kontroli wersji\,zarz. projek. (konwersatorium)
+UID:49f825c8-ad37-421a-b47c-ddf0d62a6a0f@49f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20251209T083000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20251209T070000Z
+SUMMARY:GitHub\,czyli wprowadzenie do systemów kontroli wersji\,zarz. projek. (konwersatorium)
+UID:8c55c2ae-e20d-4bbc-b44b-95f90470f4a2@8c55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Wójcik
+DTEND:20251202T134500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251202T121500Z
+SUMMARY:Advanced Excel (laboratorium)
+UID:f7bcd89c-eb02-4ea4-a8c9-19f35a8aed0d@f7bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
+DTEND:20251217T083000Z
+LOCATION:Paw.U sala M
+DTSTART:20251217T070000Z
+SUMMARY:Podstawy rachunkowości (ćwiczenia do wyboru)
+UID:2032d2dd-c21d-4817-95ba-82e7d5659287@2032.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20251120T190000Z
+LOCATION:Paw.B 251
+DTSTART:20251120T173000Z
+SUMMARY:Wizualizacja danych (laboratorium)
+UID:654f2e01-8f8e-4f2e-8292-4a038d41dea6@654f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Roman Huptas
+DTEND:20260202T114500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20260202T084500Z
+SUMMARY: (egzamin)
+UID:5c9a52c9-6eaa-46fb-ac05-5c2e521fb2d2@5c9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
+DTEND:20251127T161500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251127T140000Z
+SUMMARY:Nienadzorowane uczenie statystyczne (laboratorium)
+UID:fb6437b6-3240-4de1-ae23-43f443bdb5c3@fb64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Katarzyna Stawiarska
+DTEND:20260114T171500Z
+LOCATION:Paw.F 307
+DTSTART:20260114T154500Z
+SUMMARY:Podstawy finansów (ćwiczenia)
+UID:b8943c89-2978-4975-ab95-856d78605f0f@b894.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Roman Huptas
+DTEND:20251027T134500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251027T121500Z
+SUMMARY:Wnioskowanie statystyczne (laboratorium)
+UID:8f2d16cf-7f22-4c84-939b-af831e8f4112@8f2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
+DTEND:20260122T161500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260122T140000Z
+SUMMARY:Nienadzorowane uczenie statystyczne (laboratorium)
+UID:29f286f0-2eeb-47a2-9465-4fbe540cdbad@29f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20251030T190000Z
+LOCATION:Paw.B 251
+DTSTART:20251030T173000Z
+SUMMARY:Wizualizacja danych (laboratorium)
+UID:53759e6e-9960-4b08-90a9-566ca78c0854@5375.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grażyna Sordyl
+DTEND:20251106T120000Z
+LOCATION:Paw.B 251
+DTSTART:20251106T103000Z
+SUMMARY:Podstawy ubezpieczeń (ćwiczenia)
+UID:72050576-3a1f-4854-82c7-8187eab702b5@7205.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Grabińska
+DTEND:20260112T120000Z
+LOCATION:Paw.S sala 7
+DTSTART:20260112T103000Z
+SUMMARY:Podstawy finansów (wykład)
+UID:37536ea2-3d5d-49dd-9bab-52fb4225a276@3753.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grażyna Sordyl
+DTEND:20251204T120000Z
+LOCATION:Paw.B 251
+DTSTART:20251204T103000Z
+SUMMARY:Podstawy ubezpieczeń (ćwiczenia)
+UID:fe374527-9d58-4d21-87ff-d9efee886986@fe37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Grabińska
+DTEND:20251027T153000Z
+LOCATION:Paw.S sala 7
+DTSTART:20251027T140000Z
+SUMMARY:Podstawy finansów (wykład)
+UID:1eecd766-1191-415e-8cfe-a82b597ffdb2@1eec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20251029T134500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251029T121500Z
+SUMMARY:Inżynieria danych (laboratorium)
+UID:693c63e4-fa58-4271-9fdc-21c647485bff@693c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
+DTEND:20251203T153000Z
+LOCATION:Paw.C sala A
+DTSTART:20251203T140000Z
+SUMMARY:Nienadzorowane uczenie statystyczne (wykład)
+UID:7ff1fb49-9988-4fbc-bc38-1e2925868f5e@7ff1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
+DTEND:20251010T110000Z
+LOCATION:Paw.U sala O
+DTSTART:20251010T093000Z
+SUMMARY:Podstawy rachunkowości (wykład do wyboru)
+UID:64bf3683-e218-4042-8976-2c4c001321d8@64bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
+DTEND:20260108T161500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260108T140000Z
+SUMMARY:Nienadzorowane uczenie statystyczne (laboratorium)
+UID:4c7874f7-6ead-4086-be35-08fa74b0daaa@4c78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20260121T134500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260121T130000Z
+SUMMARY:Inżynieria danych (laboratorium)
+UID:441098aa-f12e-4689-913c-2ab5c9c89831@4410.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Wójcik
+DTEND:20251216T134500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251216T121500Z
+SUMMARY:Advanced Excel (laboratorium)
+UID:068d0b71-ef03-439c-a02d-ba00b25f6d00@068d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grażyna Sordyl
+DTEND:20260122T134500Z
+LOCATION:Paw.B 251
+DTSTART:20260122T130000Z
+SUMMARY:Podstawy ubezpieczeń (ćwiczenia)
+UID:365c3446-896c-420d-b3f6-97dd74488fa6@365c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Grabińska
+DTEND:20251124T153000Z
+LOCATION:Paw.S sala 7
+DTSTART:20251124T140000Z
+SUMMARY:Podstawy finansów (wykład)
+UID:b365991e-aa38-40d1-b82c-f441d56c22e5@b365.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
+DTEND:20260121T083000Z
+LOCATION:Paw.U sala M
+DTSTART:20260121T074500Z
+SUMMARY:Podstawy rachunkowości (ćwiczenia do wyboru)
+UID:25625ab0-5c2a-4d1e-ba3d-a3f125b395da@2562.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251217T134500Z
+DTSTART:20251217T121500Z
+SUMMARY: (rezerwacja)
+UID:f1ab5f1c-04e4-4708-bd4d-cd17937c08f8@f1ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Roman Huptas
+DTEND:20251103T120000Z
+LOCATION:Paw.C sala A
+DTSTART:20251103T103000Z
+SUMMARY:Wnioskowanie statystyczne (wykład)
+UID:82ae37f5-7838-4176-ae85-2451a501a7be@82ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Wójcik
+DTEND:20260113T134500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260113T121500Z
+SUMMARY:Advanced Excel (laboratorium)
+UID:6c4f5e98-b0f8-4f84-ac47-19da95f2945c@6c4f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20251216T083000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20251216T070000Z
+SUMMARY:GitHub\,czyli wprowadzenie do systemów kontroli wersji\,zarz. projek. (konwersatorium)
+UID:eac4e620-4fbe-4658-b383-e1d24c48aa72@eac4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Roman Huptas
+DTEND:20260108T083000Z
+LOCATION:Paw.C sala A
+DTSTART:20260108T070000Z
+SUMMARY:Wnioskowanie statystyczne (wykład)
+UID:b64417df-b2cb-426e-ae9e-1ac7284287fc@b644.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Grabińska
+DTEND:20260126T120000Z
+LOCATION:Paw.S sala 6
+DTSTART:20260126T103000Z
+SUMMARY: (egzamin)
+UID:08a8d392-5125-4ce2-8502-250f48a6f690@08a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
+DTEND:20251203T120000Z
+LOCATION:Paw.U sala M
+DTSTART:20251203T103000Z
+SUMMARY:Podstawy rachunkowości (ćwiczenia do wyboru)
+UID:38c05e81-db2e-49b3-a194-bed5e7c92390@38c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Roman Huptas
+DTEND:20251201T134500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251201T121500Z
+SUMMARY:Wnioskowanie statystyczne (laboratorium)
+UID:b296f7ea-438a-46dc-a14f-93495156c84b@b296.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Roman Huptas
+DTEND:20251020T124500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251020T111500Z
+SUMMARY:Wnioskowanie statystyczne (laboratorium)
+UID:2afcdcbc-6287-4f7d-a4ca-0cde72fb4a7e@2afc.org
 END:VEVENT
 END:VCALENDAR
