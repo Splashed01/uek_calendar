@@ -2,58 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251217T134500Z
-DTSTART:20251217T121500Z
-SUMMARY: (rezerwacja)
-UID:d7e83c26-403c-45da-940a-b5db127ff060@d7e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Żuwała
-DTEND:20251011T104500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251011T083000Z
-SUMMARY:Pracownia programowania 1 (ćwiczenia)
-UID:17f5818c-dea3-400a-9d45-19a70b88126a@17f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Żuwała
-DTEND:20251206T170000Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251206T144500Z
-SUMMARY:Programowanie interfejsu użytkownika (ćwiczenia)
-UID:6dd6ce36-f525-4b34-a4f7-c679cdf98c1f@6dd6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
-DTEND:20251026T124500Z
-DTSTART:20251026T103000Z
-SUMMARY:E-biznes (wykład)
-UID:8140f672-3be7-4e1b-b967-83a48b0722d1@8140.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
-DTEND:20251206T114500Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20251206T093000Z
-SUMMARY:E-biznes (ćwiczenia)
-UID:70264b9b-fa5a-4509-b87c-0f708b7693ab@7026.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20251220T143000Z
-LOCATION:Paw.S sala 6
-DTSTART:20251220T121500Z
+DTEND:20251018T081500Z
+LOCATION:Paw.F 106
+DTSTART:20251018T060000Z
 SUMMARY:Metody numeryczne (ćwiczenia)
-UID:8e16885d-2a3d-466d-b919-6e8a648cad29@8e16.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Żuwała
-DTEND:20260117T170000Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260117T144500Z
-SUMMARY:Pracownia programowania 1 (ćwiczenia)
-UID:56f23412-d7dd-4a7c-9e8e-7af66fc8e264@56f2.org
+UID:c7f0df3d-bc20-4668-a2f1-ce5b859d2ac6@c7f0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Jacek Czerniak
@@ -61,70 +15,7 @@ DTEND:20260118T114500Z
 LOCATION:Paw.Ustronie lab.fiz.1
 DTSTART:20260118T093000Z
 SUMMARY:Cyfrowe systemy sterowania procesami produkcyjnymi (ćwiczenia)
-UID:de719d90-8255-40d2-aef3-9ea8e3ddb187@de71.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Widlak
-DTEND:20260118T143000Z
-LOCATION:Paw.A 07 lab. Win7\, Office21
-DTSTART:20260118T121500Z
-SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (ćwiczenia)
-UID:66d7d8fb-fdf7-484a-adc4-08bcbcce945d@66d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Widlak
-DTEND:20251206T091500Z
-LOCATION:Paw.A 122 lab. Win10\, Office21
-DTSTART:20251206T070000Z
-SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (ćwiczenia)
-UID:4429270b-aea4-4da1-b67d-bdf9d12ba84c@4429.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Żuwała
-DTEND:20251130T091500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251130T070000Z
-SUMMARY:Programowanie interfejsu użytkownika (ćwiczenia)
-UID:dfe6973c-9e7b-49be-a12a-c1be8e77ea64@dfe6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20251115T151500Z
-DTSTART:20251115T130000Z
-SUMMARY:Metody numeryczne (wykład)
-UID:47a67bd3-4d21-43be-ae94-6d79e798a5f7@47a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Żuwała
-DTEND:20251116T114500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251116T093000Z
-SUMMARY:Pracownia programowania 1 (ćwiczenia)
-UID:784209b8-0775-4432-98f1-8ea2c8da169c@7842.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20251130T114500Z
-LOCATION:Paw.A 013 lab. Win10\, Office21
-DTSTART:20251130T093000Z
-SUMMARY:Wprowadzenie do baz danych (ćwiczenia)
-UID:94a86fc1-209c-4af2-8bd4-cbc3443cf2e9@94a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
-DTEND:20260111T091500Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20260111T070000Z
-SUMMARY:E-biznes (ćwiczenia)
-UID:84b72d39-05dd-4cca-9a1f-f24b355f3a18@84b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Jacek Czerniak
-DTEND:20251123T143000Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20251123T121500Z
-SUMMARY:Cyfrowe systemy sterowania procesami produkcyjnymi (ćwiczenia)
-UID:71050573-e56a-4c5d-ac36-dd263f701cc2@7105.org
+UID:642a5290-a397-40cd-b095-a2907b231b89@642a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Artur Żuwała
@@ -132,93 +23,7 @@ DTEND:20251116T091500Z
 LOCATION:Paw.A 301a lab.Win10\, Office21
 DTSTART:20251116T070000Z
 SUMMARY:Programowanie interfejsu użytkownika (ćwiczenia)
-UID:41b9b4f9-5d7c-4aa5-8493-d5906e9a39e7@41b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20251019T090000Z
-DTSTART:20251019T064500Z
-SUMMARY:Metody numeryczne (wykład)
-UID:959b38c4-109a-4040-b340-e3a69fc332a9@959b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Żuwała
-DTEND:20251129T170000Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251129T144500Z
-SUMMARY:Pracownia programowania 1 (ćwiczenia)
-UID:c6459dad-fda6-4f2f-83cb-182d40d18707@c645.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20260110T091500Z
-LOCATION:Paw.S sala 7
-DTSTART:20260110T074500Z
-SUMMARY:Metody numeryczne (ćwiczenia)
-UID:18241406-5385-4611-a222-cbd707512788@1824.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20251205T170000Z
-LOCATION:Paw.F 104
-DTSTART:20251205T144500Z
-SUMMARY:Metody numeryczne (ćwiczenia)
-UID:ec57b618-a8a9-4fc1-88a9-dc117b896adb@ec57.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Widlak
-DTEND:20251123T170000Z
-DTSTART:20251123T144500Z
-SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (Przeniesienie zajęć)
-UID:f6cdca16-61ff-4808-a738-9ea728d6a26c@f6cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Żuwała
-DTEND:20251018T104500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251018T083000Z
-SUMMARY:Pracownia programowania 1 (ćwiczenia)
-UID:1bb6af5f-0f0c-4bb4-90d3-e936226a89a2@1bb6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20251207T111500Z
-LOCATION:link do zajęć
-DTSTART:20251207T103000Z
-SUMMARY:Metody numeryczne (ćwiczenia zdalne)
-UID:1b3f522c-8e71-4732-94e8-db7565a78018@1b3f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Żuwała
-DTEND:20260124T143000Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260124T121500Z
-SUMMARY:Pracownia programowania 1 (ćwiczenia)
-UID:0589003c-ad74-4421-8c54-03bca1534737@0589.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Jacek Czerniak
-DTEND:20251213T170000Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20251213T144500Z
-SUMMARY:Cyfrowe systemy sterowania procesami produkcyjnymi (ćwiczenia)
-UID:dd851c3a-9297-4b04-bf19-2fcdcc9426bf@dd85.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20260111T114500Z
-LOCATION:Paw.A 013 lab. Win10\, Office21
-DTSTART:20260111T093000Z
-SUMMARY:Wprowadzenie do baz danych (ćwiczenia)
-UID:028455c1-da25-437f-9a9e-eda2eaed2390@0284.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
-DTEND:20260125T120000Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20260125T103000Z
-SUMMARY: (egzamin)
-UID:a38fceaa-4175-4cfc-abef-155d53c3b01d@a38f.org
+UID:c709ffd7-2250-4b4c-9fa2-18de976eb498@c709.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jakub Bielawski
@@ -226,230 +31,7 @@ DTEND:20260131T101500Z
 LOCATION:Paw.S sala 9
 DTSTART:20260131T084500Z
 SUMMARY:Metody numeryczne (egzamin)
-UID:67a0a671-21c8-4ffb-8eb8-6145204af391@67a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Jacek Czerniak
-DTEND:20251130T143000Z
-LOCATION:Paw.Ustronie lab.fiz.1
-DTSTART:20251130T121500Z
-SUMMARY:Cyfrowe systemy sterowania procesami produkcyjnymi (ćwiczenia)
-UID:7bf9ffe1-c11b-42bc-866d-454a22000227@7bf9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20251018T081500Z
-LOCATION:Paw.F 106
-DTSTART:20251018T060000Z
-SUMMARY:Metody numeryczne (ćwiczenia)
-UID:57fd65cc-69f5-4970-9bf4-9a16f0e9a641@57fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Żuwała
-DTEND:20251206T143000Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251206T121500Z
-SUMMARY:Pracownia programowania 1 (ćwiczenia)
-UID:3a7d9977-6537-4eed-9f89-efbe2e2a17fa@3a7d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20251213T194500Z
-LOCATION:Paw.A 013 lab. Win10\, Office21
-DTSTART:20251213T173000Z
-SUMMARY:Wprowadzenie do baz danych (ćwiczenia)
-UID:1da2984d-2789-437f-bc18-fa1323ddee85@1da2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
-DTEND:20251115T124500Z
-DTSTART:20251115T103000Z
-SUMMARY:E-biznes (wykład)
-UID:60ccbe17-6f74-4b97-b5c8-1e07a9c54eb3@60cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20260124T114500Z
-LOCATION:Paw.A 013 lab. Win10\, Office21
-DTSTART:20260124T093000Z
-SUMMARY:Wprowadzenie do baz danych (ćwiczenia)
-UID:fc0eac8a-5699-44d3-91f6-b2977990a82a@fc0e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
-DTEND:20251010T160000Z
-DTSTART:20251010T134500Z
-SUMMARY:E-biznes (wykład)
-UID:f1450c50-eef5-49cf-bffe-8d6cc5afafaa@f145.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Widlak
-DTEND:20251026T151500Z
-DTSTART:20251026T130000Z
-SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (Przeniesienie zajęć)
-UID:bcb50863-b5e1-400b-adf4-01262350ad79@bcb5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20251220T170000Z
-LOCATION:Paw.A 013 lab. Win10\, Office21
-DTSTART:20251220T144500Z
-SUMMARY:Wprowadzenie do baz danych (ćwiczenia)
-UID:786a2ff4-a05c-43cd-a700-be6d481c7bff@786a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Żuwała
-DTEND:20260111T143000Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260111T121500Z
-SUMMARY:Pracownia programowania 1 (ćwiczenia)
-UID:1ceb60e7-ac84-4050-97b1-72d8bb372a2b@1ceb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Jacek Czerniak
-DTEND:20251221T114500Z
-LOCATION:Paw.Ustronie lab.fiz.2
-DTSTART:20251221T093000Z
-SUMMARY:Cyfrowe systemy sterowania procesami produkcyjnymi (ćwiczenia)
-UID:31b87a53-fb59-46d7-b520-52925377f2cb@31b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Jacek Czerniak
-DTEND:20260111T180000Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20260111T154500Z
-SUMMARY:Cyfrowe systemy sterowania procesami produkcyjnymi (ćwiczenia)
-UID:baa9f11c-a102-444f-8c07-446d6aab2d0d@baa9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Żuwała
-DTEND:20260117T194500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260117T173000Z
-SUMMARY:Programowanie interfejsu użytkownika (ćwiczenia)
-UID:698160b7-3cbb-49c7-be97-3d28379e2a0b@6981.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20251012T090000Z
-DTSTART:20251012T064500Z
-SUMMARY:Wprowadzenie do baz danych (wykład)
-UID:e59f685a-10d9-4e91-98b9-d5b6fccf8cf2@e59f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20251026T100000Z
-DTSTART:20251026T074500Z
-SUMMARY:Wprowadzenie do baz danych (wykład)
-UID:b1ff28b6-7339-4539-999c-a71e922f3337@b1ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Widlak
-DTEND:20251012T114500Z
-DTSTART:20251012T093000Z
-SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (wykład)
-UID:20c8b598-cd78-444e-a515-c83c05e867eb@20c8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
-DTEND:20260201T110000Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20260201T093000Z
-SUMMARY: (rezerwacja)
-UID:e97ad51c-4828-4097-918f-a573b9ee458a@e97a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20251010T184500Z
-DTSTART:20251010T163000Z
-SUMMARY:Metody numeryczne (wykład)
-UID:cadb19fa-b93d-4b1c-8b1e-c08fbe682a90@cadb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20251122T114500Z
-LOCATION:Paw.S sala 8
-DTSTART:20251122T093000Z
-SUMMARY:Metody numeryczne (ćwiczenia)
-UID:5f1ffbc2-5520-48b5-9d17-520d9f878692@5f1f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20251122T143000Z
-LOCATION:Paw.A 013 lab. Win10\, Office21
-DTSTART:20251122T121500Z
-SUMMARY:Wprowadzenie do baz danych (ćwiczenia)
-UID:397bf95d-4782-42c3-a932-bbb73b14f315@397b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Widlak
-DTEND:20260117T114500Z
-LOCATION:Paw.F 008
-DTSTART:20260117T093000Z
-SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (ćwiczenia)
-UID:ef957c32-c906-4f02-961b-be865c3944b2@ef95.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
-DTEND:20251123T114500Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20251123T093000Z
-SUMMARY:E-biznes (ćwiczenia)
-UID:57271a47-0bb2-4848-b813-80371ea961db@5727.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Żuwała
-DTEND:20251212T170000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20251212T144500Z
-SUMMARY:Pracownia programowania 1 (ćwiczenia)
-UID:d8eda02d-c51d-4ac3-b369-307343477cc6@d8ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Żuwała
-DTEND:20251213T114500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20251213T093000Z
-SUMMARY:Programowanie interfejsu użytkownika (ćwiczenia)
-UID:0bd5e0ff-d56f-47d2-b762-3b6b54e9cf4b@0bd5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251016T123000Z
-DTSTART:20251016T093000Z
-SUMMARY: (rezerwacja)
-UID:6e53420c-b9c5-4639-a151-1f632af87b9d@6e53.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20251115T100000Z
-DTSTART:20251115T074500Z
-SUMMARY:Wprowadzenie do baz danych (wykład)
-UID:cb5682c4-d602-4a7a-83c0-6eb1a78bd4c4@cb56.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20260221T101500Z
-LOCATION:Paw.S sala 9
-DTSTART:20260221T084500Z
-SUMMARY:Metody numeryczne (egzamin)
-UID:303de383-adb0-4677-8570-fd425f60cfb4@303d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Widlak
-DTEND:20251207T100000Z
-LOCATION:link do zajęć
-DTSTART:20251207T074500Z
-SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (wykład)
-UID:c2339fc0-bded-48c8-b412-94613bad96b5@c233.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20251025T160000Z
-LOCATION:Paw.F 616
-DTSTART:20251025T134500Z
-SUMMARY:Metody numeryczne (ćwiczenia)
-UID:c34aeda3-ac95-41af-be6e-3350c160c65d@c34a.org
+UID:5931a220-399d-48ab-84a1-d3fc9ad9ccf3@5931.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Artur Żuwała
@@ -457,6 +39,424 @@ DTEND:20251025T184500Z
 LOCATION:Paw.A 301a lab.Win10\, Office21
 DTSTART:20251025T163000Z
 SUMMARY:Programowanie interfejsu użytkownika (ćwiczenia)
-UID:1d9fee61-dde5-4ce1-af65-ab70e6488ef6@1d9f.org
+UID:67af5a6a-8f2b-4c75-9ab6-6697f7c05d1c@67af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Żuwała
+DTEND:20251206T170000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251206T144500Z
+SUMMARY:Programowanie interfejsu użytkownika (ćwiczenia)
+UID:0fbef441-0623-4413-8fe7-fd2a4ef67e28@0fbe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20251025T160000Z
+LOCATION:Paw.F 616
+DTSTART:20251025T134500Z
+SUMMARY:Metody numeryczne (ćwiczenia)
+UID:20808141-b48f-4466-8584-a161e19f8f82@2080.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Żuwała
+DTEND:20251130T091500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251130T070000Z
+SUMMARY:Programowanie interfejsu użytkownika (ćwiczenia)
+UID:51871f6e-a907-4a67-93cb-b28a6783450b@5187.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20251010T184500Z
+DTSTART:20251010T163000Z
+SUMMARY:Metody numeryczne (wykład)
+UID:381b302c-7ff0-4f1b-8c93-f7918ccee0f2@381b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20260221T101500Z
+LOCATION:Paw.S sala 9
+DTSTART:20260221T084500Z
+SUMMARY:Metody numeryczne (egzamin)
+UID:9c109dca-7802-49d7-a481-4f39b667c376@9c10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Żuwała
+DTEND:20251206T143000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251206T121500Z
+SUMMARY:Pracownia programowania 1 (ćwiczenia)
+UID:6cfe46ac-ad54-4b58-808e-6ad70189eebf@6cfe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jacek Czerniak
+DTEND:20251213T170000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20251213T144500Z
+SUMMARY:Cyfrowe systemy sterowania procesami produkcyjnymi (ćwiczenia)
+UID:709fcb04-3721-48fe-abc4-dc4e9decf02f@709f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Widlak
+DTEND:20260118T143000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20260118T121500Z
+SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (ćwiczenia)
+UID:58a2e246-b2df-45f7-96f1-ef61c4d1301a@58a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20251122T143000Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20251122T121500Z
+SUMMARY:Wprowadzenie do baz danych (ćwiczenia)
+UID:d092f1a0-7cee-4c4e-9a19-8796e41ba5d2@d092.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20251207T111500Z
+LOCATION:link do zajęć
+DTSTART:20251207T103000Z
+SUMMARY:Metody numeryczne (ćwiczenia zdalne)
+UID:8808da34-363a-49dc-8c88-1b15e064ad48@8808.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20251213T194500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20251213T173000Z
+SUMMARY:Wprowadzenie do baz danych (ćwiczenia)
+UID:8bff673d-b44e-4361-81b4-10fbea3dd7ef@8bff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
+DTEND:20260201T110000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20260201T093000Z
+SUMMARY: (rezerwacja)
+UID:c91ba4f3-a945-46b0-b3d3-ac2655892cc5@c91b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20251220T170000Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20251220T144500Z
+SUMMARY:Wprowadzenie do baz danych (ćwiczenia)
+UID:4fee17a0-62b2-47f1-b8e4-5609b01164dd@4fee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Żuwała
+DTEND:20251018T104500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251018T083000Z
+SUMMARY:Pracownia programowania 1 (ćwiczenia)
+UID:20e1eb48-8c89-4ef3-bc52-10df0dbb2874@20e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
+DTEND:20251010T160000Z
+DTSTART:20251010T134500Z
+SUMMARY:E-biznes (wykład)
+UID:95933f09-f4a7-40b7-8961-07e2bade9ab4@9593.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Żuwała
+DTEND:20251213T114500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20251213T093000Z
+SUMMARY:Programowanie interfejsu użytkownika (ćwiczenia)
+UID:0bdd31f8-1b63-4895-9922-fbd7de1625aa@0bdd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Żuwała
+DTEND:20260117T170000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260117T144500Z
+SUMMARY:Pracownia programowania 1 (ćwiczenia)
+UID:3a1016a2-0956-4d3e-90a7-73878e7fc8d0@3a10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
+DTEND:20260111T091500Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20260111T070000Z
+SUMMARY:E-biznes (ćwiczenia)
+UID:764822b9-4453-42c0-9902-fc8b1110584c@7648.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20251122T114500Z
+LOCATION:Paw.S sala 8
+DTSTART:20251122T093000Z
+SUMMARY:Metody numeryczne (ćwiczenia)
+UID:6ed14107-83f3-4b52-9804-242a915ff12b@6ed1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jacek Czerniak
+DTEND:20251130T143000Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20251130T121500Z
+SUMMARY:Cyfrowe systemy sterowania procesami produkcyjnymi (ćwiczenia)
+UID:66586c62-ddc8-4a34-9e40-97dd772fee74@6658.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Żuwała
+DTEND:20251011T104500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251011T083000Z
+SUMMARY:Pracownia programowania 1 (ćwiczenia)
+UID:e4cf74cd-04d1-4f7c-bc62-fb20ed3131d4@e4cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
+DTEND:20251123T114500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20251123T093000Z
+SUMMARY:E-biznes (ćwiczenia)
+UID:ddc2425c-853f-44b2-ae87-75825850eeb4@ddc2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Widlak
+DTEND:20251207T100000Z
+LOCATION:link do zajęć
+DTSTART:20251207T074500Z
+SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (wykład)
+UID:40c48f00-6a6e-438e-bfc4-a61d15d3f27c@40c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Widlak
+DTEND:20251026T151500Z
+DTSTART:20251026T130000Z
+SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (Przeniesienie zajęć)
+UID:3fb828c9-af97-47d1-b9f6-a47bf661e84f@3fb8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20260110T091500Z
+LOCATION:Paw.S sala 7
+DTSTART:20260110T074500Z
+SUMMARY:Metody numeryczne (ćwiczenia)
+UID:ce7bef8b-b165-4c62-aaab-56f1ae998aa1@ce7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Żuwała
+DTEND:20260124T143000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260124T121500Z
+SUMMARY:Pracownia programowania 1 (ćwiczenia)
+UID:ef60d15c-6a25-4830-942f-54ff24a6bdb3@ef60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
+DTEND:20251115T124500Z
+DTSTART:20251115T103000Z
+SUMMARY:E-biznes (wykład)
+UID:de563d34-c41b-474f-8d3c-9a1c45c70178@de56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Żuwała
+DTEND:20251212T170000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20251212T144500Z
+SUMMARY:Pracownia programowania 1 (ćwiczenia)
+UID:c7b49327-1581-4f62-a6b8-f3f52f2d89d7@c7b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Żuwała
+DTEND:20251116T114500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251116T093000Z
+SUMMARY:Pracownia programowania 1 (ćwiczenia)
+UID:80518fdf-39f0-42a5-b0d6-3ac081aed81d@8051.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20251026T100000Z
+DTSTART:20251026T074500Z
+SUMMARY:Wprowadzenie do baz danych (wykład)
+UID:3bbf0ca7-6742-42e7-980e-d4d783d81c3e@3bbf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
+DTEND:20251206T114500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20251206T093000Z
+SUMMARY:E-biznes (ćwiczenia)
+UID:878f8940-f3eb-4ae1-950c-7ef6804829b8@878f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20251205T170000Z
+LOCATION:Paw.F 104
+DTSTART:20251205T144500Z
+SUMMARY:Metody numeryczne (ćwiczenia)
+UID:353d3cc6-8b88-4784-8fa1-0e7de93f3315@353d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251217T134500Z
+DTSTART:20251217T121500Z
+SUMMARY: (rezerwacja)
+UID:8462f4ba-d002-4bf0-8059-44eb3ec52ef3@8462.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20260124T114500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20260124T093000Z
+SUMMARY:Wprowadzenie do baz danych (ćwiczenia)
+UID:42c73321-b635-4770-b787-12c59ee9b520@42c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jacek Czerniak
+DTEND:20251221T114500Z
+LOCATION:Paw.Ustronie lab.fiz.2
+DTSTART:20251221T093000Z
+SUMMARY:Cyfrowe systemy sterowania procesami produkcyjnymi (ćwiczenia)
+UID:8d8f6645-dc29-43a9-b8a5-14d3153c6b8c@8d8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Widlak
+DTEND:20260117T114500Z
+LOCATION:Paw.F 008
+DTSTART:20260117T093000Z
+SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (ćwiczenia)
+UID:1092285e-23c0-4b55-85e8-302c50847a9e@1092.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Żuwała
+DTEND:20260117T194500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260117T173000Z
+SUMMARY:Programowanie interfejsu użytkownika (ćwiczenia)
+UID:6eb65693-2ffe-464a-93c4-47ba9887bb7f@6eb6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20251220T143000Z
+LOCATION:Paw.S sala 6
+DTSTART:20251220T121500Z
+SUMMARY:Metody numeryczne (ćwiczenia)
+UID:558d2915-bcdd-4f83-b211-ac1bf7925c72@558d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251016T123000Z
+DTSTART:20251016T093000Z
+SUMMARY: (rezerwacja)
+UID:cc2ef288-4207-4667-bb8e-fd8efd414f8e@cc2e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Widlak
+DTEND:20251123T170000Z
+DTSTART:20251123T144500Z
+SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (Przeniesienie zajęć)
+UID:0a4ff216-a437-4b53-b43c-cdf7b9c2f073@0a4f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jacek Czerniak
+DTEND:20260111T180000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20260111T154500Z
+SUMMARY:Cyfrowe systemy sterowania procesami produkcyjnymi (ćwiczenia)
+UID:254bb96f-ced2-43cf-b515-e933dae47ac7@254b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20251115T151500Z
+DTSTART:20251115T130000Z
+SUMMARY:Metody numeryczne (wykład)
+UID:7d8babea-161d-4fb5-af28-330196d7cfa7@7d8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20251019T090000Z
+DTSTART:20251019T064500Z
+SUMMARY:Metody numeryczne (wykład)
+UID:e6bec556-a87c-498b-b2e1-4cdec8b71f70@e6be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20260111T114500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20260111T093000Z
+SUMMARY:Wprowadzenie do baz danych (ćwiczenia)
+UID:c62226fe-5a65-4450-9cbf-a58ba817e9b2@c622.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
+DTEND:20260125T120000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20260125T103000Z
+SUMMARY: (egzamin)
+UID:eb23568b-c11d-44d2-ab68-d90038f0ebf5@eb23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Widlak
+DTEND:20251012T114500Z
+DTSTART:20251012T093000Z
+SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (wykład)
+UID:ae930ce5-7e99-45af-bdb4-5f9b9db7f097@ae93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20251012T090000Z
+DTSTART:20251012T064500Z
+SUMMARY:Wprowadzenie do baz danych (wykład)
+UID:4338423e-5503-42ea-bd96-a7799c5f7378@4338.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Żuwała
+DTEND:20251129T170000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251129T144500Z
+SUMMARY:Pracownia programowania 1 (ćwiczenia)
+UID:951c44cb-715f-4ed0-a509-e5159146e83a@951c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Żuwała
+DTEND:20260111T143000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260111T121500Z
+SUMMARY:Pracownia programowania 1 (ćwiczenia)
+UID:a982a7c2-56cc-4a13-a38b-67fc01faf07e@a982.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20251115T100000Z
+DTSTART:20251115T074500Z
+SUMMARY:Wprowadzenie do baz danych (wykład)
+UID:18f04ab5-177c-48ef-9865-df632d3b59f6@18f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
+DTEND:20251026T124500Z
+DTSTART:20251026T103000Z
+SUMMARY:E-biznes (wykład)
+UID:816eb81a-83a0-4a37-ba01-7b143377e68b@816e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20251130T114500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20251130T093000Z
+SUMMARY:Wprowadzenie do baz danych (ćwiczenia)
+UID:b69c014c-7fe0-4da3-87d0-620d441a1739@b69c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Widlak
+DTEND:20251206T091500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20251206T070000Z
+SUMMARY:Bezpieczeństwo systemów informatycznych zarządzania (ćwiczenia)
+UID:983c5ca6-3110-4bea-8f76-dc43a119d6fc@983c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jacek Czerniak
+DTEND:20251123T143000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20251123T121500Z
+SUMMARY:Cyfrowe systemy sterowania procesami produkcyjnymi (ćwiczenia)
+UID:42a4394e-03fd-4822-bf1b-ea6d26ea3f32@42a4.org
 END:VEVENT
 END:VCALENDAR
