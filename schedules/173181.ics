@@ -2,12 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Adam Firlej
-DTEND:20251203T153000Z
-LOCATION:Paw.F 106
-DTSTART:20251203T140000Z
-SUMMARY:Podstawy ekonomii menedżerskiej (ćwiczenia do wyboru)
-UID:c4a82af8-8c4d-4845-8957-c43f6c3eac50@c4a8.org
+DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
+DTEND:20251113T134500Z
+LOCATION:Paw.S sala 4
+DTSTART:20251113T121500Z
+SUMMARY:Analiza ekonomiczna (ćwiczenia)
+UID:8f4bf248-4af1-4f18-a1f1-43f06b23d668@8f4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
+DTEND:20251118T153000Z
+DTSTART:20251118T140000Z
+SUMMARY:Ekonometria (wykład)
+UID:b457c98d-2779-4f25-9ca9-af31313e85de@b457.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
@@ -15,1323 +22,7 @@ DTEND:20251204T153000Z
 LOCATION:Bibl. 443
 DTSTART:20251204T140000Z
 SUMMARY:Ekonometria (ćwiczenia)
-UID:0fccd7b5-ce1c-429f-b167-dede55e3c63c@0fcc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Adrian Solek
-DTEND:20251112T083000Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20251112T070000Z
-SUMMARY:Podstawy ekonomii menedżerskiej (wykład do wyboru)
-UID:90d77091-b6a5-4975-88f3-cff1b8588931@90d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
-DTEND:20251112T134500Z
-DTSTART:20251112T121500Z
-SUMMARY:Polityka gospodarcza (Przeniesienie zajęć)
-UID:adb346ea-bedb-4625-86c8-0d494a8755bd@adb3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Kudełko
-DTEND:20251114T134500Z
-DTSTART:20251114T121500Z
-SUMMARY:Polityka gospodarcza (wykład)
-UID:e6855df2-c2f8-4e85-9222-daa9ceef7392@e685.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
-DTEND:20251210T134500Z
-LOCATION:Bud.gł. 4
-DTSTART:20251210T121500Z
-SUMMARY:Polityka gospodarcza (ćwiczenia)
-UID:82f81b19-1707-4228-b342-1281afbfd712@82f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dorota Kuder
-DTEND:20260112T120000Z
-LOCATION:Paw.C sala D
-DTSTART:20260112T103000Z
-SUMMARY:Podstawy analityki makroekonomiczno-finansowej (wykład do wyboru)
-UID:875f27f0-a9ac-46aa-8d0e-8f35bfc0102a@875f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Agata Miętus
-DTEND:20260115T120000Z
-LOCATION:Bud.gł. 6
-DTSTART:20260115T103000Z
-SUMMARY:Polityka społeczna (ćwiczenia)
-UID:803d0b4a-a317-4c81-9bfd-51f95f3a7755@803d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Adrian Solek
-DTEND:20251001T073000Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20251001T060000Z
-SUMMARY:Podstawy ekonomii menedżerskiej (wykład do wyboru)
-UID:b8077f12-520b-49de-8805-7d1031f4bbe4@b807.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jowita Świerczyńska
-DTEND:20251202T171500Z
-LOCATION:link do zajęć
-DTSTART:20251202T154500Z
-SUMMARY:Międzynarodowe stosunki gospodarcze (wykład)
-UID:9aa5f048-21d8-44c0-9323-450c6d07d3b0@9aa5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariusz Makowski
-DTEND:20251219T134500Z
-LOCATION:link do zajęć
-DTSTART:20251219T121500Z
-SUMMARY:Psychologia zachowań organizacyjnych (wykład)
-UID:7a3bcc8e-4fc0-43b7-ab8d-e7cdd003a32d@7a3b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
-DTEND:20251023T143000Z
-LOCATION:Bibl. 443
-DTSTART:20251023T130000Z
-SUMMARY:Ekonometria (ćwiczenia)
-UID:e5d1e33c-0bd6-420d-a323-89843aefbb77@e5d1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
-DTEND:20251120T153000Z
-LOCATION:Bibl. 443
-DTSTART:20251120T140000Z
-SUMMARY:Ekonometria (ćwiczenia)
-UID:2f4a4cbf-ea5d-4be3-acb4-c7d08224e2c0@2f4a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Kudełko
-DTEND:20251031T134500Z
-DTSTART:20251031T121500Z
-SUMMARY:Polityka gospodarcza (wykład)
-UID:12fe4e27-61ce-4ddf-95df-1e5ffd46aabe@12fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
-DTEND:20251117T153000Z
-LOCATION:Paw.F 613
-DTSTART:20251117T140000Z
-SUMMARY:Polityka gospodarcza (ćwiczenia)
-UID:dc6c9c7e-4448-4390-ba69-bb18b5df59f8@dc6c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Adam Firlej
-DTEND:20251119T153000Z
-LOCATION:Paw.F 106
-DTSTART:20251119T140000Z
-SUMMARY:Podstawy ekonomii menedżerskiej (ćwiczenia do wyboru)
-UID:eb7ca603-64f8-47bd-86d0-e7abaf1f831e@eb7c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mateusz Tomal
-DTEND:20251118T190000Z
-DTSTART:20251118T173000Z
-SUMMARY:Analiza ekonomiczna (wykład)
-UID:a7591043-8d27-4d6a-bd38-c58e1a3f2643@a759.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
-DTEND:20251007T143000Z
-DTSTART:20251007T130000Z
-SUMMARY:Ekonometria (wykład)
-UID:e71dd790-c4e0-4a8d-9605-711a6cfa2d7e@e71d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Denkowska
-DTEND:20251021T110000Z
-LOCATION:Paw.F CJ 303
-DTSTART:20251021T093000Z
-SUMMARY:Matematyka - powtarzanie przedmiotu (wykład)
-UID:07d1d358-ac9e-43d8-baca-f995245f732e@07d1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Denkowska
-DTEND:20260115T190000Z
-LOCATION:Paw.F 104
-DTSTART:20260115T173000Z
-SUMMARY:Matematyka - powtarzanie przedmiotu (ćwiczenia)
-UID:5f349c5c-b5c4-4625-a075-6a4d4076db85@5f34.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dorota Kuder
-DTEND:20251203T171500Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20251203T154500Z
-SUMMARY:Podstawy analityki makroekonomiczno-finansowej (ćwiczenia do wyboru)
-UID:0a5d2010-d657-441c-95b4-2189a58f6ca1@0a5d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Kudełko
-DTEND:20251003T124500Z
-DTSTART:20251003T111500Z
-SUMMARY:Polityka gospodarcza (wykład)
-UID:b8f1c986-a304-4dd0-b691-b0a522862c0c@b8f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Denkowska
-DTEND:20251023T161500Z
-LOCATION:Paw.F 515
-DTSTART:20251023T144500Z
-SUMMARY:Matematyka - powtarzanie przedmiotu (wykład)
-UID:6f3e362e-8d28-4f2e-b121-12ef58dd2123@6f3e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Denkowska
-DTEND:20251113T171500Z
-LOCATION:Paw.U sala K
-DTSTART:20251113T154500Z
-SUMMARY:Matematyka - powtarzanie przedmiotu (wykład)
-UID:16122792-7ee6-4e18-b61e-2cad97bca9d2@1612.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dorota Kuder
-DTEND:20251215T120000Z
-LOCATION:Paw.C sala D
-DTSTART:20251215T103000Z
-SUMMARY:Podstawy analityki makroekonomiczno-finansowej (wykład do wyboru)
-UID:d1482a9b-733d-4148-80ad-82e57a62d553@d148.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
-DTEND:20251218T153000Z
-LOCATION:Bibl. 443
-DTSTART:20251218T140000Z
-SUMMARY:Ekonometria (ćwiczenia)
-UID:1f52d035-d455-4431-a7d0-a6239c35348a@1f52.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Denkowska
-DTEND:20260108T171500Z
-LOCATION:Paw.F 415
-DTSTART:20260108T154500Z
-SUMMARY:Matematyka - powtarzanie przedmiotu (wykład)
-UID:a474ade6-cb98-4f03-957e-013a8f05f68d@a474.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dorota Kuder
-DTEND:20260119T111500Z
-LOCATION:Paw.C sala E
-DTSTART:20260119T103000Z
-SUMMARY:Podstawy analityki makroekonomiczno-finansowej (wykład do wyboru)
-UID:da8987ce-c68f-48fa-8503-ae539e05e614@da89.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Uhruska
-DTEND:20260107T120000Z
-LOCATION:Paw.S sala 9
-DTSTART:20260107T103000Z
-SUMMARY:Nieruchomości i inwestycje (wykład do wyboru)
-UID:f71b2c9d-c00c-4cd8-8a3a-40a25b80b78c@f71b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Adrian Solek
-DTEND:20251029T083000Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20251029T070000Z
-SUMMARY:Podstawy ekonomii menedżerskiej (wykład do wyboru)
-UID:592da20b-ce32-4b08-a88d-f710f8cdbaa3@592d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Kania
-DTEND:20251001T110000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251001T093000Z
-SUMMARY:Nieruchomości i inwestycje (wykład do wyboru)
-UID:eef92529-622f-4a3b-9c52-594411076e98@eef9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
-DTEND:20251209T120000Z
-LOCATION:Paw.F 008
-DTSTART:20251209T103000Z
-SUMMARY:Nieruchomości i inwestycje (ćwiczenia do wyboru)
-UID:a4f67cd7-3c92-4359-872e-e88e70415788@a4f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mateusz Tomal
-DTEND:20251104T190000Z
-DTSTART:20251104T173000Z
-SUMMARY:Analiza ekonomiczna (wykład)
-UID:f10f5539-6e53-4969-a79e-e324b2f6821c@f10f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
-DTEND:20251211T134500Z
-LOCATION:Paw.S sala 4
-DTSTART:20251211T121500Z
-SUMMARY:Analiza ekonomiczna (ćwiczenia)
-UID:3e90e5e2-a22b-4535-a073-3dba07f65938@3e90.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jowita Świerczyńska
-DTEND:20260120T163000Z
-LOCATION:link do zajęć
-DTSTART:20260120T154500Z
-SUMMARY:Międzynarodowe stosunki gospodarcze (wykład)
-UID:301e0e16-515a-425f-a402-35b1b85f51d4@301e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Urbaniec
-DTEND:20251212T153000Z
-LOCATION:link do zajęć
-DTSTART:20251212T140000Z
-SUMMARY:Polityka społeczna (wykład)
-UID:65089ce2-3708-4ed1-9b97-1bf75f497612@6508.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mateusz Tomal
-DTEND:20260113T190000Z
-DTSTART:20260113T173000Z
-SUMMARY:Analiza ekonomiczna (Przeniesienie zajęć)
-UID:af726ead-fec5-4994-95bd-a7d4f5ffa582@af72.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dorota Kuder
-DTEND:20251222T120000Z
-LOCATION:Paw.C sala E
-DTSTART:20251222T103000Z
-SUMMARY:Podstawy analityki makroekonomiczno-finansowej (wykład do wyboru)
-UID:5b04d2e4-735d-459b-90bc-9b0a9f88da5b@5b04.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
-DTEND:20260107T134500Z
-LOCATION:Bud.gł. 4
-DTSTART:20260107T121500Z
-SUMMARY:Polityka gospodarcza (ćwiczenia)
-UID:c5802e17-d273-4da8-8e43-0a82a1593c1f@c580.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dorota Kuder
-DTEND:20251208T120000Z
-LOCATION:Paw.C sala E
-DTSTART:20251208T103000Z
-SUMMARY:Podstawy analityki makroekonomiczno-finansowej (wykład do wyboru)
-UID:d42fffca-660a-43e3-a299-1f24bba0509d@d42f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Kudełko
-DTEND:20260129T133000Z
-LOCATION:Paw.S sala 1
-DTSTART:20260129T103000Z
-SUMMARY:Polityka gospodarcza (egzamin)
-UID:cf62d782-4526-4d0c-aefa-c4b6d96fabfa@cf62.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dorota Kuder
-DTEND:20251008T161500Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20251008T144500Z
-SUMMARY:Podstawy analityki makroekonomiczno-finansowej (ćwiczenia do wyboru)
-UID:f8a7059d-8e14-4ee4-8be2-7fbea422c4e8@f8a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Agata Miętus
-DTEND:20251009T110000Z
-LOCATION:Bud.gł. 6
-DTSTART:20251009T093000Z
-SUMMARY:Polityka społeczna (ćwiczenia)
-UID:4e758af6-d597-43c0-82fe-3504bcff0ea0@4e75.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Adam Firlej
-DTEND:20251105T153000Z
-LOCATION:Paw.F 106
-DTSTART:20251105T140000Z
-SUMMARY:Podstawy ekonomii menedżerskiej (ćwiczenia do wyboru)
-UID:af7c4233-4067-4fa3-be90-c3360dff3767@af7c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
-DTEND:20251126T134500Z
-LOCATION:Bud.gł. 4
-DTSTART:20251126T121500Z
-SUMMARY:Polityka gospodarcza (ćwiczenia)
-UID:09651010-d133-472e-8e7d-ffbf6a5ab01c@0965.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Denkowska
-DTEND:20251127T171500Z
-LOCATION:link do zajęć
-DTSTART:20251127T154500Z
-SUMMARY:Matematyka - powtarzanie przedmiotu (wykład zdalny)
-UID:6f3e1e74-7347-46c1-9949-fd6fac9e0b03@6f3e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
-DTEND:20251021T143000Z
-DTSTART:20251021T130000Z
-SUMMARY:Ekonometria (wykład)
-UID:32b0de71-db2a-4d82-8b24-8ea768f6da3b@32b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Adam Firlej
-DTEND:20251008T143000Z
-LOCATION:Paw.F 106
-DTSTART:20251008T130000Z
-SUMMARY:Podstawy ekonomii menedżerskiej (ćwiczenia do wyboru)
-UID:8213e54b-ce83-4890-9003-303933f76c2c@8213.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariusz Makowski
-DTEND:20251205T134500Z
-LOCATION:link do zajęć
-DTSTART:20251205T121500Z
-SUMMARY:Psychologia zachowań organizacyjnych (wykład)
-UID:a6ebf7c7-e4c9-4c29-9202-daa1962fb173@a6eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Denkowska
-DTEND:20251103T171500Z
-LOCATION:Paw.F 516
-DTSTART:20251103T154500Z
-SUMMARY:Matematyka - powtarzanie przedmiotu (ćwiczenia)
-UID:28d7ebcf-3d7d-4243-9788-4ea139ad4cf1@28d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariusz Makowski
-DTEND:20251121T134500Z
-LOCATION:link do zajęć
-DTSTART:20251121T121500Z
-SUMMARY:Psychologia zachowań organizacyjnych (wykład)
-UID:cc224827-53b4-4f51-bfb0-44cd58053971@cc22.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dorota Kuder
-DTEND:20251013T110000Z
-LOCATION:Paw.C sala E
-DTSTART:20251013T093000Z
-SUMMARY:Podstawy analityki makroekonomiczno-finansowej (wykład do wyboru)
-UID:42d84ce1-5bbf-4030-97c6-a40acb86eaff@42d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Adam Firlej
-DTEND:20251217T144500Z
-LOCATION:Paw.F 106
-DTSTART:20251217T140000Z
-SUMMARY:Podstawy ekonomii menedżerskiej (ćwiczenia do wyboru)
-UID:ce5d7388-ecf0-48f6-8b76-9a99095c814c@ce5d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Denkowska
-DTEND:20260113T120000Z
-LOCATION:Paw.F 516
-DTSTART:20260113T103000Z
-SUMMARY:Matematyka - powtarzanie przedmiotu (wykład)
-UID:77ad0f81-38e9-4b91-95ef-ce0c841a67c0@77ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Lipieta
-DTEND:20251211T171500Z
-LOCATION:Paw.F 415
-DTSTART:20251211T154500Z
-SUMMARY:Matematyka - powtarzanie przedmiotu (wykład)
-UID:fee292ce-85c5-4436-873d-04cf317dfeaa@fee2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dorota Kuder
-DTEND:20251027T120000Z
-LOCATION:Paw.C sala E
-DTSTART:20251027T103000Z
-SUMMARY:Podstawy analityki makroekonomiczno-finansowej (wykład do wyboru)
-UID:b67bcb2f-a2a1-4169-93dc-a2298f09cb7d@b67b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Uhruska
-DTEND:20260114T120000Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20260114T103000Z
-SUMMARY:Nieruchomości i inwestycje (ćwiczenia do wyboru)
-UID:5d8fcbb8-0b1d-479a-acc0-a46907170d1f@5d8f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
-DTEND:20251024T134500Z
-DTSTART:20251024T130000Z
-SUMMARY:Ekonometria (wykład)
-UID:f096ee70-f00e-4790-a1a1-310ac90b09a8@f096.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jowita Świerczyńska
-DTEND:20260126T184500Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20260126T154500Z
-SUMMARY: (egzamin)
-UID:229e8214-b355-47b8-9fbd-2b1b85c16af6@229e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Denkowska
-DTEND:20251021T124500Z
-LOCATION:Paw.F CJ 012
-DTSTART:20251021T111500Z
-SUMMARY:Matematyka - powtarzanie przedmiotu (ćwiczenia)
-UID:714a07e0-7814-49e5-bf8f-30197d9be06d@714a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jowita Świerczyńska
-DTEND:20251118T171500Z
-DTSTART:20251118T154500Z
-SUMMARY:Międzynarodowe stosunki gospodarcze (wykład)
-UID:bded1996-38a0-4b66-99b4-5685c89c519c@bded.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Agata Miętus
-DTEND:20251201T120000Z
-LOCATION:Bud.gł. 2
-DTSTART:20251201T103000Z
-SUMMARY:Polityka społeczna (ćwiczenia)
-UID:27bedbf3-f7bd-4125-941f-39dd88072c87@27be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Denkowska
-DTEND:20251103T153000Z
-LOCATION:Paw.F 416
-DTSTART:20251103T140000Z
-SUMMARY:Matematyka - powtarzanie przedmiotu (wykład)
-UID:4ce9bc2d-a11d-477e-b332-a5eeaab76798@4ce9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mateusz Tomal
-DTEND:20251210T120000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251210T103000Z
-SUMMARY:Nieruchomości i inwestycje (wykład do wyboru)
-UID:8c04c8a0-357f-4ab7-a891-9f2eb1f9905c@8c04.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dorota Kuder
-DTEND:20251119T171500Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20251119T154500Z
-SUMMARY:Podstawy analityki makroekonomiczno-finansowej (ćwiczenia do wyboru)
-UID:e06e7487-f896-441b-aaf2-41258c5f1e8e@e06e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Urbaniec
-DTEND:20260123T144500Z
-LOCATION:link do zajęć
-DTSTART:20260123T140000Z
-SUMMARY:Polityka społeczna (wykład)
-UID:c5d64eb1-baf6-4566-a96f-64eef9715864@c5d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jowita Świerczyńska
-DTEND:20260121T163000Z
-LOCATION:Paw.F 415
-DTSTART:20260121T154500Z
-SUMMARY:Międzynarodowe stosunki gospodarcze (ćwiczenia)
-UID:4997d15b-ae5d-4ba8-83ec-4f3f822b70e8@4997.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
-DTEND:20251030T134500Z
-LOCATION:Paw.S sala 4
-DTSTART:20251030T121500Z
-SUMMARY:Analiza ekonomiczna (ćwiczenia)
-UID:fd3f6ac1-5377-4c96-9ebb-0332d52d3721@fd3f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariusz Makowski
-DTEND:20260123T134500Z
-LOCATION:link do zajęć
-DTSTART:20260123T130000Z
-SUMMARY:Psychologia zachowań organizacyjnych (wykład)
-UID:9ec0d69b-91bd-4d93-9c0d-23c40a7ec199@9ec0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jowita Świerczyńska
-DTEND:20251216T171500Z
-LOCATION:link do zajęć
-DTSTART:20251216T154500Z
-SUMMARY:Międzynarodowe stosunki gospodarcze (wykład)
-UID:8a64fd1b-d153-4663-a67d-1e751e4419e2@8a64.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Lech Górniak
-DTEND:20251127T120000Z
-LOCATION:Paw.U sala O
-DTSTART:20251127T103000Z
-SUMMARY:Psychologia zachowań organizacyjnych (ćwiczenia)
-UID:25761c5c-577d-4811-b814-1996ab60a3ec@2576.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mateusz Tomal
-DTEND:20260120T190000Z
-DTSTART:20260120T173000Z
-SUMMARY:Analiza ekonomiczna (Przeniesienie zajęć)
-UID:5af90572-098e-49c8-92e1-b7cf95da1cdf@5af9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jowita Świerczyńska
-DTEND:20260113T171500Z
-LOCATION:link do zajęć
-DTSTART:20260113T154500Z
-SUMMARY:Międzynarodowe stosunki gospodarcze (wykład)
-UID:8f52c9e7-1226-4129-967c-8d819b60efc1@8f52.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jowita Świerczyńska
-DTEND:20251023T124500Z
-LOCATION:Paw.G  7
-DTSTART:20251023T111500Z
-SUMMARY:Międzynarodowe stosunki gospodarcze (ćwiczenia)
-UID:de95b8b3-bf68-49fa-8b77-ea69fe0b6beb@de95.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Adrian Solek
-DTEND:20260121T083000Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20260121T074500Z
-SUMMARY:Podstawy ekonomii menedżerskiej (wykład do wyboru)
-UID:4727e891-3373-4b96-b6ee-8bf162cacd5f@4727.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jowita Świerczyńska
-DTEND:20251007T161500Z
-DTSTART:20251007T144500Z
-SUMMARY:Międzynarodowe stosunki gospodarcze (wykład)
-UID:02560371-2778-4759-a988-95e34a42e75c@0256.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Adrian Solek
-DTEND:20260107T083000Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20260107T070000Z
-SUMMARY:Podstawy ekonomii menedżerskiej (wykład do wyboru)
-UID:6f65fe95-ef05-4933-b159-6f2f26194d20@6f65.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jowita Świerczyńska
-DTEND:20251021T161500Z
-DTSTART:20251021T144500Z
-SUMMARY:Międzynarodowe stosunki gospodarcze (wykład)
-UID:f65cb00e-1878-4ccd-a2f3-e285c974af27@f65c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Adam Firlej
-DTEND:20251201T134500Z
-LOCATION:Paw.F 109
-DTSTART:20251201T121500Z
-SUMMARY:Podstawy ekonomii menedżerskiej (ćwiczenia do wyboru)
-UID:d09f2a82-416e-4051-8d1a-6ad9aacd642a@d09f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Denkowska
-DTEND:20251202T134500Z
-LOCATION:Bud.gł. 7
-DTSTART:20251202T121500Z
-SUMMARY:Matematyka - powtarzanie przedmiotu (ćwiczenia)
-UID:8c3d64c7-1d7b-491c-8683-03b5b363667f@8c3d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Lech Górniak
-DTEND:20251113T120000Z
-LOCATION:Paw.U sala O
-DTSTART:20251113T103000Z
-SUMMARY:Psychologia zachowań organizacyjnych (ćwiczenia)
-UID:d1456a9e-def4-493c-9aa3-1b893fc0eec7@d145.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Denkowska
-DTEND:20260120T134500Z
-LOCATION:Paw.C sala D
-DTSTART:20260120T121500Z
-SUMMARY:Matematyka - powtarzanie przedmiotu (ćwiczenia)
-UID:4e7cc092-ad00-4a15-923f-8a654bb05f61@4e7c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Lech Górniak
-DTEND:20251002T110000Z
-LOCATION:Paw.U sala O
-DTSTART:20251002T093000Z
-SUMMARY:Psychologia zachowań organizacyjnych (ćwiczenia)
-UID:03239724-de61-4a3f-aee1-7a76fd66af99@0323.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
-DTEND:20260121T130000Z
-LOCATION:Bud.gł. 4
-DTSTART:20260121T121500Z
-SUMMARY:Polityka gospodarcza (ćwiczenia)
-UID:f890d34a-e189-42a2-b8c3-163bf98d3e9e@f890.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Urbaniec
-DTEND:20251010T143000Z
-DTSTART:20251010T130000Z
-SUMMARY:Polityka społeczna (wykład)
-UID:210d3748-66bb-44e3-a4ee-ca040969ad4a@210d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Lech Górniak
-DTEND:20251030T120000Z
-LOCATION:Paw.U sala O
-DTSTART:20251030T103000Z
-SUMMARY:Psychologia zachowań organizacyjnych (ćwiczenia)
-UID:f64510d2-cf20-47d5-810f-eda1489fdc51@f645.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Lech Górniak
-DTEND:20251211T120000Z
-LOCATION:Paw.U sala O
-DTSTART:20251211T103000Z
-SUMMARY:Psychologia zachowań organizacyjnych (ćwiczenia)
-UID:61d30615-d91d-4500-9b61-c814e445b70a@61d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dorota Kuder
-DTEND:20251105T171500Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20251105T154500Z
-SUMMARY:Podstawy analityki makroekonomiczno-finansowej (ćwiczenia do wyboru)
-UID:2a481c1c-b18d-4c02-b673-81f31a6c7f83@2a48.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mateusz Tomal
-DTEND:20251202T190000Z
-LOCATION:link do zajęć
-DTSTART:20251202T173000Z
-SUMMARY:Analiza ekonomiczna (wykład)
-UID:b0a6d498-9b20-46ae-a1c1-0e104112ef1f@b0a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Michał Głuszak
-DTEND:20251029T120000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251029T103000Z
-SUMMARY:Nieruchomości i inwestycje (wykład do wyboru)
-UID:418754be-d120-4a31-a2f8-4d67ca581486@4187.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Adam Firlej
-DTEND:20251022T143000Z
-LOCATION:Paw.F 106
-DTSTART:20251022T130000Z
-SUMMARY:Podstawy ekonomii menedżerskiej (ćwiczenia do wyboru)
-UID:bd88c95e-cd29-4b57-a867-33df71b68d12@bd88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Bartłomiej Marona
-DTEND:20251119T120000Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20251119T103000Z
-SUMMARY:Nieruchomości i inwestycje (ćwiczenia do wyboru)
-UID:bca14655-9ea7-4b8c-a5df-9d95e6b8a2f7@bca1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariusz Makowski
-DTEND:20251107T134500Z
-DTSTART:20251107T121500Z
-SUMMARY:Psychologia zachowań organizacyjnych (wykład)
-UID:97001822-aa92-4b85-b8d5-b40048b5abd7@9700.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mateusz Tomal
-DTEND:20260220T101500Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20260220T093000Z
-SUMMARY:Analiza ekonomiczna (egzamin)
-UID:518e05ed-975f-479b-8c44-b9f82531377f@518e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Agata Miętus
-DTEND:20251120T120000Z
-LOCATION:Bud.gł. 6
-DTSTART:20251120T103000Z
-SUMMARY:Polityka społeczna (ćwiczenia)
-UID:93655bff-97b8-4e25-8109-7f697e221ede@9365.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Denkowska
-DTEND:20251202T120000Z
-LOCATION:Paw.F 613
-DTSTART:20251202T103000Z
-SUMMARY:Matematyka - powtarzanie przedmiotu (wykład)
-UID:67e5e1b5-6a05-4dd3-95eb-aecb81cea1c0@67e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Kania
-DTEND:20260121T111500Z
-LOCATION:Paw.S sala 9
-DTSTART:20260121T103000Z
-SUMMARY:Nieruchomości i inwestycje (wykład do wyboru)
-UID:640fb736-dc90-4ed3-9816-9304910608aa@640f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jowita Świerczyńska
-DTEND:20251120T134500Z
-LOCATION:Paw.G  7
-DTSTART:20251120T121500Z
-SUMMARY:Międzynarodowe stosunki gospodarcze (ćwiczenia)
-UID:4b75cc40-a161-4c1d-8880-bc4d4deff06e@4b75.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Agata Miętus
-DTEND:20251106T120000Z
-LOCATION:Bud.gł. 6
-DTSTART:20251106T103000Z
-SUMMARY:Polityka społeczna (ćwiczenia)
-UID:620fe014-200d-489a-a040-2b79ebda7298@620f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Urbaniec
-DTEND:20251031T153000Z
-DTSTART:20251031T140000Z
-SUMMARY:Polityka społeczna (wykład)
-UID:cebee181-cbcf-4f50-be39-2717079db221@cebe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
-DTEND:20260122T134500Z
-DTSTART:20260122T121500Z
-SUMMARY:Analiza ekonomiczna (Przeniesienie zajęć)
-UID:70e395e2-187c-4e77-9312-d5d7fc819f42@70e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
-DTEND:20251216T153000Z
-LOCATION:link do zajęć
-DTSTART:20251216T140000Z
-SUMMARY:Ekonometria (wykład)
-UID:557222c4-6ed7-4e0f-bc3f-0a5333b0e5bf@5572.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dorota Kuder
-DTEND:20251124T120000Z
-LOCATION:Paw.C sala E
-DTSTART:20251124T103000Z
-SUMMARY:Podstawy analityki makroekonomiczno-finansowej (wykład do wyboru)
-UID:c7237add-f51c-4e8f-8863-961d06d6816d@c723.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jowita Świerczyńska
-DTEND:20260115T134500Z
-LOCATION:Paw.G  7
-DTSTART:20260115T121500Z
-SUMMARY:Międzynarodowe stosunki gospodarcze (ćwiczenia)
-UID:bd1f3caf-6bbe-40fc-a1c3-25e63a0d475f@bd1f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251016T123000Z
-DTSTART:20251016T093000Z
-SUMMARY: (rezerwacja)
-UID:a84e9b2d-7719-44b6-a9cd-402e97cd301d@a84e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Urbaniec
-DTEND:20251003T143000Z
-DTSTART:20251003T130000Z
-SUMMARY:Polityka społeczna (wykład)
-UID:671a0de7-e08d-4352-89bd-d2f7efe639da@671a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Bartłomiej Marona
-DTEND:20251112T120000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251112T103000Z
-SUMMARY:Nieruchomości i inwestycje (wykład do wyboru)
-UID:b132e21e-f941-4269-b431-43bb76d590ff@b132.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251217T134500Z
-DTSTART:20251217T121500Z
-SUMMARY: (rezerwacja)
-UID:9f8f689b-61d0-48b4-8fd6-aaabfd861d72@9f8f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Denkowska
-DTEND:20251014T180000Z
-LOCATION:Paw.F 415
-DTSTART:20251014T163000Z
-SUMMARY:Matematyka - powtarzanie przedmiotu (ćwiczenia)
-UID:2e035104-3f14-4c6e-9197-78fee3dab03a@2e03.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Małkowska
-DTEND:20251022T110000Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20251022T093000Z
-SUMMARY:Nieruchomości i inwestycje (ćwiczenia do wyboru)
-UID:cb42d901-7ba8-4a35-abc1-926a46476037@cb42.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jowita Świerczyńska
-DTEND:20251106T134500Z
-LOCATION:Paw.G  7
-DTSTART:20251106T121500Z
-SUMMARY:Międzynarodowe stosunki gospodarcze (ćwiczenia)
-UID:9d858c18-37d3-4bf3-8491-e7535286daa9@9d85.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
-DTEND:20251211T153000Z
-LOCATION:Paw.F 616
-DTSTART:20251211T140000Z
-SUMMARY:Analiza ekonomiczna (ćwiczenia)
-UID:1ac7dc31-5e19-4880-8fa8-59141aa77098@1ac7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Denkowska
-DTEND:20251120T171500Z
-LOCATION:link do zajęć
-DTSTART:20251120T154500Z
-SUMMARY:Matematyka - powtarzanie przedmiotu (wykład zdalny)
-UID:a70fe553-14af-4695-953b-78eb34a25dc8@a70f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mateusz Tomal
-DTEND:20251216T190000Z
-LOCATION:link do zajęć
-DTSTART:20251216T173000Z
-SUMMARY:Analiza ekonomiczna (wykład)
-UID:959a4fcf-dcd4-4dce-8647-80530edcb8dc@959a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Agata Miętus
-DTEND:20251020T143000Z
-LOCATION:Bud.gł. 7
-DTSTART:20251020T130000Z
-SUMMARY:Polityka społeczna (ćwiczenia)
-UID:e5974db4-b396-42fd-ad3c-d4511e92ba4e@e597.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
-DTEND:20260112T143000Z
-LOCATION:Paw.S sala 9
-DTSTART:20260112T121500Z
-SUMMARY:Analiza ekonomiczna (ćwiczenia)
-UID:33106652-3641-4189-b81a-c8fbff9276bf@3310.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Denkowska
-DTEND:20260113T134500Z
-LOCATION:Paw.F 516
-DTSTART:20260113T121500Z
-SUMMARY:Matematyka - powtarzanie przedmiotu (ćwiczenia)
-UID:f151c090-1187-4df4-b463-d3479af3a6f5@f151.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jowita Świerczyńska
-DTEND:20260120T163000Z
-DTSTART:20260120T154500Z
-SUMMARY:Międzynarodowe stosunki gospodarcze (Przeniesienie zajęć)
-UID:57f8feff-4760-420f-a805-1a6cbf074ebc@57f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
-DTEND:20251126T120000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251126T103000Z
-SUMMARY:Nieruchomości i inwestycje (wykład do wyboru)
-UID:a662db91-94a1-47ab-b889-2058d5994def@a662.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Denkowska
-DTEND:20260120T153000Z
-LOCATION:Paw.F 614
-DTSTART:20260120T140000Z
-SUMMARY:Matematyka - powtarzanie przedmiotu (wykład)
-UID:c9a91700-c05c-4260-bda7-d92c5ebf6cbd@c9a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Lech Górniak
-DTEND:20260122T120000Z
-LOCATION:Paw.U sala O
-DTSTART:20260122T103000Z
-SUMMARY:Psychologia zachowań organizacyjnych (ćwiczenia)
-UID:8e175cd4-ae79-4245-8939-652be6daf6ab@8e17.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Denkowska
-DTEND:20251028T153000Z
-LOCATION:Paw.F 416
-DTSTART:20251028T140000Z
-SUMMARY:Matematyka - powtarzanie przedmiotu (wykład)
-UID:607f3ea4-2ec9-4e46-983a-17d9f946d6b2@607f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
-DTEND:20260113T153000Z
-LOCATION:link do zajęć
-DTSTART:20260113T140000Z
-SUMMARY:Ekonometria (wykład)
-UID:2ff076bb-7ee5-4de2-b695-3ab42aaec4fe@2ff0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jowita Świerczyńska
-DTEND:20251104T134500Z
-DTSTART:20251104T130000Z
-SUMMARY:Międzynarodowe stosunki gospodarcze (wykład)
-UID:e59d8772-99f4-44bd-a4dc-c37c4ba4b1c8@e59d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jowita Świerczyńska
-DTEND:20251218T134500Z
-LOCATION:Paw.G  7
-DTSTART:20251218T121500Z
-SUMMARY:Międzynarodowe stosunki gospodarcze (ćwiczenia)
-UID:24bf3d6b-3517-439d-8bcf-9e4eb085ba4d@24bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Agata Miętus
-DTEND:20251218T120000Z
-LOCATION:Bud.gł. 6
-DTSTART:20251218T103000Z
-SUMMARY:Polityka społeczna (ćwiczenia)
-UID:c6c8be25-05aa-432f-a65f-c0503b8ce7ee@c6c8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Denkowska
-DTEND:20251120T190000Z
-LOCATION:link do zajęć
-DTSTART:20251120T173000Z
-SUMMARY:Matematyka - powtarzanie przedmiotu (ćwiczenia zdalne)
-UID:3d4a1ad2-862b-4f3c-a3b1-22b90395bd0d@3d4a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
-DTEND:20260119T153000Z
-LOCATION:link do zajęć
-DTSTART:20260119T144500Z
-SUMMARY:Ekonometria (ćwiczenia zdalne)
-UID:e45c9b61-01ae-4966-8b63-0d3ff98b32d2@e45c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mateusz Tomal
-DTEND:20251125T151500Z
-LOCATION:link do zajęć
-DTSTART:20251125T130000Z
-SUMMARY:Analiza ekonomiczna (wykład)
-UID:676c1eda-a5aa-4f29-85d0-eee5a4400466@676c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
-DTEND:20251203T120000Z
-DTSTART:20251203T103000Z
-SUMMARY:Nieruchomości i inwestycje (Przeniesienie zajęć)
-UID:0fc86b59-82f0-4b42-adca-0bb2c8e091ac@0fc8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dorota Kuder
-DTEND:20251022T161500Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20251022T144500Z
-SUMMARY:Podstawy analityki makroekonomiczno-finansowej (ćwiczenia do wyboru)
-UID:736e201b-89bf-4040-8856-ea0a9768f7d6@736e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Denkowska
-DTEND:20260108T190000Z
-LOCATION:Paw.F 415
-DTSTART:20260108T173000Z
-SUMMARY:Matematyka - powtarzanie przedmiotu (ćwiczenia)
-UID:f902e911-6a4e-4a64-ba04-20a9f09ae54a@f902.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Denkowska
-DTEND:20251028T171500Z
-LOCATION:Paw.F 516
-DTSTART:20251028T154500Z
-SUMMARY:Matematyka - powtarzanie przedmiotu (ćwiczenia)
-UID:da978022-861f-4fc7-8de2-5ce01de16317@da97.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Denkowska
-DTEND:20251210T190000Z
-DTSTART:20251210T173000Z
-SUMMARY:Matematyka - powtarzanie przedmiotu (Przeniesienie zajęć)
-UID:94584db9-3113-47da-b3a7-78284983d7b7@9458.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
-DTEND:20251001T124500Z
-LOCATION:Bud.gł. 4
-DTSTART:20251001T111500Z
-SUMMARY:Polityka gospodarcza (ćwiczenia)
-UID:8ec39b45-582a-435b-aa8d-63fbc59c7985@8ec3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Kudełko
-DTEND:20251017T124500Z
-DTSTART:20251017T111500Z
-SUMMARY:Polityka gospodarcza (wykład)
-UID:7622fb28-0907-4e44-b347-32254272467a@7622.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Denkowska
-DTEND:20260115T171500Z
-LOCATION:Bud.gł. 4
-DTSTART:20260115T154500Z
-SUMMARY:Matematyka - powtarzanie przedmiotu (wykład)
-UID:eeea0020-b228-4246-8247-fb1b61d638b1@eeea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
-DTEND:20251002T124500Z
-LOCATION:Paw.S sala 4
-DTSTART:20251002T111500Z
-SUMMARY:Analiza ekonomiczna (ćwiczenia)
-UID:af9ecdc1-0a30-447b-ba3a-c3e089f200f4@af9e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Małkowska
-DTEND:20251015T110000Z
-LOCATION:Paw.S sala 9
-DTSTART:20251015T093000Z
-SUMMARY:Nieruchomości i inwestycje (wykład do wyboru)
-UID:6f627079-e7e5-40f1-8541-b1f8ee124df2@6f62.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Denkowska
-DTEND:20260120T120000Z
-LOCATION:Paw.S sala 9
-DTSTART:20260120T103000Z
-SUMMARY:Matematyka - powtarzanie przedmiotu (wykład)
-UID:fa749fb4-9c5d-44e1-9dbd-eb102ae6675b@fa74.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dorota Kuder
-DTEND:20260121T153000Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20260121T144500Z
-SUMMARY:Podstawy analityki makroekonomiczno-finansowej (ćwiczenia do wyboru)
-UID:d4227a8a-30e8-4d74-b27b-602ed2b035e4@d422.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
-DTEND:20260123T074500Z
-DTSTART:20260123T070000Z
-SUMMARY:Analiza ekonomiczna (Przeniesienie zajęć)
-UID:3bca02d9-a809-44d5-ab00-30c115ad4a56@3bca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jowita Świerczyńska
-DTEND:20251009T124500Z
-LOCATION:Paw.G  7
-DTSTART:20251009T111500Z
-SUMMARY:Międzynarodowe stosunki gospodarcze (ćwiczenia)
-UID:39fab7de-aaa8-42b5-9901-e2f1ac5ec59d@39fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Denkowska
-DTEND:20251127T190000Z
-LOCATION:link do zajęć
-DTSTART:20251127T173000Z
-SUMMARY:Matematyka - powtarzanie przedmiotu (ćwiczenia zdalne)
-UID:ad7044e3-1709-457b-b8dd-27289cf8da8a@ad70.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Lech Górniak
-DTEND:20260108T120000Z
-LOCATION:Paw.U sala O
-DTSTART:20260108T103000Z
-SUMMARY:Psychologia zachowań organizacyjnych (ćwiczenia)
-UID:e2b0473c-05f7-4c2b-bfe3-c8249f6e6178@e2b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
-DTEND:20251113T134500Z
-LOCATION:Paw.S sala 4
-DTSTART:20251113T121500Z
-SUMMARY:Analiza ekonomiczna (ćwiczenia)
-UID:e81f8be8-11e2-4c44-a39e-2f79030b1b9d@e81f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
-DTEND:20251127T134500Z
-LOCATION:Paw.S sala 4
-DTSTART:20251127T121500Z
-SUMMARY:Analiza ekonomiczna (ćwiczenia)
-UID:e03522b7-2e4c-44fb-b8eb-2c37bb823e8f@e035.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
-DTEND:20251015T124500Z
-LOCATION:Bud.gł. 4
-DTSTART:20251015T111500Z
-SUMMARY:Polityka gospodarcza (ćwiczenia)
-UID:af8f6478-8d2a-4ad2-b878-0a33d01890f2@af8f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Kania
-DTEND:20260121T120000Z
-LOCATION:Paw.C sala B
-DTSTART:20260121T111500Z
-SUMMARY:Nieruchomości i inwestycje (ćwiczenia do wyboru)
-UID:52d6e219-3009-44ff-b4d8-fc4df541e594@52d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mateusz Tomal
-DTEND:20251021T180000Z
-DTSTART:20251021T163000Z
-SUMMARY:Analiza ekonomiczna (wykład)
-UID:c56ae2ea-ce53-4cda-a706-80eec8b5d67d@c56a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
-DTEND:20260108T134500Z
-DTSTART:20260108T121500Z
-SUMMARY:Analiza ekonomiczna (Przeniesienie zajęć)
-UID:aa6ff91f-a0d3-49d3-a13e-8250e52b7ded@aa6f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Michał Głuszak
-DTEND:20251105T120000Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20251105T103000Z
-SUMMARY:Nieruchomości i inwestycje (ćwiczenia do wyboru)
-UID:6e593052-906f-4345-b3a2-3bf069a1991c@6e59.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
-DTEND:20260120T153000Z
-DTSTART:20260120T144500Z
-SUMMARY:Ekonometria (Przeniesienie zajęć)
-UID:26339858-798b-400c-acf8-cc55ec4d400f@2633.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Denkowska
-DTEND:20251113T190000Z
-LOCATION:Paw.U sala K
-DTSTART:20251113T173000Z
-SUMMARY:Matematyka - powtarzanie przedmiotu (ćwiczenia)
-UID:40f01a2a-88bc-4a65-8fcf-db7aa4b3b92a@40f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Adrian Solek
-DTEND:20251210T083000Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20251210T070000Z
-SUMMARY:Podstawy ekonomii menedżerskiej (wykład do wyboru)
-UID:e82f1dda-7800-43a1-b8b7-932d09e9d78b@e82f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Urbaniec
-DTEND:20251017T143000Z
-DTSTART:20251017T130000Z
-SUMMARY:Polityka społeczna (wykład)
-UID:b1ef3b22-0f3b-4b8e-a8a2-a3c34519bb02@b1ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Denkowska
-DTEND:20251023T180000Z
-LOCATION:Paw.F 515
-DTSTART:20251023T163000Z
-SUMMARY:Matematyka - powtarzanie przedmiotu (ćwiczenia)
-UID:99f876f3-dc49-440f-bcb4-6d034804e9ac@99f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mateusz Tomal
-DTEND:20251007T180000Z
-DTSTART:20251007T163000Z
-SUMMARY:Analiza ekonomiczna (wykład)
-UID:749d2bce-342f-4a7b-845b-5d26eea62fe4@749d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
-DTEND:20251104T153000Z
-DTSTART:20251104T140000Z
-SUMMARY:Ekonometria (wykład)
-UID:aef436b0-b283-4cd4-b99d-eed5e54d58f6@aef4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jowita Świerczyńska
-DTEND:20251104T171500Z
-DTSTART:20251104T154500Z
-SUMMARY:Międzynarodowe stosunki gospodarcze (wykład)
-UID:c9e29b18-2ce0-446d-a2d2-02f9516fafdd@c9e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
-DTEND:20251202T153000Z
-LOCATION:link do zajęć
-DTSTART:20251202T140000Z
-SUMMARY:Ekonometria (wykład)
-UID:b4cba718-6688-4c67-be8e-34608204437e@b4cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariusz Makowski
-DTEND:20260116T134500Z
-LOCATION:link do zajęć
-DTSTART:20260116T121500Z
-SUMMARY:Psychologia zachowań organizacyjnych (wykład)
-UID:7aa8cf7b-f9f8-4476-95c2-7703e99b9181@7aa8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Agata Miętus
-DTEND:20251204T120000Z
-DTSTART:20251204T103000Z
-SUMMARY:Polityka społeczna (Przeniesienie zajęć)
-UID:d12caf0c-52e5-4ea5-8522-dc106e49d780@d12c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dorota Kuder
-DTEND:20260114T171500Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20260114T154500Z
-SUMMARY:Podstawy analityki makroekonomiczno-finansowej (ćwiczenia do wyboru)
-UID:248a3e52-0e22-404a-ba4f-710d32c0f0e5@248a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariusz Makowski
-DTEND:20251024T124500Z
-DTSTART:20251024T111500Z
-SUMMARY:Psychologia zachowań organizacyjnych (wykład)
-UID:25612a7f-8997-476c-ac9a-b7dc2b548e95@2561.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Kudełko
-DTEND:20251212T134500Z
-LOCATION:link do zajęć
-DTSTART:20251212T121500Z
-SUMMARY:Polityka gospodarcza (wykład)
-UID:1838b568-709f-4826-9bea-f1586b41b5f8@1838.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Urbaniec
-DTEND:20260109T153000Z
-LOCATION:link do zajęć
-DTSTART:20260109T140000Z
-SUMMARY:Polityka społeczna (wykład)
-UID:70f5cdbb-e8f7-49ba-90b6-f3564f61f875@70f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Lech Górniak
-DTEND:20260123T083000Z
-LOCATION:Paw.U sala M
-DTSTART:20260123T074500Z
-SUMMARY:Psychologia zachowań organizacyjnych (ćwiczenia)
-UID:eeb43b8a-7a61-483d-9db2-91b3f1d7947b@eeb4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Adrian Solek
-DTEND:20251015T073000Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20251015T060000Z
-SUMMARY:Podstawy ekonomii menedżerskiej (wykład do wyboru)
-UID:96945c5e-9dc4-46a6-b8fb-2ab11e8ff7fc@9694.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Kudełko
-DTEND:20251128T134500Z
-LOCATION:link do zajęć
-DTSTART:20251128T121500Z
-SUMMARY:Polityka gospodarcza (wykład)
-UID:c8e6ac94-b7f9-4f90-96c9-6f3e929cc543@c8e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Kania
-DTEND:20251008T110000Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20251008T093000Z
-SUMMARY:Nieruchomości i inwestycje (ćwiczenia do wyboru)
-UID:9ef1bddc-b6b5-497e-8606-6018ada97768@9ef1.org
+UID:18c17aca-eee0-40d7-8c4f-a9c68d0f7df0@18c1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Mateusz Tomal
@@ -1339,108 +30,23 @@ DTEND:20260206T101500Z
 LOCATION:Paw.C  Nowa Aula
 DTSTART:20260206T093000Z
 SUMMARY:Analiza ekonomiczna (egzamin)
-UID:d62837d3-3e33-42fc-a3ac-253341a11ea6@d628.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
-DTEND:20260115T153000Z
-LOCATION:Bibl. 443
-DTSTART:20260115T140000Z
-SUMMARY:Ekonometria (ćwiczenia)
-UID:16937062-fd78-4bc8-a979-d938020d36eb@1693.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
-DTEND:20251118T153000Z
-DTSTART:20251118T140000Z
-SUMMARY:Ekonometria (wykład)
-UID:b2086e7a-3844-45c3-a0c5-defa4ae8344a@b208.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Denkowska
-DTEND:20251218T190000Z
-LOCATION:Paw.F 416
-DTSTART:20251218T173000Z
-SUMMARY:Matematyka - powtarzanie przedmiotu (ćwiczenia)
-UID:41fa7860-f00a-43f4-9c30-30974b08d239@41fa.org
+UID:36fbee66-5055-4f48-81ba-473065a0a770@36fb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jowita Świerczyńska
-DTEND:20251204T134500Z
-LOCATION:Paw.G  7
-DTSTART:20251204T121500Z
+DTEND:20260121T163000Z
+LOCATION:Paw.F 415
+DTSTART:20260121T154500Z
 SUMMARY:Międzynarodowe stosunki gospodarcze (ćwiczenia)
-UID:c7e2dd7e-e20e-44be-a5b0-fe5d9fd18b5d@c7e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Kudełko
-DTEND:20260109T134500Z
-LOCATION:link do zajęć
-DTSTART:20260109T121500Z
-SUMMARY:Polityka gospodarcza (wykład)
-UID:56b2647c-c8e8-4fd8-beda-398b07537eb6@56b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Kudełko
-DTEND:20260123T130000Z
-LOCATION:link do zajęć
-DTSTART:20260123T121500Z
-SUMMARY:Polityka gospodarcza (wykład)
-UID:daa817d4-a752-4e7e-81dd-f1231a6eb95a@daa8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Urbaniec
-DTEND:20251114T153000Z
-DTSTART:20251114T140000Z
-SUMMARY:Polityka społeczna (wykład)
-UID:ec4b9a21-c079-410e-89dd-90d2e2d26c5c@ec4b.org
+UID:6a41ca72-65e3-427f-8fac-2699b11b8dc5@6a41.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Anna Denkowska
-DTEND:20251014T161500Z
-LOCATION:Paw.F 516
-DTSTART:20251014T144500Z
-SUMMARY:Matematyka - powtarzanie przedmiotu (wykład)
-UID:07868ef5-6315-4d58-a7aa-193164cacc04@0786.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariusz Makowski
-DTEND:20251010T124500Z
-DTSTART:20251010T111500Z
-SUMMARY:Psychologia zachowań organizacyjnych (wykład)
-UID:71616c22-f160-4b94-9bd2-481d3fb624d1@7161.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
-DTEND:20251106T153000Z
-LOCATION:Bibl. 443
-DTSTART:20251106T140000Z
-SUMMARY:Ekonometria (ćwiczenia)
-UID:30973118-8682-446e-9815-a5c8e8a0424d@3097.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dorota Kuder
-DTEND:20251217T171500Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20251217T154500Z
-SUMMARY:Podstawy analityki makroekonomiczno-finansowej (ćwiczenia do wyboru)
-UID:07c858d0-46a8-47f0-a4df-2b7732176dcd@07c8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Adam Firlej
-DTEND:20251117T134500Z
-LOCATION:Paw.F 109
-DTSTART:20251117T121500Z
-SUMMARY:Podstawy ekonomii menedżerskiej (ćwiczenia do wyboru)
-UID:b2e3e6f9-b7c0-43fd-9255-9948c6ff5eab@b2e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Lipieta
-DTEND:20251211T190000Z
-LOCATION:Paw.F 415
-DTSTART:20251211T173000Z
+DTEND:20251021T124500Z
+LOCATION:Paw.F CJ 012
+DTSTART:20251021T111500Z
 SUMMARY:Matematyka - powtarzanie przedmiotu (ćwiczenia)
-UID:cd675671-4e88-4265-92a4-ba04a945a7fc@cd67.org
+UID:5564ef61-1a91-4c1c-b2c4-9db81265ae51@5564.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
@@ -1448,23 +54,114 @@ DTEND:20251029T134500Z
 LOCATION:Bud.gł. 4
 DTSTART:20251029T121500Z
 SUMMARY:Polityka gospodarcza (ćwiczenia)
-UID:43c09894-788d-4658-bce0-06409d449260@43c0.org
+UID:c5565125-fce6-413b-a224-6399a2eeeb68@c556.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kuder
+DTEND:20251124T120000Z
+LOCATION:Paw.C sala E
+DTSTART:20251124T103000Z
+SUMMARY:Podstawy analityki makroekonomiczno-finansowej (wykład do wyboru)
+UID:8d1d2232-c9f9-49b4-b9f2-a8174fca1b9d@8d1d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Makowski
+DTEND:20251107T134500Z
+DTSTART:20251107T121500Z
+SUMMARY:Psychologia zachowań organizacyjnych (wykład)
+UID:8bda25b9-5ad9-4171-aa41-858472cf39da@8bda.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Małkowska
+DTEND:20251022T110000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20251022T093000Z
+SUMMARY:Nieruchomości i inwestycje (ćwiczenia do wyboru)
+UID:9924de58-c776-42be-ba1e-65220d7a94e6@9924.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
+DTEND:20251117T153000Z
+LOCATION:Paw.F 613
+DTSTART:20251117T140000Z
+SUMMARY:Polityka gospodarcza (ćwiczenia)
+UID:c2402a30-87e0-47e7-914c-0a4595c4f261@c240.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Denkowska
+DTEND:20251028T171500Z
+LOCATION:Paw.F 516
+DTSTART:20251028T154500Z
+SUMMARY:Matematyka - powtarzanie przedmiotu (ćwiczenia)
+UID:26adae1b-f918-4c61-992a-041e5a92a7e2@26ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20260108T120000Z
+LOCATION:Paw.U sala O
+DTSTART:20260108T103000Z
+SUMMARY:Psychologia zachowań organizacyjnych (ćwiczenia)
+UID:b5ae0390-8358-46f1-9130-209b20dcb973@b5ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mateusz Tomal
+DTEND:20251118T190000Z
+DTSTART:20251118T173000Z
+SUMMARY:Analiza ekonomiczna (wykład)
+UID:96927d49-756d-4d67-a3ad-4ddf966152c8@9692.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr Adrian Solek
-DTEND:20251126T083000Z
+DTEND:20260107T083000Z
 LOCATION:Paw.C  Nowa Aula
-DTSTART:20251126T070000Z
+DTSTART:20260107T070000Z
 SUMMARY:Podstawy ekonomii menedżerskiej (wykład do wyboru)
-UID:a1f82e42-4b3b-417d-acdd-e705663c9942@a1f8.org
+UID:7b04f1c5-a26d-4b26-9f06-0850c633d518@7b04.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
-DTEND:20251009T143000Z
-LOCATION:Bibl. 443
-DTSTART:20251009T130000Z
-SUMMARY:Ekonometria (ćwiczenia)
-UID:71071ef9-6f54-40f5-96ab-cab5bea8a941@7107.org
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20251211T120000Z
+LOCATION:Paw.U sala O
+DTSTART:20251211T103000Z
+SUMMARY:Psychologia zachowań organizacyjnych (ćwiczenia)
+UID:965f8a6d-1dff-4026-a1d6-a2d699e274a4@965f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Denkowska
+DTEND:20251120T190000Z
+DTSTART:20251120T173000Z
+SUMMARY:Matematyka - powtarzanie przedmiotu (ćwiczenia zdalne)
+UID:ede4dd6f-d17d-4791-9ef4-356c1562bc43@ede4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jowita Świerczyńska
+DTEND:20251007T161500Z
+DTSTART:20251007T144500Z
+SUMMARY:Międzynarodowe stosunki gospodarcze (wykład)
+UID:d6c370f3-c1a3-4aae-96f2-137f7ce2e488@d6c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Urbaniec
+DTEND:20251031T153000Z
+DTSTART:20251031T140000Z
+SUMMARY:Polityka społeczna (wykład)
+UID:0b2a4c7d-79c3-476f-94a2-9ec25042dc02@0b2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Denkowska
+DTEND:20251021T110000Z
+LOCATION:Paw.F CJ 303
+DTSTART:20251021T093000Z
+SUMMARY:Matematyka - powtarzanie przedmiotu (wykład)
+UID:d3cef7fe-6966-4c38-871d-523836dd4dc9@d3ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Uhruska
+DTEND:20260114T120000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20260114T103000Z
+SUMMARY:Nieruchomości i inwestycje (ćwiczenia do wyboru)
+UID:3342c69a-dd61-4fa8-a3f0-6f8ceff3af92@3342.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Agata Miętus
@@ -1472,7 +169,424 @@ DTEND:20260119T144500Z
 LOCATION:Paw.B 056 (KSB)
 DTSTART:20260119T140000Z
 SUMMARY:Polityka społeczna (ćwiczenia)
-UID:47a2d9a9-9562-4ce1-a4ec-86eba32dd2d4@47a2.org
+UID:6c732c8d-352d-4ed5-872e-e3725d2d0690@6c73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Kudełko
+DTEND:20251114T134500Z
+DTSTART:20251114T121500Z
+SUMMARY:Polityka gospodarcza (wykład)
+UID:e8ee3c76-3852-4274-9000-a30c008433b7@e8ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
+DTEND:20260122T134500Z
+DTSTART:20260122T121500Z
+SUMMARY:Analiza ekonomiczna (Przeniesienie zajęć)
+UID:736515e0-d770-4565-a744-30f7afd6e972@7365.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Adam Firlej
+DTEND:20251117T134500Z
+LOCATION:Paw.F 109
+DTSTART:20251117T121500Z
+SUMMARY:Podstawy ekonomii menedżerskiej (ćwiczenia do wyboru)
+UID:561953d1-b2aa-4ec3-902c-519fce147276@5619.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Denkowska
+DTEND:20260108T190000Z
+LOCATION:Paw.F 415
+DTSTART:20260108T173000Z
+SUMMARY:Matematyka - powtarzanie przedmiotu (ćwiczenia)
+UID:139bb8f4-abc6-4812-9b9b-ac2359c2e385@139b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
+DTEND:20251112T134500Z
+DTSTART:20251112T121500Z
+SUMMARY:Polityka gospodarcza (Przeniesienie zajęć)
+UID:fe0e46da-d4ae-42b8-b06c-96b73148d70f@fe0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Makowski
+DTEND:20260123T134500Z
+LOCATION:link do zajęć
+DTSTART:20260123T130000Z
+SUMMARY:Psychologia zachowań organizacyjnych (wykład)
+UID:fb97e63e-fe30-45bf-bc1a-41fe5e0c82f1@fb97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Adam Firlej
+DTEND:20251217T144500Z
+LOCATION:Paw.F 106
+DTSTART:20251217T140000Z
+SUMMARY:Podstawy ekonomii menedżerskiej (ćwiczenia do wyboru)
+UID:09400ca8-37f9-4ace-9c40-5c5c60566606@0940.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Adam Firlej
+DTEND:20251022T143000Z
+LOCATION:Paw.F 106
+DTSTART:20251022T130000Z
+SUMMARY:Podstawy ekonomii menedżerskiej (ćwiczenia do wyboru)
+UID:f2a276ea-2410-4aba-a550-944e774fc03f@f2a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
+DTEND:20251001T124500Z
+LOCATION:Bud.gł. 4
+DTSTART:20251001T111500Z
+SUMMARY:Polityka gospodarcza (ćwiczenia)
+UID:aa8ccf18-e374-4a05-b4eb-7bdaf371e69e@aa8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Kudełko
+DTEND:20251031T134500Z
+DTSTART:20251031T121500Z
+SUMMARY:Polityka gospodarcza (wykład)
+UID:8c21ea19-afc8-49e5-9019-14c4a34e2806@8c21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kuder
+DTEND:20260112T120000Z
+LOCATION:Paw.C sala D
+DTSTART:20260112T103000Z
+SUMMARY:Podstawy analityki makroekonomiczno-finansowej (wykład do wyboru)
+UID:add251f5-1467-4606-80bc-823572c4fd1e@add2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Denkowska
+DTEND:20260115T190000Z
+LOCATION:Paw.F 104
+DTSTART:20260115T173000Z
+SUMMARY:Matematyka - powtarzanie przedmiotu (ćwiczenia)
+UID:868b31a7-1e0a-4c1d-a620-58b54c8fcec0@868b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
+DTEND:20260119T153000Z
+LOCATION:link do zajęć
+DTSTART:20260119T144500Z
+SUMMARY:Ekonometria (ćwiczenia zdalne)
+UID:2042562c-68ce-4512-9b7b-dbd268b6a6c5@2042.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jowita Świerczyńska
+DTEND:20251021T161500Z
+DTSTART:20251021T144500Z
+SUMMARY:Międzynarodowe stosunki gospodarcze (wykład)
+UID:1a200e1c-94ed-44d5-afe4-ef04a6773555@1a20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mateusz Tomal
+DTEND:20251021T180000Z
+DTSTART:20251021T163000Z
+SUMMARY:Analiza ekonomiczna (wykład)
+UID:28d07946-d23d-46f0-9844-13103330e4a4@28d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
+DTEND:20251104T153000Z
+DTSTART:20251104T140000Z
+SUMMARY:Ekonometria (wykład)
+UID:95b2e7c1-8d6e-4763-ab6f-9ba271432609@95b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251016T123000Z
+DTSTART:20251016T093000Z
+SUMMARY: (rezerwacja)
+UID:d494c711-0a54-4700-af78-bce88278b9aa@d494.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Denkowska
+DTEND:20251218T190000Z
+LOCATION:Paw.F 416
+DTSTART:20251218T173000Z
+SUMMARY:Matematyka - powtarzanie przedmiotu (ćwiczenia)
+UID:372b4d31-7045-4257-9109-9aeae9ea2e43@372b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agata Miętus
+DTEND:20251009T110000Z
+LOCATION:Bud.gł. 6
+DTSTART:20251009T093000Z
+SUMMARY:Polityka społeczna (ćwiczenia)
+UID:cda26cab-aacf-4b9b-b3c8-25fbd3b390af@cda2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Kania
+DTEND:20260121T111500Z
+LOCATION:Paw.S sala 9
+DTSTART:20260121T103000Z
+SUMMARY:Nieruchomości i inwestycje (wykład do wyboru)
+UID:42fec02e-ff10-4361-bd49-9d72432bb25a@42fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
+DTEND:20260115T153000Z
+LOCATION:Bibl. 443
+DTSTART:20260115T140000Z
+SUMMARY:Ekonometria (ćwiczenia)
+UID:dde029ae-36e3-4f20-a5d0-c3619308c3c0@dde0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agata Miętus
+DTEND:20251201T120000Z
+LOCATION:Bud.gł. 2
+DTSTART:20251201T103000Z
+SUMMARY:Polityka społeczna (ćwiczenia)
+UID:8e98eea5-8c94-4b71-9f90-a83eb77a0fa4@8e98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Makowski
+DTEND:20251024T124500Z
+DTSTART:20251024T111500Z
+SUMMARY:Psychologia zachowań organizacyjnych (wykład)
+UID:e0adfbb4-5a82-4385-b47c-8388f6e79ce4@e0ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Kudełko
+DTEND:20260109T134500Z
+LOCATION:link do zajęć
+DTSTART:20260109T121500Z
+SUMMARY:Polityka gospodarcza (wykład)
+UID:c01d52fc-98c0-4c8e-8507-def22eaa18c2@c01d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Denkowska
+DTEND:20260108T171500Z
+LOCATION:Paw.F 415
+DTSTART:20260108T154500Z
+SUMMARY:Matematyka - powtarzanie przedmiotu (wykład)
+UID:b99bd6de-7e8e-4f08-aecb-a40d8ca21deb@b99b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Kudełko
+DTEND:20260129T133000Z
+LOCATION:Paw.S sala 1
+DTSTART:20260129T103000Z
+SUMMARY:Polityka gospodarcza (egzamin)
+UID:f06e9d57-1d5c-404b-a4d2-b2cce405c7ce@f06e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
+DTEND:20251209T120000Z
+LOCATION:Paw.F 008
+DTSTART:20251209T103000Z
+SUMMARY:Nieruchomości i inwestycje (ćwiczenia do wyboru)
+UID:249b8a48-d2f2-46b5-a6cc-05884d905854@249b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mateusz Tomal
+DTEND:20260220T101500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20260220T093000Z
+SUMMARY:Analiza ekonomiczna (egzamin)
+UID:73947a96-4f72-44c2-a1f9-42aa90c4465d@7394.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20251127T120000Z
+LOCATION:Paw.U sala O
+DTSTART:20251127T103000Z
+SUMMARY:Psychologia zachowań organizacyjnych (ćwiczenia)
+UID:60e7e55f-9e8d-4de4-9bef-dc4f726c17ac@60e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
+DTEND:20260120T153000Z
+DTSTART:20260120T144500Z
+SUMMARY:Ekonometria (Przeniesienie zajęć)
+UID:b35aa516-54b6-492f-8e92-7a607cdfbeee@b35a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Denkowska
+DTEND:20251014T161500Z
+LOCATION:Paw.F 516
+DTSTART:20251014T144500Z
+SUMMARY:Matematyka - powtarzanie przedmiotu (wykład)
+UID:59a926d3-f419-4941-8456-39e2d1a8d515@59a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jowita Świerczyńska
+DTEND:20251009T124500Z
+LOCATION:Paw.G  7
+DTSTART:20251009T111500Z
+SUMMARY:Międzynarodowe stosunki gospodarcze (ćwiczenia)
+UID:2092d37f-e79e-407b-9406-dc89f067a7f0@2092.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251217T134500Z
+DTSTART:20251217T121500Z
+SUMMARY: (rezerwacja)
+UID:2a147878-e454-4029-b8bc-9c5a2f1ad92c@2a14.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Denkowska
+DTEND:20251023T180000Z
+LOCATION:Paw.F 515
+DTSTART:20251023T163000Z
+SUMMARY:Matematyka - powtarzanie przedmiotu (ćwiczenia)
+UID:196920c4-5dd7-4085-84e8-c7c10c7ae335@1969.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Uhruska
+DTEND:20260107T120000Z
+LOCATION:Paw.S sala 9
+DTSTART:20260107T103000Z
+SUMMARY:Nieruchomości i inwestycje (wykład do wyboru)
+UID:691db8be-47f8-49f9-96a8-73982aadc416@691d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jowita Świerczyńska
+DTEND:20251104T134500Z
+DTSTART:20251104T130000Z
+SUMMARY:Międzynarodowe stosunki gospodarcze (wykład)
+UID:9eaea2d8-bab7-4a01-a0e3-fc162a44f2d4@9eae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jowita Świerczyńska
+DTEND:20251104T171500Z
+DTSTART:20251104T154500Z
+SUMMARY:Międzynarodowe stosunki gospodarcze (wykład)
+UID:addd0951-bfe3-498d-8387-f76fd7e5a3ea@addd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Adrian Solek
+DTEND:20251112T083000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20251112T070000Z
+SUMMARY:Podstawy ekonomii menedżerskiej (wykład do wyboru)
+UID:89e84489-03c4-4b16-835a-c0c2ca664b0b@89e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Denkowska
+DTEND:20251113T171500Z
+LOCATION:Paw.U sala K
+DTSTART:20251113T154500Z
+SUMMARY:Matematyka - powtarzanie przedmiotu (wykład)
+UID:70d976aa-ec91-42c8-914c-d7e0b33129f1@70d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Kania
+DTEND:20251008T110000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20251008T093000Z
+SUMMARY:Nieruchomości i inwestycje (ćwiczenia do wyboru)
+UID:f0b93aa8-63ec-491e-8e8a-783f0139ed72@f0b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Denkowska
+DTEND:20251014T180000Z
+LOCATION:Paw.F 415
+DTSTART:20251014T163000Z
+SUMMARY:Matematyka - powtarzanie przedmiotu (ćwiczenia)
+UID:329d3b73-fe2c-4192-aa60-da971dc43beb@329d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Adam Firlej
+DTEND:20251203T153000Z
+LOCATION:Paw.F 106
+DTSTART:20251203T140000Z
+SUMMARY:Podstawy ekonomii menedżerskiej (ćwiczenia do wyboru)
+UID:1766bb95-b8bd-41e5-ab1e-594a72954cc6@1766.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
+DTEND:20251210T134500Z
+LOCATION:Bud.gł. 4
+DTSTART:20251210T121500Z
+SUMMARY:Polityka gospodarcza (ćwiczenia)
+UID:b5b363bc-a41f-43d9-bf99-ccd2af1f0bd4@b5b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Kudełko
+DTEND:20251003T124500Z
+DTSTART:20251003T111500Z
+SUMMARY:Polityka gospodarcza (wykład)
+UID:34895190-d82e-4c00-9310-cb58f1ec8860@3489.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
+DTEND:20251015T124500Z
+LOCATION:Bud.gł. 4
+DTSTART:20251015T111500Z
+SUMMARY:Polityka gospodarcza (ćwiczenia)
+UID:c197635c-4c8c-4882-bb66-c6b4576326b7@c197.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agata Miętus
+DTEND:20251106T120000Z
+LOCATION:Bud.gł. 6
+DTSTART:20251106T103000Z
+SUMMARY:Polityka społeczna (ćwiczenia)
+UID:6179545e-343b-4c21-ad46-8d9d74f42fff@6179.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Denkowska
+DTEND:20251202T120000Z
+LOCATION:Paw.F 613
+DTSTART:20251202T103000Z
+SUMMARY:Matematyka - powtarzanie przedmiotu (wykład)
+UID:ce084c39-df04-4f46-a3c4-41367bd86b50@ce08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Adrian Solek
+DTEND:20251015T073000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20251015T060000Z
+SUMMARY:Podstawy ekonomii menedżerskiej (wykład do wyboru)
+UID:ce5faa6a-65ac-4807-aadd-d2161244de65@ce5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
+DTEND:20251126T134500Z
+LOCATION:Bud.gł. 4
+DTSTART:20251126T121500Z
+SUMMARY:Polityka gospodarcza (ćwiczenia)
+UID:9b7d6a66-cde2-4eaa-91ab-020b2b3204aa@9b7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Denkowska
+DTEND:20260115T171500Z
+LOCATION:Bud.gł. 4
+DTSTART:20260115T154500Z
+SUMMARY:Matematyka - powtarzanie przedmiotu (wykład)
+UID:2bce6091-b24d-4f66-9236-ddf6893e09c2@2bce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Denkowska
+DTEND:20251127T190000Z
+LOCATION:link do zajęć
+DTSTART:20251127T173000Z
+SUMMARY:Matematyka - powtarzanie przedmiotu (ćwiczenia zdalne)
+UID:e42b291f-4874-4a28-90d6-bedc3e7243af@e42b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Makowski
+DTEND:20251219T134500Z
+LOCATION:link do zajęć
+DTSTART:20251219T121500Z
+SUMMARY:Psychologia zachowań organizacyjnych (wykład)
+UID:5fd98e79-02cc-4522-9d3e-9c220d6b7fa8@5fd9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bartłomiej Marona
+DTEND:20251112T120000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251112T103000Z
+SUMMARY:Nieruchomości i inwestycje (wykład do wyboru)
+UID:107bf403-5b85-42bd-be46-efbe0c1bbbda@107b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
+DTEND:20251024T134500Z
+DTSTART:20251024T130000Z
+SUMMARY:Ekonometria (wykład)
+UID:abecf0f3-e932-4696-8873-347a0fe4526d@abec.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Mateusz Tomal
@@ -1480,6 +594,890 @@ DTEND:20251217T120000Z
 LOCATION:Paw.A 09 lab. Win8.1\, Office21
 DTSTART:20251217T103000Z
 SUMMARY:Nieruchomości i inwestycje (ćwiczenia do wyboru)
-UID:3b78d4e9-ce8b-49f0-b5cc-5ec6f73a62a8@3b78.org
+UID:365db0bb-11c6-4b50-be5a-c571f2be29c4@365d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Kania
+DTEND:20251001T110000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251001T093000Z
+SUMMARY:Nieruchomości i inwestycje (wykład do wyboru)
+UID:72b2c8f8-1793-4c14-851d-90b566642b4c@72b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Denkowska
+DTEND:20251023T161500Z
+LOCATION:Paw.F 515
+DTSTART:20251023T144500Z
+SUMMARY:Matematyka - powtarzanie przedmiotu (wykład)
+UID:2c95d4a8-439c-4de1-86ad-6011fcb1daf6@2c95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Adam Firlej
+DTEND:20251201T134500Z
+LOCATION:Paw.F 109
+DTSTART:20251201T121500Z
+SUMMARY:Podstawy ekonomii menedżerskiej (ćwiczenia do wyboru)
+UID:63af5ff8-18b8-42ad-8940-c087ef946649@63af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jowita Świerczyńska
+DTEND:20251023T124500Z
+LOCATION:Paw.G  7
+DTSTART:20251023T111500Z
+SUMMARY:Międzynarodowe stosunki gospodarcze (ćwiczenia)
+UID:c74a422b-643f-4ec9-a1f2-ae72babed028@c74a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kuder
+DTEND:20251217T171500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20251217T154500Z
+SUMMARY:Podstawy analityki makroekonomiczno-finansowej (ćwiczenia do wyboru)
+UID:9b728181-edcf-4781-8cc2-2efc16c12782@9b72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jowita Świerczyńska
+DTEND:20251218T134500Z
+LOCATION:Paw.G  7
+DTSTART:20251218T121500Z
+SUMMARY:Międzynarodowe stosunki gospodarcze (ćwiczenia)
+UID:8d8ba413-0dea-4149-9eed-70ffdd9a1a94@8d8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
+DTEND:20251126T120000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251126T103000Z
+SUMMARY:Nieruchomości i inwestycje (wykład do wyboru)
+UID:cb079c0f-a38a-4268-b35e-b79232aff94e@cb07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Kudełko
+DTEND:20260123T130000Z
+LOCATION:link do zajęć
+DTSTART:20260123T121500Z
+SUMMARY:Polityka gospodarcza (wykład)
+UID:ca25a79a-3d71-46ad-959e-21d379ac68b8@ca25.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kuder
+DTEND:20251022T161500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20251022T144500Z
+SUMMARY:Podstawy analityki makroekonomiczno-finansowej (ćwiczenia do wyboru)
+UID:5b4f6eec-0495-4528-818a-afcbf9218857@5b4f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kuder
+DTEND:20251222T120000Z
+LOCATION:Paw.C sala E
+DTSTART:20251222T103000Z
+SUMMARY:Podstawy analityki makroekonomiczno-finansowej (wykład do wyboru)
+UID:0847e00c-5774-4917-a5eb-da7647470f1c@0847.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Denkowska
+DTEND:20251127T171500Z
+LOCATION:link do zajęć
+DTSTART:20251127T154500Z
+SUMMARY:Matematyka - powtarzanie przedmiotu (wykład zdalny)
+UID:5be2dd2a-5489-4fc6-aab2-1a27c8e9e223@5be2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Makowski
+DTEND:20260116T134500Z
+LOCATION:link do zajęć
+DTSTART:20260116T121500Z
+SUMMARY:Psychologia zachowań organizacyjnych (wykład)
+UID:09c65501-5173-4215-95de-d9992dce6eec@09c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jowita Świerczyńska
+DTEND:20251120T134500Z
+LOCATION:Paw.G  7
+DTSTART:20251120T121500Z
+SUMMARY:Międzynarodowe stosunki gospodarcze (ćwiczenia)
+UID:2bd92948-4806-4cb4-abb9-e40cd5f89e96@2bd9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jowita Świerczyńska
+DTEND:20260126T184500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20260126T154500Z
+SUMMARY: (egzamin)
+UID:dc1e190c-4466-4f73-943f-466ff300c202@dc1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
+DTEND:20251216T153000Z
+LOCATION:link do zajęć
+DTSTART:20251216T140000Z
+SUMMARY:Ekonometria (wykład)
+UID:e56ae040-c76e-4a20-8862-5c4cb8ab5c59@e56a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Denkowska
+DTEND:20251028T153000Z
+LOCATION:Paw.F 416
+DTSTART:20251028T140000Z
+SUMMARY:Matematyka - powtarzanie przedmiotu (wykład)
+UID:3b64685a-ade3-456b-a161-877cead20b2d@3b64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20251002T110000Z
+LOCATION:Paw.U sala O
+DTSTART:20251002T093000Z
+SUMMARY:Psychologia zachowań organizacyjnych (ćwiczenia)
+UID:5963350a-f4d8-4916-ba4d-9612584e0df2@5963.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Głuszak
+DTEND:20251105T120000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20251105T103000Z
+SUMMARY:Nieruchomości i inwestycje (ćwiczenia do wyboru)
+UID:2012e1bd-1259-4d5e-9573-2a354f9c4fd6@2012.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
+DTEND:20251023T143000Z
+LOCATION:Bibl. 443
+DTSTART:20251023T130000Z
+SUMMARY:Ekonometria (ćwiczenia)
+UID:dae35a1d-97c6-4cc0-ad77-b134771e6396@dae3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
+DTEND:20260113T153000Z
+LOCATION:link do zajęć
+DTSTART:20260113T140000Z
+SUMMARY:Ekonometria (wykład)
+UID:5789c501-8621-4e0e-9dd8-f5784d05e4d1@5789.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
+DTEND:20251009T143000Z
+LOCATION:Bibl. 443
+DTSTART:20251009T130000Z
+SUMMARY:Ekonometria (ćwiczenia)
+UID:dbe97aa4-dc1a-41eb-8b09-a0a4c977ab37@dbe9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20251113T120000Z
+LOCATION:Paw.U sala O
+DTSTART:20251113T103000Z
+SUMMARY:Psychologia zachowań organizacyjnych (ćwiczenia)
+UID:4a3e92b4-3bb5-4fd7-911d-f97ef410e5c3@4a3e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kuder
+DTEND:20260119T111500Z
+LOCATION:Paw.C sala E
+DTSTART:20260119T103000Z
+SUMMARY:Podstawy analityki makroekonomiczno-finansowej (wykład do wyboru)
+UID:2eafea95-c8ce-41bb-bce5-c532a4eb2c18@2eaf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Kudełko
+DTEND:20251212T134500Z
+LOCATION:link do zajęć
+DTSTART:20251212T121500Z
+SUMMARY:Polityka gospodarcza (wykład)
+UID:0548e7b4-4b61-4c68-be89-14f08428c2b0@0548.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Kudełko
+DTEND:20251017T124500Z
+DTSTART:20251017T111500Z
+SUMMARY:Polityka gospodarcza (wykład)
+UID:a4e0ce16-b7c4-4ab3-8e20-77e325346a79@a4e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
+DTEND:20251030T134500Z
+LOCATION:Paw.S sala 4
+DTSTART:20251030T121500Z
+SUMMARY:Analiza ekonomiczna (ćwiczenia)
+UID:49cf1f1c-007d-48d7-95ce-f4c1d88961f6@49cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jowita Świerczyńska
+DTEND:20251216T171500Z
+LOCATION:link do zajęć
+DTSTART:20251216T154500Z
+SUMMARY:Międzynarodowe stosunki gospodarcze (wykład)
+UID:9e0ebe2b-fd29-41aa-9c30-61e93dee73e6@9e0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Urbaniec
+DTEND:20251010T143000Z
+DTSTART:20251010T130000Z
+SUMMARY:Polityka społeczna (wykład)
+UID:81807566-e380-4e4f-b8c4-46e3cbbd2254@8180.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Denkowska
+DTEND:20251103T153000Z
+LOCATION:Paw.F 416
+DTSTART:20251103T140000Z
+SUMMARY:Matematyka - powtarzanie przedmiotu (wykład)
+UID:5412fd74-b901-416d-b101-2eb82b970b25@5412.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Denkowska
+DTEND:20251103T171500Z
+LOCATION:Paw.F 516
+DTSTART:20251103T154500Z
+SUMMARY:Matematyka - powtarzanie przedmiotu (ćwiczenia)
+UID:201fb9ff-8c21-4f7e-8db5-0a87211aeccb@201f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
+DTEND:20260112T143000Z
+LOCATION:Paw.S sala 9
+DTSTART:20260112T121500Z
+SUMMARY:Analiza ekonomiczna (ćwiczenia)
+UID:9af21db1-7941-400f-b693-fb4e77ca6a1a@9af2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20251030T120000Z
+LOCATION:Paw.U sala O
+DTSTART:20251030T103000Z
+SUMMARY:Psychologia zachowań organizacyjnych (ćwiczenia)
+UID:73e0a502-b5a9-4316-9d35-60f69ba3d801@73e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kuder
+DTEND:20251208T120000Z
+LOCATION:Paw.C sala E
+DTSTART:20251208T103000Z
+SUMMARY:Podstawy analityki makroekonomiczno-finansowej (wykład do wyboru)
+UID:e4e8bd30-378c-40bd-b9f3-f55c094c3210@e4e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jowita Świerczyńska
+DTEND:20251118T171500Z
+DTSTART:20251118T154500Z
+SUMMARY:Międzynarodowe stosunki gospodarcze (wykład)
+UID:55ec9b01-1a35-42d0-b6cd-e205db671515@55ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kuder
+DTEND:20251027T120000Z
+LOCATION:Paw.C sala E
+DTSTART:20251027T103000Z
+SUMMARY:Podstawy analityki makroekonomiczno-finansowej (wykład do wyboru)
+UID:d621d5d5-d029-4296-ad88-aadb0dbd66ff@d621.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kuder
+DTEND:20251203T171500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20251203T154500Z
+SUMMARY:Podstawy analityki makroekonomiczno-finansowej (ćwiczenia do wyboru)
+UID:d08d10c5-2420-4ed8-9079-04f55a021b3e@d08d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Makowski
+DTEND:20251010T124500Z
+DTSTART:20251010T111500Z
+SUMMARY:Psychologia zachowań organizacyjnych (wykład)
+UID:ee877ec1-fdff-46d4-83fd-bb8a69867c46@ee87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bartłomiej Marona
+DTEND:20251119T120000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20251119T103000Z
+SUMMARY:Nieruchomości i inwestycje (ćwiczenia do wyboru)
+UID:1fa71dcd-cca0-467b-892e-dbe86fab40df@1fa7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Urbaniec
+DTEND:20251017T143000Z
+DTSTART:20251017T130000Z
+SUMMARY:Polityka społeczna (wykład)
+UID:61e1f278-f216-4bc9-a0b4-4eca4eb802df@61e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
+DTEND:20260121T130000Z
+LOCATION:Bud.gł. 4
+DTSTART:20260121T121500Z
+SUMMARY:Polityka gospodarcza (ćwiczenia)
+UID:c0ff47e1-3d19-4740-a9ee-de528ecc13f1@c0ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Kudełko
+DTEND:20251128T134500Z
+LOCATION:link do zajęć
+DTSTART:20251128T121500Z
+SUMMARY:Polityka gospodarcza (wykład)
+UID:ab6e7b1c-88b0-4a70-bd10-70abe0ecc84f@ab6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Denkowska
+DTEND:20251120T171500Z
+DTSTART:20251120T154500Z
+SUMMARY:Matematyka - powtarzanie przedmiotu (wykład zdalny)
+UID:851af333-64a9-4b19-bf63-1854a42f54af@851a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
+DTEND:20251127T134500Z
+LOCATION:Paw.S sala 4
+DTSTART:20251127T121500Z
+SUMMARY:Analiza ekonomiczna (ćwiczenia)
+UID:5a166381-15a0-481a-a21f-4f0ef34cf271@5a16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Urbaniec
+DTEND:20251212T153000Z
+LOCATION:link do zajęć
+DTSTART:20251212T140000Z
+SUMMARY:Polityka społeczna (wykład)
+UID:bdbe8bb3-5009-4bf2-a159-982e19046c5b@bdbe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jowita Świerczyńska
+DTEND:20260120T163000Z
+DTSTART:20260120T154500Z
+SUMMARY:Międzynarodowe stosunki gospodarcze (Przeniesienie zajęć)
+UID:ccfd07fe-b68e-4665-ad6a-cd72ca4f28d4@ccfd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Urbaniec
+DTEND:20251114T153000Z
+DTSTART:20251114T140000Z
+SUMMARY:Polityka społeczna (wykład)
+UID:b55242f4-0800-4f2d-9f78-2121d2eec2cb@b552.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
+DTEND:20251211T134500Z
+LOCATION:Paw.S sala 4
+DTSTART:20251211T121500Z
+SUMMARY:Analiza ekonomiczna (ćwiczenia)
+UID:77bbac5e-0565-44df-8b3b-66bf6166b5cd@77bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Adrian Solek
+DTEND:20251029T083000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20251029T070000Z
+SUMMARY:Podstawy ekonomii menedżerskiej (wykład do wyboru)
+UID:0b3b4b27-8c5b-4cb9-a2ba-e511248a2544@0b3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kuder
+DTEND:20251008T161500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20251008T144500Z
+SUMMARY:Podstawy analityki makroekonomiczno-finansowej (ćwiczenia do wyboru)
+UID:50ac615c-5714-490b-a406-8d06fdf30901@50ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Adam Firlej
+DTEND:20251119T153000Z
+LOCATION:Paw.F 106
+DTSTART:20251119T140000Z
+SUMMARY:Podstawy ekonomii menedżerskiej (ćwiczenia do wyboru)
+UID:b83ee4de-de74-4b8a-80c1-c956743e32ae@b83e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Urbaniec
+DTEND:20260109T153000Z
+LOCATION:link do zajęć
+DTSTART:20260109T140000Z
+SUMMARY:Polityka społeczna (wykład)
+UID:81f1b508-5bac-496d-9e63-138b9762ff72@81f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Kania
+DTEND:20260121T120000Z
+LOCATION:Paw.C sala B
+DTSTART:20260121T111500Z
+SUMMARY:Nieruchomości i inwestycje (ćwiczenia do wyboru)
+UID:b10bfb0e-43a5-4870-b4dd-2b46af8d5784@b10b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kuder
+DTEND:20251105T171500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20251105T154500Z
+SUMMARY:Podstawy analityki makroekonomiczno-finansowej (ćwiczenia do wyboru)
+UID:d925d779-d41b-412b-873d-218cc48ec2cb@d925.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agata Miętus
+DTEND:20251218T120000Z
+LOCATION:Bud.gł. 6
+DTSTART:20251218T103000Z
+SUMMARY:Polityka społeczna (ćwiczenia)
+UID:d08856fb-c7ba-44fc-9acb-bf17f4412cc6@d088.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Makowski
+DTEND:20251205T134500Z
+LOCATION:link do zajęć
+DTSTART:20251205T121500Z
+SUMMARY:Psychologia zachowań organizacyjnych (wykład)
+UID:76e49def-e334-4599-87ed-2280e9a25513@76e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
+DTEND:20251021T143000Z
+DTSTART:20251021T130000Z
+SUMMARY:Ekonometria (wykład)
+UID:f6228217-a381-4978-b2c0-6ba30f1e486f@f622.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mateusz Tomal
+DTEND:20251125T151500Z
+LOCATION:link do zajęć
+DTSTART:20251125T130000Z
+SUMMARY:Analiza ekonomiczna (wykład)
+UID:2c915603-3a30-4483-ba33-4613db561c91@2c91.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Denkowska
+DTEND:20251210T190000Z
+DTSTART:20251210T173000Z
+SUMMARY:Matematyka - powtarzanie przedmiotu (Przeniesienie zajęć)
+UID:a4bc2090-ba2f-4ee8-835d-cde3f701babb@a4bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kuder
+DTEND:20251119T171500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20251119T154500Z
+SUMMARY:Podstawy analityki makroekonomiczno-finansowej (ćwiczenia do wyboru)
+UID:9d17a53d-b10d-40fb-80b2-5247d735f496@9d17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Lipieta
+DTEND:20251211T190000Z
+LOCATION:Paw.F 415
+DTSTART:20251211T173000Z
+SUMMARY:Matematyka - powtarzanie przedmiotu (ćwiczenia)
+UID:6cf61138-23f1-4ce4-8050-ded54edad071@6cf6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jowita Świerczyńska
+DTEND:20260115T134500Z
+LOCATION:Paw.G  7
+DTSTART:20260115T121500Z
+SUMMARY:Międzynarodowe stosunki gospodarcze (ćwiczenia)
+UID:a5ddf055-7e4b-46c4-881d-0eba5cd84f1d@a5dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Denkowska
+DTEND:20260113T134500Z
+LOCATION:Paw.F 516
+DTSTART:20260113T121500Z
+SUMMARY:Matematyka - powtarzanie przedmiotu (ćwiczenia)
+UID:c1636f4b-9d1b-491c-995c-a6236e21c776@c163.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
+DTEND:20251002T124500Z
+LOCATION:Paw.S sala 4
+DTSTART:20251002T111500Z
+SUMMARY:Analiza ekonomiczna (ćwiczenia)
+UID:1d2f4cbc-2133-404c-a7a8-73b46cf42c16@1d2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Denkowska
+DTEND:20260120T153000Z
+LOCATION:Paw.F 614
+DTSTART:20260120T140000Z
+SUMMARY:Matematyka - powtarzanie przedmiotu (wykład)
+UID:96567234-a619-43b2-88e2-aadc72b35852@9656.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Urbaniec
+DTEND:20260123T144500Z
+LOCATION:link do zajęć
+DTSTART:20260123T140000Z
+SUMMARY:Polityka społeczna (wykład)
+UID:9ab7e2b2-4d5c-4cdf-b9b0-5fd29c8b7e2a@9ab7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mateusz Tomal
+DTEND:20251104T190000Z
+DTSTART:20251104T173000Z
+SUMMARY:Analiza ekonomiczna (wykład)
+UID:2374c286-5398-4eb0-b674-05be48cde5c5@2374.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Makowski
+DTEND:20251121T134500Z
+LOCATION:link do zajęć
+DTSTART:20251121T121500Z
+SUMMARY:Psychologia zachowań organizacyjnych (wykład)
+UID:5303165b-7607-42f5-bf5b-cb2adb982429@5303.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jowita Świerczyńska
+DTEND:20251202T171500Z
+LOCATION:link do zajęć
+DTSTART:20251202T154500Z
+SUMMARY:Międzynarodowe stosunki gospodarcze (wykład)
+UID:6f7bc090-f237-40ba-b574-4494a684f1fb@6f7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jowita Świerczyńska
+DTEND:20251106T134500Z
+LOCATION:Paw.G  7
+DTSTART:20251106T121500Z
+SUMMARY:Międzynarodowe stosunki gospodarcze (ćwiczenia)
+UID:5171fa36-5b19-449c-a487-3f6de0f9ca09@5171.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kuder
+DTEND:20260121T153000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20260121T144500Z
+SUMMARY:Podstawy analityki makroekonomiczno-finansowej (ćwiczenia do wyboru)
+UID:b621c245-1128-49ce-a65e-2a3fd7592047@b621.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mateusz Tomal
+DTEND:20251210T120000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251210T103000Z
+SUMMARY:Nieruchomości i inwestycje (wykład do wyboru)
+UID:0f417d38-444b-4930-8885-e23122d6aa10@0f41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Denkowska
+DTEND:20251202T134500Z
+LOCATION:Bud.gł. 7
+DTSTART:20251202T121500Z
+SUMMARY:Matematyka - powtarzanie przedmiotu (ćwiczenia)
+UID:00544591-8c5c-4384-ba91-1f9111313b61@0054.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
+DTEND:20260107T134500Z
+LOCATION:Bud.gł. 4
+DTSTART:20260107T121500Z
+SUMMARY:Polityka gospodarcza (ćwiczenia)
+UID:bc700b9c-0441-4d1e-8928-2e2222a01bee@bc70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Denkowska
+DTEND:20260120T134500Z
+LOCATION:Paw.C sala D
+DTSTART:20260120T121500Z
+SUMMARY:Matematyka - powtarzanie przedmiotu (ćwiczenia)
+UID:5e290d95-a695-4752-99e0-a6a1c242d7dc@5e29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agata Miętus
+DTEND:20251204T120000Z
+DTSTART:20251204T103000Z
+SUMMARY:Polityka społeczna (Przeniesienie zajęć)
+UID:b929fe90-4bb3-4d0a-a7b4-018076bbeed7@b929.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
+DTEND:20260108T134500Z
+DTSTART:20260108T121500Z
+SUMMARY:Analiza ekonomiczna (Przeniesienie zajęć)
+UID:f2cebfa8-370b-448d-adc2-89942f1ad177@f2ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Małkowska
+DTEND:20251015T110000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251015T093000Z
+SUMMARY:Nieruchomości i inwestycje (wykład do wyboru)
+UID:94619f57-e03a-4e30-a1c6-38c745f507dc@9461.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kuder
+DTEND:20251215T120000Z
+LOCATION:Paw.C sala D
+DTSTART:20251215T103000Z
+SUMMARY:Podstawy analityki makroekonomiczno-finansowej (wykład do wyboru)
+UID:6deee901-c29a-4c01-83c1-43936270c31f@6dee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Adam Firlej
+DTEND:20251105T153000Z
+LOCATION:Paw.F 106
+DTSTART:20251105T140000Z
+SUMMARY:Podstawy ekonomii menedżerskiej (ćwiczenia do wyboru)
+UID:9c66a26f-5255-4efa-88d1-d084d49ac098@9c66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
+DTEND:20260123T074500Z
+DTSTART:20260123T070000Z
+SUMMARY:Analiza ekonomiczna (Przeniesienie zajęć)
+UID:240804b7-fabc-43f2-b62f-33a2639ad8df@2408.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
+DTEND:20251218T153000Z
+LOCATION:Bibl. 443
+DTSTART:20251218T140000Z
+SUMMARY:Ekonometria (ćwiczenia)
+UID:544bba44-aaac-4c27-8b6c-60bf863ad14d@544b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Adrian Solek
+DTEND:20251001T073000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20251001T060000Z
+SUMMARY:Podstawy ekonomii menedżerskiej (wykład do wyboru)
+UID:5ab72c64-3159-40bc-86f9-7f0e4a53c52b@5ab7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Denkowska
+DTEND:20260113T120000Z
+LOCATION:Paw.F 516
+DTSTART:20260113T103000Z
+SUMMARY:Matematyka - powtarzanie przedmiotu (wykład)
+UID:ab80c77c-d34b-4371-b515-e2e556211bc5@ab80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Adrian Solek
+DTEND:20260121T083000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20260121T074500Z
+SUMMARY:Podstawy ekonomii menedżerskiej (wykład do wyboru)
+UID:5e0454cb-7368-44df-9123-d3996d4dccc5@5e04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
+DTEND:20251007T143000Z
+DTSTART:20251007T130000Z
+SUMMARY:Ekonometria (wykład)
+UID:76942542-b47a-4566-9d80-1407e313eb6b@7694.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agata Miętus
+DTEND:20251120T120000Z
+LOCATION:Bud.gł. 6
+DTSTART:20251120T103000Z
+SUMMARY:Polityka społeczna (ćwiczenia)
+UID:be85d401-bc60-4088-990b-728776093fcd@be85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mateusz Tomal
+DTEND:20260120T190000Z
+DTSTART:20260120T173000Z
+SUMMARY:Analiza ekonomiczna (Przeniesienie zajęć)
+UID:0c8d2b41-a73e-4670-82f5-ce73e4f14b42@0c8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jowita Świerczyńska
+DTEND:20251204T134500Z
+LOCATION:Paw.G  7
+DTSTART:20251204T121500Z
+SUMMARY:Międzynarodowe stosunki gospodarcze (ćwiczenia)
+UID:1f3a1dbc-e0e3-42cb-90a0-82f43b8bf34e@1f3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Urbaniec
+DTEND:20251003T143000Z
+DTSTART:20251003T130000Z
+SUMMARY:Polityka społeczna (wykład)
+UID:d58c5638-0b51-44dc-95f4-62016ca37d7c@d58c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kuder
+DTEND:20251013T110000Z
+LOCATION:Paw.C sala E
+DTSTART:20251013T093000Z
+SUMMARY:Podstawy analityki makroekonomiczno-finansowej (wykład do wyboru)
+UID:bd339902-7434-4629-be73-1295d48f8eea@bd33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Głuszak
+DTEND:20251029T120000Z
+LOCATION:Paw.S sala 9
+DTSTART:20251029T103000Z
+SUMMARY:Nieruchomości i inwestycje (wykład do wyboru)
+UID:e8aff328-c44c-4c27-9c41-cc40cb4b471a@e8af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kuder
+DTEND:20260114T171500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20260114T154500Z
+SUMMARY:Podstawy analityki makroekonomiczno-finansowej (ćwiczenia do wyboru)
+UID:dc28cfe0-0d85-4b4c-96a2-a5d3a72819b8@dc28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agata Miętus
+DTEND:20260115T120000Z
+LOCATION:Bud.gł. 6
+DTSTART:20260115T103000Z
+SUMMARY:Polityka społeczna (ćwiczenia)
+UID:2d96abb7-63b7-4584-b060-8731953d16f1@2d96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Denkowska
+DTEND:20260120T120000Z
+LOCATION:Paw.S sala 9
+DTSTART:20260120T103000Z
+SUMMARY:Matematyka - powtarzanie przedmiotu (wykład)
+UID:e89ef896-9da9-4948-ae8f-bb155f3c5789@e89e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Adrian Solek
+DTEND:20251210T083000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20251210T070000Z
+SUMMARY:Podstawy ekonomii menedżerskiej (wykład do wyboru)
+UID:413e153f-f822-4914-8bbb-6129b617570c@413e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mateusz Tomal
+DTEND:20251007T180000Z
+DTSTART:20251007T163000Z
+SUMMARY:Analiza ekonomiczna (wykład)
+UID:358d23d4-ecbc-4638-b7cc-7d963b933d0b@358d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20260122T120000Z
+LOCATION:Paw.U sala O
+DTSTART:20260122T103000Z
+SUMMARY:Psychologia zachowań organizacyjnych (ćwiczenia)
+UID:6460ae0d-dc48-4d08-bdd4-e7ba635c577c@6460.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
+DTEND:20251106T153000Z
+LOCATION:Bibl. 443
+DTSTART:20251106T140000Z
+SUMMARY:Ekonometria (ćwiczenia)
+UID:f6246c74-eb59-4324-8cb4-5c734fa14adc@f624.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Lipieta
+DTEND:20251211T171500Z
+LOCATION:Paw.F 415
+DTSTART:20251211T154500Z
+SUMMARY:Matematyka - powtarzanie przedmiotu (wykład)
+UID:04e63bf8-3519-4a00-87bf-72f1f28dbbaa@04e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Adrian Solek
+DTEND:20251126T083000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20251126T070000Z
+SUMMARY:Podstawy ekonomii menedżerskiej (wykład do wyboru)
+UID:e05b3cc2-d980-43a0-a022-57f2554fce97@e05b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jowita Świerczyńska
+DTEND:20260113T171500Z
+LOCATION:link do zajęć
+DTSTART:20260113T154500Z
+SUMMARY:Międzynarodowe stosunki gospodarcze (wykład)
+UID:4f85951f-be83-46ca-a1d3-ce2989f6604e@4f85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
+DTEND:20251120T153000Z
+LOCATION:Bibl. 443
+DTSTART:20251120T140000Z
+SUMMARY:Ekonometria (ćwiczenia)
+UID:098feb96-32b9-4cf8-b4ce-1eb489944350@098f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
+DTEND:20251203T120000Z
+DTSTART:20251203T103000Z
+SUMMARY:Nieruchomości i inwestycje (Przeniesienie zajęć)
+UID:86b1e8a7-e257-459d-b24c-bb5e1b814767@86b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
+DTEND:20251202T153000Z
+LOCATION:link do zajęć
+DTSTART:20251202T140000Z
+SUMMARY:Ekonometria (wykład)
+UID:a9f81b76-6a0d-423d-a35a-af21f6ffa98c@a9f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mateusz Tomal
+DTEND:20251202T190000Z
+LOCATION:link do zajęć
+DTSTART:20251202T173000Z
+SUMMARY:Analiza ekonomiczna (wykład)
+UID:404cc3d4-3dd7-4ecd-862c-2789ef539ecd@404c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mateusz Tomal
+DTEND:20260113T190000Z
+DTSTART:20260113T173000Z
+SUMMARY:Analiza ekonomiczna (Przeniesienie zajęć)
+UID:c22aa9f4-24af-49cd-b00c-de71e421ef74@c22a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jowita Świerczyńska
+DTEND:20260120T163000Z
+LOCATION:link do zajęć
+DTSTART:20260120T154500Z
+SUMMARY:Międzynarodowe stosunki gospodarcze (wykład)
+UID:04b0e1f8-e95f-42e6-b9e4-e121a4f516f1@04b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
+DTEND:20251211T153000Z
+LOCATION:Paw.F 616
+DTSTART:20251211T140000Z
+SUMMARY:Analiza ekonomiczna (ćwiczenia)
+UID:eb719ad2-c565-49a2-8eb7-a76493a8d4d8@eb71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mateusz Tomal
+DTEND:20251216T190000Z
+LOCATION:link do zajęć
+DTSTART:20251216T173000Z
+SUMMARY:Analiza ekonomiczna (wykład)
+UID:d7962023-007f-457e-b4dc-673d43d978c2@d796.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Adam Firlej
+DTEND:20251008T143000Z
+LOCATION:Paw.F 106
+DTSTART:20251008T130000Z
+SUMMARY:Podstawy ekonomii menedżerskiej (ćwiczenia do wyboru)
+UID:298ab232-ce66-4142-abff-44462abfb23f@298a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20260123T083000Z
+LOCATION:Paw.U sala M
+DTSTART:20260123T074500Z
+SUMMARY:Psychologia zachowań organizacyjnych (ćwiczenia)
+UID:e07afa0c-c9be-4d0e-bbb6-20cb5c8c677b@e07a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Denkowska
+DTEND:20251113T190000Z
+LOCATION:Paw.U sala K
+DTSTART:20251113T173000Z
+SUMMARY:Matematyka - powtarzanie przedmiotu (ćwiczenia)
+UID:ca7c51cd-f31d-4204-bb53-7e718c748d78@ca7c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agata Miętus
+DTEND:20251020T143000Z
+LOCATION:Bud.gł. 7
+DTSTART:20251020T130000Z
+SUMMARY:Polityka społeczna (ćwiczenia)
+UID:47ce95cd-7972-43bd-93e7-3315ac90b1cb@47ce.org
 END:VEVENT
 END:VCALENDAR
